@@ -14,7 +14,6 @@ for (let i = 0; i < navArr.length; i++){
   }
   text += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
 }
-alert(window.location.pathname);
 document.getElementById("menuContainer").innerHTML = text;
 
 //initialize
@@ -22,6 +21,7 @@ nav = document.getElementsByClassName("menu");
 
 for (let i = 1; i < nav.length; i++) {
   nav[i].addEventListener('click', function() {
+    alert(window.location.pathname);
     temp = document.getElementsByClassName('visiting');
     if(temp[0] != nav[i]) {
       temp[0].classList.add('leave');
