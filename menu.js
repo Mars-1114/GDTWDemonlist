@@ -9,7 +9,7 @@ const navArr = [
 let text = "<b class='menu'>GDTW Demonlist</b>";
 for (let i = 0; i < navArr.length; i++){
   text += "<a class='menu";
-  if (window.location.pathname == "/" + navArr[i][0] || (i == 0 && window.location.pathname == "/")) {
+  if (window.location.pathname == "/GDTWDemonlist/" + navArr[i][0] || (i == 0 && window.location.pathname == "/GDTWDemonlist/")) {
     text += " visiting";
   }
   text += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
@@ -21,7 +21,6 @@ nav = document.getElementsByClassName("menu");
 
 for (let i = 1; i < nav.length; i++) {
   nav[i].addEventListener('click', function() {
-    alert(window.location.pathname);
     temp = document.getElementsByClassName('visiting');
     if(temp[0] != nav[i]) {
       temp[0].classList.add('leave');
