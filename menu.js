@@ -14,6 +14,7 @@ for (let i = 0; i < navArr.length; i++){
   }
   text += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
 }
+alert(window.location.pathname);
 document.getElementById("menuContainer").innerHTML = text;
 
 //initialize
