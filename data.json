@@ -43,6 +43,7 @@
       ["WaveBreaker", "Lemons"],
       ["aftermath", "IIExenityII"],
       ["Triple Six", "Zylenox"],
+      ["Cat Planet", "IcEDCave"],
       ["limitless", "Konsi"],
       ["Audio Extraction", "GoodSmile"],
       ["Daydream", "Yendis"],
@@ -76,10 +77,10 @@
       ["The Ultimate Phase", "Andromeda GMD"],
       ["Napalm", "Marwec"],
       ["Ballistic Funk", "IronIngot"],
+      ["Hydratic", "MaxyLAND"],
       ["Uprise", "Blad3M"],
       ["doradura", "IvashkaUA"],
       ["Faith", "ZeroSR"],
-      ["Cat Planet", "IcEDCave"],
       ["Crowd Control", "zDeadlox"],
       ["Cosmorush 21", "Pennutoh"],
       ["night party", "Rlol"],
@@ -329,7 +330,8 @@
         "Cataclysm": ["https://www.youtube.com/watch?v=20wyHL6GR6M", "2020-09-12", false],
         "ICE Carbon Diablo X": ["https://www.youtube.com/watch?v=U1fGahk6Qjo", "2018-11-24", false],
         "Incipient": ["https://www.youtube.com/watch?v=KOvixUB5TOg", "2023-10-07", true],
-        "Retention": ["https://www.youtube.com/watch?v=pFM-cUj56Vo", "2023-10-22", true]
+        "Retention": ["https://www.youtube.com/watch?v=pFM-cUj56Vo", "2023-10-22", true],
+        "Allegiance": ["https://www.youtube.com/watch?v=L7JdP4gvZic", "2024-01-19", true]
       },
       "蔣惟安": {
         "Mandragora": ["https://www.youtube.com/watch?v=dvvr7nvvINc", "2023-08-13", false],
@@ -337,7 +339,8 @@
       },
       "Daruck": {
         "niwa": ["https://www.youtube.com/watch?v=6t1I1EDn9GE", "2023-08-22", false],
-        "Lost Love": ["https://www.youtube.com/watch?v=VmX2-3sraYA", "2023-04-29", false]
+        "Lost Love": ["https://www.youtube.com/watch?v=VmX2-3sraYA", "2023-04-29", false],
+        "Decay": ["https://www.youtube.com/watch?v=qyb4XPhwLec", "2023-01-20", false]
       },
       "Sign Qwq": {
         "Acu": ["https://www.facebook.com/100055094347754/videos/582034692840294/", "2021-10-03", false],
@@ -352,7 +355,9 @@
         "MY SONG": ["https://www.facebook.com/100003439767236/videos/403231004897560/", "2022-03-05", false],
         "Retention": ["https://www.facebook.com/100003439767236/videos/3708323599387595/", "2023-09-25", false],
         "niwa": ["https://www.facebook.com/100003439767236/videos/6772376702845791/", "2023-10-19", false],
-        "Untitled": ["https://www.facebook.com/100003439767236/videos/1096761211749471/", "2023-12-10", false]
+        "Untitled": ["https://www.facebook.com/100003439767236/videos/1096761211749471/", "2023-12-10", false],
+        "Napalm": ["https://www.facebook.com/100003439767236/videos/3627505080819474/", "2024-01-03", false],
+        "Hydratic": ["https://www.facebook.com/100003439767236/videos/714618013968948/", "2023-01-02", false]
       },
       "歐建廷": {
         "CYCLONE": ["https://www.youtube.com/watch?v=VOpNkrzux1E", "2022-07-19", false],
