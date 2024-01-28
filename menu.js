@@ -6,7 +6,11 @@ const navArr = [
   ["changelog.html", "About"]
 ];
 
-let text = "<b class='menu'>GDTW Demonlist</b>";
+let text = "<span class='menu navdrop'><button>&#9776;</button></span>";
+text += "<div class='navdropMenu'>";
+text += "<a class='navdropContent'>test</a>";
+text += "</div>";
+text += "<b class='menu'>GDTW Demonlist</b>";
 for (let i = 0; i < navArr.length; i++){
   text += "<a class='menu";
   if (window.location.pathname == "/GDTWDemonlist/" + navArr[i][0] || (i == 0 && window.location.pathname == "/GDTWDemonlist/")) {

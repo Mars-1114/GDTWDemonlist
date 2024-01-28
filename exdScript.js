@@ -7,12 +7,12 @@ req.onload = function() {
   //generate HTML
   let text = "";
   for (let exd = 0; exd < data.demon.length; exd++) {
-    text += "<button class=\"dropdownBtn\"><h2><i style=\"color: #86d9f0\">#" + (exd + 1) + " " + data.demon[exd][0] + "</i>";
-    text += "<i style=\"font-weight: normal\"> by " + data.demon[exd][1] + " </i>";
+    text += "<button class='dropdownBtn'><h2><i style='color: #86d9f0'>#" + (exd + 1) + " " + data.demon[exd][0] + "</i>";
+    text += "<i style='font-weight: normal'> by " + data.demon[exd][1] + " </i>";
     text += "<span style='font-size: 15px; font-weight: normal'>&nbsp (";
     text += calculate(exd + 1) + " pts)</span>";
-    text += "<span style=\"float: right\">+</span></h2></button>";
-    text += "<div class='collapseWrap'><div class=\"collapsable\">" + listPlayer(data.leaderboard, data.demon, exd) + "</div></div>";
+    text += "<span style='float: right'>+</span></h2></button>";
+    text += "<div class='collapseWrap'><div class='collapsable'>" + listPlayer(data.leaderboard, data.demon, exd) + "</div></div>";
   }
   document.getElementById("exd").innerHTML = text;
 
@@ -61,7 +61,7 @@ function listPlayer(player, demon, demonId) {
   for (let i in arr) {
     temp += "<h5>" + arr[i][0] + " - ";
     if (arr[i][1] != " ") {
-      temp += "<a href=" + arr[i][1] + " style=\"font-weight: normal\">link</a>";
+      temp += "<a href=" + arr[i][1] + " style='font-weight: normal'>link</a>";
     }
     else {
       temp += "<span style='color: rgb(235, 110, 101)'>Video Lost</span>"
