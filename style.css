@@ -84,18 +84,17 @@ a.menu.leave:after {
   padding: 18px 12px 12px 12px;
 }
 
-.navdrop {
-  display: none;
-  padding: 0 0;
-  margin: 0 0;
-}
-
 button.navdrop {
+  display: none;
+  position: absolute;
   color: rgb(165, 192, 255);
   background-color: rgb(52, 92, 116);
+  padding: 0 0;
   border: 0px;
+  margin: 0 0;
   width: 45px;
-  height: 48px;
+  height: 100%;
+  font-size: 14px;
   transition: background-color 0.1s;
 }
 
@@ -243,7 +242,11 @@ a:hover {
     display: none;
   }
 
-  .navdrop {
+  b.menu {
+    margin-left: 45px;
+  }
+
+  button.navdrop {
     display: block;
   }
 
