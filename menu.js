@@ -6,7 +6,7 @@ const navArr = [
   ["changelog.html", "About"]
 ];
 
-let text = "<span class='menu navdrop'><button><b>&#9776;</b></button></span>";
+let text = "<button onclick='showmenu()' class='menu navdrop'><b>&#9776;</b></button>";
 text += "<div class='navdropMenu'>";
 text += "<a class='navdropContent'>test</a>";
 text += "</div>";
