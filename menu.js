@@ -40,30 +40,29 @@ for (let i = 1; i < nav.length; i++) {
 }
 
 let isAwayDrop = true;
+let dropState = true;
 let btn = document.getElementsByClassName("navdrop");
 let dropdown = document.getElementsByClassName("navdropMenu");
 
 btn[0].addEventListener('click', function() {
-  if(document.getElementsByClassName('navdropMenu')[0].style.display == "none") {
-    document.getElementsByClassName('navdropMenu')[0].style.display = "block";
-    document.getElementsByClassName('navdropContent')[0].style.display = "block";
-    isAwayDrop = false;
-  }
-  else {
-    document.getElementsByClassName('navdropMenu')[0].style.display = "none";
-    document.getElementsByClassName('navdropContent')[0].style.display = "none";
-    isAwayDrop = true;
+  isAwayDrop = !isAwayDrop;
+  if(isAwayDrop) {
+    btn[0].blur();
   }
 });
 
 dropdown[0].addEventListener('mousedown', function() {
-  isAwayDrop = false;
+  dropState = false;
 });
 
 btn[0].addEventListener('focusout', function() {
-  if (isAwayDrop) {
+  if (dropState) {
     document.getElementsByClassName('navdropMenu')[0].style.display = "none";
     document.getElementsByClassName('navdropContent')[0].style.display = "none";
+    isAwayDrop = true;
+  }
+  else {
+    btn[0].focus();
   }
 });
 
@@ -73,15 +72,19 @@ window.onclick = function(event) {
     document.getElementsByClassName('navdropContent')[0].style.display = "none";
   }
   else {
-    isAwayDrop = true;
+    document.getElementsByClassName('navdropMenu')[0].style.display = "block";
+    document.getElementsByClassName('navdropContent')[0].style.display = "block";
   }
+  dropState = true;
 }
 
 nav = document.getElementsByClassName("navdropContent");
 for (let i = 1; i < nav.length; i++) {
   nav[i].addEventListener('click', function() {
-    temp = document.getElementsByClassName('visiting');
-    temp[0].classList.remove('visiting');
-    this.classList.add('visiting');
+    if (!isAwayDrop) {
+      temp = document.getElementsByClassName('visiting');
+      temp[0].classList.remove('visiting');
+      this.classList.add('visiting');
+    }
   });
 }
