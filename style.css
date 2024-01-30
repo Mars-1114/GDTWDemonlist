@@ -8,6 +8,11 @@ body {
   margin: 0;
 }
 
+.mainTitle {
+  text-align: center;
+  font-size: 5em;
+}
+
 .content {
   display: block;
   position: relative;
@@ -266,5 +271,9 @@ address {
 
   button.navdrop {
     display: block;
+  }
+
+  .mainTitle {
+    font-size: 3.2em;
   }
 }

@@ -44,8 +44,16 @@ let btn = document.getElementsByClassName("navdrop");
 let dropdown = document.getElementsByClassName("navdropMenu");
 
 btn[0].addEventListener('click', function() {
-  document.getElementsByClassName('navdropMenu')[0].style.display = "block";
-  isAwayDrop = false;
+  if(document.getElementsByClassName('navdropMenu')[0].style.display == "none") {
+    document.getElementsByClassName('navdropMenu')[0].style.display = "block";
+    document.getElementsByClassName('navdropContent')[0].style.display = "block";
+    isAwayDrop = false;
+  }
+  else {
+    document.getElementsByClassName('navdropMenu')[0].style.display = "none";
+    document.getElementsByClassName('navdropContent')[0].style.display = "none";
+    isAwayDrop = true;
+  }
 });
 
 dropdown[0].addEventListener('mousedown', function() {
@@ -55,12 +63,14 @@ dropdown[0].addEventListener('mousedown', function() {
 btn[0].addEventListener('focusout', function() {
   if (isAwayDrop) {
     document.getElementsByClassName('navdropMenu')[0].style.display = "none";
+    document.getElementsByClassName('navdropContent')[0].style.display = "none";
   }
 });
 
-window.onclick = function() {
+window.onclick = function(event) {
   if (isAwayDrop) {
     document.getElementsByClassName('navdropMenu')[0].style.display = "none";
+    document.getElementsByClassName('navdropContent')[0].style.display = "none";
   }
   else {
     isAwayDrop = true;
