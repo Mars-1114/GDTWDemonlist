@@ -100,7 +100,7 @@ function listPlayer(player, list) {
   for (let i = 0; i < arr.length; i++) {
     temp += "<h5>#" + (i + 1) + " " + arr[i][0] + " | ";
     if (arr[i][1] != " ") {
-      temp += "<a href=" + arr[i][1] + " style=\"font-weight: normal\">link</a>";
+      temp += "<a class='link' href=" + arr[i][1] + " style=\"font-weight: normal\">link</a>";
     }
     else {
       temp += "<span style='color: rgb(235, 110, 101)'>Video Lost</span>"

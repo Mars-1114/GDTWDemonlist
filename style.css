@@ -18,11 +18,7 @@ body {
   transition: opacity 0.3s, top 0.5s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-#exd {
-  color: white;
-}
-
-#legacy {
+#exd, #legacy {
   color: white;
 }
 
@@ -96,7 +92,7 @@ button.navdrop {
 }
 
 button.navdrop:focus, button.navdrop:hover {
-  background-color: rgb(37, 65, 85);
+  background-color: rgb(46, 78, 101);
 }
 
 .navdropMenu {
@@ -115,6 +111,10 @@ a.navdropContent {
   padding: 10px 15px 10px 12px;
   color: white;
   text-decoration: none;
+}
+
+a.navdropContent:hover, a.navdropContent.visiting {
+  background-color: rgb(85, 125, 123);
 }
 
 h2 {
@@ -157,15 +157,11 @@ button.dropdownBtn {
   cursor: pointer;
 }
 
-a, a:visited {
+a.link, a.link:visited {
   color: rgb(181, 163, 199);
 }
 
-a:hover {
-  color: rgb(211, 255, 240);
-}
-
-a.visiting, a.visiting:hover, a.visiting:visited {
+a:hover, a.visiting {
   color: rgb(211, 255, 240);
 }
 
@@ -242,7 +238,7 @@ a.visiting, a.visiting:hover, a.visiting:visited {
   100% { transform: rotate(415deg); }
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 650px) {
   #menuContainer {
     padding-left: 0;
   }

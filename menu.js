@@ -28,7 +28,6 @@ document.getElementById("menuContainer").innerHTML = text;
 
 //initialize
 nav = document.getElementsByClassName("menu");
-
 for (let i = 1; i < nav.length; i++) {
   nav[i].addEventListener('click', function() {
     temp = document.getElementsByClassName('visiting');
@@ -66,4 +65,13 @@ window.onclick = function() {
   else {
     isAwayDrop = true;
   }
+}
+
+nav = document.getElementsByClassName("navdropContent");
+for (let i = 1; i < nav.length; i++) {
+  nav[i].addEventListener('click', function() {
+    temp = document.getElementsByClassName('visiting');
+    temp[0].classList.remove('visiting');
+    this.classList.add('visiting');
+  });
 }
