@@ -111,6 +111,7 @@ a.navdropContent {
   padding: 10px 15px 10px 12px;
   color: white;
   text-decoration: none;
+  transition: background-color 0.1s;
 }
 
 a.navdropContent:hover, a.navdropContent.visiting {
@@ -231,6 +232,18 @@ a:hover, a.visiting {
 .tooltip:hover .tooltiptext {
   top: 125%;
   opacity: 1;
+}
+
+address {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(58, 61, 82);
+  padding: 3px 0;
+}
+
+.contact {
+  padding-left: 15px;
+  list-style-type: "- ";
 }
 
 @keyframes load {
