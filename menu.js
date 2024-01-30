@@ -40,13 +40,30 @@ for (let i = 1; i < nav.length; i++) {
   });
 }
 
-btn = document.getElementsByClassName("navdrop");
+let isAwayDrop = true;
+let btn = document.getElementsByClassName("navdrop");
+let dropdown = document.getElementsByClassName("navdropMenu");
+
 btn[0].addEventListener('click', function() {
   document.getElementsByClassName('navdropMenu')[0].style.display = "block";
+  isAwayDrop = false;
 });
 
-window.onclick = function(event) {
-  if (!event.target.matches('.navdrop')) {
+dropdown[0].addEventListener('mousedown', function() {
+  isAwayDrop = false;
+});
+
+btn[0].addEventListener('focusout', function() {
+  if (isAwayDrop) {
     document.getElementsByClassName('navdropMenu')[0].style.display = "none";
+  }
+});
+
+window.onclick = function() {
+  if (isAwayDrop) {
+    document.getElementsByClassName('navdropMenu')[0].style.display = "none";
+  }
+  else {
+    isAwayDrop = true;
   }
 }
