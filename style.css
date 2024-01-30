@@ -68,10 +68,6 @@ a.menu.visiting:after {
   transition: 0.33s cubic-bezier(0.16, 1, 0.3, 1), left 0.33s cubic-bezier(0.87, 0, 0.13, 1), width 0.33s cubic-bezier(0.87, 0, 0.13, 1);
 }
 
-a.menu.visiting {
-  color: rgb(211, 255, 240);
-}
-
 a.menu.leave:after {
   top: 100%;
   height: 0;
@@ -96,6 +92,7 @@ button.navdrop {
   height: 100%;
   font-size: 14px;
   transition: background-color 0.1s;
+  cursor: pointer;
 }
 
 button.navdrop:focus, button.navdrop:hover {
@@ -105,12 +102,19 @@ button.navdrop:focus, button.navdrop:hover {
 .navdropMenu {
   display: none;
   position: absolute;
+  min-width: 120px;
+  border-right: var(--bg) solid 3px;
+  border-bottom: var(--bg) solid 3px;
   top: 100%;
+  z-index: 1;
 }
 
 a.navdropContent {
-  position: absolute;
+  display: block;
+  background-color: rgb(105, 152, 149);
+  padding: 10px 15px 10px 12px;
   color: white;
+  text-decoration: none;
 }
 
 h2 {
@@ -150,6 +154,7 @@ button.dropdownBtn {
   border-radius: 4px;
   margin: 10px;
   width: 100%;
+  cursor: pointer;
 }
 
 a, a:visited {
@@ -157,6 +162,10 @@ a, a:visited {
 }
 
 a:hover {
+  color: rgb(211, 255, 240);
+}
+
+a.visiting, a.visiting:hover, a.visiting:visited {
   color: rgb(211, 255, 240);
 }
 
@@ -233,7 +242,7 @@ a:hover {
   100% { transform: rotate(415deg); }
 }
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 620px) {
   #menuContainer {
     padding-left: 0;
   }
@@ -247,10 +256,6 @@ a:hover {
   }
 
   button.navdrop {
-    display: block;
-  }
-
-  .navdropMenu {
     display: block;
   }
 }

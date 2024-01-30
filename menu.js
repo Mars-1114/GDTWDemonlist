@@ -6,9 +6,15 @@ const navArr = [
   ["changelog.html", "About"]
 ];
 
-let text = "<button onclick='showmenu()' class='menu navdrop'><b>&#9776;</b></button>";
+let text = "<button class='menu navdrop'><b>&#9776;</b></button>";
 text += "<div class='navdropMenu'>";
-text += "<a class='navdropContent'>test</a>";
+for (let i = 0; i < navArr.length; i++){
+  text += "<a class='navdropContent";
+  if (window.location.pathname == "/GDTWDemonlist/" + navArr[i][0] || (i == 0 && window.location.pathname == "/GDTWDemonlist/")) {
+    text += " visiting";
+  }
+  text += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
+}
 text += "</div>";
 text += "<b class='menu'>GDTW Demonlist</b>";
 for (let i = 0; i < navArr.length; i++){
@@ -32,4 +38,15 @@ for (let i = 1; i < nav.length; i++) {
       this.classList.add('visiting');
     }
   });
+}
+
+btn = document.getElementsByClassName("navdrop");
+btn[0].addEventListener('click', function() {
+  document.getElementsByClassName('navdropMenu')[0].style.display = "block";
+});
+
+window.onclick = function(event) {
+  if (!event.target.matches('.navdrop')) {
+    document.getElementsByClassName('navdropMenu')[0].style.display = "none";
+  }
 }
