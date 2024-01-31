@@ -61,6 +61,7 @@ req.onload = function() {
   document.getElementsByClassName("loaderContainer")[0].style.display = "none";
   document.getElementsByClassName("content")[0].style.opacity = "100%";
   document.getElementsByClassName("content")[0].style.top = "0";
+  document.getElementsByClassName("addr")[0].style.opacity = "100%";
 
   //toggle dropdown
   let dropdown = document.getElementsByClassName("dropdownBtn");

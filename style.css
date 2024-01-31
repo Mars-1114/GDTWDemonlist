@@ -242,8 +242,12 @@ a:hover, a.visiting {
 address {
   width: 100%;
   text-align: center;
-  background-color: rgb(58, 61, 82);
+  background-color: rgb(39, 42, 57);
   padding: 3px 0;
+}
+
+address.addr {
+  opacity: 0;
 }
 
 .contact {
