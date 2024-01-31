@@ -96,7 +96,7 @@ button.navdrop {
   cursor: pointer;
 }
 
-button.navdrop:focus, button.navdrop:hover {
+button.navdrop:focus {
   background-color: rgb(46, 78, 101);
 }
 

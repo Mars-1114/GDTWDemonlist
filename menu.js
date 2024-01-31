@@ -27,7 +27,7 @@ for (let i = 0; i < navArr.length; i++){
 document.getElementById("menuContainer").innerHTML = text;
 
 //initialize
-nav = document.getElementsByClassName("menu");
+let nav = document.getElementsByClassName("menu");
 for (let i = 1; i < nav.length; i++) {
   nav[i].addEventListener('click', function() {
     temp = document.getElementsByClassName('visiting');
@@ -39,52 +39,56 @@ for (let i = 1; i < nav.length; i++) {
   });
 }
 
-let isAwayDrop = true;
-let dropState = true;
+let dropbtnclicked = false;
+let dropbtndown = false;
+let dropdwnclicked = false;
 let btn = document.getElementsByClassName("navdrop");
 let dropdown = document.getElementsByClassName("navdropMenu");
 
 btn[0].addEventListener('click', function() {
-  isAwayDrop = !isAwayDrop;
-  if(isAwayDrop) {
-    btn[0].blur();
+  if (document.getElementsByClassName("navdropMenu")[0].style.display == "none") {
+    dropbtnclicked = true;
+  }
+  else {
+    document.getElementsByClassName("navdropMenu")[0].style.display = "none";
+  }
+});
+
+btn[0].addEventListener("mousedown", function() {
+  if (document.getElementsByClassName("navdropMenu")[0].style.display == "block") {
+    dropbtndown = true;
   }
 });
 
 dropdown[0].addEventListener('mousedown', function() {
-  dropState = false;
-});
-
-btn[0].addEventListener('focusout', function() {
-  if (dropState) {
-    document.getElementsByClassName('navdropMenu')[0].style.display = "none";
-    document.getElementsByClassName('navdropContent')[0].style.display = "none";
-    isAwayDrop = true;
-  }
-  else {
-    btn[0].focus();
+  if (document.getElementsByClassName("navdropMenu")[0].style.display == "block") {
+    dropdwnclicked = true;
   }
 });
 
-window.onclick = function(event) {
-  if (isAwayDrop) {
-    document.getElementsByClassName('navdropMenu')[0].style.display = "none";
-    document.getElementsByClassName('navdropContent')[0].style.display = "none";
+document.body.addEventListener('click', function() {
+  if (dropbtnclicked) {
+    document.getElementsByClassName("navdropMenu")[0].style.display = "block";
+    dropbtnclicked = false;
   }
-  else {
-    document.getElementsByClassName('navdropMenu')[0].style.display = "block";
-    document.getElementsByClassName('navdropContent')[0].style.display = "block";
-  }
-  dropState = true;
-}
+});
 
-nav = document.getElementsByClassName("navdropContent");
-for (let i = 1; i < nav.length; i++) {
-  nav[i].addEventListener('click', function() {
-    if (!isAwayDrop) {
-      temp = document.getElementsByClassName('visiting');
-      temp[0].classList.remove('visiting');
-      this.classList.add('visiting');
+document.body.addEventListener("mousedown", function() {
+  if (!dropdwnclicked) {
+    if (!dropbtndown) {
+      document.getElementsByClassName("navdropMenu")[0].style.display = "none";
     }
+  }
+  dropdwnclicked = false;
+  dropbtndown = false;
+});
+
+
+let nav2 = document.getElementsByClassName("navdropContent");
+for (let i = 1; i < nav2.length; i++) {
+  nav2[i].addEventListener('click', function() {
+    temp2 = document.getElementsByClassName('visiting');
+    temp2[0].classList.remove('visiting');
+    this.classList.add('visiting');
   });
 }
