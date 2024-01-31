@@ -51,6 +51,7 @@ btn[0].addEventListener('click', function() {
   }
   else {
     document.getElementsByClassName("navdropMenu")[0].style.display = "none";
+    btn[0].blur();
   }
 });
 
