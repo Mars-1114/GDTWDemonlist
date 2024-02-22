@@ -30,6 +30,7 @@
       ["Under lavaland", "N R G"],
       ["Azure Fiesta", "Dorami"],
       ["Anahita", "zYuko"],
+      ["Heavens Door", "TMco"],
       ["Down Bass", "Spectruh"],
       ["Idols", "Zafkiel7"],
       ["Prismatic Haze", "Cirtrax"],
@@ -84,7 +85,6 @@
       ["Crowd Control", "zDeadlox"],
       ["Cosmorush 21", "Pennutoh"],
       ["night party", "Rlol"],
-      ["Gunslinga Corridor", "DeathKontrol"],
       ["niwa", "Teno"],
       ["Grill Kill", "MikeWheelerFan"],
       ["Tech Manifestation", "PleoSlim RMD"],
@@ -123,6 +123,7 @@
     ],
     
     "legacy": [
+      ["Gunslinga Corridor", "DeathKontrol"],
       ["ICE Carbon Diablo X", "Roadbose"],
       ["Hate War", "Stormfly"],
       ["MY SONG", "lGenoxide"],
@@ -359,7 +360,8 @@
         "Untitled": ["https://www.facebook.com/100003439767236/videos/1096761211749471/", "2023-12-10", false],
         "Napalm": ["https://www.facebook.com/100003439767236/videos/3627505080819474/", "2024-01-03", false],
         "Hydratic": ["https://www.facebook.com/100003439767236/videos/714618013968948/", "2023-01-02", false],
-        "Esencia": ["https://www.facebook.com/100003439767236/videos/1073593157125194/", "2024-02-19", false]
+        "Esencia": ["https://www.facebook.com/100003439767236/videos/1073593157125194/", "2024-02-19", false],
+        "Heavens Door": ["https://www.facebook.com/100003439767236/videos/712746311005081/", "2024-02-22", false]
       },
       "歐建廷": {
         "CYCLONE": ["https://www.youtube.com/watch?v=VOpNkrzux1E", "2022-07-19", false],
