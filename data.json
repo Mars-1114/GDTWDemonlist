@@ -103,6 +103,7 @@
       ["Party Rock Anthem", "Awesomeme360"],
       ["Incipient", "Jenkins GD"],
       ["The Ultimate Demon", "vit12"],
+      ["STRATUS", "Woom"],
       ["8o X", "f3lixsram"],
       ["XxXxXxXxX", "Awesomeme360"],
       ["Precipitance", "Extravagon"],
@@ -378,7 +379,8 @@
       },
       "Eric Chang": {
         "Napalm":["https://www.youtube.com/watch?v=IaMf6IpzQ0g", "2023-12-31", false],
-        "Esencia":["https://www.youtube.com/watch?v=ClqjR5Mi_dI", "2024-02-16", false]
+        "Esencia":["https://www.youtube.com/watch?v=ClqjR5Mi_dI", "2024-02-16", false],
+        "STRATUS":["https://www.youtube.com/watch?v=Uh6tnH6LkXI", "2024-02-26", false]
       }
   }
 }
