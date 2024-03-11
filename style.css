@@ -255,6 +255,20 @@ address.addr {
   list-style-type: "- ";
 }
 
+.invite {
+  width: 60px;
+  height: 40px;
+}
+
+.invite img {
+  display:block;
+  margin: 0;
+  border: 0;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+}
+
 @keyframes load {
   0% { transform: rotate(55deg); }
   100% { transform: rotate(415deg); }
