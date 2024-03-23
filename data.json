@@ -64,6 +64,7 @@
       ["SorryForPartyRocking", "Awesomeme360"],
       ["To The Stars II", "AeonAir"],
       ["Circuit Breaker", "efext"],
+      ["TRIANGULAR", "zNickname"],
       ["Deception Dive", "Rustam"],
       ["The Flawless", "IIIRyanIII"],
       ["NecropoliX", "Namtar"],
@@ -383,6 +384,9 @@
         "Napalm":["https://www.youtube.com/watch?v=IaMf6IpzQ0g", "2023-12-31", false],
         "Esencia":["https://www.youtube.com/watch?v=ClqjR5Mi_dI", "2024-02-16", false],
         "STRATUS":["https://www.youtube.com/watch?v=Uh6tnH6LkXI", "2024-02-26", false]
+      },
+      "bambooraty": {
+        "TRIANGULAR": ["https://www.facebook.com/100028163927835/videos/1602661033898071/", "2024-03-23", false]
       }
   }
 }
