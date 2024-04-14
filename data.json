@@ -1,6 +1,6 @@
 {
     "demon": [
-      ["Power Grid", "YraX"],
+      ["Knights of Thunder", "HangerLord"],
       ["Wasureta", "HelpegasuS"],
       ["Sonic Wave", "Sunix"],
       ["Yatagarasu", "Trusta"],
@@ -10,6 +10,7 @@
       ["Killbot", "BoldStep"],
       ["Artificial Ascent", "ViPriN"],
       ["BBBBBBBBBBBBBBBBBBBB", "MikeWheelerFan"],
+      ["Power Grid", "YraX"],
       ["Prisma", "CooperSuper8"],
       ["Auditory Breaker", "LazerBlitz"],
       ["Hatred", "AZuLer4"],
@@ -200,7 +201,8 @@
         "cytokinesis": ["https://www.facebook.com/100022514553192/videos/6628829817199474/", "2023-08-26", true],
         "Down Bass": ["https://www.facebook.com/100022514553192/videos/6986182668087901/", "2023-10-09", true],
         "The Ultimate Demon": ["https://www.facebook.com/100022514553192/videos/1524857471684551/", "2023-10-15", true],
-        "Blade of Justice": ["https://www.facebook.com/100022514553192/videos/890159676038327/", "2023-12-23", true]
+        "Blade of Justice": ["https://www.facebook.com/100022514553192/videos/890159676038327/", "2023-12-23", true],
+        "Knights of Thunder": ["https://www.facebook.com/100022514553192/videos/957572269108295/", "2024-04-14", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
