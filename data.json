@@ -4,6 +4,7 @@
       ["Wasureta", "HelpegasuS"],
       ["Sonic Wave", "Sunix"],
       ["Yatagarasu", "Trusta"],
+      ["Kuzureta", "Teno"],
       ["Chromatic Haze", "Cirtrax"],
       ["Friday Vortex", "Cersia"],
       ["Delta Interface", "Platnuu"],
@@ -74,6 +75,7 @@
       ["Volume", "Metalface221"],
       ["RTX ON", "TypicalGMD"],
       ["The Lost Existence", "JonathanGD"],
+      ["OXI", "Sycro"],
       ["Mandragora", "GD ParaDoX"],
       ["Diligence", "Davphla"],
       ["Dark Odyssey", "JonathanGD"],
@@ -203,7 +205,8 @@
         "Down Bass": ["https://www.facebook.com/100022514553192/videos/6986182668087901/", "2023-10-09", true],
         "The Ultimate Demon": ["https://www.facebook.com/100022514553192/videos/1524857471684551/", "2023-10-15", true],
         "Blade of Justice": ["https://www.facebook.com/100022514553192/videos/890159676038327/", "2023-12-23", true],
-        "Knights of Thunder": ["https://www.facebook.com/100022514553192/videos/957572269108295/", "2024-04-14", false]
+        "Knights of Thunder": ["https://www.facebook.com/100022514553192/videos/957572269108295/", "2024-04-14", false],
+        "Kuzureta": ["https://www.facebook.com/100022514553192/videos/956955659204618/", "2024-04-20", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
@@ -351,7 +354,8 @@
       "Daruck": {
         "niwa": ["https://www.youtube.com/watch?v=6t1I1EDn9GE", "2023-08-22", false],
         "Lost Love": ["https://www.youtube.com/watch?v=VmX2-3sraYA", "2023-04-29", false],
-        "Decay": ["https://www.youtube.com/watch?v=qyb4XPhwLec", "2024-01-20", false]
+        "Decay": ["https://www.youtube.com/watch?v=qyb4XPhwLec", "2024-01-20", false],
+        "OXI": ["https://www.youtube.com/watch?v=9meTB8qekZ4", "2024-04-20", false]
       },
       "Sign Qwq": {
         "Acu": ["https://www.facebook.com/100055094347754/videos/582034692840294/", "2021-10-03", false],
