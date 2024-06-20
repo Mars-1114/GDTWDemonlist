@@ -1,5 +1,6 @@
 {
     "demon": [
+      ["Bloodlust", "Knobbelboy"],
       ["Knights of Thunder", "HangerLord"],
       ["Wasureta", "HelpegasuS"],
       ["Sink", "Awedsy"],
@@ -231,7 +232,8 @@
         "Draco Meteor": ["https://www.facebook.com/100022514553192/videos/1496414600947119/", "2024-05-27", false],
         "Astral Divinity": ["https://www.facebook.com/100022514553192/videos/844126671076146/", "2024-05-30", false],
         "Anya III": ["https://www.facebook.com/100022514553192/videos/967813888136814/", "2024-05-30", false],
-        "Sink": ["https://www.facebook.com/100022514553192/videos/661405352829650/", "2024-06-02", false]
+        "Sink": ["https://www.facebook.com/100022514553192/videos/661405352829650/", "2024-06-02", false],
+        "Bloodlust": ["https://www.facebook.com/100022514553192/videos/933549011793408/", "2024-06-20", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
