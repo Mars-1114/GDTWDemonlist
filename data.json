@@ -116,6 +116,7 @@
       ["Hypersonic", "ViPriN"],
       ["Falling Up", "KrmaL"],
       ["Just DANCE", "Texic"],
+      ["CICADA3302", "Darwin"],
       ["Daybreak", "ZenthicAlpha"],
       ["Party Rock Anthem", "Awesomeme360"],
       ["Incipient", "Jenkins GD"],
@@ -235,7 +236,8 @@
         "Anya III": ["https://www.facebook.com/100022514553192/videos/967813888136814/", "2024-05-30", false],
         "Sink": ["https://www.facebook.com/100022514553192/videos/661405352829650/", "2024-06-02", false],
         "Bloodlust": ["https://www.facebook.com/100022514553192/videos/933549011793408/", "2024-06-20", false],
-        "Arctic Lights": ["https://www.facebook.com/100022514553192/videos/500724352623674/", "2024-06-24", false]
+        "Arctic Lights": ["https://www.facebook.com/100022514553192/videos/500724352623674/", "2024-06-24", false],
+        "CICADA3302": ["https://www.facebook.com/100022514553192/videos/446849001632809/", "2024-06-25", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
