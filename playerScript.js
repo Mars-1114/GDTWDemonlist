@@ -82,7 +82,12 @@ req.onload = function() {
   }
 }
 
-req.open("GET", "data.json");
+if (window.location.pathname == "/leaderboard.html") {
+  req.open("GET", "data.json");
+}
+else {
+  req.open("GET", "plat-data.json");
+}
 req.send();
 
 

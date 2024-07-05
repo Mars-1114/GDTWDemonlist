@@ -269,6 +269,10 @@ address.addr {
   overflow: hidden;
 }
 
+.plat {
+  color: #a27dff
+}
+
 @keyframes load {
   0% { transform: rotate(55deg); }
   100% { transform: rotate(415deg); }

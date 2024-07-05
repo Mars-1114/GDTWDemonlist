@@ -7,7 +7,16 @@ req.onload = function() {
   //generate HTML
   let text = "";
   for (let exd = 0; exd < data.demon.length; exd++) {
-    text += "<button class='dropdownBtn'><h2><i style='color: #86d9f0'>#" + (exd + 1) + " " + data.demon[exd][0] + "</i>";
+    text += "<button class='dropdownBtn'><h2>";
+    // color
+    if (window.location.pathname == "/plat.html") {
+      text += "<i style='color: #a27dff'>";
+    }
+    else {
+      text += "<i style='color: #86d9f0'>";
+    }
+
+    text += "#" + (exd + 1) + " " + data.demon[exd][0] + "</i>";
     text += "<i style='font-weight: normal'> by " + data.demon[exd][1] + " </i>";
     text += "<span style='font-size: 15px; font-weight: normal'>&nbsp (";
     text += calculate(exd + 1) + " pts)</span>";
@@ -41,7 +50,12 @@ req.onload = function() {
   }
 };
 
-req.open("GET", "data.json");
+if (window.location.pathname == "/plat.html") {
+  req.open("GET", "plat-data.json");
+}
+else {
+  req.open("GET", "data.json");
+}
 req.send();
 
 //data process

@@ -1,7 +1,9 @@
 const navArr = [
   ["index.html", "Top Extremes"],
+  ["plat.html", "Top Platformers"],
   ["legacy.html", "Legacy List"],
   ["leaderboard.html", "Leaderboard"],
+  ["plat-leaderboard.html", "Platformer Leaderboard"],
   ["guidelines.html", "Guidelines"],
   ["changelog.html", "About"]
 ];

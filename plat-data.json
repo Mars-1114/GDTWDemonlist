@@ -1,0 +1,13 @@
+{
+    "demon": [
+      ["The Tower XXII", "o1iv3"],
+      ["Tower of Infinity", "zYuko"]
+    ],
+
+    "leaderboard": {
+        "carti": {
+            "The Tower XXII": ["https://www.youtube.com/live/w12wG2Arb-M", "2024-06-06", false],
+            "Tower of Infinity": ["https://www.youtube.com/live/ZAGiZnWtdlw", "2024-06-05", false]
+        }
+    }
+}
