@@ -9,7 +9,7 @@ req.onload = function() {
   for (let exd = 0; exd < data.demon.length; exd++) {
     text += "<button class='dropdownBtn'><h2>";
     // color
-    if (window.location.pathname == "/plat.html") {
+    if (window.location.pathname == "/GDTWDemonlist/plat.html") {
       text += "<i style='color: #a27dff'>";
     }
     else {
@@ -50,7 +50,7 @@ req.onload = function() {
   }
 };
 
-if (window.location.pathname == "/plat.html") {
+if (window.location.pathname == "/GDTWDemonlist/plat.html") {
   req.open("GET", "plat-data.json");
 }
 else {

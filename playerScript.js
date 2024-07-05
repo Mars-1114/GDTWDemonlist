@@ -82,7 +82,7 @@ req.onload = function() {
   }
 }
 
-if (window.location.pathname == "/leaderboard.html") {
+if (window.location.pathname == "/GDTWDemonlist/leaderboard.html") {
   req.open("GET", "data.json");
 }
 else {
