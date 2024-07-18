@@ -7,6 +7,8 @@
       ["Sink", "Awedsy"],
       ["Sonic Wave", "Sunix"],
       ["Yatagarasu", "Trusta"],
+      ["xo", "KrmaL"],
+      ["Generic Wave", "Pennutoh"],
       ["Kuzureta", "Teno"],
       ["Erebus", "BoldStep"],
       ["Chromatic Haze", "Cirtrax"],
@@ -123,6 +125,7 @@
       ["Falling Up", "KrmaL"],
       ["Just DANCE", "Texic"],
       ["CICADA3302", "Darwin"],
+      ["imitation game", "heatherhayes"],
       ["Daybreak", "ZenthicAlpha"],
       ["Party Rock Anthem", "Awesomeme360"],
       ["Incipient", "Jenkins GD"],
@@ -254,7 +257,9 @@
         "Heart Attack": ["https://www.facebook.com/100022514553192/videos/1556250888438114/", "2024-07-09", false],
         "Unknown Civilization": ["https://www.facebook.com/100022514553192/videos/894854145735474/", "2024-07-11", false],
         "Quantum Processing": ["https://www.facebook.com/100022514553192/videos/407801821640274/", "2024-07-12", false],
-        "Erebus": ["https://www.facebook.com/100022514553192/videos/1042388213891754/", "2024-07-14", false]
+        "Erebus": ["https://www.facebook.com/100022514553192/videos/1042388213891754/", "2024-07-14", false],
+        "xo": ["https://www.facebook.com/100022514553192/videos/1225539705112307/", "2024-07-16", false],
+        "Generic Wave": ["https://www.facebook.com/100022514553192/videos/454935140794644/", "2024-07-17", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
@@ -382,7 +387,8 @@
         "MY SONG": ["https://www.youtube.com/watch?v=5xUreD_hDxo", "2022-11-29", false],
         "Ainoseikatsu": ["https://youtu.be/rlG99rJO9KY", "2022-02-13", true],
         "Thanatophobia": ["https://www.youtube.com/watch?v=wbdO60BXGo8", "2021-08-07", true],
-        "Leyak": ["https://www.youtube.com/watch?v=-0bftsMZw0A", "2021-01-02", true]
+        "Leyak": ["https://www.youtube.com/watch?v=-0bftsMZw0A", "2021-01-02", true],
+        "imitation game": ["https://youtu.be/Crn8IqItXX8", "2024-07-19", false]
       },
       "李在昌": {
         "A Bizarre Phantasm": ["https://www.youtube.com/watch?v=H5R92Szfdko", "2021-07-27", false],
