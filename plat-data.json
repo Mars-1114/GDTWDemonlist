@@ -1,6 +1,11 @@
 {
     "demon": [
+      ["radio tower", "DavidConcal"],
+      ["Entrenched", "easymode"],
       ["The Tower XXII", "o1iv3"],
+      ["Dungeon Treasures", "Astronaunt21"],
+      ["Mountainous Climb", "tornadoGD54"],
+      ["Nextphase", "Doshterhoz"],
       ["Chief Needler", "Orelu"],
       ["Tower of Infinity", "zYuko"]
     ],
@@ -9,7 +14,12 @@
         "carti": {
             "The Tower XXII": ["https://www.youtube.com/live/w12wG2Arb-M", "2024-06-06", false],
             "Tower of Infinity": ["https://www.youtube.com/live/ZAGiZnWtdlw", "2024-06-05", false],
-            "Chief Needler": ["https://www.youtube.com/watch?v=bMOcwrj0Mi4", "2024-08-20", false]
+            "Chief Needler": ["https://www.youtube.com/watch?v=bMOcwrj0Mi4", "2024-08-19", false],
+            "radio tower": ["https://www.youtube.com/watch?v=MZ-voYs7-ng", "2024-08-19", false],
+            "Dungeon Treasures": ["https://www.youtube.com/live/EJoeq64huyU", "2024-08-20", false],
+            "Entrenched": ["https://www.youtube.com/live/eO6v3MewVvk", "2024-08-21", false],
+            "Nextphase": ["https://www.youtube.com/live/cmfTdZMDvcw", "2024-08-22", false],
+            "Mountainous Climb": ["https://www.youtube.com/live/gs1_1raU-nc", "2024-08-22", false]
         }
     }
 }
