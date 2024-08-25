@@ -96,6 +96,7 @@
       ["Retention", "WOOGI1411"],
       ["Fingerdash v3", "Noriega"],
       ["Artificial Dream", "iIiViRuZiIi"],
+      ["EX", "MrSpaghetti"],
       ["Draco Meteor", "AgarOther"],
       ["Shukufuku", "Joker179114"],
       ["Heart Attack", "Derpskull"],
@@ -485,6 +486,9 @@
       },
       "Estrangement": {
         "RTX ON": ["https://www.facebook.com/100071383914880/videos/731349795871291/", "2024-04-15", false]
+      },
+      "kiwibbbb": {
+        "EX": ["https://www.facebook.com/100053857575093/videos/851614596919236/", "2024-08-23", false]
       }
   }
 }
