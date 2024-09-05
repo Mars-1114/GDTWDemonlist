@@ -6,6 +6,7 @@
       ["Arctic Lights", "Metalface221"],
       ["Wasureta", "HelpegasuS"],
       ["Sink", "Awedsy"],
+      ["Sonic Wave Rebirth", "Serponge"],
       ["Sonic Wave", "Sunix"],
       ["Yatagarasu", "Trusta"],
       ["xo", "KrmaL"],
@@ -110,6 +111,7 @@
       ["Dark Odyssey", "JonathanGD"],
       ["Polish Alphabet", "Patchimator"],
       ["The Ultimate Phase", "Andromeda GMD"],
+      ["Lotus", "ZeroSR"],
       ["Napalm", "Marwec"],
       ["Ballistic Funk", "IronIngot"],
       ["Broken Signal", "Grax"],
@@ -148,6 +150,7 @@
       ["8o X", "f3lixsram"],
       ["Shimmering Chamber", "devilmine"],
       ["Forbidden Isle", "Sillow"],
+      ["Trunt Temp", "Bibox"],
       ["XxXxXxXxXxX", "Awesomeme360"],
       ["Precipitance", "Extravagon"],
       ["Azurite", "Sillow"],
@@ -291,7 +294,8 @@
         "Wild Rose": ["https://www.facebook.com/100022514553192/videos/369238025996838/", "2024-08-03", false],
         "ZOOOOOOOOOOOOOOOOOOM": ["https://www.facebook.com/100022514553192/videos/8662479263768526/", "2024-08-04", false],
         "Yatagarasu": ["https://www.facebook.com/100022514553192/videos/1548439492688535/", "2024-08-07", false],
-        "Shukketsu": ["https://www.youtube.com/watch?v=k_mrOjzv-08", "2024-08-10", false]
+        "Shukketsu": ["https://www.youtube.com/watch?v=k_mrOjzv-08", "2024-08-10", false],
+        "Sonic Wave Rebirth": ["https://www.facebook.com/100022514553192/videos/531716169517081/", "2024-09-04", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
@@ -439,7 +443,8 @@
         "Novalis": ["https://www.youtube.com/watch?v=AApSejPxFJk", "2024-02-24", false],
         "Just DANCE": ["https://www.youtube.com/watch?v=iw16Wfayvlc", "2024-03-09", false],
         "Virtual Collapse": ["https://www.youtube.com/watch?v=X9SlTLlaYXg", "2024-06-06", false],
-        "Brain Power": ["https://www.youtube.com/watch?v=EdpQ5TFiNZU", "2024-08-06", false]
+        "Brain Power": ["https://www.youtube.com/watch?v=EdpQ5TFiNZU", "2024-08-06", false],
+        "Turnt Temp": ["https://www.youtube.com/watch?v=qiUXinK_aOE", "2024-08-26", false]
       },
       "Daruck": {
         "niwa": ["https://www.youtube.com/watch?v=6t1I1EDn9GE", "2023-08-22", false],
@@ -465,7 +470,8 @@
         "Napalm": ["https://www.facebook.com/100003439767236/videos/3627505080819474/", "2024-01-03", false],
         "Hydratic": ["https://www.facebook.com/100003439767236/videos/714618013968948/", "2024-01-02", false],
         "Esencia": ["https://www.facebook.com/100003439767236/videos/1073593157125194/", "2024-02-19", false],
-        "Heavens Door": ["https://www.facebook.com/100003439767236/videos/712746311005081/", "2024-02-22", false]
+        "Heavens Door": ["https://www.facebook.com/100003439767236/videos/712746311005081/", "2024-02-22", false],
+        "Lotus": ["https://www.facebook.com/100003439767236/videos/438296972549043/", "2024-09-02", false]
       },
       "歐建廷": {
         "CYCLONE": ["https://www.youtube.com/watch?v=VOpNkrzux1E", "2022-07-19", false],

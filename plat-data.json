@@ -1,5 +1,6 @@
 {
     "demon": [
+      ["The Abyss", "zYuko"],
       ["radio tower", "DavidConcal"],
       ["Entrenched", "easymode"],
       ["The Tower XXII", "o1iv3"],
@@ -19,7 +20,8 @@
             "Dungeon Treasures": ["https://www.youtube.com/live/EJoeq64huyU", "2024-08-20", false],
             "Entrenched": ["https://www.youtube.com/live/eO6v3MewVvk", "2024-08-21", false],
             "Nextphase": ["https://www.youtube.com/live/cmfTdZMDvcw", "2024-08-22", false],
-            "Mountainous Climb": ["https://www.youtube.com/live/gs1_1raU-nc", "2024-08-22", false]
+            "Mountainous Climb": ["https://www.youtube.com/live/gs1_1raU-nc", "2024-08-22", false],
+            "The Abyss": ["https://www.youtube.com/live/JyCRneoENjg", "2024-08-31", false]
         }
     }
 }
