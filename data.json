@@ -57,6 +57,7 @@
       ["Idols", "Zafkiel7"],
       ["Prismatic Haze", "Cirtrax"],
       ["Quaoar", "ViPriN"],
+      ["FLOAT", "Neostic"],
       ["Annihilation Nation", "Zylenox"],
       ["INNARDS", "Kaito"],
       ["U235", "oleki"],
@@ -495,6 +496,9 @@
       },
       "kiwibbbb": {
         "EX": ["https://www.facebook.com/100053857575093/videos/851614596919236/", "2024-08-23", false]
+      },
+      "netherportal2": {
+        "FLOAT": ["https://www.youtube.com/watch?v=G1JazpTtbjU", "2024-07-15", false]
       }
   }
 }
