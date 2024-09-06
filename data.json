@@ -71,6 +71,7 @@
       ["aftermath", "IIExenityII"],
       ["Novalis", "Gryllex"],
       ["Triple Six", "Zylenox"],
+      ["Welcome to GD News", "vortrox"],
       ["Cat Planet", "IcEDCave"],
       ["limitless", "Konsi"],
       ["Audio Extraction", "GoodSmile"],
@@ -298,7 +299,8 @@
         "Yatagarasu": ["https://www.facebook.com/100022514553192/videos/1548439492688535/", "2024-08-07", false],
         "Shukketsu": ["https://www.youtube.com/watch?v=k_mrOjzv-08", "2024-08-10", false],
         "Sonic Wave Rebirth": ["https://www.facebook.com/100022514553192/videos/531716169517081/", "2024-09-04", false],
-        "Crystal": ["https://www.facebook.com/100022514553192/videos/359984507183487/", "2024-09-06", false]
+        "Crystal": ["https://www.facebook.com/100022514553192/videos/359984507183487/", "2024-09-06", false],
+        "Lotus": ["https://www.facebook.com/100022514553192/videos/819217167074353/", "2024-09-07", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
@@ -447,7 +449,8 @@
         "Just DANCE": ["https://www.youtube.com/watch?v=iw16Wfayvlc", "2024-03-09", false],
         "Virtual Collapse": ["https://www.youtube.com/watch?v=X9SlTLlaYXg", "2024-06-06", false],
         "Brain Power": ["https://www.youtube.com/watch?v=EdpQ5TFiNZU", "2024-08-06", false],
-        "Turnt Temp": ["https://www.youtube.com/watch?v=qiUXinK_aOE", "2024-08-26", false]
+        "Turnt Temp": ["https://www.youtube.com/watch?v=qiUXinK_aOE", "2024-08-26", false],
+        "Welcome to GD News": ["https://www.youtube.com/watch?v=YhFWTa17sYQ", "2024-09-06", false]
       },
       "Daruck": {
         "niwa": ["https://www.youtube.com/watch?v=6t1I1EDn9GE", "2023-08-22", false],

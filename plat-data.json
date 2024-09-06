@@ -2,6 +2,7 @@
     "demon": [
       ["The Abyss", "zYuko"],
       ["radio tower", "DavidConcal"],
+      ["FURY OF 500", "Split72"],
       ["Entrenched", "easymode"],
       ["The Tower XXII", "o1iv3"],
       ["Dungeon Treasures", "Astronaunt21"],
@@ -21,7 +22,11 @@
             "Entrenched": ["https://www.youtube.com/live/eO6v3MewVvk", "2024-08-21", false],
             "Nextphase": ["https://www.youtube.com/live/cmfTdZMDvcw", "2024-08-22", false],
             "Mountainous Climb": ["https://www.youtube.com/live/gs1_1raU-nc", "2024-08-22", false],
-            "The Abyss": ["https://www.youtube.com/live/JyCRneoENjg", "2024-08-31", false]
+            "The Abyss": ["https://www.youtube.com/live/JyCRneoENjg", "2024-08-31", false],
+            "FURY OF 500": ["https://www.youtube.com/live/-_W6qTX3LhE", "2024-08-29", false]
+        },
+        "超大法國麵包": {
+            "FURY OF 500": ["https://www.youtube.com/watch?v=VXH1pEYPN_A", "2024-08-28", false]
         }
     }
 }
