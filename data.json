@@ -83,6 +83,7 @@
       ["Skrrah", "VirtualCrack"],
       ["KINGSLAYER", "motheye"],
       ["Glide", "crohn44"],
+      ["Lotus", "ZeroSR"],
       ["Esencia", "Zafkiel7"],
       ["GEODE", "ImMaxx1"],
       ["Heartbeat", "KrmaL"],
@@ -115,7 +116,6 @@
       ["Dark Odyssey", "JonathanGD"],
       ["Polish Alphabet", "Patchimator"],
       ["The Ultimate Phase", "Andromeda GMD"],
-      ["Lotus", "ZeroSR"],
       ["Napalm", "Marwec"],
       ["Ballistic Funk", "IronIngot"],
       ["Broken Signal", "Grax"],
@@ -159,6 +159,7 @@
       ["Precipitance", "Extravagon"],
       ["Azurite", "Sillow"],
       ["Castling", "Meroo"],
+      ["Helios", "Canonlaw"],
       ["Anya III", "Anya21"],
       ["Decay", "KiwiPenguin"],
       ["troll level", "lexycat"],
@@ -304,7 +305,8 @@
         "Crystal": ["https://www.facebook.com/100022514553192/videos/359984507183487/", "2024-09-06", false],
         "Lotus": ["https://www.facebook.com/100022514553192/videos/819217167074353/", "2024-09-07", false],
         "Cupid": ["https://www.facebook.com/100022514553192/videos/1269152694498423/", "2024-09-08", false],
-        "the super hotdog": ["https://www.facebook.com/100022514553192/videos/491795940434250/", "2024-09-20", false]
+        "the super hotdog": ["https://www.facebook.com/100022514553192/videos/491795940434250/", "2024-09-20", false],
+        "Helios": ["https://www.facebook.com/100022514553192/videos/445906165148271/", "2024-09-22", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
