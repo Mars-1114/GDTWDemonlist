@@ -2,6 +2,7 @@
     "demon": [
       ["Shukketsu", "zYuko"],
       ["Bloodlust", "Knobbelboy"],
+      ["Jesse Pinkman", "Renn241"],
       ["Pagoda", "Seturan"],
       ["Knights of Thunder", "HangerLord"],
       ["Arctic Lights", "Metalface221"],
@@ -151,6 +152,7 @@
       ["The Ultimate Demon", "vit12"],
       ["ZOOOOOOOOOOOOOOOOOOM", "Awesomeme360"],
       ["Lights Out", "Dashiell10"],
+      ["Hidden in the Sand", "ASBCHazel"],
       ["Unknown Civilization", "TheRealPeng"],
       ["STRATUS", "Woom"],
       ["8o X", "f3lixsram"],
@@ -177,6 +179,7 @@
       ["Tesseract", "iiLuna"],
       ["Raindance", "Milos482"],
       ["Delirium Tremens", "Vadi"],
+      ["Prismatic", "CatGeo"],
       ["Red World", "saRy"],
       ["the super hotdog", "Awesomeme360"]
     ],
@@ -310,7 +313,10 @@
         "the super hotdog": ["https://www.facebook.com/100022514553192/videos/491795940434250/", "2024-09-20", false],
         "Helios": ["https://www.facebook.com/100022514553192/videos/445906165148271/", "2024-09-22", false],
         "Pagoda": ["https://www.facebook.com/100022514553192/videos/2492607087606972/", "2024-09-29", false],
-        "Golden Club": ["https://www.facebook.com/100022514553192/videos/1292070998870970/", "2024-10-01", false]
+        "Golden Club": ["https://www.facebook.com/100022514553192/videos/1292070998870970/", "2024-10-01", false],
+        "Jesse Pinkman": ["https://www.facebook.com/100022514553192/videos/451514748041824/", "2024-10-09", false],
+        "Prismatic": ["https://www.facebook.com/100022514553192/videos/381777731695487/", "2024-10-05", false],
+        "Hidden in the Sand": ["https://www.facebook.com/100022514553192/videos/1041223900971253/", "2024-10-04", true]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
@@ -514,6 +520,9 @@
       },
       "netherportal2": {
         "FLOAT": ["https://www.youtube.com/watch?v=G1JazpTtbjU", "2024-07-15", false]
+      },
+      "Tin": {
+        "Lost Love": ["https://www.youtube.com/watch?v=ZHLRUM5G0gg", "2024-10-05", false]
       }
   }
 }
