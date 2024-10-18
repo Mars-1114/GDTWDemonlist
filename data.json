@@ -24,6 +24,7 @@
       ["Delta Interface", "Platnuu"],
       ["Killbot", "BoldStep"],
       ["Artificial Ascent", "ViPriN"],
+      ["MISFIRE", "Galaxxyss"],
       ["BBBBBBBBBBBBBBBBBBBB", "MikeWheelerFan"],
       ["Power Grid", "YraX"],
       ["Quantum Processing", "Riot"],
@@ -73,6 +74,7 @@
       ["Sigma Interface", "Platnuu"],
       ["WaveBreaker", "Lemons"],
       ["aftermath", "IIExenityII"],
+      ["i hate renn", "Renn241"],
       ["Novalis", "Gryllex"],
       ["Triple Six", "Zylenox"],
       ["Welcome to GD News", "vortrox"],
@@ -168,6 +170,7 @@
       ["Helios", "Canonlaw"],
       ["Anya III", "Anya21"],
       ["Decay", "KiwiPenguin"],
+      ["Komodo", "Epsii"],
       ["troll level", "lexycat"],
       ["Acu", "neigefeu"],
       ["Proteus", "SpergQuos"],
@@ -322,7 +325,10 @@
         "Hidden in the Sand": ["https://www.facebook.com/100022514553192/videos/1041223900971253/", "2024-10-04", true],
         "CITRA": ["https://www.facebook.com/100022514553192/videos/1740047263435493/", "2024-10-14", false],
         "XtC": ["https://www.facebook.com/100022514553192/videos/434553269248853/", "2024-10-12", false],
-        "Artificial Climb": ["https://www.facebook.com/100022514553192/videos/461915859591416/", "2024-10-15", false]
+        "Artificial Climb": ["https://www.facebook.com/100022514553192/videos/461915859591416/", "2024-10-15", false],
+        "MISFIRE": ["https://www.facebook.com/100022514553192/videos/909928761049721/", "2024-10-18", false],
+        "i hate renn": ["https://www.facebook.com/100022514553192/videos/1628415124777000/", "2024-10-18", false],
+        "Komodo": ["https://www.facebook.com/100022514553192/videos/2086019975125790/", "2024-10-18", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
