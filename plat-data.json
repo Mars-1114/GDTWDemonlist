@@ -9,6 +9,7 @@
       ["Entrenched", "easymode"],
       ["The Tower XXII", "o1iv3"],
       ["Dungeon Treasures", "Astronaunt21"],
+      ["Throat of the World", "thejshadow"],
       ["ECSTASIS", "dkitey"],
       ["Mountainous Climb", "tornadoGD54"],
       ["Nextphase", "Doshterhoz"],
@@ -38,6 +39,10 @@
         },
         "wako": {
             "FURY OF 500": ["https://www.youtube.com/watch?v=eyNYxVGHp60", "2024-09-13", false]
+        },
+        "InfAstral": {
+          "Throat of the World": ["https://www.youtube.com/watch?v=Dt_qCX_DLkc", "2024-08-28", false],
+          "FURY OF 500": ["https://www.youtube.com/watch?v=WVOA6h9T_L8", "2024-07-15", false]
         }
     }
 }

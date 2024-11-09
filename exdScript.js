@@ -50,7 +50,7 @@ req.onload = function() {
   }
 };
 
-if (window.location.pathname == "/GDTWDemonlist/plat.html") {
+if (window.location.pathname == "/GDTWDemonlist/plat.html" || window.location.pathname == "/plat.html") {
   req.open("GET", "plat-data.json");
 }
 else {

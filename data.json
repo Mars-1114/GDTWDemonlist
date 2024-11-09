@@ -84,6 +84,7 @@
       ["Triple Six", "Zylenox"],
       ["Welcome to GD News", "vortrox"],
       ["Cat Planet", "IcEDCave"],
+      ["Niflheim", "Vismuth"],
       ["limitless", "Konsi"],
       ["Audio Extraction", "GoodSmile"],
       ["Daydream", "Yendis"],
@@ -150,7 +151,7 @@
       ["Red World Rebirth", "Riot"],
       ["Robi", "robianny"],
       ["PLUS ULTRA", " Cancel"],
-      ["Hypersonic", "ViPriN"],
+      ["HyperSonic", "ViPriN"],
       ["Falling Up", "KrmaL"],
       ["Just DANCE", "Texic"],
       ["Marlboro reds", "xSlendy"],
@@ -415,7 +416,7 @@
         "night party": ["https://www.facebook.com/100004505670128/videos/1025438648857370/", "2022-11-22", false],
         "CYCLONE": ["https://www.facebook.com/100004505670128/videos/1880537995439705/", "2021-06-17", false],
         "Thunder Alphabet": ["https://www.facebook.com/100004505670128/videos/1190785584882995/", "2023-02-27", false],
-        "Hypersonic": ["http://www.facebook.com/100004505670128/videos/514595599619606/", "2021-08-04", false],
+        "HyperSonic": ["http://www.facebook.com/100004505670128/videos/514595599619606/", "2021-08-04", false],
         "Falling Up": ["https://www.youtube.com/watch?v=L95Z22cA7nQ", "2022-12-13", false],
         "Incipient": ["https://www.facebook.com/100004505670128/videos/1591545351005639/", "2020-07-03", false],
         "Azurite": ["https://www.facebook.com/100004505670128/videos/316274727083107/", "2022-01-23", false],
@@ -439,7 +440,7 @@
         "Artificial Dream": ["https://www.youtube.com/watch?v=t13Sn2DbRQ8", "2021-06-23", false],
         "Volume": ["https://www.youtube.com/watch?v=0NAiH7CpUOE", "2021-03-18", false],
         "Napalm": ["https://www.youtube.com/watch?v=Ct4jGqLzKVI", "2021-11-06", false],
-        "Hypersonic": ["https://www.youtube.com/watch?v=FZ64SKQBJP8", "2021-03-17", false],
+        "HyperSonic": ["https://www.youtube.com/watch?v=FZ64SKQBJP8", "2021-03-17", false],
         "Incipient": ["https://www.youtube.com/watch?v=PXTFNz0lgjw", "2021-10-08", false],
         "Acu": ["https://www.youtube.com/watch?v=n9dUp9Hlt10", "2021-04-14", false],
         "Allegiance": ["https://www.youtube.com/watch?v=PPUVD-cARBc", "2021-06-22", false],
@@ -458,10 +459,10 @@
         "Atmosphere": ["https://www.youtube.com/watch?v=ZucUcXSIGBk", "2018-03-26", false],
         "Retention": ["https://www.youtube.com/watch?v=YekdlXM33UE", "2018-05-18", false],
         "The Ultimate Phase": ["https://www.youtube.com/watch?v=GoazWLgxQ1E", "2017-10-07", false],
-        "Hypersonic": ["https://www.youtube.com/watch?v=sCbxJBjBeYg", "2017-09-25", false],
+        "HyperSonic": ["https://www.youtube.com/watch?v=sCbxJBjBeYg", "2017-09-25", false],
         "Cataclysm": ["https://www.youtube.com/watch?v=-cIkxs5W_aE", "2017-09-25", false]
       },
-      "嚴偉哲": {
+      "Mars": {
         "Daydream": ["https://youtu.be/4hBtIdZbGF0", "2023-07-31", false],
         "Esencia": ["https://youtu.be/XmAhCyImdYY", "2023-05-14", false],
         "Polish Alphabet": ["https://www.youtube.com/watch?v=TXBwJzVazGw", "2021-04-27", true],
@@ -479,7 +480,7 @@
       },
       "李在昌": {
         "A Bizarre Phantasm": ["https://www.youtube.com/watch?v=H5R92Szfdko", "2021-07-27", false],
-        "Hypersonic": ["https://www.youtube.com/watch?v=t43Bjf4GoY0", "2023-05-26", false],
+        "HyperSonic": ["https://www.youtube.com/watch?v=t43Bjf4GoY0", "2023-05-26", false],
         "Cataclysm": ["https://www.youtube.com/watch?v=20wyHL6GR6M", "2020-09-12", false],
         "ICE Carbon Diablo X": ["https://www.youtube.com/watch?v=U1fGahk6Qjo", "2018-11-24", false],
         "Incipient": ["https://www.youtube.com/watch?v=KOvixUB5TOg", "2023-10-07", true],
@@ -552,6 +553,18 @@
       },
       "Tin": {
         "Lost Love": ["https://www.youtube.com/watch?v=ZHLRUM5G0gg", "2024-10-05", false]
+      },
+      "InfAstral": {
+        "Blade of Justice": ["https://www.youtube.com/watch?v=ZBnIgdytuwY", "2024-10-07", false],
+        "Allegiance":["https://www.youtube.com/watch?v=lVjyQjn9gNQ", "2024-09-29", false],
+        "Precipitance":["https://www.youtube.com/watch?v=bYI7DsQFMdo", "2024-09-17", false],
+        "HyperSonic":["https://www.youtube.com/watch?v=NmJnov_FqDc", "2024-07-03", false],
+        "Niflheim":["https://www.youtube.com/watch?v=d5X5vUvMt-Q", "2024-06-08", false],
+        "Heavens Door":["https://www.youtube.com/watch?v=Us9fsnsraGk", "2024-06-08", false],
+        "Deception Dive":["https://www.youtube.com/watch?v=gjKzAsEp7Tk", "2024-05-29", false],
+        "Acu":["https://www.youtube.com/watch?v=SXYzvDlFXno", "2024-05-25", false],
+        "Retention":["https://www.youtube.com/watch?v=wk4vbmDMsvY", "2024-02-09", false],
+        "Cataclysm":["https://www.youtube.com/watch?v=LGqdxKfXFMI", "2024-01-14", false]
       }
   }
 }
