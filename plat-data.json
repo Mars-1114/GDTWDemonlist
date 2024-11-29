@@ -11,10 +11,13 @@
       ["Dungeon Treasures", "Astronaunt21"],
       ["Throat of the World", "thejshadow"],
       ["ECSTASIS", "dkitey"],
-      ["Mountainous Climb", "tornadoGD54"],
       ["Nextphase", "Doshterhoz"],
       ["Chief Needler", "Orelu"],
       ["Tower of Infinity", "zYuko"]
+    ],
+
+    "legacy": [
+        ["Mountainous Climb", "tornadoGD54"]
     ],
 
     "leaderboard": {
