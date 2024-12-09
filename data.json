@@ -584,6 +584,9 @@
         "Cataclysm":["https://www.youtube.com/watch?v=LGqdxKfXFMI", "2024-01-14", false],
         "The Flawless":["https://www.youtube.com/watch?v=-NkM7ItUD70", "2024-11-15", false],
         "Bloodbath":["https://www.youtube.com/watch?v=5m6qVzuDWhU", "2024-11-24", false]
+      },
+      "TheHardyGoD": {
+        "Acu": ["https://www.youtube.com/watch?v=GmNuN7TwbnY", "2024-11-19", true]
       }
   }
 }
