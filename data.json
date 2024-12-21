@@ -60,6 +60,7 @@
       ["Blade of Justice", "Manix648"],
       ["Silentium Gradas", "Stormfly"],
       ["Poltergeist Reborn", "ThePrimeEvil"],
+      ["Carcano", "Asuith"],
       ["moment", "Arekushi14"],
       ["Epsilon", "Team Proxima"],
       ["Game Over", "SrGuillester"],
@@ -186,6 +187,7 @@
       ["Castling", "Meroo"],
       ["Helios", "Canonlaw"],
       ["Anya III", "Anya21"],
+      ["Reverie", "gaidenhertuny"],
       ["Decay", "KiwiPenguin"],
       ["Komodo", "Epsii"],
       ["troll level", "lexycat"],
@@ -366,7 +368,9 @@
         "White Album": ["https://www.facebook.com/100022514553192/videos/1097945545321477/", "2024-11-24", false],
         "HyperSonic": ["https://www.facebook.com/100022514553192/videos/1292877095389038/", "2024-11-28", false],
         "Redemption": ["https://www.facebook.com/100022514553192/videos/1656993851696731/", "2024-12-17", false],
-        "phantasmagoria": ["https://www.facebook.com/100022514553192/videos/1637125110529347/", "2024-12-18", false]
+        "phantasmagoria": ["https://www.facebook.com/100022514553192/videos/1637125110529347/", "2024-12-18", false],
+        "Reverie": ["https://www.facebook.com/100022514553192/videos/454047707736682/", "2024-12-19", false],
+        "Carcano": ["https://www.facebook.com/100022514553192/videos/2339295073107312/", "2024-12-20", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
@@ -451,7 +455,8 @@
         "Leyak": ["https://www.facebook.com/100004505670128/videos/1548500471976794/", "2020-05-14", false],
         "Robi": ["https://www.facebook.com/100004505670128/videos/695771549193504/", "2023-10-28", false],
         "Power Grid": ["https://www.youtube.com/watch?v=9AMMl3am4Y4", "2023-11-10", false],
-        "Raindance": ["https://www.facebook.com/100004505670128/videos/375014558376503/", "2023-12-07", false]
+        "Raindance": ["https://www.facebook.com/100004505670128/videos/375014558376503/", "2023-12-07", false],
+        "Reverie": ["https://www.facebook.com/100004505670128/videos/1212068140184161/", "2023-11-07", true]
       },
       "游任穎": {
         "Panasonic": ["https://www.youtube.com/watch?v=SmV9NcgCYCk", "2020-06-23", false],
