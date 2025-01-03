@@ -1,5 +1,5 @@
 const navArr = [
-  ["index.html", "Top Extremes"],
+  ["index.html", "Top Classics"],
   ["plat.html", "Top Platformers"],
   ["legacy.html", "Legacy List"],
   ["leaderboard.html", "Leaderboard"],

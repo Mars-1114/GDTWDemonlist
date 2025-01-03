@@ -1,5 +1,6 @@
 {
     "demon": [
+      ["Oblivion", "dice88"],
       ["Shukketsu", "zYuko"],
       ["Cognition", "EndLevel"],
       ["Cosmic Cyclone", "APTeamOfficial"],
@@ -370,7 +371,8 @@
         "Redemption": ["https://www.facebook.com/100022514553192/videos/1656993851696731/", "2024-12-17", false],
         "phantasmagoria": ["https://www.facebook.com/100022514553192/videos/1637125110529347/", "2024-12-18", false],
         "Reverie": ["https://www.facebook.com/100022514553192/videos/454047707736682/", "2024-12-19", false],
-        "Carcano": ["https://www.facebook.com/100022514553192/videos/2339295073107312/", "2024-12-20", false]
+        "Carcano": ["https://www.facebook.com/100022514553192/videos/2339295073107312/", "2024-12-20", false],
+        "Oblivion": ["https://www.facebook.com/100022514553192/videos/919647333245780/", "2025-01-04", false]
       },
       "蘇祺文": {
         "Chromatic Haze": [" ", "2100-01-01", false],
