@@ -299,3 +299,11 @@ address.addr {
     font-size: 3em;
   }
 }
+
+.content ol, .content ul {
+  line-height: 30px;
+}
+
+.content ol b, .content ul b {
+  color: rgb(199, 227, 255);
+}

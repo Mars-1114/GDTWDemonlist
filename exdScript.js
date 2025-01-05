@@ -19,7 +19,7 @@ req.onload = function() {
     text += "#" + (exd + 1) + " " + data.demon[exd][0] + "</i>";
     text += "<i style='font-weight: normal'> by " + data.demon[exd][1] + " </i>";
     text += "<span style='font-size: 15px; font-weight: normal'>&nbsp (";
-    text += calculate(exd + 1) + " pts)</span>";
+    text += calculate(exd + 1, data.demon.length) + " pts)</span>";
     text += "<span style='float: right'>+</span></h2></button>";
     text += "<div class='collapseWrap'><div class='collapsable'>" + listPlayer(data.leaderboard, data.demon, exd) + "</div></div>";
   }
@@ -90,6 +90,7 @@ function listPlayer(player, demon, demonId) {
 }
 
 //compute score
-function calculate(n) {
-  return (1.0881 * (250 / (0.125 * (n + 7))) * (Math.log(0.125 * (n + 7)) + 1) / Math.pow(1.0881, Math.pow(n, 0.6))).toFixed(2);
+function calculate(n, length) {
+  var N = (150 - 1) / (length - 1) * (n - 1) + 1;
+  return Math.round(100 * 1.0881 * (250 / (0.125 * (N + 7))) * (Math.log(0.125 * (N + 7)) + 1) / Math.pow(1.0881, Math.pow(N, 0.6))) / 100;
 }

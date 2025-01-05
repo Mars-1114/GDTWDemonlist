@@ -16,14 +16,14 @@ req.onload = function() {
         if (hardestA > n) {
           hardestA = n;
         }
-        scoreA += calculate(n + 1);
+        scoreA += calculate(n + 1, data.demon.length);
         countA++;
       }
       if (data.demon[n][0] in data.leaderboard[b]) {
         if (hardestB > n) {
           hardestB = n;
         }
-        scoreB += calculate(n + 1);
+        scoreB += calculate(n + 1, data.demon.length);
         countB++;
       }
     }
@@ -43,7 +43,7 @@ req.onload = function() {
     let score = 0;
     for (let i = 0; i < data.demon.length; i++) {
       if (data.demon[i][0] in data.leaderboard[temp[n]]) {
-        score += calculate(i + 1);
+        score += calculate(i + 1, data.demon.length);
       }
     }
     text += score.toFixed(2) + " pts";
@@ -116,6 +116,7 @@ function listPlayer(player, list) {
   return temp;
 }
 
-function calculate(n) {
-  return Math.round(100 * 1.0881 * (250 / (0.125 * (n + 7))) * (Math.log(0.125 * (n + 7)) + 1) / Math.pow(1.0881, Math.pow(n, 0.6))) / 100;
+function calculate(n, length) {
+  var N = (150 - 1) / (length - 1) * (n - 1) + 1;
+  return Math.round(100 * 1.0881 * (250 / (0.125 * (N + 7))) * (Math.log(0.125 * (N + 7)) + 1) / Math.pow(1.0881, Math.pow(N, 0.6))) / 100;
 }
