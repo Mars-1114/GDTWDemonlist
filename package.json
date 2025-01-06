@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "gh-pages": "^6.1.1"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.32"
   }
 }
