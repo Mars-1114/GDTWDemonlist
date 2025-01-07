@@ -38,49 +38,34 @@ $("#menu").on("click", function() {
   }
 });
 
-let dropbtnclicked = false;
-let dropbtndown = false;
-let dropdwnclicked = false;
+let dropdownclick = false;
 
-$(".navdrop").on({
-  click: function() {
-    if ($(".navdropMenu").css("display") == "none") {
-      dropbtnclicked = true;
-    }
-    else {
-      $(".navdropMenu").css("display", "none").trigger("blur");
-    }
-  },
-  mousedown: function() {
-    if ($(this).css("display") == "block") {
-      dropbtndown = true;
-    }
+$(".navdrop").on("click", function() {
+  if ($(".navdropMenu").css("display") == "none") {
+    $(".navdropMenu").css("display", "block");
+  }
+  else {
+    $(".navdropMenu").css("display", "none");
+    $(this).trigger("blur");
   }
 });
 
-$(".navdropMenu").on("click", function() {
-  if ($(this).css("display") == "block") {
-    dropdwnclicked = true;
-  }
-});
+$("body").on("click", ".navdrop, .navdropMenu", function() {
+  dropdownclick = true;
+})
 
-$("body").on({
-  click: function() {
-    if (dropbtnclicked) {
-      $(".navdropMenu").css("display", "block");
-      dropbtnclicked = false;
-    }
-  },
-  mousedown: function() {
-    if (!(dropdwnclicked || dropbtndown)) {
-      $(".navdropMenu").css("display", "none");
-    }
-    dropbtnclicked = false;
-    dropbtndown = false;
+$("body").on("click", function() {
+  if (!dropdownclick) {
+    $(".navdropMenu").css("display", "none");
   }
-});
+  dropdownclick = false;
+})
 
 $(".navdropContent").on("click", function() {
   $(".visiting").removeClass("visiting");
   $(this).addClass("visiting");
 });
+
+$(window).on("resize", function() {
+  $(".navdropMenu").css("display", "none");
+})
