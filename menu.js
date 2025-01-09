@@ -31,7 +31,7 @@ for (let i = 0; i < navArr.length; i++){
 }
 $("#menuContainer").html(text);
 
-$("#menu").on("click", function() {
+$(".menu").on("click", function() {
   if (!$(this).hasClass("visiting")) {
     $(".visiting").addClass("leave").remove("visiting");
     $(this).addClass("visiting");
