@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>THIS IS A TEST PAGE</h1>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+            var file = "plat-data.json";
+            var site = "https://pemonlist.com/api/level/"
+            
+            var exd_arr = [];
+            var local_data;
+            $.getJSON(file, function(data) {
+              local_data = data;
+              for (let n = 0; n < data.demon.length; n++) {
+                $.ajax({
+                  url: site + data.demon[n][1],
+                  type: "GET",
+                  success: function(lvl) {
+                    exd_arr.push(lvl);
+                  }
+                })
+              }
+            });
+
+            $(document).ajaxStop(function() {
+                console.log(exd_arr);
+            })
+        </script>
+    </body>
+</html>
