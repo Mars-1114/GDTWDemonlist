@@ -1,51 +1,127 @@
 {
     "demon": [
-      ["Free Solo", "meowmastererer"],
-      ["The Abyss", "zYuko"],
-      ["Intersummisse", "KEaliTgeo"],
-      ["radio tower", "DavidConcal"],
-      ["FURY OF 500", "Split72"],
-      ["Give Up II", "LudiumGD"],
-      ["Entrenched", "easymode"],
-      ["The Tower XXII", "o1iv3"],
-      ["Dungeon Treasures", "Astronaunt21"],
-      ["Throat of the World", "thejshadow"],
-      ["ECSTASIS", "dkitey"],
-      ["Nextphase", "Doshterhoz"],
-      ["Chief Needler", "Orelu"],
-      ["Tower of Infinity", "zYuko"]
+        ["Free Solo", "103998262"],
+        ["The Abyss", "98163412"],
+        ["Intersummisse", "109930878"],
+        ["radio tower", "102805772"],
+        ["FURY OF 500", "105382136"],
+        ["Give Up II", "111066266"],
+        ["Entrenched", "99978783"],
+        ["The Tower XXII", "97692058"],
+        ["Dungeon Treasures", "102010719"],
+        ["Throat of the World", "109365157"],
+        ["ECSTASIS", "108103482"],
+        ["Nextphase", "107420706"],
+        ["Chief Needler", "102557379"],
+        ["Tower of Infinity", "97713011"]
     ],
 
     "legacy": [
-        ["Mountainous Climb", "tornadoGD54"]
+        {
+            "level": "Mountainous Climb",
+            "id": "107732760",
+            "publisher": "tornadoGD54"
+        }
     ],
 
-    "leaderboard": {
+    "player": {
         "carti": {
-            "The Tower XXII": ["https://www.youtube.com/live/w12wG2Arb-M", "2024-06-06", false],
-            "Tower of Infinity": ["https://www.youtube.com/live/ZAGiZnWtdlw", "2024-06-05", false],
-            "Chief Needler": ["https://www.youtube.com/watch?v=bMOcwrj0Mi4", "2024-08-19", false],
-            "radio tower": ["https://www.youtube.com/watch?v=MZ-voYs7-ng", "2024-08-19", false],
-            "Dungeon Treasures": ["https://www.youtube.com/live/EJoeq64huyU", "2024-08-20", false],
-            "Entrenched": ["https://www.youtube.com/live/eO6v3MewVvk", "2024-08-21", false],
-            "Nextphase": ["https://www.youtube.com/live/cmfTdZMDvcw", "2024-08-22", false],
-            "Mountainous Climb": ["https://www.youtube.com/live/gs1_1raU-nc", "2024-08-22", false],
-            "The Abyss": ["https://www.youtube.com/live/JyCRneoENjg", "2024-08-31", false],
-            "FURY OF 500": ["https://www.youtube.com/live/-_W6qTX3LhE", "2024-08-29", false],
-            "Intersummisse": ["https://www.youtube.com/live/hfSBGDtAKpI", "2024-09-14", false],
-            "Give Up II": ["https://www.youtube.com/live/mDCMdF5a52U", "2024-10-14", false],
-            "ECSTASIS": ["https://www.youtube.com/live/RLzBbJTwP3A", "2024-10-23", false]
+            "97692058": {
+                "video": "https://www.youtube.com/live/w12wG2Arb-M",
+                "completion_date": "2024-06-06",
+                "is_mobile": false
+            },
+            "97713011": {
+                "video": "https://www.youtube.com/live/ZAGiZnWtdlw",
+                "completion_date": "2024-06-05",
+                "is_mobile": false
+            },
+            "98163412": {
+                "video": "https://www.youtube.com/live/JyCRneoENjg",
+                "completion_date": "2024-08-31",
+                "is_mobile": false
+            },
+            "99978783": {
+                "video": "https://www.youtube.com/live/eO6v3MewVvk",
+                "completion_date": "2024-08-21",
+                "is_mobile": false
+            },
+            "102010719": {
+                "video": "https://www.youtube.com/live/EJoeq64huyU",
+                "completion_date": "2024-08-20",
+                "is_mobile": false
+            },
+            "102557379": {
+                "video": "https://www.youtube.com/watch?v=bMOcwrj0Mi4",
+                "completion_date": "2024-08-19",
+                "is_mobile": false
+            },
+            "102805772": {
+                "video": "https://www.youtube.com/watch?v=MZ-voYs7-ng",
+                "completion_date": "2024-08-19",
+                "is_mobile": false
+            },
+            "105382136": {
+                "video": "https://www.youtube.com/live/-_W6qTX3LhE",
+                "completion_date": "2024-08-29",
+                "is_mobile": false
+            },
+            "107420706": {
+                "video": "https://www.youtube.com/live/cmfTdZMDvcw",
+                "completion_date": "2024-08-22",
+                "is_mobile": false
+            },
+            "107732760": {
+                "video": "https://www.youtube.com/live/gs1_1raU-nc",
+                "completion_date": "2024-08-22",
+                "is_mobile": false
+            },
+            "108103482": {
+                "video": "https://www.youtube.com/live/RLzBbJTwP3A",
+                "completion_date": "2024-10-23",
+                "is_mobile": false
+            },
+            "109930878": {
+                "video": "https://www.youtube.com/live/hfSBGDtAKpI",
+                "completion_date": "2024-09-14",
+                "is_mobile": false
+            },
+            "111066266": {
+                "video": "https://www.youtube.com/live/mDCMdF5a52U",
+                "completion_date": "2024-10-14",
+                "is_mobile": false
+            }
         },
         "超大法國麵包": {
-            "FURY OF 500": ["https://www.youtube.com/watch?v=VXH1pEYPN_A", "2024-08-28", false],
-            "Free Solo": ["https://www.facebook.com/100022514553192/videos/1757201205105324/", "2024-09-16", false]
+            "103998262": {
+                "video": "https://www.facebook.com/100022514553192/videos/1757201205105324/",
+                "completion_date": "2024-09-16",
+                "is_mobile": false
+            },
+            "105382136": {
+                "video": "https://www.youtube.com/watch?v=VXH1pEYPN_A",
+                "completion_date": "2024-08-28",
+                "is_mobile": false
+            }
         },
         "wako": {
-            "FURY OF 500": ["https://www.youtube.com/watch?v=eyNYxVGHp60", "2024-09-13", false]
+            "105382136": {
+                "video": "https://www.youtube.com/watch?v=eyNYxVGHp60",
+                "completion_date": "2024-09-13",
+                "is_mobile": false
+            }
         },
         "InfAstral": {
-          "Throat of the World": ["https://www.youtube.com/watch?v=Dt_qCX_DLkc", "2024-08-28", false],
-          "FURY OF 500": ["https://www.youtube.com/watch?v=WVOA6h9T_L8", "2024-07-15", false]
+            "105382136": {
+                "video": "https://www.youtube.com/watch?v=WVOA6h9T_L8",
+                "completion_date": "2024-07-15",
+                "is_mobile": false
+            },
+            "109365157": {
+                "video": "https://www.youtube.com/watch?v=Dt_qCX_DLkc",
+                "completion_date": "2024-08-28",
+                "is_mobile": false
+            }
         }
     }
 }

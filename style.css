@@ -182,11 +182,11 @@ a:hover, a.visiting {
 }
 
 .collapseWrap {
+  height: 0;
   margin-left: 5px;
-  max-height: 0;
   display: block;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
+  transition: height 0.2s ease-out;
 }
 
 .loaderContainer {
@@ -308,4 +308,10 @@ address.addr {
 
 .content ol b, .content ul b {
   color: rgb(199, 227, 255);
+}
+
+#warning {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
 }

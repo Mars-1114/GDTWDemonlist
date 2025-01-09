@@ -1,7 +1,7 @@
 const navArr = [
-  ["index.html", "Top Classics"],
-  ["plat.html", "Top Platformers"],
-  ["legacy.html", "Legacy List"],
+  ["index.html", "Classical"],
+  ["plat.html", "Platformer"],
+  ["legacy.html", "Legacy"],
   ["leaderboard.html", "Leaderboard"],
   ["plat-leaderboard.html", "Platformer Leaderboard"],
   ["guidelines.html", "Guidelines"],
