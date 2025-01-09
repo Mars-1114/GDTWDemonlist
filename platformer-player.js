@@ -145,7 +145,7 @@ function listDemons(demons) {
   for (let n in demons) {
     // color
     if (+demons[n].placement <= 15) {
-      var color = "rgb(193, 34, 34)";
+      var color = "rgb(195, 77, 77)";
     }
     else if (+demons[n].placement <= 75) {
       var color = "rgb(223, 193, 125)";

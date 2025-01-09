@@ -24,7 +24,7 @@ $(document).ajaxStop(function() {
   for (var n in exd_arr) {
     // color
     if (+exd_arr[n].position <= 15) {
-      var color = "rgb(193, 34, 34)";
+      var color = "rgb(195, 77, 77)";
     }
     else if (+exd_arr[n].position <= 75) {
       var color = "rgb(223, 193, 125)";
