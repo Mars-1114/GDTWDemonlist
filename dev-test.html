@@ -2,27 +2,18 @@
 <html>
     <body>
         <h1>THIS IS A TEST PAGE</h1>
+        <div id="dev"></div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-        <script src="coi-serviceworker.min.js"></script>
         <script>
-            $.get("https://corsproxy.io/?url=https://pemonlist.com/api/level/103998262", function(data) {
-                console.log(data)
-            })
-            /*async function postJSON() {
+            let site = "https://corsproxy.io/?url=https://pemonlist.com/api/level/103998262";
             try {
-                fetch("https://pemonlist.com/api/level/103998262", {
-                    headers: {
-                    "User-Agent": ""
-                    }
-                }).then(function(response) {
-                    console.log(response)
+                $.get(site, function(data) {
+                    $("#dev").html("<pre>" + JSON.stringify(data, null, 4) + "</pre>");
                 });
-            } catch (error) {
-              console.error("Error:", error);
             }
-          }
-          
-          postJSON();*/
+            catch {
+                $("#dev").html("ERROR");
+            }
         </script>
     </body>
 </html>
