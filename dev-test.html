@@ -5,15 +5,8 @@
         <div id="dev"></div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script>
-            let site = "https://corsproxy.io/?url=https://pemonlist.com/api/level/103998262";
-            try {
-                $.get(site, function(data) {
-                    $("#dev").html("<pre>" + JSON.stringify(data, null, 4) + "</pre>");
-                });
-            }
-            catch {
-                $("#dev").html("ERROR");
-            }
+            document.cookie = "test=tidal wave";
+            console.log(document.cookie);
         </script>
     </body>
 </html>
