@@ -209,7 +209,8 @@
       ["Delirium Tremens", "73289291"],
       ["Prismatic", "107341811"],
       ["Red World", "2374518"],
-      ["the super hotdog", "109730342"]
+      ["the super hotdog", "109730342"],
+      ["Escape Room", "90420966"]
     ],
     
     "legacy": [
@@ -272,6 +273,11 @@
     
     "player": {
         "超大法國麵包": {
+            "90420966": {
+                "video": "https://www.facebook.com/100022514553192/videos/1147107097073686/",
+                "completion_date": "2025-01-12",
+                "is_mobile": false
+            },
             "814678": {
                 "video": "https://www.facebook.com/100022514553192/videos/833110254116119/",
                 "completion_date": "2020-10-25",
