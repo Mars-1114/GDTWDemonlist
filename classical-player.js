@@ -84,7 +84,7 @@ $(document).ajaxStop(function() {
   for (let player of players) {
     str += "<button class=\"dropdownBtn\">\
               <h2>\
-                <span style=\"color: #86d9f0\">" + player.player + "</span>\
+                <span style=\"color: var(--text-list-default)\">" + player.player + "</span>\
                 <span style='font-size: 0.8em'> \
                   (" + player.points.toFixed(2) + " pts)\
                 </span>\
@@ -124,16 +124,16 @@ function listDemons(demons) {
   for (let n in demons) {
     // color
     if (+demons[n].placement <= 15) {
-      var color = "rgb(195, 77, 77)";
+      var color = "--text-list-top";
     }
     else if (+demons[n].placement <= 75) {
-      var color = "rgb(223, 193, 125)";
+      var color = "--text-list-main";
     }
     else if (+demons[n].placement <= 150) {
-      var color = "rgb(24, 186, 32)";
+      var color = "--text-list-extended";
     }
     else {
-      var color = "rgb(255, 255, 255)";
+      var color = "--text-default";
     }
 
     // level name
@@ -146,7 +146,7 @@ function listDemons(demons) {
     }
 
     str += "<h5>\
-              <span style='color: " + color + "'>\
+              <span style='color: var(" + color + ")'>\
                 #" + (+n + 1) + " " + exd_name +
               "</span> | ";
     if (demons[n].video != " ") {
@@ -163,7 +163,7 @@ function listDemons(demons) {
       str += "<a class='link' href=" + demons[n].video + " style='font-weight: normal'>" + site + "</a>";
     }
     else {
-      str += "<span style='color: rgb(235, 110, 101)'>Video Lost</span>";
+      str += "<span style='color: var(--text-removal)'>Video Lost</span>";
     }
     // mobile
     if (demons[n].is_mobile) {

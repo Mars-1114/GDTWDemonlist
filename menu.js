@@ -11,25 +11,39 @@ const navArr = [
 var path = window.location.pathname;
 path = path.split("/")[path.split("/").length - 1];
 
-var text = "<button class='menu navdrop'><b>&#9776;</b></button>";
-text += "<div class='navdropMenu'>";
+// navigation menu (mobile)
+var str = "<button class='menu navdrop'><b>&#9776;</b></button>\
+          <div class='navdropMenu'>";
 for (let i = 0; i < navArr.length; i++){
-  text += "<a class='navdropContent";
+  str += "<a class='navdropContent";
   if (path == navArr[i][0] || (i == 0 && path == "")) {
-    text += " visiting";
+    str += " visiting";
   }
-  text += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
+  str += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
 }
-text += "</div>";
-text += "<b class='menu'>GDTW Demonlist</b>";
+// navigation menu (PC)
+str += "</div>\
+        <b class='menu'>GDTW Demonlist</b>";
 for (let i = 0; i < navArr.length; i++){
-  text += "<a class='menu";
+  str += "<a class='menu";
   if (path == navArr[i][0] || (i == 0 && path == "")) {
-    text += " visiting";
+    str += " visiting";
   }
-  text += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
+  str += "' target='_self' href='" + navArr[i][0] + "'>" + navArr[i][1] + "</a>";
 }
-$("#menuContainer").html(text);
+// dark mode
+str += "<span id='darkmode-switch-container'>\
+          <label id='darkmode-switch-display'>\
+            <input type='checkbox' id='darkmode-switch-checkbox'>\
+            <span id='darkmode-switch'>\
+              <span id='darkmode-switch-icon' class='material-symbols-outlined' style='font-size: 20px'>\
+                dark_mode\
+              </span>\
+            </span>\
+          </label>\
+        </span>";
+
+$("#menuContainer").html(str);
 
 $(".menu").on("click", function() {
   if (!$(this).hasClass("visiting")) {
@@ -68,4 +82,30 @@ $(".navdropContent").on("click", function() {
 
 $(window).on("resize", function() {
   $(".navdropMenu").css("display", "none");
+})
+
+let onTop = true;
+$("#scroll-to-top").on("click", function() {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+  $("#scroll-to-top").css("bottom", "-70px");
+});
+
+$(window).on("wheel", function() {
+  if ($(window).scrollTop() > 30) {
+    onTop = true;
+  }
+})
+
+$(document).on("scroll", function() {
+  if ($(window).scrollTop() < 30) {
+    onTop = true;
+    $("#scroll-to-top").css("bottom", "-70px");
+  }
+  else if (onTop) {
+    onTop = false;
+    $("#scroll-to-top").css("bottom", "0");
+  }
 })

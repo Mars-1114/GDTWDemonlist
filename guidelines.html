@@ -8,8 +8,9 @@
   <meta http-equiv='expires' content='0'> 
   <meta http-equiv='pragma' content='no-cache'>
   <title>GDTW Demonlist</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="style.css" rel="stylesheet" type="text/css">
   <link rel="icon" href="icon.ico">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,500,1,0">
   <base target="_blank">
 </head>
 
@@ -63,7 +64,7 @@
               <li>Twitch (限精華)</li>
             </ul>
             <ul style="list-style-type: square">
-              <li style="color:rgb(243, 159, 159)">不接受上傳至色情網站之影片</li>
+              <li style="color: var(--text-highlight-important)">不接受上傳至色情網站之影片</li>
             </ul>
           </li>
         </ol>
@@ -109,7 +110,7 @@
         </ul>
       </li>
       <li>
-        以下行為在本榜被<strong style="color:rgb(89, 214, 89)">允許</strong>：
+        以下行為在本榜被<strong style="color: var(--text-highlight-allow)">允許</strong>：
         <ol style="list-style-type: lower-roman">
           <li>
             使用以下外掛或模組：
@@ -136,11 +137,11 @@
           <li>
             排序標準為其他具公信力網站上之<b>關卡難度</b>排名。
             <ul style="list-style-type: disc">
-              <li><b>Classical Extreme Demon</b>比照<a class="link" href="https://aredl.net">AREDL</a></li>
-              <li><b>Platformer Extreme Demon</b>比照<a class="link" href="https://pemonlist.com">Pemonlist</a></li>
+              <li><b>Classical Extreme Demon</b> 比照 <a class="link" href="https://aredl.net">AREDL</a></li>
+              <li><b>Platformer Extreme Demon</b> 比照 <a class="link" href="https://pemonlist.com">Pemonlist</a></li>
             </ul>
             <ul style="list-style-type: square">
-              <li style="color:rgb(243, 159, 159)">若該網站尚未排序此關卡，則本網站會待其排序後再行放置</li>
+              <li style="color: var(--text-highlight-important)">若該網站尚未排序此關卡，則本網站會待其排序後再行放置</li>
             </ul>
           </li>
           <li>
@@ -183,9 +184,9 @@
           <li>
             玩家所過之關卡會依據<b>難度</b>由上而下排序：
             <ul style="list-style-type: disc">
-              <li>如為遊戲前<b>25</b>難之關卡，其顏色會標註<b style="color:rgb(195, 77, 77)">紅色</b></li>
-              <li>如為遊戲前<b>75</b>難之關卡，其顏色會標註<b style="color:rgb(223, 193, 125)">黃色</b></li>
-              <li>如為遊戲前<b>150</b>難之關卡，其顏色會標註<b style="color:rgb(24, 186, 32)">綠色</b></li>
+              <li>如為遊戲前<b>25</b>難之關卡，其顏色會標註<b style="color: var(--text-list-top)">紅色</b></li>
+              <li>如為遊戲前<b>75</b>難之關卡，其顏色會標註<b style="color: var(--text-list-main)">黃色</b></li>
+              <li>如為遊戲前<b>150</b>難之關卡，其顏色會標註<b style="color: var(--text-list-extended)">綠色</b></li>
             </ul>
             <ul style="list-style-type: square">
               <li>若使用<b>手機</b>通關之玩家，在記錄旁會註記 <i><b>"Mobile"</b></i></li>
@@ -253,9 +254,16 @@
       Website by Mars
     </address>
   </div>
+  <span id="scroll-to-top">
+    <span class="material-symbols-outlined">
+      vertical_align_top
+    </span>
+    <p style="margin: 0"><b>TOP</b></p>
+  </span>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <script src="menu.js"></script>
+  <script src="cookie.js"></script>
 </body>
 
 </html>

@@ -1,3 +1,5 @@
+const ORDER = ["classical", "platformer"];
+
 var local_data = {};
 $.getJSON("data.json", function(data) {
   local_data["classical"] = data;
@@ -10,20 +12,20 @@ $.getJSON("plat-data.json", function(data) {
 $(document).ajaxStop(function() {
   // html
   let str = "";
-  for (let type in local_data) {
+  for (let type of ORDER) {
     var player = local_data[type].player;
     var legacy = local_data[type].legacy;
     if (type == "classical") {
-      var color = "#86d9f0";
+      var color = "--text-list-default";
     }
     else if (type == "platformer") {
-      var color = "#a27dff";
+      var color = "--text-platformer";
     }
 
     for (let lvl of legacy) {
       str += "<button class='dropdownBtn'>\
                 <h2>\
-                  <i style='color:" + color + "'>" + lvl.level + "</i>\
+                  <i style='color: var(" + color + ")'>" + lvl.level + "</i>\
                   <i style='font-weight: normal'> by " + lvl.publisher + "</i>\
                   <span class='indicator' style='float: right'>+</span>\
                 </h2>\

@@ -2,12 +2,55 @@
 
 :root {
   --bg: rgb(31, 33, 46);
+
+  --menu: rgb(52, 92, 116);
+  --menu-visit: rgb(81, 149, 191);
+  --menu-mobile-hover: rgb(46, 78, 101);
+  --menu-mobile-nav: rgb(105, 152, 149);
+  --menu-mobile-nav-hover: rgb(85, 125, 123);
+
+  --switch-base: rgb(29, 52, 60);
+  --switch: rgb(174, 138, 207);
+
+  --list-base: rgb(43, 48, 70);
+  --list-border: #36444e;
+
+  --loader: grey;
+
+  --tooltip-border: rgb(86, 200, 192);
+
+  --scroll-to-top-base: rgb(114, 193, 188);
+
+  --footer: rgb(39, 42, 57);
+
+  --text-default: white;
+  --text-title: rgb(165, 192, 255);
+  --text-addition: rgb(167, 255, 255);
+  --text-platformer: #a27dff;
+  --text-removal: rgb(235, 110, 101);
+  --text-highlight: rgb(199, 227, 255);
+  --text-highlight-important: rgb(243, 159, 159);
+  --text-highlight-allow: rgb(89, 214, 89);
+  --text-loader: rgb(120, 140, 161);
+  --text-list-top: rgb(195, 77, 77);
+  --text-list-main: rgb(223, 193, 125);
+  --text-list-extended: rgb(24, 186, 32);
+  --text-list-default: rgb(134, 217, 240);
+
+  --link-default: rgb(181, 163, 199);
+  --link-menu: rgb(207, 207, 207);
+  --link-menu-hover: rgb(211, 255, 240);
+  --link-menu-nav-hover: rgb(211, 255, 240);
+  --link-hover: rgb(211, 255, 240);
+  --link-visit: rgb(211, 255, 240);
 }
 
 body {
   font-family: 'Signika', sans-serif;
+  min-height: calc(100vb - 45px);
   background-color: var(--bg);
   margin: 0;
+  transition: background-color 0.1s;
 }
 
 .mainTitle {
@@ -18,15 +61,18 @@ body {
 .content {
   display: block;
   position: relative;
+  min-height: calc(100vb - 117px);
   top: 30px;
   padding: 15px;
   margin: 45px 15px 15px 15px;
-  color: white;
-  transition: opacity 0.3s, top 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+  color: var(--text-default);
+  transition: opacity 0.3s, top 0.5s cubic-bezier(0.16, 1, 0.3, 1), color 0.1s;
 }
 
 #exd, #legacy {
-  color: white;
+  color: var(--text-default);
+
+  transition: color 0.1s;
 }
 
 #menuContainer {
@@ -35,14 +81,18 @@ body {
   width: 100%;
   top: 0;
   padding: 0 10px 0 10px;
-  background-color: rgb(52, 92, 116);
+  background-color: var(--menu);
+
+  transition: background-color 0.1s;
 }
 
 a.menu{
   position: relative;
-  color: rgb(207, 207, 207);
+  color: var(--link-menu);
   text-decoration: none;
   text-align: center;
+
+  transition: color 0.1s;
 }
 
 a.menu:after {
@@ -53,17 +103,17 @@ a.menu:after {
   height: 100%;
   left: 0;
   top: -100%;
-  background-color: rgb(52, 92, 116);
+  background-color: var(--menu);
   transition: 0.4s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.3s;
 }
 
 a.menu:hover:after {
-  background-color: rgb(81, 149, 191);
+  background-color: var(--menu-visit);
   top: 0;
 }
 
 a.menu.visiting:after {
-  background-color: rgb(81, 149, 191);
+  background-color: var(--menu-visit);
   top: 95%;
   left: 5%;
   height: 5%;
@@ -79,27 +129,32 @@ a.menu.leave:after {
 
 .menu {
   float: left;
-  color: rgb(165, 192, 255);
+  color: var(--text-title);
   padding: 18px 12px 12px 12px;
+
+  transition: color 0.1s;
 }
 
 button.navdrop {
   display: none;
   position: absolute;
-  color: rgb(165, 192, 255);
-  background-color: rgb(52, 92, 116);
+  color: var(--text-title);
+  background-color: var(--menu);
   padding: 0 0;
   border: 0px;
   margin: 0 0;
   width: 45px;
   height: 100%;
   font-size: 14px;
-  transition: background-color 0.1s;
   cursor: pointer;
+
+  transition: background-color 0.1s;
 }
 
 button.navdrop:focus, button.navdrop:hover {
-  background-color: rgb(46, 78, 101);
+  background-color: var(--menu-mobile-hover);
+
+  transition: background-color 0.1s;
 }
 
 .navdropMenu {
@@ -114,48 +169,58 @@ button.navdrop:focus, button.navdrop:hover {
 
 a.navdropContent {
   display: block;
-  background-color: rgb(105, 152, 149);
+  background-color: var(--menu-mobile-nav);
   padding: 10px 15px 10px 12px;
-  color: white;
+  color: var(--text-default);
   text-decoration: none;
   transition: background-color 0.1s;
 }
 
 a.navdropContent:hover, a.navdropContent.visiting {
-  background-color: rgb(85, 125, 123);
+  background-color: var(--menu-mobile-nav-hover);
+}
+
+a.navdropContent:hover {
+  color: var(--link-menu-nav-hover) !important;
+}
+
+a.navdropContent.visiting {
+  color: var(--link-menu-nav-hover) !important;
 }
 
 h2 {
-  color: white;
+  color: var(--text-default);
+  transition: color 0.1s;
 }
 
 h3 {
-  line-height: 0.8;
+  line-height: 30px;
+  margin: 5px 0;
 }
 
 h3 i {
-  color: rgb(167, 255, 255);
+  color: var(--text-addition);
+  transition: color 0.1s;
 }
 
 h3 i.removal {
-  color: rgb(235, 110, 101);
+  color: var(--text-removal);
+  transition: color 0.1s;
 }
 
 p {
-  color: white;
-}
-
-address {
-  color: white;
+  color: var(--text-default);
+  transition: color 0.1s;
 }
 
 strong {
-  color: rgb(243, 159, 159);
+  color: var(--text-highlight-important);
+  transition: color 0.1s;
 }
 
 button.dropdownBtn {
   font-family: 'Signika', sans-serif;
-  background-color: rgb(43, 48, 70);
+  background-color: var(--list-base);
   text-align: left;
   padding: 10px 25px 10px 20px;
   border: 0px;
@@ -163,22 +228,35 @@ button.dropdownBtn {
   margin: 10px;
   width: 100%;
   cursor: pointer;
+
+  transition: background-color 0.1s;
 }
 
 a.link, a.link:visited {
-  color: rgb(181, 163, 199);
+  color: var(--link-default);
+  transition: color 0.1s;
 }
 
-a:hover, a.visiting {
-  color: rgb(211, 255, 240);
+a:hover, a:visited:hover {
+  color: var(--link-hover);
+}
+
+a.menu:hover {
+  color: var(--link-menu-hover);
+}
+
+a.visiting, a.visiting:hover {
+  color: var(--link-visit);
+  transition: color 0.1s;
 }
 
 .collapsable {
   padding: 0 20px 5px 20px;
-  border-left: 2px solid #36444e;
+  border-left: 2px solid var(--list-border);
   margin: 10px;
   display: block;
   overflow: hidden;
+  transition: border-color 0.1s;
 }
 
 .collapseWrap {
@@ -198,24 +276,27 @@ a:hover, a.visiting {
 } 
 
 .loaderContainer p {
-  color: rgb(120, 140, 161);
+  color: var(--text-loader);
+  transition: color 0.1s;
 }
 
 .loader {
-  border: 10px solid grey;
-  border-top: 10px solid rgb(31, 33, 46);
+  border: 10px solid var(--loader);
+  border-top: 10px solid var(--bg);
   border-radius: 50%;
   position: absolute;
   left: 8%;
   height: 50px;
   width: 50px;
   animation: load 0.8s ease-in-out infinite;
+  transition: border-color 0.1s;
 }
 
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted white;
+  border-bottom: 1px dotted var(--text-default);
+  transition: border-color 0.1s;
 }
 
 .tooltip .tooltiptext { 
@@ -224,7 +305,7 @@ a:hover, a.visiting {
   text-align: center;
   padding: 3px 0;
   border-radius: 6px;
-  border: 1px dashed rgb(86, 200, 192);
+  border: 1px dashed var(--tooltip-border);
   
   position: absolute;
   z-index: -1;
@@ -233,7 +314,7 @@ a:hover, a.visiting {
   margin-left: -60px;
   
   opacity: 0;
-  transition: opacity 0.2s, top 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: opacity 0.2s, top 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.1s;
 }
 
 .tooltip:hover .tooltiptext {
@@ -244,12 +325,16 @@ a:hover, a.visiting {
 address {
   width: 100%;
   text-align: center;
-  background-color: rgb(39, 42, 57);
+  color: var(--text-default);
+  background-color: var(--footer);
   padding: 3px 0;
+
+  transition: background-color 0.1s;
 }
 
 address.addr {
   opacity: 0;
+  transition: opacity 0.15s;
 }
 
 .contact {
@@ -272,7 +357,8 @@ address.addr {
 }
 
 .plat {
-  color: #a27dff
+  color: var(--text-platformer);
+  transition: color 0.1s;
 }
 
 @keyframes load {
@@ -280,7 +366,7 @@ address.addr {
   100% { transform: rotate(415deg); }
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 980px) {
   #menuContainer {
     padding-left: 0;
   }
@@ -307,11 +393,86 @@ address.addr {
 }
 
 .content ol b, .content ul b {
-  color: rgb(199, 227, 255);
+  color: var(--text-highlight);
+  transition: color 0.1s;
 }
 
 #warning {
   text-align: center;
   font-size: 20px;
   font-weight: 700;
+}
+
+#darkmode-switch-container {
+  float: right;
+  margin-right: 25px;
+}
+
+#darkmode-switch-display {
+  display: inline-block;
+  position: relative;
+  height: 36px;
+  width: 70px;
+
+  margin: 7px;
+  border-radius: 18px;
+  
+  background-color: var(--switch-base);
+
+  cursor: pointer;
+
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  transition: background-color 0.1s;
+}
+
+#darkmode-switch {
+  position: absolute;
+  display: inline-block;
+  overflow: hidden;
+  height: 20px;
+  top: 5px;
+  left: 8px;
+  
+  padding: 3px;
+  border-radius: 50%;
+
+  background-color: var(--switch);
+
+  transition: left 0.2s, background-color 0.1s;
+}
+
+#darkmode-switch-checkbox {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+#scroll-to-top {
+  display: inline-block;
+  position: fixed;
+  height: 55px;
+  width: 50px;
+  right: 30px;
+  bottom: -70px;
+  color: var(--text-default);
+  background-color: var(--scroll-to-top-base);
+
+  padding-top: 10px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border: 3px solid var(--bg);
+  border-bottom: 0;
+
+  text-align: center;
+
+  cursor: pointer;
+
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  transition: bottom 0.4s cubic-bezier(0.25, 1, 0.5, 1), color 0.1s, border-color 0.1s;
 }

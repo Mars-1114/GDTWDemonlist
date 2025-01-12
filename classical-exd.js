@@ -24,16 +24,16 @@ $(document).ajaxStop(function() {
   for (var n in exd_arr) {
     // color
     if (+exd_arr[n].position <= 15) {
-      var color = "rgb(195, 77, 77)";
+      var color = "--text-list-top";
     }
     else if (+exd_arr[n].position <= 75) {
-      var color = "rgb(223, 193, 125)";
+      var color = "--text-list-main";
     }
     else if (+exd_arr[n].position <= 150) {
-      var color = "rgb(24, 186, 32)";
+      var color = "--text-list-extended";
     }
     else {
-      var color = "#86d9f0";
+      var color = "--text-list-default";
     }
 
     // level name
@@ -45,7 +45,7 @@ $(document).ajaxStop(function() {
       var exd_name = exd_arr[n].name;
     }
     str += "<button class='dropdownBtn'><h2>\
-            <i style='color:" + color + "'>\
+            <i style='color: var(" + color + ")'>\
               #" + (+n + 1) + " " + exd_name + "</i>\
             <i style='font-weight: normal'> by " + exd_arr[n].publisher.global_name + " </i>\
             <span style='font-size: 15px; font-weight: normal'>\
@@ -121,7 +121,7 @@ function listPlayer(player, id) {
       str += "<a class='link' href='" + p.detail.video + "' style='font-weight: normal'>" + site + "</a>";
     }
     else {
-      str += "<span style='color: rgb(235, 110, 101)'>Video Lost</span>"
+      str += "<span style='color: var(--text-removal)'>Video Lost</span>"
     }
     if (p.detail.is_mobile) {
       str += ' <i style="margin-left: 5px">"Mobile"</i>'
