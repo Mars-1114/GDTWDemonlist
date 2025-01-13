@@ -210,7 +210,8 @@
       ["Prismatic", "107341811"],
       ["Red World", "2374518"],
       ["the super hotdog", "109730342"],
-      ["Escape Room", "90420966"]
+      ["Escape Room", "90420966"],
+      ["Deflective", "66315180"]
     ],
     
     "legacy": [
@@ -273,8 +274,13 @@
     
     "player": {
         "超大法國麵包": {
+            "66315180": {
+                "video": "https://www.facebook.com/100022514553192/videos/1829815814427931/",
+                "completion_date": "2025-01-13",
+                "is_mobile": false
+            },
             "90420966": {
-                "video": "https://www.facebook.com/100022514553192/videos/1147107097073686/",
+                "video": "https://www.youtube.com/watch?v=WqZKYl_WwqQ",
                 "completion_date": "2025-01-12",
                 "is_mobile": false
             },
