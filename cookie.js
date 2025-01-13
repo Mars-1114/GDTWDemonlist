@@ -39,22 +39,22 @@ function lightmode(toggle) {
 
     // color
     $(":root")
-      .css("--bg", "rgb(240, 255, 248)")
-      .css("--menu", "rgb(77, 153, 147)")
-      .css("--menu-visit", "rgb(27, 113, 113)")
-      .css("--menu-mobile-hover", "rgb(51, 114, 109)")
-      .css("--menu-mobile-nav", "rgb(85, 145, 125)")
-      .css("--menu-mobile-nav-hover", "rgb(71, 118, 101)")
+      .css("--bg", "rgb(238, 254, 255)")
+      .css("--menu", "rgb(159, 205, 201)")
+      .css("--menu-visit", "rgb(103, 153, 153)")
+      .css("--menu-mobile-hover", "rgb(130, 192, 187)")
+      .css("--menu-mobile-nav", "rgb(116, 185, 181)")
+      .css("--menu-mobile-nav-hover", "rgb(92, 160, 161)")
       .css("--text-default", "black")
-      .css("--text-title", "rgb(240, 255, 248)")
-      .css("--text-highlight", "rgb(38, 122, 148)")
+      .css("--text-title", "rgb(70, 133, 119)")
+      .css("--text-highlight", "rgb(83, 158, 181)")
       .css("--text-highlight-important", "rgb(220, 52, 52)")
       .css("--text-highlight-allow", "rgb(14, 186, 14)")
       .css("--text-platformer", "rgb(123, 45, 172)")
-      .css("--text-list-top", "rgb(186, 29, 29)")
-      .css("--text-list-main", "rgb(177, 166, 40)")
-      .css("--text-list-extended", "rgb(0, 156, 8)")
-      .css("--text-list-default", "rgb(48, 101, 125)")
+      .css("--text-list-top", "rgb(231, 77, 77)")
+      .css("--text-list-main", "rgb(207, 198, 12)")
+      .css("--text-list-extended", "rgb(67, 165, 72)")
+      .css("--text-list-default", "rgb(85, 150, 152)")
       .css("--text-addition", "rgb(53, 86, 139)")
       .css("--text-removal", "rgb(203, 33, 21)")
       .css("--text-loader", "rgb(31, 57, 82)")
@@ -62,13 +62,13 @@ function lightmode(toggle) {
       .css("--link-hover", "rgb(0, 155, 186)")
       .css("--link-menu", "rgb(2, 41, 28)")
       .css("--link-menu-nav-hover", "rgb(211, 255, 240)")
-      .css("--link-visit", "rgb(211, 255, 240)")
-      .css("--list-base", "rgb(182, 208, 222)")
-      .css("--list-border", "rgb(132, 166, 185)")
+      .css("--link-visit", "rgb(236, 255, 253)")
+      .css("--list-base", "rgb(198, 240, 240)")
+      .css("--list-border", "rgb(150, 179, 193)")
       .css("--switch", "rgb(232, 255, 182)")
-      .css("--switch-base", "rgb(38, 77, 66)")
-      .css("--footer", "rgb(191, 225, 216)")
-      .css("--scroll-to-top-base", "rgb(93, 135, 125)");
+      .css("--switch-base", "rgb(104, 142, 136)")
+      .css("--footer", "rgb(207, 243, 239)")
+      .css("--scroll-to-top-base", "rgb(133, 181, 178)");
 
     // set cookie
     document.cookie = "light_mode=on";
@@ -109,7 +109,7 @@ function lightmode(toggle) {
       .css("--switch", "rgb(174, 138, 207)")
       .css("--switch-base", "rgb(29, 52, 60)")
       .css("--footer", "rgb(39, 42, 57)")
-      .css("--scroll-to-top-base", "rgb(114, 193, 188)");
+      .css("--scroll-to-top-base", "rgb(82, 149, 145)");
 
     // delete cookie
     document.cookie = "light_mode=; expires=Thu, 01 Jan 1970 00:00:00 UTC"
