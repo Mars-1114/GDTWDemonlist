@@ -211,7 +211,8 @@
       ["Red World", "2374518"],
       ["the super hotdog", "109730342"],
       ["Escape Room", "90420966"],
-      ["Deflective", "66315180"]
+      ["Deflective", "66315180"],
+      ["Clarity", "112412828"]
     ],
     
     "legacy": [
@@ -1760,6 +1761,11 @@
             "81257586": {
                 "video": "https://www.facebook.com/100055094347754/videos/1130143642137022/",
                 "completion_date": "2025-01-06",
+                "is_mobile": false
+            },
+            "112412828": {
+                "video": "https://www.facebook.com/100055094347754/videos/1545019969543711/",
+                "completion_date": "2025-01-14",
                 "is_mobile": false
             }
         },
