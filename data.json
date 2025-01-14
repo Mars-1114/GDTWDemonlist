@@ -212,7 +212,9 @@
       ["the super hotdog", "109730342"],
       ["Escape Room", "90420966"],
       ["Deflective", "66315180"],
-      ["Clarity", "112412828"]
+      ["Clarity", "112412828"],
+      ["Zodiac", "52374843"],
+      ["Aquatic Auroras", "60740290"]
     ],
     
     "legacy": [
@@ -275,6 +277,16 @@
     
     "player": {
         "超大法國麵包": {
+            "60740290": {
+                "video": "https://www.facebook.com/100022514553192/videos/1595048844716720/",
+                "completion_date": "2025-01-14",
+                "is_mobile": false
+            },
+            "52374843": {
+                "video": "https://www.facebook.com/100022514553192/videos/2941088652735471/",
+                "completion_date": "2025-01-14",
+                "is_mobile": false
+            },
             "66315180": {
                 "video": "https://www.facebook.com/100022514553192/videos/1829815814427931/",
                 "completion_date": "2025-01-13",
