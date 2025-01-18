@@ -214,7 +214,9 @@
       ["Deflective", "66315180"],
       ["Clarity", "112412828"],
       ["Zodiac", "52374843"],
-      ["Aquatic Auroras", "60740290"]
+      ["Aquatic Auroras", "60740290"],
+      ["Hyper Paracosm", "42117203"],
+      ["Hyper Paradox", "61531210"]
     ],
     
     "legacy": [
@@ -277,6 +279,16 @@
     
     "player": {
         "超大法國麵包": {
+            "61531210": {
+                "video": "https://www.facebook.com/100022514553192/videos/1282733329512013/",
+                "completion_date": "2025-01-18",
+                "is_mobile": false
+            },
+            "42117203": {
+                "video": "https://www.facebook.com/100022514553192/videos/1024963379662200/",
+                "completion_date": "2025-01-17",
+                "is_mobile": false
+            },
             "60740290": {
                 "video": "https://www.facebook.com/100022514553192/videos/1595048844716720/",
                 "completion_date": "2025-01-14",
