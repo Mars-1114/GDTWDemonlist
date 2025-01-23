@@ -220,7 +220,8 @@
       ["Molten Mercury", "64066032"],
       ["Vertigo", "43214204"],
       ["Place", "86917672"],
-      ["sunburn", "73005068"]
+      ["sunburn", "73005068"],
+      ["Pandemonium", "72082021"]
     ],
     
     "legacy": [
@@ -283,6 +284,11 @@
     
     "player": {
         "超大法國麵包": {
+            "72082021": {
+                "video": "https://www.facebook.com/100022514553192/videos/963624125302245/",
+                "completion_date": "2025-01-23",
+                "is_mobile": false
+            },
             "86917672": {
                 "video": "https://www.facebook.com/100022514553192/videos/1158683739592495/",
                 "completion_date": "2025-01-22",
