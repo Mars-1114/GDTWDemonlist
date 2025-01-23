@@ -219,7 +219,8 @@
       ["Hyper Paradox", "61531210"],
       ["Molten Mercury", "64066032"],
       ["Vertigo", "43214204"],
-      ["Place", "86917672"]
+      ["Place", "86917672"],
+      ["sunburn", "73005068"]
     ],
     
     "legacy": [
@@ -1785,6 +1786,11 @@
             }
         },
         "Ruiq": {
+            "73005068": {
+                "video": "https://www.youtube.com/watch?v=VoZV7ZHaX5Y",
+                "completion_date": "2025-01-23",
+                "is_mobile": false
+            },
             "61079355": {
                 "video": "https://www.facebook.com/100055094347754/videos/582034692840294/",
                 "completion_date": "2021-10-03",
