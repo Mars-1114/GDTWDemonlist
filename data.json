@@ -206,7 +206,6 @@
       ["TANTRUM", "61910810"],
       ["Tesseract", "52289646"],
       ["Raindance", "57019271"],
-      ["Delirium Tremens", "73289291"],
       ["Prismatic", "107341811"],
       ["Red World", "2374518"],
       ["the super hotdog", "109730342"],
@@ -225,6 +224,11 @@
     ],
     
     "legacy": [
+      {
+          "level": "Delirium Tremens",
+          "id": "73289291",
+          "publisher": "Vadi"
+      },
       {
           "level": "TRIANGULAR",
           "id": "81636212",
