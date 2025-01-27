@@ -220,7 +220,8 @@
       ["Vertigo", "43214204"],
       ["Place", "86917672"],
       ["sunburn", "73005068"],
-      ["Pandemonium", "72082021"]
+      ["Pandemonium", "72082021"],
+      ["Cobwebs", "82172844"]
     ],
     
     "legacy": [
@@ -288,6 +289,11 @@
     
     "player": {
         "超大法國麵包": {
+            "82172844": {
+                "video": "https://www.youtube.com/watch?v=GKJcXeTUijQ",
+                "completion_date": "2025-01-03",
+                "is_mobile": false
+            },
             "72082021": {
                 "video": "https://www.facebook.com/100022514553192/videos/963624125302245/",
                 "completion_date": "2025-01-23",
@@ -324,7 +330,7 @@
                 "is_mobile": false
             },
             "52374843": {
-                "video": "https://www.facebook.com/100022514553192/videos/2941088652735471/",
+                "video": "https://www.youtube.com/watch?v=uPz_UYvPKuE",
                 "completion_date": "2025-01-14",
                 "is_mobile": false
             },
