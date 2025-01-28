@@ -221,7 +221,8 @@
       ["Place", "86917672"],
       ["sunburn", "73005068"],
       ["Pandemonium", "72082021"],
-      ["Cobwebs", "82172844"]
+      ["Cobwebs", "82172844"],
+      ["ReVolution Unleashed", "109540067"]
     ],
     
     "legacy": [
@@ -1831,6 +1832,11 @@
                 "video": "https://www.facebook.com/100055094347754/videos/1545019969543711/",
                 "completion_date": "2025-01-14",
                 "is_mobile": false
+            },
+            "102562296": {
+                "video": "https://www.facebook.com/100055094347754/videos/1802400727204053/",
+                "completion_date": "2025-01-28",
+                "is_mobile": false
             }
         },
         "Supercoolyoshi": {
@@ -1968,6 +1974,11 @@
             "98371484": {
                 "video": "https://www.youtube.com/watch?v=G1JazpTtbjU",
                 "completion_date": "2024-07-15",
+                "is_mobile": false
+            },
+            "109540067": {
+                "video": "https://www.youtube.com/watch?v=uHdaxw91NKE",
+                "completion_date": "2025-01-27",
                 "is_mobile": false
             }
         },
