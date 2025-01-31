@@ -223,7 +223,8 @@
       ["Pandemonium", "72082021"],
       ["Cobwebs", "82172844"],
       ["ReVolution Unleashed", "109540067"],
-      ["Judgement Knights", "110913375"]
+      ["Judgement Knights", "110913375"],
+      ["FEEL ALIVE", "114231424"]
     ],
     
     "legacy": [
@@ -291,6 +292,11 @@
     
     "player": {
         "超大法國麵包": {
+            "114231424": {
+                "video": "https://www.facebook.com/100022514553192/videos/1310795186797124/",
+                "completion_date": "2025-01-31",
+                "is_mobile": false
+            },
             "102562296": {
                 "video": "https://www.facebook.com/100022514553192/videos/594938576611501/",
                 "completion_date": "2025-01-31",
