@@ -224,7 +224,8 @@
       ["Cobwebs", "82172844"],
       ["ReVolution Unleashed", "109540067"],
       ["Judgement Knights", "110913375"],
-      ["FEEL ALIVE", "114231424"]
+      ["FEEL ALIVE", "114231424"],
+      ["RIVERS OF NAZARETH", "114422869"]
     ],
     
     "legacy": [
@@ -292,6 +293,16 @@
     
     "player": {
         "超大法國麵包": {
+            "60197839": {
+                "video": "https://www.facebook.com/100022514553192/videos/1325859918438499/",
+                "completion_date": "2025-02-02",
+                "is_mobile": false
+            },
+            "114422869": {
+                "video": "https://www.facebook.com/100022514553192/videos/1119762682774003/",
+                "completion_date": "2025-01-26",
+                "is_mobile": false
+            },
             "112412828": {
                 "video": "https://www.facebook.com/100022514553192/videos/512318358584061/",
                 "completion_date": "2025-02-02",
@@ -1984,6 +1995,11 @@
             }
         },
         "Estrangement": {
+            "114422869": {
+                "video": "https://www.facebook.com/100071383914880/videos/1000599341883307/",
+                "completion_date": "2025-01-27",
+                "is_mobile": false
+            },
             "81549790": {
                 "video": "https://www.facebook.com/100071383914880/videos/731349795871291/",
                 "completion_date": "2024-04-15",
