@@ -225,7 +225,8 @@
       ["ReVolution Unleashed", "109540067"],
       ["Judgement Knights", "110913375"],
       ["FEEL ALIVE", "114231424"],
-      ["RIVERS OF NAZARETH", "114422869"]
+      ["RIVERS OF NAZARETH", "114422869"],
+      ["Bangarang", "112515547"]
     ],
     
     "legacy": [
@@ -293,6 +294,11 @@
     
     "player": {
         "超大法國麵包": {
+            "112515547": {
+                "video": "https://www.facebook.com/100022514553192/videos/2989193527910987/",
+                "completion_date": "2025-02-03",
+                "is_mobile": false
+            },
             "60197839": {
                 "video": "https://www.facebook.com/100022514553192/videos/1325859918438499/",
                 "completion_date": "2025-02-02",
