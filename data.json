@@ -226,7 +226,8 @@
       ["Judgement Knights", "110913375"],
       ["FEEL ALIVE", "114231424"],
       ["RIVERS OF NAZARETH", "114422869"],
-      ["Bangarang", "112515547"]
+      ["Bangarang", "112515547"],
+      ["Reanimate", "80335620"]
     ],
     
     "legacy": [
@@ -294,6 +295,11 @@
     
     "player": {
         "超大法國麵包": {
+            "80335620": {
+                "video": "https://www.facebook.com/100022514553192/videos/601081919219594/",
+                "completion_date": "2025-02-04",
+                "is_mobile": false
+            },
             "112515547": {
                 "video": "https://www.facebook.com/100022514553192/videos/2989193527910987/",
                 "completion_date": "2025-02-03",
