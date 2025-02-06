@@ -228,7 +228,9 @@
       ["RIVERS OF NAZARETH", "114422869"],
       ["Bangarang", "112515547"],
       ["Reanimate", "80335620"],
-      ["FISH FISH GODMODE", "89807521"]
+      ["FISH FISH GODMODE", "89807521"],
+      ["Night Rider", "78051190"],
+      ["TROLLMACHINE", "84325817"]
     ],
     
     "legacy": [
@@ -296,6 +298,16 @@
     
     "player": {
         "超大法國麵包": {
+            "78051190": {
+                "video": "https://www.facebook.com/100022514553192/videos/1185794536881176/",
+                "completion_date": "2025-02-06",
+                "is_mobile": false
+            },
+            "84325817": {
+                "video": "https://www.facebook.com/100022514553192/videos/2378965265787919/",
+                "completion_date": "2025-02-06",
+                "is_mobile": false
+            },
             "89807521": {
                 "video": "https://www.facebook.com/100022514553192/videos/2861406234039615/",
                 "completion_date": "2025-02-05",
