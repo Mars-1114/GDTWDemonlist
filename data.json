@@ -231,7 +231,8 @@
       ["FISH FISH GODMODE", "89807521"],
       ["Night Rider", "78051190"],
       ["TROLLMACHINE", "84325817"],
-      ["Eternal Dreams", "100486896"]
+      ["Eternal Dreams", "100486896"],
+      ["Evangelion", "62151546"]
     ],
     
     "legacy": [
@@ -299,6 +300,11 @@
     
     "player": {
         "超大法國麵包": {
+            "62151546": {
+                "video": "https://www.facebook.com/100022514553192/videos/995393745776850/",
+                "completion_date": "2025-02-13",
+                "is_mobile": false
+            },
             "100486896": {
                 "video": "https://www.facebook.com/100022514553192/videos/2371621856525439/",
                 "completion_date": "2025-02-12",
