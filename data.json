@@ -233,7 +233,8 @@
       ["TROLLMACHINE", "84325817"],
       ["Eternal Dreams", "100486896"],
       ["Evangelion", "62151546"],
-      ["Shimmer", "114510471"]
+      ["Shimmer", "114510471"],
+      ["SHURIMA", "113138918"]
     ],
     
     "legacy": [
@@ -301,6 +302,11 @@
     
     "player": {
         "超大法國麵包": {
+            "113138918": {
+                "video": "https://www.facebook.com/100022514553192/videos/1135801178128448/",
+                "completion_date": "2025-02-16",
+                "is_mobile": false
+            },
             "61537537": {
                 "video": "https://www.facebook.com/100022514553192/videos/1163072272150776/",
                 "completion_date": "2025-02-15",
