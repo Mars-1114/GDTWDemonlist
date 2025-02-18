@@ -234,7 +234,8 @@
       ["Eternal Dreams", "100486896"],
       ["Evangelion", "62151546"],
       ["Shimmer", "114510471"],
-      ["SHURIMA", "113138918"]
+      ["SHURIMA", "113138918"],
+      ["Promethean", "69333212"]
     ],
     
     "legacy": [
@@ -302,6 +303,11 @@
     
     "player": {
         "超大法國麵包": {
+            "69333212": {
+                "video": "https://www.facebook.com/100022514553192/videos/625106304010753/",
+                "completion_date": "2025-02-18",
+                "is_mobile": false
+            },
             "113138918": {
                 "video": "https://www.facebook.com/100022514553192/videos/1135801178128448/",
                 "completion_date": "2025-02-16",
