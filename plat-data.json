@@ -13,7 +13,8 @@
         ["ECSTASIS", "108103482"],
         ["Nextphase", "107420706"],
         ["Chief Needler", "102557379"],
-        ["Tower of Infinity", "97713011"]
+        ["Tower of Infinity", "97713011"],
+        ["The SMR Collection", "114333632"]
     ],
 
     "legacy": [
@@ -101,6 +102,11 @@
             "105382136": {
                 "video": "https://www.youtube.com/watch?v=VXH1pEYPN_A",
                 "completion_date": "2024-08-28",
+                "is_mobile": false
+            },
+            "114333632": {
+                "video": "https://www.facebook.com/100022514553192/videos/1014372174072224/",
+                "completion_date": "2025-02-22",
                 "is_mobile": false
             }
         },
