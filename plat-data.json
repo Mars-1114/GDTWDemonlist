@@ -14,7 +14,8 @@
         ["Nextphase", "107420706"],
         ["Chief Needler", "102557379"],
         ["Tower of Infinity", "97713011"],
-        ["The SMR Collection", "114333632"]
+        ["The SMR Collection", "114333632"],
+        ["The Sun", "108338683"]
     ],
 
     "legacy": [
@@ -27,6 +28,11 @@
 
     "player": {
         "carti": {
+            "108338683": {
+                "video": "https://www.youtube.com/live/v5v2U9Ofqgo",
+                "completion_date": "2025-02-24",
+                "is_mobile": false
+            },
             "97692058": {
                 "video": "https://www.youtube.com/live/w12wG2Arb-M",
                 "completion_date": "2024-06-06",
