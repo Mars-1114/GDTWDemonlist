@@ -236,7 +236,8 @@
       ["Shimmer", "114510471"],
       ["SHURIMA", "113138918"],
       ["Promethean", "69333212"],
-      ["Wacky McWhackface v2", "93019675"]
+      ["Wacky McWhackface v2", "93019675"],
+      ["Calamity", "64766514"]
     ],
     
     "legacy": [
@@ -304,6 +305,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "64766514": {
+                "video": "https://www.facebook.com/100022514553192/videos/1158466165664434/",
+                "completion_date": "2025-02-28",
+                "is_mobile": false
+            },
             "93019675": {
                 "video": "https://www.facebook.com/100022514553192/videos/630961269874082/",
                 "completion_date": "2025-02-25",
