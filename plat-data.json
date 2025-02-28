@@ -16,7 +16,8 @@
         ["Tower of Infinity", "97713011"],
         ["The SMR Collection", "114333632"],
         ["The Sun", "108338683"],
-        ["Mesabisos", "110904791"]
+        ["Mesabisos", "110904791"],
+        ["Life and Beauty", "99608524"]
     ],
 
     "legacy": [
@@ -29,6 +30,11 @@
 
     "player": {
         "carti": {
+            "99608524": {
+                "video": "https://www.youtube.com/live/jGC4HOexLKU",
+                "completion_date": "2025-02-28",
+                "is_mobile": false
+            },
             "110904791": {
                 "video": "https://www.youtube.com/live/sT-wZMVN2oU",
                 "completion_date": "2025-02-28",
