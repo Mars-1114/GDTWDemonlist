@@ -17,7 +17,8 @@
         ["The SMR Collection", "114333632"],
         ["The Sun", "108338683"],
         ["Mesabisos", "110904791"],
-        ["Life and Beauty", "99608524"]
+        ["Life and Beauty", "99608524"],
+        ["Project BUZZKILL", "111113059"]
     ],
 
     "legacy": [
@@ -117,6 +118,11 @@
             }
         },
         "超大法國麵包🥖": {
+            "111113059": {
+                "video": "https://www.facebook.com/100022514553192/videos/1029398105682396/",
+                "completion_date": "2025-03-02",
+                "is_mobile": false
+            },
             "109365157": {
                 "video": "https://www.youtube.com/watch?v=xI3hS74tlfo",
                 "completion_date": "2025-02-24",
