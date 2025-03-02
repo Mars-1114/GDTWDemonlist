@@ -194,6 +194,13 @@
                 "completion_date": "2025-02-26",
                 "is_mobile": false
             }
+        },
+        "Mars": {
+            "114333632": {
+                "video": "https://www.youtube.com/watch?v=qs-dr4X0AWw",
+                "completion_date": "2025-03-02",
+                "is_mobile": false
+            }
         }
     }
 }
