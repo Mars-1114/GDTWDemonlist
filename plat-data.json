@@ -18,7 +18,8 @@
         ["The Sun", "108338683"],
         ["Mesabisos", "110904791"],
         ["Life and Beauty", "99608524"],
-        ["Project BUZZKILL", "111113059"]
+        ["Project BUZZKILL", "111113059"],
+        ["CASIO HELLBURST", "107418375"]
     ],
 
     "legacy": [
@@ -204,6 +205,13 @@
             "114333632": {
                 "video": "https://www.youtube.com/watch?v=qs-dr4X0AWw",
                 "completion_date": "2025-03-02",
+                "is_mobile": false
+            }
+        },
+        "Luck_Lu❤️": {
+            "107418375": {
+                "video": "https://www.facebook.com/share/v/15L1yCvfBS/",
+                "completion_date": "2025-03-04",
                 "is_mobile": false
             }
         }
