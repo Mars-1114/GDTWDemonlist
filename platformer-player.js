@@ -144,7 +144,7 @@ function listDemons(demons) {
   let str = "";
   for (let n in demons) {
     // color
-    if (+demons[n].placement <= 15) {
+    if (+demons[n].placement <= 25) {
       var color = "--text-list-top";
     }
     else if (+demons[n].placement <= 75) {

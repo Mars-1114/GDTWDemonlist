@@ -23,7 +23,7 @@ $(document).ajaxStop(function() {
   var str = "";
   for (var n in exd_arr) {
     // color
-    if (+exd_arr[n].position <= 15) {
+    if (+exd_arr[n].position <= 25) {
       var color = "--text-list-top";
     }
     else if (+exd_arr[n].position <= 75) {
