@@ -237,7 +237,8 @@
       ["SHURIMA", "113138918"],
       ["Promethean", "69333212"],
       ["Wacky McWhackface v2", "93019675"],
-      ["Calamity", "64766514"]
+      ["Calamity", "64766514"],
+      ["oGo", "113716462"]
     ],
     
     "legacy": [
@@ -305,6 +306,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "113716462": {
+                "video": "https://www.facebook.com/share/v/19n6CeYCjR/",
+                "completion_date": "2025-03-07",
+                "is_mobile": false
+            },
             "20077821": {
                 "video": "https://www.facebook.com/share/v/19wKkpuBVM/",
                 "completion_date": "2025-03-06",
