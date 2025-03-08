@@ -1,5 +1,6 @@
 {
     "demon": [
+      ["Tartarus", "59075347"],
       ["Oblivion", "71025973"],
       ["Shukketsu", "75286957"],
       ["Cognition", "57600307"],
@@ -306,6 +307,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "59075347": {
+                "video": "https://www.youtube.com/watch?v=tvgxQDxIik0",
+                "completion_date": "2025-03-08",
+                "is_mobile": false
+            },
             "113716462": {
                 "video": "https://www.facebook.com/share/v/19n6CeYCjR/",
                 "completion_date": "2025-03-07",
