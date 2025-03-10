@@ -182,7 +182,7 @@
       ["Redemption", "66851981"],
       ["Forbidden Isle", "63775846"],
       ["9blue", "95061038"],
-      ["Trunt Temp", "108016996"],
+      ["Turnt Temp", "108016996"],
       ["XxXxXxXxXxX", "86830933"],
       ["Precipitance", "60197839"],
       ["Azurite", "62214792"],
@@ -1921,7 +1921,7 @@
                 "completion_date": "2024-08-06",
                 "is_mobile": false
             },
-            "undefined": {
+            "108016996": {
                 "video": "https://www.youtube.com/watch?v=qiUXinK_aOE",
                 "completion_date": "2024-08-26",
                 "is_mobile": false
