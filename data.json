@@ -240,7 +240,8 @@
       ["Wacky McWhackface v2", "93019675"],
       ["Calamity", "64766514"],
       ["oGo", "113716462"],
-      ["The Depths Above", "112371654"]
+      ["The Depths Above", "112371654"],
+      ["Karasu", "48229256"]
     ],
     
     "legacy": [
@@ -308,6 +309,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "48229256": {
+                "video": "https://www.facebook.com/share/v/1EFRR3H11e/",
+                "completion_date": "2025-03-14",
+                "is_mobile": false
+            },
             "112371654": {
                 "video": "https://www.facebook.com/share/v/1ATkeGhAAj/",
                 "completion_date": "2025-03-13",
