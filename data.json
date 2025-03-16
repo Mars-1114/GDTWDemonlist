@@ -241,7 +241,8 @@
       ["Calamity", "64766514"],
       ["oGo", "113716462"],
       ["The Depths Above", "112371654"],
-      ["Karasu", "48229256"]
+      ["Karasu", "48229256"],
+      ["A2Marbl", "59141478"]
     ],
     
     "legacy": [
@@ -309,6 +310,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "59141478": {
+                "video": "https://www.facebook.com/share/v/16MnkMyB5n/",
+                "completion_date": "2025-03-15",
+                "is_mobile": false
+            },
             "48229256": {
                 "video": "https://www.facebook.com/share/v/1EFRR3H11e/",
                 "completion_date": "2025-03-14",
