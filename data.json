@@ -242,7 +242,10 @@
       ["oGo", "113716462"],
       ["The Depths Above", "112371654"],
       ["Karasu", "48229256"],
-      ["A2Marbl", "59141478"]
+      ["A2Marbl", "59141478"],
+      ["FirePower", "55955642"],
+      ["FIREPOWER", "107281415"],
+      ["BYE", "61350256"]
     ],
     
     "legacy": [
@@ -310,6 +313,21 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "61350256": {
+                "video": "https://www.facebook.com/share/v/18fD8RbmyY/",
+                "completion_date": "2025-03-19",
+                "is_mobile": false
+            },
+            "107281415": {
+                "video": "https://www.facebook.com/share/v/15qn1TksUg/",
+                "completion_date": "2025-03-18",
+                "is_mobile": false
+            },
+            "55955642": {
+                "video": "https://www.facebook.com/share/v/1HLrvDp2si/",
+                "completion_date": "2025-03-18",
+                "is_mobile": false
+            },
             "59141478": {
                 "video": "https://www.facebook.com/share/v/16MnkMyB5n/",
                 "completion_date": "2025-03-15",
@@ -2233,8 +2251,8 @@
         },
         "TheHardyGoD": {
             "61079355": {
-                "video": "https://www.youtube.com/watch?v=GmNuN7TwbnY",
-                "completion_date": "2024-11-19",
+                "video": "https://www.youtube.com/watch?v=WwoOQrbshfo",
+                "completion_date": "2025-03-18",
                 "is_mobile": true
             }
         },
