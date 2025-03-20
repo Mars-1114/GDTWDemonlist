@@ -245,7 +245,8 @@
       ["A2Marbl", "59141478"],
       ["FirePower", "55955642"],
       ["FIREPOWER", "107281415"],
-      ["BYE", "61350256"]
+      ["BYE", "61350256"],
+      ["Stereo Extremeness", "85383554"]
     ],
     
     "legacy": [
@@ -313,6 +314,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "85383554": {
+                "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+                "completion_date": "2025-03-20",
+                "is_mobile": false
+            },
             "61350256": {
                 "video": "https://www.facebook.com/share/v/18fD8RbmyY/",
                 "completion_date": "2025-03-19",
