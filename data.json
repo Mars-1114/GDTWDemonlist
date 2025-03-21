@@ -246,7 +246,12 @@
       ["FirePower", "55955642"],
       ["FIREPOWER", "107281415"],
       ["BYE", "61350256"],
-      ["Stereo Extremeness", "85383554"]
+      ["Stereo Extremeness", "85383554"],
+      ["Phobos", "19759411"],
+      ["Project alter", "107641215"],
+      ["Devil Vortex", "32969607"],
+      ["Quadratic Funciton", "105290756"],
+      ["Through The Decay", "114933189"]
     ],
     
     "legacy": [
@@ -314,6 +319,31 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "114933189": {
+                "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+                "completion_date": "2025-03-21",
+                "is_mobile": false
+            },
+            "19759411": {
+                "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+                "completion_date": "2025-03-21",
+                "is_mobile": false
+            },
+            "105290756": {
+                "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+                "completion_date": "2025-03-21",
+                "is_mobile": false
+            },
+            "32969607": {
+                "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+                "completion_date": "2025-03-21",
+                "is_mobile": false
+            },
+            "107641215": {
+                "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+                "completion_date": "2025-03-21",
+                "is_mobile": false
+            },
             "85383554": {
                 "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
                 "completion_date": "2025-03-20",
