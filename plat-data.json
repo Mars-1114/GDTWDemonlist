@@ -20,7 +20,8 @@
         ["Life and Beauty", "99608524"],
         ["Project BUZZKILL", "111113059"],
         ["CASIO HELLBURST", "107418375"],
-        ["Adrenaline", "113507295"]
+        ["Adrenaline", "113507295"],
+        ["Uh Oh", "116120637"]
     ],
 
     "legacy": [
@@ -120,6 +121,11 @@
             }
         },
         "超大法國麵包🥖": {
+            "116120637": {
+                "video": "https://www.facebook.com/share/v/1CAUCGeDLb/",
+                "completion_date": "2025-03-23",
+                "is_mobile": false
+            },
             "97713011": {
                 "video": "https://www.facebook.com/share/v/15dtj5zNey/",
                 "completion_date": "2025-03-16",
