@@ -251,7 +251,8 @@
       ["Project alter", "107641215"],
       ["Devil Vortex", "32969607"],
       ["Quadratic Funciton", "105290756"],
-      ["Through The Decay", "114933189"]
+      ["Through The Decay", "114933189"],
+      ["ta1LSD0ll", "115151904"]
     ],
     
     "legacy": [
@@ -319,6 +320,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "115151904": {
+                "video": "https://www.youtube.com/watch?v=bZk0SKDBjUU",
+                "completion_date": "2025-03-24",
+                "is_mobile": false
+            },
             "114933189": {
                 "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
                 "completion_date": "2025-03-21",
