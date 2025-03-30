@@ -252,7 +252,8 @@
       ["Devil Vortex", "32969607"],
       ["Quadratic Funciton", "105290756"],
       ["Through The Decay", "114933189"],
-      ["ta1LSD0ll", "115151904"]
+      ["ta1LSD0ll", "115151904"],
+      ["SUPERHATEMEWORLD", "57571983"]
     ],
     
     "legacy": [
@@ -320,6 +321,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "57571983": {
+                "video": "https://www.youtube.com/watch?v=dPdfAgKnywA",
+                "completion_date": "2025-03-30",
+                "is_mobile": false
+            },
             "115151904": {
                 "video": "https://www.youtube.com/watch?v=bZk0SKDBjUU",
                 "completion_date": "2025-03-24",
