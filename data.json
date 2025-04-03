@@ -253,7 +253,8 @@
       ["Quadratic Funciton", "105290756"],
       ["Through The Decay", "114933189"],
       ["ta1LSD0ll", "115151904"],
-      ["SUPERHATEMEWORLD", "57571983"]
+      ["SUPERHATEMEWORLD", "57571983"],
+      ["Amalgam", "95675702"]
     ],
     
     "legacy": [
@@ -321,6 +322,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "95675702": {
+                "video": "https://www.youtube.com/watch?v=A6UcafiUmP8",
+                "completion_date": "2025-04-03",
+                "is_mobile": false
+            },
             "57571983": {
                 "video": "https://www.youtube.com/watch?v=dPdfAgKnywA",
                 "completion_date": "2025-03-30",
