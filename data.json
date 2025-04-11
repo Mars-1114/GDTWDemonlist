@@ -255,7 +255,8 @@
       ["ta1LSD0ll", "115151904"],
       ["SUPERHATEMEWORLD", "57571983"],
       ["Amalgam", "95675702"],
-      ["qoUEO", "81721025"]
+      ["qoUEO", "81721025"],
+      ["cja", "112209834"]
     ],
     
     "legacy": [
@@ -323,6 +324,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "112209834": {
+                "video": "https://www.facebook.com/share/v/1HenDdwpgJ/",
+                "completion_date": "2025-04-11",
+                "is_mobile": false
+            },
             "81721025": {
                 "video": "https://www.youtube.com/watch?v=_rP-HvwFakk",
                 "completion_date": "2025-04-04",
@@ -2354,6 +2360,11 @@
             "3979721": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1592628551456192/",
                 "completion_date": "2025-04-04",
+                "is_mobile": false
+            },
+            "85242343": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1596928574359523/",
+                "completion_date": "2025-04-10",
                 "is_mobile": false
             }
         }
