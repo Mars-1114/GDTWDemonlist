@@ -256,7 +256,8 @@
       ["SUPERHATEMEWORLD", "57571983"],
       ["Amalgam", "95675702"],
       ["qoUEO", "81721025"],
-      ["cja", "112209834"]
+      ["cja", "112209834"],
+      ["Ion", "102352215"]
     ],
     
     "legacy": [
@@ -324,6 +325,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "102352215": {
+                "video": "https://www.facebook.com/share/v/16B1cEJzNA/",
+                "completion_date": "2025-04-13",
+                "is_mobile": false
+            },
             "112209834": {
                 "video": "https://www.facebook.com/share/v/1HenDdwpgJ/",
                 "completion_date": "2025-04-11",
