@@ -1,5 +1,6 @@
 {
     "demon": [
+      ["Gaggatrondra", "114990369"],
       ["Tartarus", "59075347"],
       ["Oblivion", "71025973"],
       ["Shukketsu", "75286957"],
@@ -256,11 +257,19 @@
       ["SUPERHATEMEWORLD", "57571983"],
       ["Amalgam", "95675702"],
       ["qoUEO", "81721025"],
-      ["cja", "112209834"],
-      ["Ion", "102352215"]
+      ["Ion", "102352215"],
+      ["DEAD OF NIGHT", "107539734"],
+      ["1330X", "78374157"],
+      ["Vanish", "109670049"],
+      ["Mujigae", "38765979"]
     ],
     
     "legacy": [
+      {
+          "level": "cja",
+          "id": "112209834",
+          "publisher": "DWGro"
+      },
       {
           "level": "Delirium Tremens",
           "id": "73289291",
@@ -325,6 +334,31 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "114990369": {
+                "video": "https://www.youtube.com/watch?v=U3JDqF9d61Q",
+                "completion_date": "2025-04-24",
+                "is_mobile": false
+            },
+            "38765979": {
+                "video": "https://www.facebook.com/share/v/16KUoLnWtz/",
+                "completion_date": "2025-04-24",
+                "is_mobile": false
+            },
+            "109670049": {
+                "video": "https://www.facebook.com/share/v/15HbFziXyb/",
+                "completion_date": "2025-04-21",
+                "is_mobile": false
+            },
+            "78374157": {
+                "video": "https://www.facebook.com/share/v/1ATvXxZFYq/",
+                "completion_date": "2025-04-20",
+                "is_mobile": false
+            },
+            "107539734": {
+                "video": "https://www.facebook.com/share/v/1G9ny9Hpij/",
+                "completion_date": "2025-04-15",
+                "is_mobile": false
+            },
             "102352215": {
                 "video": "https://www.facebook.com/share/v/16B1cEJzNA/",
                 "completion_date": "2025-04-13",
@@ -2265,6 +2299,11 @@
             }
         },
         "InfAstral": {
+            "91386392": {
+                "video": "https://www.youtube.com/watch?v=9fZ8HbDywVI",
+                "completion_date": "2025-04-22",
+                "is_mobile": false
+            },
             "3979721": {
                 "video": "https://www.youtube.com/watch?v=LGqdxKfXFMI",
                 "completion_date": "2024-01-14",
@@ -2358,6 +2397,11 @@
             }
         },
         "carti": {
+            "20761188": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1601255893926791/",
+                "completion_date": "2025-04-16",
+                "is_mobile": false
+            },
             "61079355": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1589367928448921/",
                 "completion_date": "2025-03-31",
