@@ -262,7 +262,9 @@
       ["1330X", "78374157"],
       ["Vanish", "109670049"],
       ["Mujigae", "38765979"],
-      ["UNKNOWN", "88203501"]
+      ["UNKNOWN", "88203501"],
+      ["Empyrean", "92957491"],
+      ["Galaxy Gas", "116401475"]
     ],
     
     "legacy": [
@@ -335,6 +337,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "116401475": {
+                "video": "https://www.facebook.com/share/v/1KqqniNHkM/",
+                "completion_date": "2025-04-28",
+                "is_mobile": false
+            },
             "88203501": {
                 "video": "https://www.facebook.com/share/v/1AgBEFSGqY/",
                 "completion_date": "2025-04-26",
@@ -2433,6 +2440,18 @@
             "10565740": {
                 "video": "https://www.facebook.com/share/v/1Fq1a12ytK/",
                 "completion_date": "2025-04-09",
+                "is_mobile": false
+            }
+        },
+        "Cyter867": {
+            "68731559": {
+                "video": "https://www.youtube.com/watch?v=EQL8l39Fmnc",
+                "completion_date": "2025-04-28",
+                "is_mobile": false
+            },
+            "92957491": {
+                "video": "https://www.youtube.com/watch?v=tUIDX2PZrRk",
+                "completion_date": "2024-02-11",
                 "is_mobile": false
             }
         }
