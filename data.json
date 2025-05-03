@@ -264,7 +264,9 @@
       ["Mujigae", "38765979"],
       ["UNKNOWN", "88203501"],
       ["Empyrean", "92957491"],
-      ["Galaxy Gas", "116401475"]
+      ["Galaxy Gas", "116401475"],
+      ["NEBULA", "116019507"],
+      ["Budding Roses", "113824520"]
     ],
     
     "legacy": [
@@ -337,6 +339,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "116019507": {
+                "video": "https://www.facebook.com/share/v/16MBgFovRL/",
+                "completion_date": "2025-05-01",
+                "is_mobile": false
+            },
+            "113824520": {
+                "video": "https://www.facebook.com/share/v/15Wti1rxao/",
+                "completion_date": "2025-04-29",
+                "is_mobile": false
+            },
             "116401475": {
                 "video": "https://www.facebook.com/share/v/1KqqniNHkM/",
                 "completion_date": "2025-04-28",
@@ -2410,6 +2422,11 @@
             }
         },
         "carti": {
+            "87481937": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1612079249511122/",
+                "completion_date": "2025-05-01",
+                "is_mobile": false
+            },
             "20761188": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1601255893926791/",
                 "completion_date": "2025-04-16",
