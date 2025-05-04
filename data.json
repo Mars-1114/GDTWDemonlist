@@ -267,7 +267,8 @@
       ["Galaxy Gas", "116401475"],
       ["NEBULA", "116019507"],
       ["Budding Roses", "113824520"],
-      ["Maybe Possibly Thing", "60284098"]
+      ["Maybe Possibly Thing", "60284098"],
+      ["Athanatos", "26133601"]
     ],
     
     "legacy": [
@@ -340,6 +341,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "26133601": {
+                "video": "https://www.facebook.com/share/v/1PJD5e5Wys/",
+                "completion_date": "2025-05-04",
+                "is_mobile": false
+            },
             "116019507": {
                 "video": "https://www.facebook.com/share/v/16MBgFovRL/",
                 "completion_date": "2025-05-01",
