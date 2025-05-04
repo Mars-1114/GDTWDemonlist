@@ -266,7 +266,8 @@
       ["Empyrean", "92957491"],
       ["Galaxy Gas", "116401475"],
       ["NEBULA", "116019507"],
-      ["Budding Roses", "113824520"]
+      ["Budding Roses", "113824520"],
+      ["Maybe Possibly Thing", "60284098"]
     ],
     
     "legacy": [
@@ -2324,6 +2325,11 @@
             }
         },
         "InfAstral": {
+            "60284098": {
+                "video": "https://www.youtube.com/watch?v=Ai2zITlSUcs",
+                "completion_date": "2025-05-04",
+                "is_mobile": false
+            },
             "91386392": {
                 "video": "https://www.youtube.com/watch?v=9fZ8HbDywVI",
                 "completion_date": "2025-04-22",
@@ -2422,6 +2428,11 @@
             }
         },
         "carti": {
+            "62214792": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1613476202704760/",
+                "completion_date": "2025-05-03",
+                "is_mobile": false
+            },
             "87481937": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1612079249511122/",
                 "completion_date": "2025-05-01",
