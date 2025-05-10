@@ -269,7 +269,8 @@
       ["Budding Roses", "113824520"],
       ["Maybe Possibly Thing", "60284098"],
       ["Athanatos", "26133601"],
-      ["Maths", "108558924"]
+      ["Maths", "108558924"],
+      ["vaenstep", "79242390"]
     ],
     
     "legacy": [
@@ -342,6 +343,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "79242390": {
+                "video": "https://www.facebook.com/share/v/1CQFLNJgz3/",
+                "completion_date": "2025-05-08",
+                "is_mobile": false
+            },
             "60284098": {
                 "video": "https://www.facebook.com/share/v/194u9st76T/",
                 "completion_date": "2025-05-06",
