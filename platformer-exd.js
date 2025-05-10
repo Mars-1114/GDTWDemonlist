@@ -35,46 +35,51 @@ $.getJSON(file, function(data) {
 });
 
 $(document).ajaxStop(function() {
-  // get exd detail
-  for (let exd of local_data.demon) {
-    exd_arr.push(pemonlist_arr.find(x => +x.level_id == +exd[1]));
+  try {
+    // get exd detail
+    for (let exd of local_data.demon) {
+      exd_arr.push(pemonlist_arr.find(x => +x.level_id == +exd[1]));
+    }
+  
+    // sort by placement
+    exd_arr.sort((a, b) => a.placement - b.placement);
+  
+    var str = "";
+    for (var n in exd_arr) {
+      // color
+      if (+exd_arr[n].placement <= 25) {
+        var color = "--text-list-top";
+      }
+      else if (+exd_arr[n].placement <= 75) {
+        var color = "--text-list-main";
+      }
+      else if (+exd_arr[n].placement <= 150) {
+        var color = "--text-list-extended";
+      }
+      else {
+        var color = "--text-platformer";
+      }
+  
+      // level name
+      str += "<button class='dropdownBtn'><h2>\
+              <i style='color: var(" + color + ")'>\
+                #" + (+n + 1) + " " + exd_arr[n].name + "</i>\
+              <i style='font-weight: normal'> by " + exd_arr[n].creator + " </i>\
+              <span style='font-size: 15px; font-weight: normal'>\
+                &nbsp (" + FORMULA(+n + 1, local_data.demon.length).toFixed(2) + " pts)\
+              </span>\
+              <span class='indicator' style='float: right'>+</span></h2></button>\
+              <div class='collapseWrap'>\
+                <div class='collapsable'>"+ 
+                  listPlayer(local_data.player, exd_arr[n].level_id) + 
+                "</div>\
+              </div>";
+    }
+    $("#exd").html(str);
   }
-
-  // sort by placement
-  exd_arr.sort((a, b) => a.placement - b.placement);
-
-  var str = "";
-  for (var n in exd_arr) {
-    // color
-    if (+exd_arr[n].placement <= 25) {
-      var color = "--text-list-top";
-    }
-    else if (+exd_arr[n].placement <= 75) {
-      var color = "--text-list-main";
-    }
-    else if (+exd_arr[n].placement <= 150) {
-      var color = "--text-list-extended";
-    }
-    else {
-      var color = "--text-platformer";
-    }
-
-    // level name
-    str += "<button class='dropdownBtn'><h2>\
-            <i style='color: var(" + color + ")'>\
-              #" + (+n + 1) + " " + exd_arr[n].name + "</i>\
-            <i style='font-weight: normal'> by " + exd_arr[n].creator + " </i>\
-            <span style='font-size: 15px; font-weight: normal'>\
-              &nbsp (" + FORMULA(+n + 1, local_data.demon.length).toFixed(2) + " pts)\
-            </span>\
-            <span class='indicator' style='float: right'>+</span></h2></button>\
-            <div class='collapseWrap'>\
-              <div class='collapsable'>"+ 
-                listPlayer(local_data.player, exd_arr[n].level_id) + 
-              "</div>\
-            </div>";
+  catch {
+    $("#warning").html("目前無法存取Pemonlist網站，且無合適的備份資料，因此無法展示列表。");
   }
-  $("#exd").html(str);
 
   // show list
   $(".loaderContainer").css("display", "none");
