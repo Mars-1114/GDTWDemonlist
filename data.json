@@ -270,7 +270,8 @@
       ["Maybe Possibly Thing", "60284098"],
       ["Athanatos", "26133601"],
       ["Maths", "108558924"],
-      ["vaenstep", "79242390"]
+      ["vaenstep", "79242390"],
+      ["Frightful Melody", "51311699"]
     ],
     
     "legacy": [
@@ -343,6 +344,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "51311699": {
+                "video": "https://www.facebook.com/share/v/16MDpuhPcr/",
+                "completion_date": "2025-05-14",
+                "is_mobile": false
+            },
             "79242390": {
                 "video": "https://www.facebook.com/share/v/1CQFLNJgz3/",
                 "completion_date": "2025-05-08",
