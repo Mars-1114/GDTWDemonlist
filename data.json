@@ -271,7 +271,9 @@
       ["Athanatos", "26133601"],
       ["Maths", "108558924"],
       ["vaenstep", "79242390"],
-      ["Frightful Melody", "51311699"]
+      ["Frightful Melody", "51311699"],
+      ["Luma", "114849191"],
+      ["Warning", "72414148"]
     ],
     
     "legacy": [
@@ -344,6 +346,21 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "72414148": {
+                "video": "https://www.facebook.com/share/v/1Fsf4utE2m/",
+                "completion_date": "2025-05-15",
+                "is_mobile": false
+            },
+            "91739197": {
+                "video": "https://www.facebook.com/share/v/15bwbGGnwS/",
+                "completion_date": "2025-05-16",
+                "is_mobile": false
+            },
+            "114849191": {
+                "video": "https://www.facebook.com/share/v/1Fzoxc8qa4/",
+                "completion_date": "2025-05-01",
+                "is_mobile": false
+            },
             "51311699": {
                 "video": "https://www.facebook.com/share/v/16MDpuhPcr/",
                 "completion_date": "2025-05-14",
@@ -2472,6 +2489,11 @@
             }
         },
         "carti": {
+            "69491632": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1621579488561098/",
+                "completion_date": "2025-05-16",
+                "is_mobile": false
+            },
             "87425029": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1613476202704760/",
                 "completion_date": "2025-05-03",
