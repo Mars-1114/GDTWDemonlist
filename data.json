@@ -273,7 +273,8 @@
       ["vaenstep", "79242390"],
       ["Frightful Melody", "51311699"],
       ["Luma", "114849191"],
-      ["Warning", "72414148"]
+      ["Warning", "72414148"],
+      ["Mizureta", "95764848"]
     ],
     
     "legacy": [
@@ -346,6 +347,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "95764848": {
+                "video": "https://www.facebook.com/share/v/15KaRdDgDZ/",
+                "completion_date": "2025-05-10",
+                "is_mobile": false
+            },
             "72414148": {
                 "video": "https://www.facebook.com/share/v/1Fsf4utE2m/",
                 "completion_date": "2025-05-15",
@@ -2556,6 +2562,11 @@
             "92957491": {
                 "video": "https://www.youtube.com/watch?v=tUIDX2PZrRk",
                 "completion_date": "2024-02-11",
+                "is_mobile": false
+            },
+            "95764848": {
+                "video": "https://www.youtube.com/watch?v=ITeRqBIRIps",
+                "completion_date": "2023-11-17",
                 "is_mobile": false
             }
         }
