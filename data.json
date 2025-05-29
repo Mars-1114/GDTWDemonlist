@@ -274,7 +274,8 @@
       ["Frightful Melody", "51311699"],
       ["Luma", "114849191"],
       ["Warning", "72414148"],
-      ["Mizureta", "95764848"]
+      ["Mizureta", "95764848"],
+      ["Melon River", "118931226"]
     ],
     
     "legacy": [
@@ -347,6 +348,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "118931226": {
+                "video": "https://www.facebook.com/share/v/1Bmp51Bq2W/",
+                "completion_date": "2025-05-29",
+                "is_mobile": false
+            },
             "95764848": {
                 "video": "https://www.facebook.com/share/v/15KaRdDgDZ/",
                 "completion_date": "2025-05-10",
