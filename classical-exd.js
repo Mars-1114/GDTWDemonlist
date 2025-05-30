@@ -1,5 +1,5 @@
 var file = "data.json";
-var site = "https://api.aredl.net/api/aredl/levels/";
+var site = "https://api.aredl.net/v2/api/aredl/levels/";
 
 var exd_arr = [];
 var local_data;
