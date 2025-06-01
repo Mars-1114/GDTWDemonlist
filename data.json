@@ -275,7 +275,8 @@
       ["Luma", "114849191"],
       ["Warning", "72414148"],
       ["Mizureta", "95764848"],
-      ["Melon River", "118931226"]
+      ["Melon River", "118931226"],
+      ["Plasma Pulse III", "20159880"]
     ],
     
     "legacy": [
@@ -2383,6 +2384,11 @@
             }
         },
         "InfAstral": {
+            "20159880": {
+                "video": "https://www.youtube.com/watch?v=QrSv8SGaYf8",
+                "completion_date": "2025-06-01",
+                "is_mobile": false
+            },
             "14977845": {
                 "video": "https://www.youtube.com/watch?v=ehR22vIptdc",
                 "completion_date": "2025-05-30",
