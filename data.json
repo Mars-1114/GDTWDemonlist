@@ -276,7 +276,8 @@
       ["Warning", "72414148"],
       ["Mizureta", "95764848"],
       ["Melon River", "118931226"],
-      ["Plasma Pulse III", "20159880"]
+      ["Plasma Pulse III", "20159880"],
+      ["The Golden", "60978746"]
     ],
     
     "legacy": [
@@ -349,6 +350,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "60978746": {
+                "video": "https://www.youtube.com/watch?v=R84ep8aGsHM",
+                "completion_date": "2025-06-02",
+                "is_mobile": false
+            },
             "118931226": {
                 "video": "https://www.facebook.com/share/v/1Bmp51Bq2W/",
                 "completion_date": "2025-05-29",
