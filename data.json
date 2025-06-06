@@ -277,7 +277,8 @@
       ["Mizureta", "95764848"],
       ["Melon River", "118931226"],
       ["Plasma Pulse III", "20159880"],
-      ["The Golden", "60978746"]
+      ["The Golden", "60978746"],
+      ["Stop Breathing", "108212471"]
     ],
     
     "legacy": [
@@ -350,6 +351,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "108212471": {
+                "video": "https://www.facebook.com/share/v/1NB89HTYAi/",
+                "completion_date": "2025-06-06",
+                "is_mobile": false
+            },
             "20159880": {
                 "video": "https://www.facebook.com/share/v/1ApgZ8Fwz3/",
                 "completion_date": "2025-06-05",
