@@ -279,7 +279,8 @@
       ["Plasma Pulse III", "20159880"],
       ["The Golden", "60978746"],
       ["Stop Breathing", "108212471"],
-      ["Sweater Weather", "81148582"]
+      ["Sweater Weather", "81148582"],
+      ["Voluto", "110027124"]
     ],
     
     "legacy": [
@@ -352,6 +353,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "110027124": {
+                "video": "https://www.facebook.com/share/v/1CiampsNgt/",
+                "completion_date": "2025-06-08",
+                "is_mobile": false
+            },
             "14977845": {
                 "video": "https://www.facebook.com/share/v/1CiampsNgt/",
                 "completion_date": "2025-06-07",
