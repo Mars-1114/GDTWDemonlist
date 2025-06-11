@@ -280,7 +280,9 @@
       ["The Golden", "60978746"],
       ["Stop Breathing", "108212471"],
       ["Sweater Weather", "81148582"],
-      ["Voluto", "110027124"]
+      ["Voluto", "110027124"],
+      ["Expedition", "113155871"],
+      ["JRJRJR", "115169829"]
     ],
     
     "legacy": [
@@ -353,6 +355,21 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "74924716": {
+                "video": "https://www.facebook.com/share/v/1CADKCAzQq/",
+                "completion_date": "2025-06-11",
+                "is_mobile": false
+            },
+            "115169829": {
+                "video": "https://www.facebook.com/share/v/19bCJiDN7r/",
+                "completion_date": "2025-06-10",
+                "is_mobile": false
+            },
+            "113155871": {
+                "video": "https://www.facebook.com/share/v/1DxFd9M999/",
+                "completion_date": "2025-06-09",
+                "is_mobile": false
+            },
             "110027124": {
                 "video": "https://www.facebook.com/share/v/1CiampsNgt/",
                 "completion_date": "2025-06-08",
@@ -2581,6 +2598,11 @@
             }
         },
         "carti": {
+            "118931226": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1638804043505309",
+                "completion_date": "2025-06-10",
+                "is_mobile": false
+            },
             "69491632": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1621579488561098/",
                 "completion_date": "2025-05-16",
