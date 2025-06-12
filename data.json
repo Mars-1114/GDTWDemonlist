@@ -282,7 +282,10 @@
       ["Sweater Weather", "81148582"],
       ["Voluto", "110027124"],
       ["Expedition", "113155871"],
-      ["JRJRJR", "115169829"]
+      ["JRJRJR", "115169829"],
+      ["Alcatraz", "57208977"],
+      ["VIRTUE", "72943745"],
+      ["HeatSeeker", "109513812"]
     ],
     
     "legacy": [
@@ -355,6 +358,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "72943745": {
+                "video": "https://www.facebook.com/share/v/1HRDpYnD7z/",
+                "completion_date": "2025-06-13",
+                "is_mobile": false
+            },
+            "57208977": {
+                "video": "https://www.facebook.com/share/v/16nzsYSC6e/",
+                "completion_date": "2025-06-12",
+                "is_mobile": false
+            },
             "74924716": {
                 "video": "https://www.facebook.com/share/v/1CADKCAzQq/",
                 "completion_date": "2025-06-11",
@@ -2340,6 +2353,11 @@
             "104619741": {
                 "video": "https://www.facebook.com/100003439767236/videos/438296972549043/",
                 "completion_date": "2024-09-02",
+                "is_mobile": false
+            },
+            "109513812": {
+                "video": "https://www.facebook.com/share/v/16Q9SGNaR7/",
+                "completion_date": "2025-06-12",
                 "is_mobile": false
             }
         },
