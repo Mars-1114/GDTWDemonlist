@@ -285,7 +285,10 @@
       ["JRJRJR", "115169829"],
       ["Alcatraz", "57208977"],
       ["VIRTUE", "72943745"],
-      ["HeatSeeker", "109513812"]
+      ["HeatSeeker", "109513812"],
+      ["OPSM1", "68193306"],
+      ["Canneles Au Chocolat", "111849025"],
+      ["MELTDOWN", "52527538"]
     ],
     
     "legacy": [
@@ -358,6 +361,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "111849025": {
+                "video": "https://www.facebook.com/share/v/15dxViJi9u/",
+                "completion_date": "2025-06-14",
+                "is_mobile": false
+            },
+            "68193306": {
+                "video": "https://www.facebook.com/share/v/1CG4nbUQsp/",
+                "completion_date": "2025-06-13",
+                "is_mobile": false
+            },
             "72943745": {
                 "video": "https://www.facebook.com/share/v/1HRDpYnD7z/",
                 "completion_date": "2025-06-13",
@@ -2251,6 +2264,11 @@
             }
         },
         "Ruiq♿": {
+            "52527538": {
+                "video": "https://www.facebook.com/share/v/1C1bKdvVz8/",
+                "completion_date": "2025-06-14",
+                "is_mobile": false
+            },
             "73005068": {
                 "video": "https://www.youtube.com/watch?v=VoZV7ZHaX5Y",
                 "completion_date": "2025-01-23",
