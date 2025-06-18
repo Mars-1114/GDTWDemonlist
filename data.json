@@ -288,7 +288,11 @@
       ["HeatSeeker", "109513812"],
       ["OPSM1", "68193306"],
       ["Canneles Au Chocolat", "111849025"],
-      ["MELTDOWN", "52527538"]
+      ["MELTDOWN", "52527538"],
+      ["Without U", "119259720"],
+      ["TREMORS", "89471892"],
+      ["Caution", "62759650"],
+      ["JeonGi", "89224784"]
     ],
     
     "legacy": [
@@ -361,6 +365,26 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "89224784": {
+                "video": "https://www.facebook.com/share/v/171iagNZBr/",
+                "completion_date": "2025-06-18",
+                "is_mobile": false
+            },
+            "62759650": {
+                "video": "https://www.facebook.com/share/v/16gKfY2ahq/",
+                "completion_date": "2025-06-17",
+                "is_mobile": false
+            },
+            "89471892": {
+                "video": "https://www.facebook.com/share/v/19H1EH8uBe/",
+                "completion_date": "2025-06-16",
+                "is_mobile": false
+            },
+            "119259720": {
+                "video": "https://www.facebook.com/share/v/1AXX2mPC4H/",
+                "completion_date": "2025-06-15",
+                "is_mobile": false
+            },
             "111849025": {
                 "video": "https://www.facebook.com/share/v/15dxViJi9u/",
                 "completion_date": "2025-06-14",
