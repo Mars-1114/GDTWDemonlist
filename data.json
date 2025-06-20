@@ -292,7 +292,9 @@
       ["Without U", "119259720"],
       ["TREMORS", "89471892"],
       ["Caution", "62759650"],
-      ["JeonGi", "89224784"]
+      ["JeonGi", "89224784"],
+      ["SHATTER", "67622133"],
+      ["The Ultimate Return", "116124917"]
     ],
     
     "legacy": [
@@ -365,6 +367,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "67622133": {
+                "video": "https://www.facebook.com/share/v/163puJbAKE/",
+                "completion_date": "2025-06-20",
+                "is_mobile": false
+            },
+            "116124917": {
+                "video": "https://www.facebook.com/share/v/1BwShJ8sYo/",
+                "completion_date": "2025-06-19",
+                "is_mobile": false
+            },
             "89224784": {
                 "video": "https://www.facebook.com/share/v/171iagNZBr/",
                 "completion_date": "2025-06-18",
