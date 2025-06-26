@@ -294,7 +294,11 @@
       ["Caution", "62759650"],
       ["JeonGi", "89224784"],
       ["SHATTER", "67622133"],
-      ["The Ultimate Return", "116124917"]
+      ["The Ultimate Return", "116124917"],
+      ["YIPPEE", "101948024"],
+      ["Acrozis", "71136146"],
+      ["DARKENED", "66085306"],
+      ["RUST", "71912451"]
     ],
     
     "legacy": [
@@ -367,6 +371,36 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "71912451": {
+                "video": "https://www.facebook.com/share/v/1QNSe5YCs2/",
+                "completion_date": "2025-06-26",
+                "is_mobile": false
+            },
+            "66085306": {
+                "video": "https://www.facebook.com/share/v/1BeX1vGWyz/",
+                "completion_date": "2025-06-25",
+                "is_mobile": false
+            },
+            "71136146": {
+                "video": "https://www.facebook.com/share/v/1A5ytcHjWK/",
+                "completion_date": "2025-06-24",
+                "is_mobile": false
+            },
+            "98371484": {
+                "video": "https://www.facebook.com/share/v/1Hv23NGjDi/",
+                "completion_date": "2025-06-23",
+                "is_mobile": false
+            },
+            "70187443": {
+                "video": "https://www.facebook.com/share/v/1DhiCxmD72/",
+                "completion_date": "2025-06-22",
+                "is_mobile": false
+            },
+            "101948024": {
+                "video": "https://www.facebook.com/share/v/16XGQg3r2N/",
+                "completion_date": "2025-06-21",
+                "is_mobile": false
+            },
             "67622133": {
                 "video": "https://www.facebook.com/share/v/163puJbAKE/",
                 "completion_date": "2025-06-20",
