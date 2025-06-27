@@ -21,7 +21,8 @@
         ["Project BUZZKILL", "111113059"],
         ["CASIO HELLBURST", "107418375"],
         ["Adrenaline", "113507295"],
-        ["Uh Oh", "116120637"]
+        ["Uh Oh", "116120637"],
+        ["Withering Gallery", "114308040"]
     ],
 
     "legacy": [
@@ -34,6 +35,11 @@
 
     "player": {
         "carti": {
+            "114308040": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1650344112351302/",
+                "completion_date": "2025-06-27",
+                "is_mobile": false
+            },
             "99608524": {
                 "video": "https://www.youtube.com/live/jGC4HOexLKU",
                 "completion_date": "2025-02-28",
@@ -121,6 +127,11 @@
             }
         },
         "超大法國麵包🥖": {
+            "114308040": {
+                "video": "https://www.facebook.com/share/v/1Z6tJgMPk9/",
+                "completion_date": "2025-06-27",
+                "is_mobile": false
+            },
             "102805772": {
                 "video": "https://www.facebook.com/share/v/1AwvFY12Zm/",
                 "completion_date": "2025-06-03",
