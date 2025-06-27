@@ -298,7 +298,8 @@
       ["YIPPEE", "101948024"],
       ["Acrozis", "71136146"],
       ["DARKENED", "66085306"],
-      ["RUST", "71912451"]
+      ["RUST", "71912451"],
+      ["WcropoliX", "22183448"]
     ],
     
     "legacy": [
@@ -371,6 +372,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "22183448": {
+                "video": "https://www.facebook.com/share/v/1ADu2XdgDC/",
+                "completion_date": "2025-06-18",
+                "is_mobile": false
+            },
             "71912451": {
                 "video": "https://www.facebook.com/share/v/1QNSe5YCs2/",
                 "completion_date": "2025-06-26",
