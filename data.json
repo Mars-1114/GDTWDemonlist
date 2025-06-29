@@ -299,7 +299,9 @@
       ["Acrozis", "71136146"],
       ["DARKENED", "66085306"],
       ["RUST", "71912451"],
-      ["WcropoliX", "22183448"]
+      ["WcropoliX", "22183448"],
+      ["I NEVER DREAM", "76931927"],
+      ["SPEEDRUN", "58507437"]
     ],
     
     "legacy": [
@@ -372,13 +374,23 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "58507437": {
+                "video": "https://www.facebook.com/share/v/18V9nCNRQb/",
+                "completion_date": "2025-06-29",
+                "is_mobile": false
+            },
+            "76931927": {
+                "video": "https://www.youtube.com/watch?v=m1DE3Dq9xoQ",
+                "completion_date": "2025-06-28",
+                "is_mobile": false
+            },
             "22183448": {
                 "video": "https://www.facebook.com/share/v/1ADu2XdgDC/",
                 "completion_date": "2025-06-18",
                 "is_mobile": false
             },
             "71912451": {
-                "video": "https://www.facebook.com/share/v/1QNSe5YCs2/",
+                "video": "https://www.youtube.com/watch?v=2z9xB9UBl38",
                 "completion_date": "2025-06-26",
                 "is_mobile": false
             },
