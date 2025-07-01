@@ -301,7 +301,8 @@
       ["RUST", "71912451"],
       ["WcropoliX", "22183448"],
       ["I NEVER DREAM", "76931927"],
-      ["SPEEDRUN", "58507437"]
+      ["SPEEDRUN", "58507437"],
+      ["BLACKLIGHTS", "92782493"]
     ],
     
     "legacy": [
@@ -374,6 +375,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "87072454": {
+                "video": "https://www.facebook.com/share/v/19KqsAEnfG/",
+                "completion_date": "2025-07-01",
+                "is_mobile": false
+            },
+            "92782493": {
+                "video": "https://www.facebook.com/share/v/1ByV1ro8Bq/",
+                "completion_date": "2025-06-30",
+                "is_mobile": false
+            },
             "58507437": {
                 "video": "https://www.facebook.com/share/v/18V9nCNRQb/",
                 "completion_date": "2025-06-29",
