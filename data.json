@@ -161,7 +161,7 @@
       ["Thunder Alphabet", "59230188"],
       ["Red World Rebirth", "20077821"],
       ["Robi", "88172786"],
-      ["PLUS ULTRA", " 60512120"],
+      ["PLUS ULTRA", "60512120"],
       ["HyperSonic", "30219145"],
       ["Falling Up", "24301797"],
       ["Just DANCE", "60257058"],
@@ -302,7 +302,10 @@
       ["WcropoliX", "22183448"],
       ["I NEVER DREAM", "76931927"],
       ["SPEEDRUN", "58507437"],
-      ["BLACKLIGHTS", "92782493"]
+      ["BLACKLIGHTS", "92782493"],
+      ["Surge of the Shield", "61127840"],
+      ["ROW", "117907680"],
+      ["Jumping Demons", "117061407"]
     ],
     
     "legacy": [
@@ -375,6 +378,21 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "117061407": {
+                "video": "https://www.facebook.com/share/v/19KqsAEnfG/",
+                "completion_date": "2025-07-01",
+                "is_mobile": false
+            },
+            "117907680": {
+                "video": "https://www.youtube.com/watch?v=3tHdFxZJaQY",
+                "completion_date": "2025-07-04",
+                "is_mobile": false
+            },
+            "61127840": {
+                "video": "https://www.youtube.com/watch?v=GL6lls7YDuY",
+                "completion_date": "2025-07-02",
+                "is_mobile": false
+            },
             "87072454": {
                 "video": "https://www.facebook.com/share/v/19KqsAEnfG/",
                 "completion_date": "2025-07-01",
@@ -1897,7 +1915,7 @@
                 "completion_date": "2023-06-20",
                 "is_mobile": false
             },
-            " 60512120": {
+            "60512120": {
                 "video": " ",
                 "completion_date": "2100-01-01",
                 "is_mobile": false
@@ -2490,13 +2508,6 @@
                 "is_mobile": false
             }
         },
-        "鄧軒博": {
-            "61079355": {
-                "video": "https://www.facebook.com/100006266197044/videos/950339529100019/",
-                "completion_date": "2022-06-08",
-                "is_mobile": true
-            }
-        },
         "黃世宏": {
             "34379100": {
                 "video": "https://www.facebook.com/100001201755527/videos/1053820379200346/",
@@ -2541,6 +2552,11 @@
                 "video": "https://www.facebook.com/100071383914880/videos/731349795871291/",
                 "completion_date": "2024-04-15",
                 "is_mobile": false
+            },
+            "61079355": {
+                "video": "https://www.facebook.com/100006266197044/videos/950339529100019/",
+                "completion_date": "2022-06-08",
+                "is_mobile": true
             }
         },
         "kiwibbbb": {
