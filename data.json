@@ -300,6 +300,9 @@
       ["DARKENED", "66085306"],
       ["RUST", "71912451"],
       ["WcropoliX", "22183448"],
+      ["Bang Gang (2P)", "56916170_2p"],
+      ["Codependence (2P)", "62556400_2p"],
+      ["Sides Of My Mind (2P)", "91042484_2p"],
       ["I NEVER DREAM", "76931927"],
       ["SPEEDRUN", "58507437"],
       ["BLACKLIGHTS", "92782493"],
@@ -417,6 +420,21 @@
             "76931927": {
                 "video": "https://www.youtube.com/watch?v=m1DE3Dq9xoQ",
                 "completion_date": "2025-06-28",
+                "is_mobile": false
+            },
+            "91042484_2p": {
+                "video": "https://www.youtube.com/watch?v=tc0eteycL64",
+                "completion_date": "2025-06-27",
+                "is_mobile": false
+            },
+            "56916170_2p": {
+                "video": "https://www.youtube.com/watch?v=eZ6AQCmag2c",
+                "completion_date": "2025-04-14",
+                "is_mobile": false
+            },
+            "62556400_2p": {
+                "video": "https://www.youtube.com/watch?v=e3uMeVNvdMQ",
+                "completion_date": "2025-02-20",
                 "is_mobile": false
             },
             "22183448": {
@@ -2592,6 +2610,21 @@
             }
         },
         "InfAstral": {
+            "91042484_2p": {
+                "video": "https://www.youtube.com/watch?v=6478Bl1Zjl8",
+                "completion_date": "2025-06-27",
+                "is_mobile": false
+            },
+            "56916170_2p": {
+                "video": "https://www.youtube.com/watch?v=eXGjYN5emyM",
+                "completion_date": "2025-04-14",
+                "is_mobile": false
+            },
+            "62556400_2p": {
+                "video": "https://www.youtube.com/watch?v=LUDF-nY5Mr0",
+                "completion_date": "2025-02-20",
+                "is_mobile": false
+            },
             "68731559": {
                 "video": "https://www.youtube.com/watch?v=GQqj_A2BrPw",
                 "completion_date": "2025-06-04",

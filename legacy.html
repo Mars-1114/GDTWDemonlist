@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
   <meta http-equiv='cache-control' content='no-cache'> 
   <meta http-equiv='expires' content='0'> 
   <meta http-equiv='pragma' content='no-cache'>
@@ -15,26 +15,40 @@
 </head>
 <!-- Select Menu -->
 
-<body>
+<body id="leaderboard" style="overflow: hidden; overflow-x: hidden;">
   <div id="menuContainer"></div>
   <div class="loaderContainer">
     <div class="loader"></div>
     <p><br><br>Loading</p>
   </div>
-  <div class="content" style="opacity:0">
-    <p style="margin: 10px 20px">此頁面會放上被降級/違規通關的關卡，而且不會登上新的成績。此列表順序不代表難度。</p>
-    <div id="legacy"></div>
+  <div class="content leaderboard" style="opacity:0">
+    <div id="player-container" style="flex: 50%;">
+      <div id="player"></div>
+    </div>
+    <span id="leaderboard-border"></span>
+    <div id="player-detail-container" style="flex: 50%;">
+      <div id="player-detail"></div>
+    </div>
+  </div>
+  <div class="content mobile-leaderboard" style="opacity:0; position: relative">
+    <div id="mobile-player"></div>
+  </div>
+  <div id="mobile-detail-container">
+    <div id="mobile-modal">
+      <div style="height: 40px;">
+        <span id="modal-close">
+          <span class="material-symbols-outlined" style="color: var(--text-default); font-size: 35px;">
+            close
+          </span>
+        </span>
+      </div>
+      <div id="mobile-detail"></div>
+    </div>
   </div>
   <!-- End -->
   <address class="addr">
     Website by Mars
   </address>
-  <span id="scroll-to-top">
-    <span class="material-symbols-outlined">
-      vertical_align_top
-    </span>
-    <p style="margin: 0"><b>TOP</b></p>
-  </span>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="menu.js"></script>
   <script src="legacy.js"></script>

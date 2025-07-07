@@ -7,6 +7,10 @@ if (getCookie("light_mode") == "on") {
 // darkmode checkbox
 $("#darkmode-switch-display").on("click", function() {
   lightmode($("#darkmode-switch-checkbox").prop("checked"));
+    
+  // set leaderboard selected color
+  $(".leaderboard-btn").css("background-color", setColorOpacity($(":root").css("--list-selected"), 0));
+  $(".selected").css("background-color", setColorOpacity($(":root").css("--list-selected"), 0.16));
 });
 
 /**
@@ -50,6 +54,7 @@ function lightmode(toggle) {
       .css("--text-highlight", "rgb(83, 158, 181)")
       .css("--text-highlight-important", "rgb(220, 52, 52)")
       .css("--text-highlight-allow", "rgb(14, 186, 14)")
+      .css("--text-note", "rgb(117, 117, 117)")
       .css("--text-platformer", "rgb(123, 45, 172)")
       .css("--text-list-top", "rgb(231, 77, 77)")
       .css("--text-list-main", "rgb(207, 198, 12)")
@@ -68,7 +73,12 @@ function lightmode(toggle) {
       .css("--switch", "rgb(232, 255, 182)")
       .css("--switch-base", "rgb(104, 142, 136)")
       .css("--footer", "rgb(207, 243, 239)")
-      .css("--scroll-to-top-base", "rgb(133, 181, 178)");
+      .css("--scroll-to-top-base", "rgb(133, 181, 178)")
+      .css("--list-selected", "rgba(24, 68, 85, 0)")
+      .css("--text-leaderboard-detail", "rgb(64, 104, 88)")
+      .css("--bg-contact", "rgba(0, 0, 0, 0.08)")
+      .css("--bg-switch", "rgba(176, 169, 42, 0.37)")
+      .css("--bg-modal", "rgb(186, 224, 225)");
 
     // set cookie
     document.cookie = "light_mode=on";
@@ -91,6 +101,7 @@ function lightmode(toggle) {
       .css("--text-highlight", "rgb(199, 227, 255)")
       .css("--text-highlight-important", "rgb(243, 159, 159)")
       .css("--text-highlight-allow", "rgb(89, 214, 89)")
+      .css("--text-note", "rgb(170, 170, 170)")
       .css("--text-platformer", "#a27dff")
       .css("--text-list-top", "rgb(195, 77, 77)")
       .css("--text-list-main", "rgb(223, 193, 125)")
@@ -109,7 +120,12 @@ function lightmode(toggle) {
       .css("--switch", "rgb(174, 138, 207)")
       .css("--switch-base", "rgb(29, 52, 60)")
       .css("--footer", "rgb(39, 42, 57)")
-      .css("--scroll-to-top-base", "rgb(82, 149, 145)");
+      .css("--scroll-to-top-base", "rgb(82, 149, 145)")
+      .css("--list-selected", "rgba(132, 161, 255, 0)")
+      .css("--text-leaderboard-detail", "rgb(159, 223, 198)")
+      .css("--bg-contact", "rgba(255, 255, 255, 0.08)")
+      .css("--bg-switch", "rgba(136, 161, 60, 0.226)")
+      .css("--bg-modal", "rgb(38, 44, 57)");
 
     // delete cookie
     document.cookie = "light_mode=; expires=Thu, 01 Jan 1970 00:00:00 UTC"
