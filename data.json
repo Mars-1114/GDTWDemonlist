@@ -305,7 +305,8 @@
       ["BLACKLIGHTS", "92782493"],
       ["Surge of the Shield", "61127840"],
       ["ROW", "117907680"],
-      ["Jumping Demons", "117061407"]
+      ["Jumping Demons", "117061407"],
+      ["The Cellar Path", "85317764"]
     ],
     
     "legacy": [
@@ -378,9 +379,14 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "85317764": {
+                "video": "https://www.facebook.com/share/v/1BwDFGXcxW/",
+                "completion_date": "2025-07-07",
+                "is_mobile": false
+            },
             "117061407": {
-                "video": "https://www.facebook.com/share/v/1Lj8hfj81V/",
-                "completion_date": "2025-07-01",
+                "video": "https://www.youtube.com/watch?v=VtyD43VSNRI",
+                "completion_date": "2025-07-05",
                 "is_mobile": false
             },
             "117907680": {
