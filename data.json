@@ -309,7 +309,10 @@
       ["Surge of the Shield", "61127840"],
       ["ROW", "117907680"],
       ["Jumping Demons", "117061407"],
-      ["The Cellar Path", "85317764"]
+      ["The Cellar Path", "85317764"],
+      ["verisimilitude", "94587757"],
+      ["Liz", "110980754"],
+      ["SLAY MOMENT", "118366680"]
     ],
     
     "legacy": [
@@ -382,8 +385,23 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "118366680": {
+                "video": "https://www.youtube.com/watch?v=s23mGojxnfM",
+                "completion_date": "2025-07-12",
+                "is_mobile": false
+            },
+            "110980754": {
+                "video": "https://www.youtube.com/watch?v=HX8aJ_L-_lM",
+                "completion_date": "2025-07-09",
+                "is_mobile": false
+            },
+            "94587757": {
+                "video": "https://www.youtube.com/watch?v=fFK0VeH6khk",
+                "completion_date": "2025-07-08",
+                "is_mobile": false
+            },
             "85317764": {
-                "video": "https://www.facebook.com/share/v/1BwDFGXcxW/",
+                "video": "https://www.youtube.com/watch?v=WDPaMl_tGSo",
                 "completion_date": "2025-07-07",
                 "is_mobile": false
             },
@@ -403,17 +421,17 @@
                 "is_mobile": false
             },
             "87072454": {
-                "video": "https://www.facebook.com/share/v/19KqsAEnfG/",
+                "video": "https://www.youtube.com/watch?v=r2aEXWx9n2c",
                 "completion_date": "2025-07-01",
                 "is_mobile": false
             },
             "92782493": {
-                "video": "https://www.facebook.com/share/v/1ByV1ro8Bq/",
+                "video": "https://www.youtube.com/watch?v=z45paWOLHLk",
                 "completion_date": "2025-06-30",
                 "is_mobile": false
             },
             "58507437": {
-                "video": "https://www.facebook.com/share/v/18V9nCNRQb/",
+                "video": "https://www.youtube.com/watch?v=Sn9Rq-H7VW8",
                 "completion_date": "2025-06-29",
                 "is_mobile": false
             },
@@ -438,7 +456,7 @@
                 "is_mobile": false
             },
             "22183448": {
-                "video": "https://www.facebook.com/share/v/1ADu2XdgDC/",
+                "video": "https://www.youtube.com/watch?v=3AKJldwS3rU",
                 "completion_date": "2025-06-18",
                 "is_mobile": false
             },
@@ -448,102 +466,102 @@
                 "is_mobile": false
             },
             "66085306": {
-                "video": "https://www.facebook.com/share/v/1BeX1vGWyz/",
+                "video": "https://www.youtube.com/watch?v=ZBcNg285JiQ",
                 "completion_date": "2025-06-25",
                 "is_mobile": false
             },
             "71136146": {
-                "video": "https://www.facebook.com/share/v/1A5ytcHjWK/",
+                "video": "https://www.youtube.com/watch?v=VAwCzrS6TSk",
                 "completion_date": "2025-06-24",
                 "is_mobile": false
             },
             "98371484": {
-                "video": "https://www.facebook.com/share/v/1Hv23NGjDi/",
+                "video": "https://www.youtube.com/watch?v=iQvNcCor-Lw",
                 "completion_date": "2025-06-23",
                 "is_mobile": false
             },
             "70187443": {
-                "video": "https://www.facebook.com/share/v/1DhiCxmD72/",
+                "video": "https://www.youtube.com/watch?v=RVHV7vsVquQ",
                 "completion_date": "2025-06-22",
                 "is_mobile": false
             },
             "101948024": {
-                "video": "https://www.facebook.com/share/v/16XGQg3r2N/",
+                "video": "https://www.youtube.com/watch?v=BpGXX2Lr7E0",
                 "completion_date": "2025-06-21",
                 "is_mobile": false
             },
             "67622133": {
-                "video": "https://www.facebook.com/share/v/163puJbAKE/",
+                "video": "https://www.youtube.com/watch?v=hQDArylanTA",
                 "completion_date": "2025-06-20",
                 "is_mobile": false
             },
             "116124917": {
-                "video": "https://www.facebook.com/share/v/1BwShJ8sYo/",
+                "video": "https://www.youtube.com/watch?v=snbZ9_fh00M",
                 "completion_date": "2025-06-19",
                 "is_mobile": false
             },
             "89224784": {
-                "video": "https://www.facebook.com/share/v/171iagNZBr/",
+                "video": "https://www.youtube.com/watch?v=TX-GbrwmyuM",
                 "completion_date": "2025-06-18",
                 "is_mobile": false
             },
             "62759650": {
-                "video": "https://www.facebook.com/share/v/16gKfY2ahq/",
+                "video": "https://www.youtube.com/watch?v=EsBLpetpnWg",
                 "completion_date": "2025-06-17",
                 "is_mobile": false
             },
             "89471892": {
-                "video": "https://www.facebook.com/share/v/19H1EH8uBe/",
+                "video": "https://www.youtube.com/watch?v=TpJFctK2Xc0",
                 "completion_date": "2025-06-16",
                 "is_mobile": false
             },
             "119259720": {
-                "video": "https://www.facebook.com/share/v/1AXX2mPC4H/",
+                "video": "https://www.youtube.com/watch?v=PveGRNJsukM",
                 "completion_date": "2025-06-15",
                 "is_mobile": false
             },
             "111849025": {
-                "video": "https://www.facebook.com/share/v/15dxViJi9u/",
+                "video": "https://www.youtube.com/watch?v=h4NRGjdu3xs",
                 "completion_date": "2025-06-14",
                 "is_mobile": false
             },
             "68193306": {
-                "video": "https://www.facebook.com/share/v/1CG4nbUQsp/",
+                "video": "https://www.youtube.com/watch?v=CO7_4PVqICM",
                 "completion_date": "2025-06-13",
                 "is_mobile": false
             },
             "72943745": {
-                "video": "https://www.facebook.com/share/v/1HRDpYnD7z/",
+                "video": "https://www.youtube.com/watch?v=aGjrpi46EXI",
                 "completion_date": "2025-06-13",
                 "is_mobile": false
             },
             "57208977": {
-                "video": "https://www.facebook.com/share/v/16nzsYSC6e/",
+                "video": "https://www.youtube.com/watch?v=uk1c--JNIX0",
                 "completion_date": "2025-06-12",
                 "is_mobile": false
             },
             "74924716": {
-                "video": "https://www.facebook.com/share/v/1CADKCAzQq/",
+                "video": "https://www.youtube.com/watch?v=x2zmNUEg5jM",
                 "completion_date": "2025-06-11",
                 "is_mobile": false
             },
             "115169829": {
-                "video": "https://www.facebook.com/share/v/19bCJiDN7r/",
+                "video": "https://www.youtube.com/watch?v=R_3naBTmJJs",
                 "completion_date": "2025-06-10",
                 "is_mobile": false
             },
             "113155871": {
-                "video": "https://www.facebook.com/share/v/1DxFd9M999/",
+                "video": "https://www.youtube.com/watch?v=lkpiPAVD9jM",
                 "completion_date": "2025-06-09",
                 "is_mobile": false
             },
             "110027124": {
-                "video": "https://www.facebook.com/share/v/1CiampsNgt/",
+                "video": "https://www.youtube.com/watch?v=Bep8NZBOnEg",
                 "completion_date": "2025-06-08",
                 "is_mobile": false
             },
             "14977845": {
-                "video": "https://www.facebook.com/share/v/1CiampsNgt/",
+                "video": "https://www.youtube.com/watch?v=6ss_z1A6cJI",
                 "completion_date": "2025-06-07",
                 "is_mobile": false
             },
@@ -553,12 +571,12 @@
                 "is_mobile": false
             },
             "108212471": {
-                "video": "https://www.facebook.com/share/v/1NB89HTYAi/",
+                "video": "https://www.youtube.com/watch?v=vzG0HwvycYI",
                 "completion_date": "2025-06-06",
                 "is_mobile": false
             },
             "20159880": {
-                "video": "https://www.facebook.com/share/v/1ApgZ8Fwz3/",
+                "video": "https://www.youtube.com/watch?v=BEZFR2wXSDg",
                 "completion_date": "2025-06-05",
                 "is_mobile": false
             },
@@ -568,72 +586,72 @@
                 "is_mobile": false
             },
             "118931226": {
-                "video": "https://www.facebook.com/share/v/1Bmp51Bq2W/",
+                "video": "https://www.youtube.com/watch?v=NzugTf9QtYQ",
                 "completion_date": "2025-05-29",
                 "is_mobile": false
             },
             "95764848": {
-                "video": "https://www.facebook.com/share/v/15KaRdDgDZ/",
+                "video": "https://www.youtube.com/watch?v=_lANSiSR8ks",
                 "completion_date": "2025-05-10",
                 "is_mobile": false
             },
             "72414148": {
-                "video": "https://www.facebook.com/share/v/1Fsf4utE2m/",
+                "video": "https://www.youtube.com/watch?v=u6T4CQOqPzc",
                 "completion_date": "2025-05-15",
                 "is_mobile": false
             },
             "91739197": {
-                "video": "https://www.facebook.com/share/v/15bwbGGnwS/",
+                "video": "https://www.youtube.com/watch?v=DPbRwX4p0w0",
                 "completion_date": "2025-05-16",
                 "is_mobile": false
             },
             "114849191": {
-                "video": "https://www.facebook.com/share/v/1Fzoxc8qa4/",
+                "video": "https://www.youtube.com/watch?v=WE_BdqfD4a0",
                 "completion_date": "2025-05-01",
                 "is_mobile": false
             },
             "51311699": {
-                "video": "https://www.facebook.com/share/v/16MDpuhPcr/",
+                "video": "https://www.youtube.com/watch?v=w_oDBIq0tMI",
                 "completion_date": "2025-05-14",
                 "is_mobile": false
             },
             "79242390": {
-                "video": "https://www.facebook.com/share/v/1CQFLNJgz3/",
+                "video": "https://www.youtube.com/watch?v=9RZHBnAh-ZY",
                 "completion_date": "2025-05-08",
                 "is_mobile": false
             },
             "60284098": {
-                "video": "https://www.facebook.com/share/v/194u9st76T/",
+                "video": "https://www.youtube.com/watch?v=KVdGdIRcXUE",
                 "completion_date": "2025-05-06",
                 "is_mobile": false
             },
             "108558924": {
-                "video": "https://www.facebook.com/share/v/1Be61c5CXg/",
+                "video": "https://www.youtube.com/watch?v=Qx9OhPhdZfQ",
                 "completion_date": "2025-05-05",
                 "is_mobile": false
             },
             "26133601": {
-                "video": "https://www.facebook.com/share/v/1PJD5e5Wys/",
+                "video": "https://www.youtube.com/watch?v=bOEhCnVEuU8",
                 "completion_date": "2025-05-04",
                 "is_mobile": false
             },
             "116019507": {
-                "video": "https://www.facebook.com/share/v/16MBgFovRL/",
+                "video": "https://www.youtube.com/watch?v=NGhG-K7HzHI",
                 "completion_date": "2025-05-01",
                 "is_mobile": false
             },
             "113824520": {
-                "video": "https://www.facebook.com/share/v/15Wti1rxao/",
+                "video": "https://www.youtube.com/watch?v=V0-fkmkd0xc",
                 "completion_date": "2025-04-29",
                 "is_mobile": false
             },
             "116401475": {
-                "video": "https://www.facebook.com/share/v/1KqqniNHkM/",
+                "video": "https://www.youtube.com/watch?v=cuFHFTl4hPk",
                 "completion_date": "2025-04-28",
                 "is_mobile": false
             },
             "88203501": {
-                "video": "https://www.facebook.com/share/v/1AgBEFSGqY/",
+                "video": "https://www.youtube.com/watch?v=xKfA8F_XOlY",
                 "completion_date": "2025-04-26",
                 "is_mobile": false
             },
@@ -648,27 +666,27 @@
                 "is_mobile": false
             },
             "109670049": {
-                "video": "https://www.facebook.com/share/v/15HbFziXyb/",
+                "video": "https://www.youtube.com/watch?v=1g01Z3mEtUM",
                 "completion_date": "2025-04-21",
                 "is_mobile": false
             },
             "78374157": {
-                "video": "https://www.facebook.com/share/v/1ATvXxZFYq/",
+                "video": "https://www.youtube.com/watch?v=VZgsyoH2JJc",
                 "completion_date": "2025-04-20",
                 "is_mobile": false
             },
             "107539734": {
-                "video": "https://www.facebook.com/share/v/1G9ny9Hpij/",
+                "video": "https://www.youtube.com/watch?v=uXPq4oMGwEk",
                 "completion_date": "2025-04-15",
                 "is_mobile": false
             },
             "102352215": {
-                "video": "https://www.facebook.com/share/v/16B1cEJzNA/",
+                "video": "https://www.youtube.com/watch?v=TUVdLOF3qvs",
                 "completion_date": "2025-04-13",
                 "is_mobile": false
             },
             "112209834": {
-                "video": "https://www.facebook.com/share/v/1HenDdwpgJ/",
+                "video": "https://www.youtube.com/watch?v=7qY9-QkmKkI",
                 "completion_date": "2025-04-11",
                 "is_mobile": false
             },
@@ -783,7 +801,7 @@
                 "is_mobile": false
             },
             "69333212": {
-                "video": "https://www.facebook.com/100022514553192/videos/625106304010753/",
+                "video": "https://www.youtube.com/watch?v=SeXmIpD0ecU",
                 "completion_date": "2025-02-18",
                 "is_mobile": false
             },
@@ -2459,6 +2477,11 @@
             }
         },
         "Nabeyaki": {
+            "14977845": {
+                "video": "https://www.facebook.com/share/v/16ZiPzA1H9/",
+                "completion_date": "2025-07-09",
+                "is_mobile": false
+            },
             "18697406": {
                 "video": "https://www.facebook.com/100003439767236/videos/3708323599387595/",
                 "completion_date": "2023-09-25",
@@ -2765,6 +2788,11 @@
             "61079355": {
                 "video": "https://www.youtube.com/watch?v=WwoOQrbshfo",
                 "completion_date": "2025-03-18",
+                "is_mobile": true
+            },
+            "95764848": {
+                "video": "https://www.youtube.com/watch?v=2KcYJP8nJUI",
+                "completion_date": "2025-07-12",
                 "is_mobile": true
             }
         },
