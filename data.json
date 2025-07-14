@@ -312,7 +312,9 @@
       ["The Cellar Path", "85317764"],
       ["verisimilitude", "94587757"],
       ["Liz", "110980754"],
-      ["SLAY MOMENT", "118366680"]
+      ["SLAY MOMENT", "118366680"],
+      ["Memories III", "72651677"],
+      ["Thinking Space", "54953085"]
     ],
     
     "legacy": [
@@ -385,6 +387,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "54953085": {
+                "video": "https://www.youtube.com/watch?v=L8I4Pq6M6ng",
+                "completion_date": "2025-07-14",
+                "is_mobile": false
+            },
+            "72651677": {
+                "video": "https://www.youtube.com/watch?v=OW9FXtApteU",
+                "completion_date": "2025-07-13",
+                "is_mobile": false
+            },
             "118366680": {
                 "video": "https://www.youtube.com/watch?v=s23mGojxnfM",
                 "completion_date": "2025-07-12",
