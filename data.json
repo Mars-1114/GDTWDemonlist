@@ -314,7 +314,10 @@
       ["Liz", "110980754"],
       ["SLAY MOMENT", "118366680"],
       ["Memories III", "72651677"],
-      ["Thinking Space", "54953085"]
+      ["Thinking Space", "54953085"],
+      ["Endless Dream", "70484097"],
+      ["Falsch", "102682401"],
+      ["Neon Guts", "89192645"]
     ],
     
     "legacy": [
@@ -387,6 +390,21 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "89192645": {
+                "video": "https://www.youtube.com/watch?v=A6PZe9vBhNE",
+                "completion_date": "2025-07-18",
+                "is_mobile": false
+            },
+            "102682401": {
+                "video": "https://www.youtube.com/watch?v=auXbRl32TJY",
+                "completion_date": "2025-07-17",
+                "is_mobile": false
+            },
+            "70484097": {
+                "video": "https://www.youtube.com/watch?v=bSdwrjIZz6Y",
+                "completion_date": "2025-07-16",
+                "is_mobile": false
+            },
             "54953085": {
                 "video": "https://www.youtube.com/watch?v=L8I4Pq6M6ng",
                 "completion_date": "2025-07-14",
@@ -2645,6 +2663,11 @@
             }
         },
         "InfAstral": {
+            "62151546": {
+                "video": "https://www.youtube.com/watch?v=3xdGPZf2CFU",
+                "completion_date": "2025-07-18",
+                "is_mobile": false
+            },
             "91042484_2p": {
                 "video": "https://www.youtube.com/watch?v=6478Bl1Zjl8",
                 "completion_date": "2025-06-27",
@@ -2910,6 +2933,13 @@
             "95764848": {
                 "video": "https://www.youtube.com/watch?v=ITeRqBIRIps",
                 "completion_date": "2023-11-17",
+                "is_mobile": false
+            }
+        },
+        "蓋爾大學之中國建設銀行董事長荳荳": {
+            "68848817": {
+                "video": "https://www.youtube.com/watch?v=ZVs6SJdT7Co",
+                "completion_date": "2025-07-18",
                 "is_mobile": false
             }
         }
