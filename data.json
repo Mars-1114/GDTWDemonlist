@@ -317,7 +317,8 @@
       ["Thinking Space", "54953085"],
       ["Endless Dream", "70484097"],
       ["Falsch", "102682401"],
-      ["Neon Guts", "89192645"]
+      ["Neon Guts", "89192645"],
+      ["Obscura", "96039801"]
     ],
     
     "legacy": [
@@ -2507,6 +2508,11 @@
             }
         },
         "Nabeyaki": {
+            "96039801": {
+                "video": "https://www.facebook.com/share/v/1BCRV8nhrs/",
+                "completion_date": "2025-07-19",
+                "is_mobile": false
+            },
             "14977845": {
                 "video": "https://www.facebook.com/share/v/16ZiPzA1H9/",
                 "completion_date": "2025-07-09",
