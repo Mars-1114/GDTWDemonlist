@@ -319,7 +319,8 @@
       ["Falsch", "102682401"],
       ["Neon Guts", "89192645"],
       ["Obscura", "96039801"],
-      ["Cheyenne", "99992952"]
+      ["Cheyenne", "99992952"],
+      ["MINIMUM", "90335871"]
     ],
     
     "legacy": [
@@ -2927,6 +2928,11 @@
             }
         },
         "Cyter867": {
+            "90335871": {
+                "video": "https://www.youtube.com/watch?v=xJT3RGTVMi4",
+                "completion_date": "2025-07-21",
+                "is_mobile": false
+            },
             "112412828": {
                 "video": "https://www.youtube.com/watch?v=r0ozooPwD9k",
                 "completion_date": "2025-05-25",
