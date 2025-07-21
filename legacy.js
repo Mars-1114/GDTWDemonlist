@@ -1,4 +1,3 @@
-// 此頁面會放上被降級/違規通關的關卡，而且不會登上新的成績。此列表順序不代表難度。
 const ORDER = ["classical", "platformer"];
 
 let local_data = {};
@@ -80,7 +79,9 @@ $(document).ajaxStop(function() {
   }
 
   var str = "";
+  let attatch_msg = "<div style='margin: 10px 0 20px 0'>此頁面會放上被降級/違規通關的關卡，而且不會登上新的成績。此列表順序不代表難度。</div>";
   let index = 0;
+  str += attatch_msg;
   for (let level of levels) {
     str += "<div class='leaderboard-btn";
     if (index == 0) {
@@ -109,7 +110,7 @@ $(document).ajaxStop(function() {
   }
   $("#player").html(str);
 
-  str = "";
+  str = attatch_msg;
   index = 0;
   for (let level of levels) {
     str += "<div class='leaderboard-btn' data-id='" + index + "'>\
