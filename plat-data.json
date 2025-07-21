@@ -22,7 +22,8 @@
         ["CASIO HELLBURST", "107418375"],
         ["Adrenaline", "113507295"],
         ["Uh Oh", "116120637"],
-        ["Withering Gallery", "114308040"]
+        ["Withering Gallery", "114308040"],
+        ["Guidance", "118139675"]
     ],
 
     "legacy": [
@@ -35,6 +36,11 @@
 
     "player": {
         "carti": {
+            "118139675": {
+                "video": "https://www.youtube.com/live/TwOijHnVVT0",
+                "completion_date": "2025-07-21",
+                "is_mobile": false
+            },
             "114308040": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1650344112351302/",
                 "completion_date": "2025-06-27",

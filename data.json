@@ -318,7 +318,8 @@
       ["Endless Dream", "70484097"],
       ["Falsch", "102682401"],
       ["Neon Guts", "89192645"],
-      ["Obscura", "96039801"]
+      ["Obscura", "96039801"],
+      ["Cheyenne", "99992952"]
     ],
     
     "legacy": [
@@ -391,6 +392,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "99992952": {
+                "video": "https://www.youtube.com/watch?v=4qK0KiPYcv8",
+                "completion_date": "2025-07-21",
+                "is_mobile": false
+            },
             "89192645": {
                 "video": "https://www.youtube.com/watch?v=A6PZe9vBhNE",
                 "completion_date": "2025-07-18",
