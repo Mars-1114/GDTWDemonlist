@@ -320,7 +320,8 @@
       ["Neon Guts", "89192645"],
       ["Obscura", "96039801"],
       ["Cheyenne", "99992952"],
-      ["MINIMUM", "90335871"]
+      ["MINIMUM", "90335871"],
+      ["milo", "110227780"]
     ],
     
     "legacy": [
@@ -393,6 +394,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "110227780": {
+                "video": "https://www.youtube.com/watch?v=3RAYFVSJOxE",
+                "completion_date": "2025-07-22",
+                "is_mobile": false
+            },
             "99992952": {
                 "video": "https://www.youtube.com/watch?v=4qK0KiPYcv8",
                 "completion_date": "2025-07-21",
@@ -2965,6 +2971,13 @@
             "61079355": {
                 "video": "https://www.facebook.com/share/v/19UxAowvMt/",
                 "completion_date": "2025-07-19",
+                "is_mobile": false
+            }
+        },
+        "HankK漢": {
+            "61079355": {
+                "video": "https://www.facebook.com/share/v/16YdBVx6Se/",
+                "completion_date": "2025-07-21",
                 "is_mobile": false
             }
         }
