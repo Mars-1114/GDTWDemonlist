@@ -23,7 +23,8 @@
         ["Adrenaline", "113507295"],
         ["Uh Oh", "116120637"],
         ["Withering Gallery", "114308040"],
-        ["Guidance", "118139675"]
+        ["Guidance", "118139675"],
+        ["Himu", "117516392"]
     ],
 
     "legacy": [
@@ -36,6 +37,11 @@
 
     "player": {
         "carti": {
+            "117516392": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1668871840498529",
+                "completion_date": "2025-07-22",
+                "is_mobile": false
+            },
             "118139675": {
                 "video": "https://www.youtube.com/live/TwOijHnVVT0",
                 "completion_date": "2025-07-21",

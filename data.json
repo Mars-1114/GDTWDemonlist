@@ -321,7 +321,8 @@
       ["Obscura", "96039801"],
       ["Cheyenne", "99992952"],
       ["MINIMUM", "90335871"],
-      ["milo", "110227780"]
+      ["milo", "110227780"],
+      ["Betrayal of Fate", "20329544"]
     ],
     
     "legacy": [
@@ -394,6 +395,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "96039801": {
+                "video": "https://www.facebook.com/share/v/16hTx8ZXVf/",
+                "completion_date": "2025-07-23",
+                "is_mobile": false
+            },
             "110227780": {
                 "video": "https://www.youtube.com/watch?v=3RAYFVSJOxE",
                 "completion_date": "2025-07-22",
@@ -2682,6 +2688,11 @@
             }
         },
         "InfAstral": {
+            "20329544": {
+                "video": "https://www.youtube.com/watch?v=yCOeZfN7OF8",
+                "completion_date": "2025-07-23",
+                "is_mobile": false
+            },
             "62151546": {
                 "video": "https://www.youtube.com/watch?v=3xdGPZf2CFU",
                 "completion_date": "2025-07-18",
