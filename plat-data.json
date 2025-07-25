@@ -24,7 +24,10 @@
         ["Uh Oh", "116120637"],
         ["Withering Gallery", "114308040"],
         ["Guidance", "118139675"],
-        ["Himu", "117516392"]
+        ["Himu", "117516392"],
+        ["Pimu", "113553729"],
+        ["Qimu", "115945148"],
+        ["LIMU", "114329313"]
     ],
 
     "legacy": [
@@ -37,6 +40,21 @@
 
     "player": {
         "carti": {
+            "114329313": {
+                "video": "https://www.facebook.com/share/v/1WGwNx5mUR/",
+                "completion_date": "2025-07-25",
+                "is_mobile": false
+            },
+            "113553729": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1668871840498529",
+                "completion_date": "2025-07-24",
+                "is_mobile": false
+            },
+            "115945148": {
+                "video": "https://www.facebook.com/groups/173396940046034/posts/1668871840498529",
+                "completion_date": "2025-07-24",
+                "is_mobile": false
+            },
             "117516392": {
                 "video": "https://www.facebook.com/groups/173396940046034/posts/1668871840498529",
                 "completion_date": "2025-07-22",
