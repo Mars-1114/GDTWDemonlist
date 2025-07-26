@@ -322,7 +322,8 @@
       ["Cheyenne", "99992952"],
       ["MINIMUM", "90335871"],
       ["milo", "110227780"],
-      ["Betrayal of Fate", "20329544"]
+      ["Betrayal of Fate", "20329544"],
+      ["UNG", "96512076"]
     ],
     
     "legacy": [
@@ -395,6 +396,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "96512076": {
+                "video": "https://www.facebook.com/share/v/1DY6XNBueD/",
+                "completion_date": "2025-07-26",
+                "is_mobile": false
+            },
             "33670767": {
                 "video": "https://www.youtube.com/watch?v=fG8jE1GfC6o",
                 "completion_date": "2025-07-25",
@@ -2994,6 +3000,11 @@
             "61079355": {
                 "video": "https://www.facebook.com/share/v/16YdBVx6Se/",
                 "completion_date": "2025-07-21",
+                "is_mobile": false
+            },
+            "118931226": {
+                "video": "https://www.facebook.com/share/v/162fpmSU6i/",
+                "completion_date": "2025-07-26",
                 "is_mobile": false
             }
         }
