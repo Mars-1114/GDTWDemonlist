@@ -27,7 +27,8 @@
         ["Himu", "117516392"],
         ["Pimu", "113553729"],
         ["Qimu", "115945148"],
-        ["LIMU", "114329313"]
+        ["LIMU", "114329313"],
+        ["Timu", "116566158"]
     ],
 
     "legacy": [
@@ -40,6 +41,11 @@
 
     "player": {
         "carti": {
+            "116566158": {
+                "video": "https://www.facebook.com/share/v/1JZfnZPher/",
+                "completion_date": "2025-07-27",
+                "is_mobile": false
+            },
             "114329313": {
                 "video": "https://www.facebook.com/share/v/1WGwNx5mUR/",
                 "completion_date": "2025-07-25",
