@@ -323,7 +323,8 @@
       ["MINIMUM", "90335871"],
       ["milo", "110227780"],
       ["Betrayal of Fate", "20329544"],
-      ["UNG", "96512076"]
+      ["UNG", "96512076"],
+      ["Shotgun", "85972099"]
     ],
     
     "legacy": [
@@ -396,8 +397,13 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "85972099": {
+                "video": "https://www.facebook.com/share/v/16s3vHjcGC/",
+                "completion_date": "2025-07-28",
+                "is_mobile": false
+            },
             "20329544": {
-                "video": "https://www.facebook.com/share/v/1Bzdt9iH6A/",
+                "video": "https://www.youtube.com/watch?v=ZRe5wJ4j4_M",
                 "completion_date": "2025-07-27",
                 "is_mobile": false
             },
@@ -2999,6 +3005,11 @@
                 "video": "https://www.facebook.com/share/v/19UxAowvMt/",
                 "completion_date": "2025-07-19",
                 "is_mobile": false
+            },
+            "30219145": {
+                "video": "https://www.facebook.com/share/v/1DBCNxzYbU/",
+                "completion_date": "2025-07-28",
+                "is_mobile": false
             }
         },
         "HankK漢": {
@@ -3017,6 +3028,13 @@
             "3979721": {
                 "video": "https://www.youtube.com/watch?v=yM8hT3L5JDg",
                 "completion_date": "2025-07-26",
+                "is_mobile": false
+            }
+        },
+        "Blacken": {
+            "30219145": {
+                "video": "https://www.facebook.com/share/v/19aD9xJaGS/",
+                "completion_date": "2025-07-27",
                 "is_mobile": false
             }
         }
