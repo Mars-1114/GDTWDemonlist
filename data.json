@@ -325,7 +325,8 @@
       ["Betrayal of Fate", "20329544"],
       ["UNG", "96512076"],
       ["Shotgun", "85972099"],
-      ["Red Moon", "105114233"]
+      ["Red Moon", "105114233"],
+      ["Dusker Processing", "91509581"]
     ],
     
     "legacy": [
@@ -398,8 +399,13 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "91509581": {
+                "video": "https://www.facebook.com/share/v/16qB17zCNu/",
+                "completion_date": "2025-07-31",
+                "is_mobile": false
+            },
             "105114233": {
-                "video": "https://www.facebook.com/share/v/19h2YfQDAs/",
+                "video": "https://www.youtube.com/watch?v=-FyV21BAAo4",
                 "completion_date": "2025-07-30",
                 "is_mobile": false
             },
