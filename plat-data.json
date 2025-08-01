@@ -28,7 +28,8 @@
         ["Pimu", "113553729"],
         ["Qimu", "115945148"],
         ["LIMU", "114329313"],
-        ["Timu", "116566158"]
+        ["Timu", "116566158"],
+        ["SUMMER", "122287167"]
     ],
 
     "legacy": [
@@ -163,6 +164,11 @@
             }
         },
         "超大法國麵包🥖": {
+            "122287167": {
+                "video": "https://www.youtube.com/watch?v=93U_1KqpYU8",
+                "completion_date": "2025-08-01",
+                "is_mobile": false
+            },
             "114308040": {
                 "video": "https://www.facebook.com/share/v/1Z6tJgMPk9/",
                 "completion_date": "2025-06-27",
