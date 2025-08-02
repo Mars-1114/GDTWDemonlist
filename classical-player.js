@@ -122,7 +122,7 @@ $(document).ajaxStop(function() {
                 <span style='width: 40px; color: var(--text-list-default); float: left; text-align: right; padding-right: 20px;'>\
                   #" + place + "\
                 </span>\
-                <span style='color: var(--text-list-default); float: left'>" + player.player + "</span>\
+                <span style='color: var(--text-list-default); float: left; overflow: hidden; width: 220px; height: 30px;'>" + player.player + "</span>\
                 <span style='display: block; text-align: right; font-size: 0.9em'>" +
                   player.points.toFixed(2) + " pts\
                 </span>\
@@ -141,7 +141,7 @@ $(document).ajaxStop(function() {
                 <span style='width: 40px; color: var(--text-list-default); float: left; text-align: right; padding-right: 20px;'>\
                   #" + place + "\
                 </span>\
-                <span style='color: var(--text-list-default); float: left'>" + player.player + "</span>\
+                <span style='color: var(--text-list-default); float: left; overflow: hidden; width: 220px; height: 30px;'>" + player.player + "</span>\
                 <span style='display: block; text-align: right; font-size: 0.9em'>" +
                   player.points.toFixed(2) + " pts\
                 </span>\
@@ -451,7 +451,7 @@ function loadDetails(pID) {
   let player = players[pID - 1];
   let str = "";
   str += "<div style='margin: 30px 0 30px 40px; height: 50px; width: 90%;'>\
-            <h1 style='float: left; color: var(--text-list-default); max-width: 400px; height: 50px; line-height: 50px; margin: 0'>" + player.player + "</h1>";
+            <h1 style='float: left; color: var(--text-list-default); max-width: 400px; height: 50px; line-height: 50px; margin: 0; overflow: hidden'>" + player.player + "</h1>";
   if (player.contact["left-group"]) {
     str += "<div style='float: left; height: 50px; margin-left: 10px;'>\
               <img src='img/leave.png' title='此玩家已退社' height='30px' style='margin-top: 8px;'>\
@@ -532,7 +532,7 @@ function loadDetails(pID) {
 
   str = "";
   str += "<div id='mobile-player-title' style='margin: 10px 0 30px 40px; height: 50px; width: 90%;'>\
-            <h1 style='float: left; color: var(--text-list-default); max-width: 400px; height: 50px; line-height: 50px; margin: 0'>" + player.player + "</h1>";
+            <h1 style='float: left; color: var(--text-list-default); max-width: 220px; height: 50px; line-height: 50px; margin: 0; overflow: hidden'>" + player.player + "</h1>";
   if (player.contact["left-group"]) {
     str += "<div style='float: left; height: 50px; margin-left: 10px;'>\
               <img src='img/leave.png' title='此玩家已退社' height='30px' style='margin-top: 8px;'>\
