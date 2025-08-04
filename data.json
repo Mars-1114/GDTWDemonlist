@@ -327,7 +327,9 @@
       ["Shotgun", "85972099"],
       ["Red Moon", "105114233"],
       ["Dusker Processing", "91509581"],
-      ["ILOVECYAN", "78119012"]
+      ["ILOVECYAN", "78119012"],
+      ["Plasmatic", "95565191"],
+      ["4Elements", "91692203"]
     ],
     
     "legacy": [
@@ -400,8 +402,18 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "91692203": {
+                "video": "https://www.youtube.com/watch?v=09lbPZElq5U",
+                "completion_date": "2025-08-03",
+                "is_mobile": false
+            },
+            "95565191": {
+                "video": "https://www.youtube.com/watch?v=AeYbl6jVjZQ",
+                "completion_date": "2025-08-04",
+                "is_mobile": false
+            },
             "78119012": {
-                "video": "https://www.facebook.com/share/v/19AobmDV6G/",
+                "video": "https://www.youtube.com/watch?v=SVNZzk3hziE",
                 "completion_date": "2025-08-02",
                 "is_mobile": false
             },
