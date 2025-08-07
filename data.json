@@ -329,7 +329,10 @@
       ["Dusker Processing", "91509581"],
       ["ILOVECYAN", "78119012"],
       ["Plasmatic", "95565191"],
-      ["4Elements", "91692203"]
+      ["4Elements", "91692203"],
+      ["Snowdrift", "88017017"],
+      ["SUPERCONDUCTOR", "117098295"],
+      ["teehee colon three", "90661998"]
     ],
     
     "legacy": [
@@ -402,6 +405,21 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "90661998": {
+                "video": "https://www.facebook.com/share/v/14H9T9LrVCq/",
+                "completion_date": "2025-08-07",
+                "is_mobile": false
+            },
+            "117098295": {
+                "video": "https://www.youtube.com/watch?v=0LGDyoAiKXY",
+                "completion_date": "2025-08-06",
+                "is_mobile": false
+            },
+            "88017017": {
+                "video": "https://www.youtube.com/watch?v=CQ0GcHxjNIA",
+                "completion_date": "2025-08-05",
+                "is_mobile": false
+            },
             "91692203": {
                 "video": "https://www.youtube.com/watch?v=09lbPZElq5U",
                 "completion_date": "2025-08-03",
@@ -3040,6 +3058,11 @@
                 "video": "https://www.facebook.com/share/v/1DBCNxzYbU/",
                 "completion_date": "2025-07-28",
                 "is_mobile": false
+            },
+            "20761188": {
+                "video": "https://www.facebook.com/share/v/1HZYu1fmgQ/",
+                "completion_date": "2025-08-06",
+                "is_mobile": false
             }
         },
         "HankK漢": {
@@ -3063,6 +3086,11 @@
             "61079355": {
                 "video": "https://www.youtube.com/watch?v=JVBedKfBzwM",
                 "completion_date": "2025-07-30",
+                "is_mobile": false
+            },
+            "10565740": {
+                "video": "https://www.youtube.com/watch?v=ZZ8gtjo340I",
+                "completion_date": "2025-08-07",
                 "is_mobile": false
             }
         },
