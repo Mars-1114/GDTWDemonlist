@@ -336,7 +336,11 @@
       ["Rigel", "93155813"],
       ["Redemption Arc", "96846935"],
       ["cerebral hemorrhage", "88853479"],
-      ["wtf", "93570042"]
+      ["wtf", "93570042"],
+      ["Azurite", "59533451"],
+      ["Berserk", "60130895"],
+      ["Infernal Abyss", "27379546"],
+      ["Interstellar Entropy", "68578147"]
     ],
     
     "legacy": [
@@ -409,6 +413,26 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "27379546": {
+                "video": "https://www.facebook.com/share/v/1SJfHpT4fD/",
+                "completion_date": "2025-08-14",
+                "is_mobile": false
+            },
+            "60130895": {
+                "video": "https://www.facebook.com/share/v/1A1Kz6WY9u/",
+                "completion_date": "2025-08-13",
+                "is_mobile": false
+            },
+            "59533451": {
+                "video": "https://www.facebook.com/share/v/16sqnavB1r/",
+                "completion_date": "2025-08-12",
+                "is_mobile": false
+            },
+            "48765988": {
+                "video": "https://www.facebook.com/share/v/1F4JAXYpJ5/",
+                "completion_date": "2025-08-11",
+                "is_mobile": false
+            },
             "93570042": {
                 "video": "https://www.facebook.com/share/v/1H6kGRnsyV/",
                 "completion_date": "2025-08-09",
@@ -3090,6 +3114,16 @@
             }
         },
         "HankK漢": {
+            "68578147": {
+                "video": "https://www.facebook.com/share/v/1CVHMnq9xJ/",
+                "completion_date": "2025-08-14",
+                "is_mobile": false
+            },
+            "81148582": {
+                "video": "https://www.facebook.com/share/v/1CKMad8VfQ/",
+                "completion_date": "2025-08-11",
+                "is_mobile": false
+            },
             "61079355": {
                 "video": "https://www.facebook.com/share/v/16YdBVx6Se/",
                 "completion_date": "2025-07-21",
