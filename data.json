@@ -340,10 +340,18 @@
       ["Azurite", "59533451"],
       ["Berserk", "60130895"],
       ["Infernal Abyss", "27379546"],
-      ["Interstellar Entropy", "68578147"]
+      ["Interstellar Entropy", "68578147"],
+      ["Extremoduro", "123111660"],
+      ["Booh", "96043243"],
+      ["Infinite Inversion", "102807047"]
     ],
     
     "legacy": [
+      {
+          "level": "teehee colon three",
+          "id": "90661998",
+          "publisher": "Wolvyy"
+      },
       {
           "level": "cja",
           "id": "112209834",
@@ -413,33 +421,48 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "102807047": {
+                "video": "https://www.facebook.com/share/v/1ChzDv6S6k/",
+                "completion_date": "2025-08-17",
+                "is_mobile": false
+            },
+            "96043243": {
+                "video": "https://www.youtube.com/watch?v=vY2TTyCJvRY",
+                "completion_date": "2025-08-16",
+                "is_mobile": false
+            },
+            "123111660": {
+                "video": "https://www.youtube.com/watch?v=jxtVJCwhkQY",
+                "completion_date": "2025-08-15",
+                "is_mobile": false
+            },
             "27379546": {
-                "video": "https://www.facebook.com/share/v/1SJfHpT4fD/",
+                "video": "https://www.youtube.com/watch?v=sBM9lFlr-R0",
                 "completion_date": "2025-08-14",
                 "is_mobile": false
             },
             "60130895": {
-                "video": "https://www.facebook.com/share/v/1A1Kz6WY9u/",
+                "video": "https://www.youtube.com/watch?v=ZYdztV6D3P4",
                 "completion_date": "2025-08-13",
                 "is_mobile": false
             },
             "59533451": {
-                "video": "https://www.facebook.com/share/v/16sqnavB1r/",
+                "video": "https://www.youtube.com/watch?v=bO3OKDC2dBM",
                 "completion_date": "2025-08-12",
                 "is_mobile": false
             },
             "48765988": {
-                "video": "https://www.facebook.com/share/v/1F4JAXYpJ5/",
+                "video": "https://www.youtube.com/watch?v=D23RrXxn5JQ",
                 "completion_date": "2025-08-11",
                 "is_mobile": false
             },
             "93570042": {
-                "video": "https://www.facebook.com/share/v/1H6kGRnsyV/",
+                "video": "https://www.youtube.com/watch?v=EwUgRtYPqyA",
                 "completion_date": "2025-08-09",
                 "is_mobile": false
             },
             "88853479": {
-                "video": "https://www.facebook.com/share/v/1CgpUxN8Br/",
+                "video": "https://www.youtube.com/watch?v=DbUBQ5PRujk",
                 "completion_date": "2025-08-08",
                 "is_mobile": false
             },
@@ -3149,6 +3172,11 @@
             "10565740": {
                 "video": "https://www.youtube.com/watch?v=ZZ8gtjo340I",
                 "completion_date": "2025-08-07",
+                "is_mobile": false
+            },
+            "25610878": {
+                "video": "https://www.youtube.com/watch?v=xFP2U88U7-E",
+                "completion_date": "2025-08-17",
                 "is_mobile": false
             }
         },
