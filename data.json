@@ -343,7 +343,9 @@
       ["Interstellar Entropy", "68578147"],
       ["Extremoduro", "123111660"],
       ["Booh", "96043243"],
-      ["Infinite Inversion", "102807047"]
+      ["Infinite Inversion", "102807047"],
+      ["Descent Into Exile", "77518059"],
+      ["Hard Machine", "72744364"]
     ],
     
     "legacy": [
@@ -421,6 +423,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "72744364": {
+                "video": "https://www.youtube.com/watch?v=lmtOMhxpnds",
+                "completion_date": "2025-08-19",
+                "is_mobile": false
+            },
+            "77518059": {
+                "video": "https://www.youtube.com/watch?v=lgy0mDZAfGI",
+                "completion_date": "2025-08-18",
+                "is_mobile": false
+            },
             "102807047": {
                 "video": "https://www.facebook.com/share/v/1ChzDv6S6k/",
                 "completion_date": "2025-08-17",
