@@ -345,7 +345,9 @@
       ["Booh", "96043243"],
       ["Infinite Inversion", "102807047"],
       ["Descent Into Exile", "77518059"],
-      ["Hard Machine", "72744364"]
+      ["Hard Machine", "72744364"],
+      ["Black Blizzard", "34057654"],
+      ["SHINE", "116735521"]
     ],
     
     "legacy": [
@@ -423,6 +425,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "116735521": {
+                "video": "https://www.youtube.com/watch?v=JDzDvoPepIs",
+                "completion_date": "2025-07-21",
+                "is_mobile": false
+            },
+            "34057654": {
+                "video": "https://www.youtube.com/watch?v=EiR1J38a2rg",
+                "completion_date": "2025-08-21",
+                "is_mobile": false
+            },
             "72744364": {
                 "video": "https://www.youtube.com/watch?v=lmtOMhxpnds",
                 "completion_date": "2025-08-19",
@@ -434,7 +446,7 @@
                 "is_mobile": false
             },
             "102807047": {
-                "video": "https://www.facebook.com/share/v/1ChzDv6S6k/",
+                "video": "https://www.youtube.com/watch?v=duyjYerLTgQ",
                 "completion_date": "2025-08-17",
                 "is_mobile": false
             },
@@ -3204,6 +3216,13 @@
                 "video": "https://www.facebook.com/share/v/1JBG7uXb3F/",
                 "completion_date": "2025-08-20",
                 "is_mobile": false
+            }
+        },
+        "ooller": {
+            "114231424": {
+                "video": "https://www.facebook.com/share/v/1GUNmoRwxD/",
+                "completion_date": "2025-08-22",
+                "is_mobile": true
             }
         }
     }
