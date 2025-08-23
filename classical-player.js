@@ -70,9 +70,9 @@ $(document).ajaxStop(function() {
           video: local_data.player[player][level].video,
           date: local_data.player[player][level].completion_date,
           is_mobile: local_data.player[player][level].is_mobile,
-          pts: FORMULA(id + 1, exd_arr.length)
+          pts: FORMULA(+id + 1, +exd_arr[id].position, exd_arr.length),
         }
-        player_completion.points += FORMULA(id + 1, exd_arr.length);
+        player_completion.points += level_data.pts,
         player_completion.levels.push(level_data);
       }
     }
@@ -613,9 +613,11 @@ function loadDetails(pID) {
 }
 
 // compute score
-function FORMULA(n, length) {
-  var N = (150 - 1) / (length - 1) * (n - 1) + 1;
-  return Math.round(100 * 1.0881 * (250 / (0.125 * (N + 7))) * (Math.log(0.125 * (N + 7)) + 1) / Math.pow(1.0881, Math.pow(N, 0.6))) / 100;
+function FORMULA(n, aredl, length) {
+  let N = (150 - 1) / (length - 1) * (n - 1) + 1;
+  let A = 1.0881 * (250 / (0.125 * (N + 7))) * (Math.log(0.125 * (N + 7)) + 1) / Math.pow(1.0881, Math.pow(N, 0.6));
+  let B = (aredl > 400) ? 0 : ((401 - aredl) / 400 * 250);
+  return Math.round(100 * (A + B)) / 100;
 }
 
 function setColorOpacity(colorStr, opacity) {

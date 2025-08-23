@@ -347,7 +347,9 @@
       ["Descent Into Exile", "77518059"],
       ["Hard Machine", "72744364"],
       ["Black Blizzard", "34057654"],
-      ["SHINE", "116735521"]
+      ["SHINE", "116735521"],
+      ["Sky Conflux", "111372142"],
+      ["UNLEASH WHALE WHALES", "108459320"]
     ],
     
     "legacy": [
@@ -2776,6 +2778,11 @@
             }
         },
         "黃世宏": {
+            "108459320": {
+                "video": "https://www.facebook.com/share/v/1EmVJdZsus/",
+                "completion_date": "2025-08-22",
+                "is_mobile": false
+            },
             "34379100": {
                 "video": "https://www.facebook.com/100001201755527/videos/1053820379200346/",
                 "completion_date": "2023-12-11",
@@ -3215,6 +3222,11 @@
             "58825144": {
                 "video": "https://www.facebook.com/share/v/1JBG7uXb3F/",
                 "completion_date": "2025-08-20",
+                "is_mobile": false
+            },
+            "111372142": {
+                "video": "https://www.facebook.com/share/v/1FyRPp7m4o/",
+                "completion_date": "2025-08-23",
                 "is_mobile": false
             }
         },

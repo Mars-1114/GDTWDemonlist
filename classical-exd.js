@@ -47,9 +47,10 @@ $(document).ajaxStop(function() {
       gdtw_placement: +level + 1,
       is_2p: exd_arr[level].two_player,
       multi_lvl: multi_lvl,
-      pts: FORMULA(+level + 1, exd_arr.length),
+      pts: FORMULA(+level + 1, +exd_arr[level].position, exd_arr.length),
       completion: []
     }
+    console.log(lvl.pts)
 
     // check player completion
     for (let player in local_data.player) {
@@ -409,9 +410,11 @@ function loadDetails(dID) {
 }
 
 // compute score
-function FORMULA(n, length) {
-  var N = (150 - 1) / (length - 1) * (n - 1) + 1;
-  return Math.round(100 * 1.0881 * (250 / (0.125 * (N + 7))) * (Math.log(0.125 * (N + 7)) + 1) / Math.pow(1.0881, Math.pow(N, 0.6))) / 100;
+function FORMULA(n, aredl, length) {
+  let N = (150 - 1) / (length - 1) * (n - 1) + 1;
+  let A = 1.0881 * (250 / (0.125 * (N + 7))) * (Math.log(0.125 * (N + 7)) + 1) / Math.pow(1.0881, Math.pow(N, 0.6));
+  let B = (aredl > 400) ? 0 : ((401 - aredl) / 400 * 250);
+  return Math.round(100 * (A + B)) / 100;
 }
 
 function setColorOpacity(colorStr, opacity) {
