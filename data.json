@@ -348,7 +348,8 @@
       ["Black Blizzard", "34057654"],
       ["SHINE", "116735521"],
       ["Sky Conflux", "111372142"],
-      ["UNLEASH WHALE WHALES", "108459320"]
+      ["UNLEASH WHALE WHALES", "108459320"],
+      ["squeak", "123912413"]
     ],
     
     "legacy": [
@@ -426,6 +427,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "123912413": {
+                "video": "https://www.youtube.com/watch?v=hnUyxJN3c8w",
+                "completion_date": "2025-08-25",
+                "is_mobile": false
+            },
             "116735521": {
                 "video": "https://www.youtube.com/watch?v=JDzDvoPepIs",
                 "completion_date": "2025-07-21",
@@ -3207,6 +3213,11 @@
             "25610878": {
                 "video": "https://www.youtube.com/watch?v=xFP2U88U7-E",
                 "completion_date": "2025-08-17",
+                "is_mobile": false
+            },
+            "81148582": {
+                "video": "https://www.youtube.com/watch?v=75rnY_xLbsk",
+                "completion_date": "2025-08-25",
                 "is_mobile": false
             }
         },
