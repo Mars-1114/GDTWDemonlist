@@ -29,7 +29,10 @@
         ["Qimu", "115945148"],
         ["LIMU", "114329313"],
         ["Timu", "116566158"],
-        ["SUMMER", "122287167"]
+        ["SUMMER", "122287167"],
+        ["Walk to the midnight", "118946505"],
+        ["Creepy Needle", "115691111"],
+        ["Plastic Flowers", "121501168"]
     ],
 
     "legacy": [
@@ -42,6 +45,16 @@
 
     "player": {
         "carti": {
+            "121501168": {
+                "video": "https://www.facebook.com/share/v/16dyB7MLmM/",
+                "completion_date": "2025-08-26",
+                "is_mobile": false
+            },
+            "115691111": {
+                "video": "https://www.facebook.com/share/v/16dyB7MLmM/",
+                "completion_date": "2025-08-26",
+                "is_mobile": false
+            },
             "103998262": {
                 "video": "https://www.facebook.com/share/v/177ELCeNxN/",
                 "completion_date": "2025-08-02",
@@ -174,6 +187,11 @@
             }
         },
         "超大法國麵包🥖": {
+            "118946505": {
+                "video": "https://www.youtube.com/watch?v=q5eh7-xOtGg",
+                "completion_date": "2025-08-26",
+                "is_mobile": false
+            },
             "122287167": {
                 "video": "https://www.youtube.com/watch?v=93U_1KqpYU8",
                 "completion_date": "2025-08-01",

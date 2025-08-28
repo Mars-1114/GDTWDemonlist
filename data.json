@@ -349,7 +349,9 @@
       ["SHINE", "116735521"],
       ["Sky Conflux", "111372142"],
       ["UNLEASH WHALE WHALES", "108459320"],
-      ["squeak", "123912413"]
+      ["squeak", "123912413"],
+      ["SUPERMAYOHATECLUB", "90942005"],
+      ["Twisted Titanium", "121267216"]
     ],
     
     "legacy": [
@@ -427,6 +429,16 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "121267216": {
+                "video": "https://www.youtube.com/watch?v=wmWW6tHPLdc",
+                "completion_date": "2025-07-29",
+                "is_mobile": false
+            },
+            "90942005": {
+                "video": "https://www.youtube.com/watch?v=Z4fxaGAN_K4",
+                "completion_date": "2025-08-28",
+                "is_mobile": false
+            },
             "123912413": {
                 "video": "https://www.youtube.com/watch?v=hnUyxJN3c8w",
                 "completion_date": "2025-08-25",
@@ -2452,6 +2464,11 @@
             }
         },
         "Mars": {
+            "112412828": {
+                "video": "https://www.facebook.com/share/v/1LWHVPyiHL/",
+                "completion_date": "2025-08-28",
+                "is_mobile": false
+            },
             "48765988": {
                 "video": "https://www.youtube.com/watch?v=TXBwJzVazGw",
                 "completion_date": "2021-04-27",
@@ -3122,6 +3139,16 @@
             }
         },
         "Cyter867": {
+            "60197839": {
+                "video": "https://www.youtube.com/watch?v=-k2tPubLGCI",
+                "completion_date": "2025-08-28",
+                "is_mobile": false
+            },
+            "81148582": {
+                "video": "https://www.youtube.com/watch?v=m73vIS2ebGA",
+                "completion_date": "2025-08-28",
+                "is_mobile": false
+            },
             "90335871": {
                 "video": "https://www.youtube.com/watch?v=xJT3RGTVMi4",
                 "completion_date": "2025-07-21",
