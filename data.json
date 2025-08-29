@@ -351,7 +351,8 @@
       ["UNLEASH WHALE WHALES", "108459320"],
       ["squeak", "123912413"],
       ["SUPERMAYOHATECLUB", "90942005"],
-      ["Twisted Titanium", "121267216"]
+      ["Twisted Titanium", "121267216"],
+      ["PixelSonic", "44788659"]
     ],
     
     "legacy": [
@@ -3188,6 +3189,11 @@
             }
         },
         "Yuii": {
+            "44788659": {
+                "video": "https://www.facebook.com/share/v/16Sp6NE9be/",
+                "completion_date": "2025-08-29",
+                "is_mobile": false
+            },
             "61079355": {
                 "video": "https://www.facebook.com/share/v/19UxAowvMt/",
                 "completion_date": "2025-07-19",
