@@ -24,7 +24,6 @@
         ["Uh Oh", "116120637"],
         ["Withering Gallery", "114308040"],
         ["Guidance", "118139675"],
-        ["Himu", "117516392"],
         ["Pimu", "113553729"],
         ["Qimu", "115945148"],
         ["LIMU", "114329313"],
@@ -32,10 +31,17 @@
         ["SUMMER", "122287167"],
         ["Walk to the midnight", "118946505"],
         ["Creepy Needle", "115691111"],
-        ["Plastic Flowers", "121501168"]
+        ["Plastic Flowers", "121501168"],
+        ["ETERNAL ENDING", "98316946"],
+        ["4imu", "116493063"]
     ],
 
     "legacy": [
+        {
+            "level": "Himu",
+            "id": "117516392",
+            "publisher": "SirSplash"
+        },
         {
             "level": "Mountainous Climb",
             "id": "107732760",
@@ -45,6 +51,16 @@
 
     "player": {
         "carti": {
+            "116493063": {
+                "video": "https://www.facebook.com/share/v/1FNHHM879H/",
+                "completion_date": "2025-08-31",
+                "is_mobile": false
+            },
+            "98316946": {
+                "video": "https://www.facebook.com/share/v/19tn5bdmHw/",
+                "completion_date": "2025-08-30",
+                "is_mobile": false
+            },
             "121501168": {
                 "video": "https://www.facebook.com/share/v/16dyB7MLmM/",
                 "completion_date": "2025-08-26",

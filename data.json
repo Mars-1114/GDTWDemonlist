@@ -352,7 +352,10 @@
       ["squeak", "123912413"],
       ["SUPERMAYOHATECLUB", "90942005"],
       ["Twisted Titanium", "121267216"],
-      ["PixelSonic", "44788659"]
+      ["PixelSonic", "44788659"],
+      ["POINTIERCRATE", "123066284"],
+      ["Morning Vibe", "118044718"],
+      ["Paralysis", "72506465"]
     ],
     
     "legacy": [
@@ -430,6 +433,21 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "123066284": {
+                "video": "https://www.youtube.com/watch?v=05j-o90GYPY",
+                "completion_date": "2025-08-27",
+                "is_mobile": false
+            },
+            "118044718": {
+                "video": "https://www.youtube.com/watch?v=S0RIomEiSH4",
+                "completion_date": "2025-08-31",
+                "is_mobile": false
+            },
+            "72506465": {
+                "video": "https://www.youtube.com/watch?v=gVZIDHtKTaA",
+                "completion_date": "2025-08-30",
+                "is_mobile": false
+            },
             "83357887": {
                 "video": "https://www.youtube.com/watch?v=URqRL9amA9c",
                 "completion_date": "2025-08-29",
