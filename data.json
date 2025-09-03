@@ -355,7 +355,8 @@
       ["PixelSonic", "44788659"],
       ["POINTIERCRATE", "123066284"],
       ["Morning Vibe", "118044718"],
-      ["Paralysis", "72506465"]
+      ["Paralysis", "72506465"],
+      ["Northern Essence", "116415188"]
     ],
     
     "legacy": [
@@ -433,6 +434,11 @@
     
     "player": {
         "超大法國麵包🥖": {
+            "116415188": {
+                "video": "https://www.youtube.com/watch?v=7etHib27AIc",
+                "completion_date": "2025-09-02",
+                "is_mobile": false
+            },
             "123066284": {
                 "video": "https://www.youtube.com/watch?v=05j-o90GYPY",
                 "completion_date": "2025-08-27",

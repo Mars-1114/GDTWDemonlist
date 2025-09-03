@@ -20,7 +20,7 @@ $("#darkmode-switch-display").on("click", function() {
  */
 function getCookie(name) {
   let cookie_arr = decodeURIComponent(document.cookie).split("; ");
-  for (cookie of cookie_arr) {
+  for (let cookie of cookie_arr) {
     let index = cookie.indexOf("=");
     let key = cookie.substring(0, index);
     let val = cookie.substring(index + 1);
