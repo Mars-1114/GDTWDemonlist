@@ -1431,6 +1431,10 @@
     [
       "Abandoned Planet",
       "46249401"
+    ],
+    [
+      "rosedynamix",
+      "84140347"
     ]
   ],
   "legacy": [
@@ -1507,8 +1511,13 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "84140347": {
+        "video": "https://www.youtube.com/watch?v=ucFDfcIkh_k",
+        "completion_date": "2025-09-05",
+        "is_mobile": false
+      },
       "46249401": {
-        "video": "https://www.facebook.com/share/v/1Ey7ShXAzz/",
+        "video": "https://www.youtube.com/watch?v=ggiHHrrPo7s",
         "completion_date": "2025-09-04",
         "is_mobile": false
       },
@@ -3327,7 +3336,7 @@
         "is_mobile": false
       },
       "30219145": {
-        "video": "http://www.facebook.com/100004505670128/videos/514595599619606/",
+        "video": "https://www.facebook.com/100004505670128/videos/514595599619606/",
         "completion_date": "2021-08-04",
         "is_mobile": false
       },
@@ -4340,6 +4349,11 @@
       }
     },
     "一根蔥": {
+      "35448603": {
+        "video": "www.youtube.com/watch?v=U2FWgyL1cNI",
+        "completion_date": "2025-09-06",
+        "is_mobile": false
+      },
       "3979721": {
         "video": "https://www.youtube.com/watch?v=yM8hT3L5JDg",
         "completion_date": "2025-07-26",
@@ -4374,6 +4388,11 @@
       }
     },
     "Gabu": {
+      "19759411": {
+        "video": "https://www.facebook.com/share/v/1N5bnP2Kic/",
+        "completion_date": "2025-09-06",
+        "is_mobile": false
+      },
       "58825144": {
         "video": "https://www.facebook.com/share/v/1JBG7uXb3F/",
         "completion_date": "2025-08-20",
@@ -4389,6 +4408,11 @@
       "114231424": {
         "video": "https://www.facebook.com/share/v/1GUNmoRwxD/",
         "completion_date": "2025-08-22",
+        "is_mobile": true
+      },
+      "119259720": {
+        "video": "https://www.facebook.com/groups/173396940046034/posts/1703465140372532",
+        "completion_date": "2025-09-06",
         "is_mobile": true
       }
     }
