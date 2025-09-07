@@ -6,6 +6,8 @@ The website mainly consists of 2 lists:
 - **Level List**: Levels the members have completed. Ordered by difficulty according to **[AREDL](https://aredl.net/list/)**.
 - **Leaderboard**: Members that have beaten any extreme demons. Ordered by points.
 
+[**Website Link**](https://mars-1114.github.io/GDTWDemonlist)
+
 ## Screenshots
 ![demonlist](img/screenshot1.png)  
 ***Level List***
