@@ -1435,6 +1435,10 @@
     [
       "rosedynamix",
       "84140347"
+    ],
+    [
+      "declassification",
+      "95471187"
     ]
   ],
   "legacy": [
@@ -1511,6 +1515,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "95471187": {
+        "video": "https://www.youtube.com/watch?v=368uNrVFV-g",
+        "completion_date": "2025-09-07",
+        "is_mobile": false
+      },
       "84140347": {
         "video": "https://www.youtube.com/watch?v=ucFDfcIkh_k",
         "completion_date": "2025-09-05",
