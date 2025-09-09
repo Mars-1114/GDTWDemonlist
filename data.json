@@ -1443,6 +1443,10 @@
     [
       "four",
       "88719355"
+    ],
+    [
+      "Aura",
+      "117428580"
     ]
   ],
   "legacy": [
@@ -1519,6 +1523,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "117428580": {
+        "video": "https://www.youtube.com/watch?v=xHk7VVBPDAI",
+        "completion_date": "2025-09-03",
+        "is_mobile": false
+      },
       "88719355": {
         "video": "https://www.youtube.com/watch?v=oMImdD2nTAA",
         "completion_date": "2025-09-09",
