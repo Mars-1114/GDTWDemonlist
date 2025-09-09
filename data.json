@@ -1439,6 +1439,10 @@
     [
       "declassification",
       "95471187"
+    ],
+    [
+      "four",
+      "88719355"
     ]
   ],
   "legacy": [
@@ -1515,6 +1519,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "88719355": {
+        "video": "https://www.youtube.com/watch?v=oMImdD2nTAA",
+        "completion_date": "2025-09-09",
+        "is_mobile": false
+      },
       "95471187": {
         "video": "https://www.youtube.com/watch?v=368uNrVFV-g",
         "completion_date": "2025-09-07",
