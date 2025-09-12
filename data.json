@@ -1447,6 +1447,10 @@
     [
       "Aura",
       "117428580"
+    ],
+    [
+      "Backlights",
+      "91701349"
     ]
   ],
   "legacy": [
@@ -1523,6 +1527,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "91701349": {
+        "video": "https://www.youtube.com/watch?v=d0XOEZpTFHM",
+        "completion_date": "2025-09-12",
+        "is_mobile": false
+      },
       "57019271": {
         "video": "https://www.youtube.com/watch?v=AFYVqoEG_Ts",
         "completion_date": "2025-09-11",
@@ -4425,6 +4434,11 @@
       }
     },
     "Gabu": {
+      "105409034": {
+        "video": "https://www.facebook.com/share/v/16rN3e71wL/",
+        "completion_date": "2025-09-11",
+        "is_mobile": false
+      },
       "19759411": {
         "video": "https://www.facebook.com/share/v/1N5bnP2Kic/",
         "completion_date": "2025-09-06",
