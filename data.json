@@ -1455,6 +1455,10 @@
     [
       "Call Me Maybe",
       "80178903"
+    ],
+    [
+      "Me Lin A",
+      "95423156"
     ]
   ],
   "legacy": [
@@ -1531,6 +1535,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "95423156": {
+        "video": "https://www.youtube.com/watch?v=v5Z89vLoiP8",
+        "completion_date": "2025-09-15",
+        "is_mobile": false
+      },
       "80178903": {
         "video": "https://www.youtube.com/watch?v=4nmWfpWXJ28",
         "completion_date": "2025-08-24",
@@ -4404,6 +4413,11 @@
       }
     },
     "一根蔥": {
+      "66851981": {
+        "video": "https://www.youtube.com/watch?v=e1HVvL1G6_8",
+        "completion_date": "2025-09-15",
+        "is_mobile": false
+      },
       "35448603": {
         "video": "www.youtube.com/watch?v=U2FWgyL1cNI",
         "completion_date": "2025-09-06",
