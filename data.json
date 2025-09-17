@@ -1459,6 +1459,10 @@
     [
       "Me Lin A",
       "95423156"
+    ],
+    [
+      "Mystic Bounds",
+      "93549959"
     ]
   ],
   "legacy": [
@@ -4058,8 +4062,13 @@
       }
     },
     "InfAstral": {
+      "93549959": {
+        "video": "https://www.youtube.com/watch?v=ifonf2sryLU",
+        "completion_date": "2025-09-17",
+        "is_mobile": false
+      },
       "114231424": {
-        "video": "https://www.facebook.com/groups/173396940046034/posts/1701815080537538",
+        "video": "https://www.youtube.com/watch?v=u-nLZ05yuSo",
         "completion_date": "2025-09-04",
         "is_mobile": false
       },
