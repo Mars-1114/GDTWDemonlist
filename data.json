@@ -1463,6 +1463,10 @@
     [
       "Mystic Bounds",
       "93549959"
+    ],
+    [
+      "V O L L E Y",
+      "104336808"
     ]
   ],
   "legacy": [
@@ -1539,6 +1543,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "104336808": {
+        "video": "https://www.youtube.com/watch?v=77ufgpG4lmU",
+        "completion_date": "2025-09-18",
+        "is_mobile": false
+      },
       "95423156": {
         "video": "https://www.youtube.com/watch?v=v5Z89vLoiP8",
         "completion_date": "2025-09-15",
