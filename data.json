@@ -1471,6 +1471,14 @@
     [
       "Axiom Asterism",
       "114340057"
+    ],
+    [
+      "TUAPEKA",
+      "92299438"
+    ],
+    [
+      "Duplication",
+      "88577065"
     ]
   ],
   "legacy": [
@@ -1547,6 +1555,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "92299438": {
+        "video": "https://www.youtube.com/watch?v=QYpqHre89aQ",
+        "completion_date": "2025-07-25",
+        "is_mobile": false
+      },
       "114340057": {
         "video": "https://www.youtube.com/watch?v=BAkMWDx07zA",
         "completion_date": "2025-09-19",
@@ -3860,6 +3873,11 @@
       }
     },
     "Ruiq♿": {
+      "88577065": {
+        "video": "https://www.facebook.com/share/v/19oLeDM3Tw/",
+        "completion_date": "2025-09-19",
+        "is_mobile": false
+      },
       "52527538": {
         "video": "https://www.facebook.com/share/v/1C1bKdvVz8/",
         "completion_date": "2025-06-14",
