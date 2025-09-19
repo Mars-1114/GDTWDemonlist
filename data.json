@@ -1467,6 +1467,10 @@
     [
       "V O L L E Y",
       "104336808"
+    ],
+    [
+      "Axiom Asterism",
+      "114340057"
     ]
   ],
   "legacy": [
@@ -1543,6 +1547,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "114340057": {
+        "video": "https://www.youtube.com/watch?v=BAkMWDx07zA",
+        "completion_date": "2025-09-19",
+        "is_mobile": false
+      },
       "104336808": {
         "video": "https://www.youtube.com/watch?v=77ufgpG4lmU",
         "completion_date": "2025-09-18",
