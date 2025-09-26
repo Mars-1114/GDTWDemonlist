@@ -1491,6 +1491,10 @@
     [
       "Torgue",
       "60516506"
+    ],
+    [
+      "Ykds1479ymdppr",
+      "104464785"
     ]
   ],
   "legacy": [
@@ -1567,6 +1571,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "104464785": {
+        "video": "https://www.youtube.com/watch?v=7sx8Dx-6wnM",
+        "completion_date": "2025-09-26",
+        "is_mobile": false
+      },
       "79054135": {
         "video": "https://www.youtube.com/watch?v=ERxPbx-f6vM",
         "completion_date": "2025-09-22",
