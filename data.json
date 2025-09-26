@@ -1487,6 +1487,10 @@
     [
       "Barbaros Finale",
       "79054135"
+    ],
+    [
+      "Torgue",
+      "60516506"
     ]
   ],
   "legacy": [
@@ -3950,6 +3954,11 @@
       }
     },
     "Nabeyaki": {
+      "60516506": {
+        "video": "https://www.facebook.com/share/v/15dbKsyugJ/",
+        "completion_date": "2025-09-25",
+        "is_mobile": false
+      },
       "54917442": {
         "video": "https://www.facebook.com/share/v/1BRyFT5PJM/",
         "completion_date": "2025-09-19",
