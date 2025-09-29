@@ -1495,6 +1495,14 @@
     [
       "Ykds1479ymdppr",
       "104464785"
+    ],
+    [
+      "eclipse",
+      "123344470"
+    ],
+    [
+      "SL8O",
+      "82348741"
     ]
   ],
   "legacy": [
@@ -1571,6 +1579,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "82348741": {
+        "video": "https://www.youtube.com/watch?v=qlpnqPNWd3s",
+        "completion_date": "2025-09-281",
+        "is_mobile": false
+      },
+      "123344470": {
+        "video": "https://www.youtube.com/watch?v=ykCXQnhbv1o",
+        "completion_date": "2025-09-23",
+        "is_mobile": false
+      },
       "104464785": {
         "video": "https://www.youtube.com/watch?v=7sx8Dx-6wnM",
         "completion_date": "2025-09-26",
@@ -4139,6 +4157,16 @@
       }
     },
     "InfAstral": {
+      "112412828": {
+        "video": "https://www.youtube.com/watch?v=fofGh7Y-D9M",
+        "completion_date": "2025-09-28",
+        "is_mobile": false
+      },
+      "60516506": {
+        "video": "https://www.youtube.com/watch?v=F79u5G8lloQ",
+        "completion_date": "2025-09-27",
+        "is_mobile": false
+      },
       "81148582": {
         "video": "https://www.youtube.com/watch?v=4wKIV_7JVwo",
         "completion_date": "2025-09-27",
@@ -4487,6 +4515,11 @@
       }
     },
     "HankK漢": {
+      "107341811": {
+        "video": "https://www.facebook.com/share/v/1BWYpwHAgh/",
+        "completion_date": "2025-09-29",
+        "is_mobile": false
+      },
       "3979721": {
         "video": "https://www.facebook.com/share/v/1ShA2SMQ5p/",
         "completion_date": "2025-09-21",
