@@ -1507,6 +1507,14 @@
     [
       "Vermilion",
       "95313820"
+    ],
+    [
+      "Ch1ll Puddy",
+      "93971978"
+    ],
+    [
+      "gravity",
+      "77008332"
     ]
   ],
   "legacy": [
@@ -1583,6 +1591,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "93971978": {
+        "video": "https://www.youtube.com/watch?v=ETHBTe4dnH4",
+        "completion_date": "2025-10-03",
+        "is_mobile": false
+      },
+      "77008332": {
+        "video": "https://www.youtube.com/watch?v=jJc1eNyHtRs",
+        "completion_date": "2025-09-25",
+        "is_mobile": false
+      },
       "95313820": {
         "video": "https://www.youtube.com/watch?v=Mh3-AWA8Jbk",
         "completion_date": "2025-10-01",
