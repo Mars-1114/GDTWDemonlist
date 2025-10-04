@@ -1515,6 +1515,10 @@
     [
       "gravity",
       "77008332"
+    ],
+    [
+      "nowdead",
+      "69459902"
     ]
   ],
   "legacy": [
@@ -1591,6 +1595,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "69459902": {
+        "video": "https://www.youtube.com/watch?v=SlJ710uJUlg",
+        "completion_date": "2025-10-04",
+        "is_mobile": false
+      },
       "93971978": {
         "video": "https://www.youtube.com/watch?v=ETHBTe4dnH4",
         "completion_date": "2025-10-03",
