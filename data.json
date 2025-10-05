@@ -1519,6 +1519,10 @@
     [
       "nowdead",
       "69459902"
+    ],
+    [
+      "IRIS",
+      "123853954"
     ]
   ],
   "legacy": [
@@ -1595,6 +1599,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "123853954": {
+        "video": "https://www.youtube.com/watch?v=goJiPUqMjLE",
+        "completion_date": "2025-10-05",
+        "is_mobile": false
+      },
       "69459902": {
         "video": "https://www.youtube.com/watch?v=SlJ710uJUlg",
         "completion_date": "2025-10-04",
@@ -4480,6 +4489,11 @@
       }
     },
     "Cyter867": {
+      "70187443": {
+        "video": "https://www.youtube.com/watch?v=J_UdhdFCAW0",
+        "completion_date": "2025-10-05",
+        "is_mobile": false
+      },
       "60197839": {
         "video": "https://www.youtube.com/watch?v=-k2tPubLGCI",
         "completion_date": "2025-08-28",
@@ -4524,6 +4538,11 @@
       }
     },
     "Yuii": {
+      "22434793": {
+        "video": "https://www.facebook.com/share/v/1BS4gsK2yo/",
+        "completion_date": "2025-10-05",
+        "is_mobile": false
+      },
       "95764848": {
         "video": "https://www.facebook.com/share/v/1AnYnHv66t/",
         "completion_date": "2025-09-08",
