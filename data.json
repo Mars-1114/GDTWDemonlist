@@ -1523,6 +1523,14 @@
     [
       "IRIS",
       "123853954"
+    ],
+    [
+      "Xronier",
+      "88913586"
+    ],
+    [
+      "Gaming 35",
+      "111230291"
     ]
   ],
   "legacy": [
@@ -1599,8 +1607,18 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "111230291": {
+        "video": "https://www.youtube.com/watch?v=oNoRE5JAJOs",
+        "completion_date": "2025-10-08",
+        "is_mobile": false
+      },
+      "88913586": {
+        "video": "https://www.youtube.com/watch?v=31AJs_jqX1A",
+        "completion_date": "2025-10-09",
+        "is_mobile": false
+      },
       "60516506": {
-        "video": "https://www.facebook.com/share/v/1EbBPiAmAH/",
+        "video": "https://www.youtube.com/watch?v=CH1uF1fm_MY",
         "completion_date": "2025-10-07",
         "is_mobile": false
       },
@@ -4207,6 +4225,11 @@
       }
     },
     "InfAstral": {
+      "88913586": {
+        "video": "https://www.youtube.com/watch?v=qicystR3Ww8",
+        "completion_date": "2025-10-09",
+        "is_mobile": false
+      },
       "112412828": {
         "video": "https://www.youtube.com/watch?v=fofGh7Y-D9M",
         "completion_date": "2025-09-28",
@@ -4607,6 +4630,11 @@
       }
     },
     "一根蔥": {
+      "51791710": {
+        "video": "https://www.youtube.com/watch?v=iaaGdu0TvmM",
+        "completion_date": "2025-10-08",
+        "is_mobile": false
+      },
       "112515547": {
         "video": "https://www.youtube.com/watch?v=TTa-k6FtjTs",
         "completion_date": "2025-09-22",
