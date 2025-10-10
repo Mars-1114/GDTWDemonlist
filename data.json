@@ -1531,6 +1531,10 @@
     [
       "Gaming 35",
       "111230291"
+    ],
+    [
+      "Agen Wida",
+      "86513236"
     ]
   ],
   "legacy": [
@@ -1607,6 +1611,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "86513236": {
+        "video": "https://www.youtube.com/watch?v=w_gsE0BzU5o",
+        "completion_date": "2025-10-10",
+        "is_mobile": false
+      },
       "111230291": {
         "video": "https://www.youtube.com/watch?v=oNoRE5JAJOs",
         "completion_date": "2025-10-08",
@@ -4684,6 +4693,11 @@
       }
     },
     "Gabu": {
+      "55184818": {
+        "video": "https://www.facebook.com/share/v/1A4RHjoj7a/",
+        "completion_date": "2025-10-10",
+        "is_mobile": false
+      },
       "61079355": {
         "video": "https://www.facebook.com/share/v/1FRowBDmqr/",
         "completion_date": "2025-10-07",
