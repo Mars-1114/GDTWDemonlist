@@ -1535,6 +1535,10 @@
     [
       "Agen Wida",
       "86513236"
+    ],
+    [
+      "To The Blue Moon",
+      "90024795"
     ]
   ],
   "legacy": [
@@ -1611,6 +1615,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "90024795": {
+        "video": "https://www.youtube.com/watch?v=gmtqbW4zHO0",
+        "completion_date": "2025-10-13",
+        "is_mobile": false
+      },
       "86513236": {
         "video": "https://www.youtube.com/watch?v=w_gsE0BzU5o",
         "completion_date": "2025-10-10",
@@ -4639,6 +4648,11 @@
       }
     },
     "一根蔥": {
+      "77008332": {
+        "video": "https://www.youtube.com/watch?v=PiqOZ46KPuE",
+        "completion_date": "2025-10-14",
+        "is_mobile": false
+      },
       "51791710": {
         "video": "https://www.youtube.com/watch?v=iaaGdu0TvmM",
         "completion_date": "2025-10-08",
