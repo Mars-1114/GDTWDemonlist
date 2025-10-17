@@ -1539,6 +1539,10 @@
     [
       "To The Blue Moon",
       "90024795"
+    ],
+    [
+      "Dimension Breaker",
+      "55539300"
     ]
   ],
   "legacy": [
@@ -1615,6 +1619,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "73005068": {
+        "video": "https://www.youtube.com/watch?v=VQB1a8q3kRU",
+        "completion_date": "2025-10-17",
+        "is_mobile": false
+      },
+      "55539300": {
+        "video": "https://www.youtube.com/watch?v=mGTY3SO1x18",
+        "completion_date": "2025-10-15",
+        "is_mobile": false
+      },
       "90024795": {
         "video": "https://www.youtube.com/watch?v=gmtqbW4zHO0",
         "completion_date": "2025-10-13",
