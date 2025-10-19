@@ -1543,6 +1543,10 @@
     [
       "Dimension Breaker",
       "55539300"
+    ],
+    [
+      "AKIRA",
+      "88421468"
     ]
   ],
   "legacy": [
@@ -1619,6 +1623,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "88421468": {
+        "video": "https://www.youtube.com/watch?v=jv7WRLRXCmg",
+        "completion_date": "2025-10-19",
+        "is_mobile": false
+      },
       "73005068": {
         "video": "https://www.youtube.com/watch?v=VQB1a8q3kRU",
         "completion_date": "2025-10-17",
