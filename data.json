@@ -1547,6 +1547,14 @@
     [
       "AKIRA",
       "88421468"
+    ],
+    [
+      "ConFusion",
+      "84960998"
+    ],
+    [
+      "robotchief exposal",
+      "92729757"
     ]
   ],
   "legacy": [
@@ -1623,6 +1631,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "92729757": {
+        "video": "https://www.youtube.com/watch?v=OgXSPfquJT4",
+        "completion_date": "2025-10-20",
+        "is_mobile": false
+      },
       "88421468": {
         "video": "https://www.youtube.com/watch?v=jv7WRLRXCmg",
         "completion_date": "2025-10-19",
@@ -4558,6 +4571,11 @@
       }
     },
     "Cyter867": {
+      "84960998": {
+        "video": "https://www.youtube.com/watch?v=QDViX2s-NJk",
+        "completion_date": "2025-10-20",
+        "is_mobile": false
+      },
       "70187443": {
         "video": "https://www.youtube.com/watch?v=J_UdhdFCAW0",
         "completion_date": "2025-10-05",
