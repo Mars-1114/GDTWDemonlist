@@ -42,6 +42,7 @@ $(document).ajaxStop(function() {
     let lvl = {
       name: lvl_name,
       id: id,
+      id_display: exd_arr[level].level_id,
       publisher: exd_arr[level].publisher.global_name,
       placement: +exd_arr[level].position,
       gdtw_placement: +level + 1,
@@ -356,7 +357,7 @@ function loadDetails(dID) {
               #" + lvl.gdtw_placement + "<span style='color: var(--text-note)'> [ #" + lvl.placement + " ]</span>\
             </span>\
             <span class='leaderboard-detail-content' style='grid-column: 2/3; grid-row: 2/3'>" +
-              lvl.id +
+              lvl.id_display +
             "</span>\
             <span class='leaderboard-detail-content' style='grid-column: 3/4; grid-row: 2/3'>" +
               lvl.pts +
@@ -394,7 +395,7 @@ function loadDetails(dID) {
               #" + lvl.gdtw_placement + "<span style='color: var(--text-note)'> [ #" + lvl.placement + " ]</span>\
             </span>\
             <span class='leaderboard-detail-content' style='grid-column: 2/3; grid-row: 2/3'>" +
-              lvl.id +
+              lvl.id_display +
             "</span>\
             <span class='leaderboard-detail-content' style='grid-column: 3/4; grid-row: 2/3'>" +
               lvl.pts +
