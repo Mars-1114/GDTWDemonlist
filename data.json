@@ -1555,6 +1555,14 @@
     [
       "robotchief exposal",
       "92729757"
+    ],
+    [
+      "Steel Terrors",
+      "119653522"
+    ],
+    [
+      "Betelgeuse",
+      "74986585"
     ]
   ],
   "legacy": [
@@ -1631,6 +1639,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "74986585": {
+        "video": "https://www.youtube.com/watch?v=vw3kllcF7-E",
+        "completion_date": "2025-10-23",
+        "is_mobile": false
+      },
+      "119653522": {
+        "video": "https://www.youtube.com/watch?v=HOCdVv7RQPE",
+        "completion_date": "2025-10-22",
+        "is_mobile": false
+      },
       "92729757": {
         "video": "https://www.youtube.com/watch?v=OgXSPfquJT4",
         "completion_date": "2025-10-20",
@@ -4618,6 +4636,11 @@
       }
     },
     "蓋爾大學之中國建設銀行董事長荳荳": {
+      "77008332": {
+        "video": "https://www.youtube.com/watch?v=G4AOTbg4J7M",
+        "completion_date": "2025-10-23",
+        "is_mobile": false
+      },
       "68848817": {
         "video": "https://www.youtube.com/watch?v=ZVs6SJdT7Co",
         "completion_date": "2025-07-18",

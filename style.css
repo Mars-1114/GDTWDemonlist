@@ -726,6 +726,14 @@ img {
   -webkit-user-select: none;
 }
 
+.lvl-name {
+    float: left;
+    width: 300px;
+    height: 25px;
+    line-height: 25px;
+    overflow: hidden;
+}
+
 /* QUERIES */
 
 @keyframes load {
