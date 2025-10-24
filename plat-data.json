@@ -135,6 +135,10 @@
     [
       "4imu",
       "116493063"
+    ],
+    [
+      "Labyrinth",
+      "126447025"
     ]
   ],
   "legacy": [
@@ -303,6 +307,11 @@
       }
     },
     "超大法國麵包🥖": {
+      "126447025": {
+        "video": "https://www.youtube.com/watch?v=krPBRkhLzrA",
+        "completion_date": "2025-10-25",
+        "is_mobile": false
+      },
       "115691111": {
         "video": "https://www.youtube.com/watch?v=VqRfrnd9oQs",
         "completion_date": "2025-09-10",
