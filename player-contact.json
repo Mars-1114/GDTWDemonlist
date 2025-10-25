@@ -223,7 +223,11 @@
     },
     "一根蔥": {
         "left-group": false,
-        "facebook": "https://www.facebook.com/groups/173396940046034/user/100004528151590"
+        "facebook": "https://www.facebook.com/groups/173396940046034/user/100004528151590",
+        "gd": {
+          "icon": "justinowo",
+          "username": "JustinOwO"
+        }
     },
     "Blacken": {
         "left-group": false,
