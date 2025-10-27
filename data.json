@@ -1563,6 +1563,10 @@
     [
       "Betelgeuse",
       "74986585"
+    ],
+    [
+      "Aura",
+      "73988608"
     ]
   ],
   "legacy": [
@@ -1639,6 +1643,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "73988608": {
+        "video": "https://www.youtube.com/watch?v=Z5m3PI4Apcg",
+        "completion_date": "2025-10-27",
+        "is_mobile": false
+      },
       "74986585": {
         "video": "https://www.youtube.com/watch?v=vw3kllcF7-E",
         "completion_date": "2025-10-23",
@@ -4297,6 +4306,11 @@
       }
     },
     "InfAstral": {
+      "48765988": {
+        "video": "https://www.youtube.com/watch?v=evviHolHPhI",
+        "completion_date": "2025-10-25",
+        "is_mobile": false
+      },
       "88913586": {
         "video": "https://www.youtube.com/watch?v=qicystR3Ww8",
         "completion_date": "2025-10-09",
