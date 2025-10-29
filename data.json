@@ -1567,6 +1567,10 @@
     [
       "Aura",
       "73988608"
+    ],
+    [
+      "Sonic Wave Infinity",
+      "69685815"
     ]
   ],
   "legacy": [
@@ -1643,6 +1647,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "69685815": {
+        "video": "https://www.youtube.com/watch?v=cMPXjwMMqkM",
+        "completion_date": "2025-10-29",
+        "is_mobile": false
+      },
       "73988608": {
         "video": "https://www.youtube.com/watch?v=Z5m3PI4Apcg",
         "completion_date": "2025-10-27",
