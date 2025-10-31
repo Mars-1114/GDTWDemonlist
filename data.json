@@ -1571,6 +1571,14 @@
     [
       "Sonic Wave Infinity",
       "69685815"
+    ],
+    [
+      "AUX cord",
+      "77690694"
+    ],
+    [
+      "Crimson Planet",
+      "45866767"
     ]
   ],
   "legacy": [
@@ -1647,6 +1655,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "45866767": {
+        "video": "https://www.youtube.com/watch?v=3x_1oqz3vkg",
+        "completion_date": "2025-10-31",
+        "is_mobile": false
+      },
       "69685815": {
         "video": "https://www.youtube.com/watch?v=cMPXjwMMqkM",
         "completion_date": "2025-10-29",
@@ -4612,6 +4625,11 @@
       }
     },
     "Cyter867": {
+      "77690694": {
+        "video": "https://www.youtube.com/watch?v=OeWMDZt30Qc",
+        "completion_date": "2025-10-31",
+        "is_mobile": false
+      },
       "84960998": {
         "video": "https://www.youtube.com/watch?v=QDViX2s-NJk",
         "completion_date": "2025-10-20",
