@@ -1579,6 +1579,10 @@
     [
       "Crimson Planet",
       "45866767"
+    ],
+    [
+      "Ddiamond",
+      "74034217"
     ]
   ],
   "legacy": [
@@ -4817,6 +4821,11 @@
       }
     },
     "Gabu": {
+      "74034217": {
+        "video": "https://www.facebook.com/share/v/1AAJuZhxRf/",
+        "completion_date": "2025-11-01",
+        "is_mobile": false
+      },
       "55184818": {
         "video": "https://www.facebook.com/share/v/1A4RHjoj7a/",
         "completion_date": "2025-10-10",
