@@ -1583,6 +1583,18 @@
     [
       "Ddiamond",
       "74034217"
+    ],
+    [
+      "Bored Walk",
+      "75700448"
+    ],
+    [
+      "The Winged Sword",
+      "94748298"
+    ],
+    [
+      "Explosion",
+      "56889568"
     ]
   ],
   "legacy": [
@@ -1659,6 +1671,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "94748298": {
+        "video": "https://www.youtube.com/watch?v=4_I-girhSxk",
+        "completion_date": "2025-11-06",
+        "is_mobile": false
+      },
+      "75700448": {
+        "video": "https://www.youtube.com/watch?v=P5OVp5qchHo",
+        "completion_date": "2025-11-05",
+        "is_mobile": false
+      },
       "45866767": {
         "video": "https://www.youtube.com/watch?v=3x_1oqz3vkg",
         "completion_date": "2025-10-31",
@@ -4698,6 +4720,11 @@
       }
     },
     "Yuii": {
+      "119653522": {
+        "video": "https://www.facebook.com/share/v/1SxGgEuJfq/",
+        "completion_date": "2025-11-06",
+        "is_mobile": false
+      },
       "22434793": {
         "video": "https://www.facebook.com/share/v/1BS4gsK2yo/",
         "completion_date": "2025-10-05",
@@ -4767,6 +4794,11 @@
       }
     },
     "一根蔥": {
+      "48229256": {
+        "video": "https://www.youtube.com/watch?v=uk0QiQ5F0ao",
+        "completion_date": "2025-11-05",
+        "is_mobile": false
+      },
       "68848817": {
         "video": "https://www.youtube.com/watch?v=noOCNEqOF8Q",
         "completion_date": "2025-10-24",
@@ -4831,6 +4863,11 @@
       }
     },
     "Gabu": {
+      "56889568": {
+        "video": "https://www.facebook.com/share/v/1FWhSQrDdp/",
+        "completion_date": "2025-11-06",
+        "is_mobile": false
+      },
       "74034217": {
         "video": "https://www.facebook.com/share/v/1AAJuZhxRf/",
         "completion_date": "2025-11-01",

@@ -139,6 +139,10 @@
     [
       "Labyrinth",
       "126447025"
+    ],
+    [
+      "ball that bounces",
+      "119733044"
     ]
   ],
   "legacy": [
@@ -307,6 +311,11 @@
       }
     },
     "超大法國麵包🥖": {
+      "119733044": {
+        "video": "https://www.youtube.com/watch?v=y9hVmnX0T1k",
+        "completion_date": "2025-11-06",
+        "is_mobile": false
+      },
       "126447025": {
         "video": "https://www.youtube.com/watch?v=krPBRkhLzrA",
         "completion_date": "2025-10-25",
