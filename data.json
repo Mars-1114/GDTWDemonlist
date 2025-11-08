@@ -1607,6 +1607,10 @@
     [
       "goober land",
       "114784521"
+    ],
+    [
+      "Fallen Horizon",
+      "127305966"
     ]
   ],
   "legacy": [
@@ -1683,6 +1687,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "127305966": {
+        "video": "https://www.youtube.com/watch?v=2S5jOIwxonE",
+        "completion_date": "2025-10-28",
+        "is_mobile": false
+      },
       "114784521": {
         "video": "https://www.youtube.com/watch?v=kePOY1-24P8",
         "completion_date": "2025-11-08",
@@ -4678,6 +4687,11 @@
       }
     },
     "Cyter867": {
+      "127305966": {
+        "video": "https://www.youtube.com/watch?v=Ysq21ON0IPI",
+        "completion_date": "2025-10-27",
+        "is_mobile": false
+      },
       "100486896": {
         "video": "https://www.youtube.com/watch?v=LzygtqobTOg",
         "completion_date": "2025-11-08",
