@@ -1595,6 +1595,18 @@
     [
       "Explosion",
       "56889568"
+    ],
+    [
+      "Runtime Error",
+      "113036509"
+    ],
+    [
+      "Electric Forest",
+      "93490967"
+    ],
+    [
+      "goober land",
+      "114784521"
     ]
   ],
   "legacy": [
@@ -1671,6 +1683,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "114784521": {
+        "video": "https://www.youtube.com/watch?v=kePOY1-24P8",
+        "completion_date": "2025-11-08",
+        "is_mobile": false
+      },
+      "93490967": {
+        "video": "https://www.youtube.com/watch?v=bjRm4Nx0iaY",
+        "completion_date": "2025-11-07",
+        "is_mobile": false
+      },
       "94748298": {
         "video": "https://www.youtube.com/watch?v=4_I-girhSxk",
         "completion_date": "2025-11-06",
@@ -4656,6 +4678,16 @@
       }
     },
     "Cyter867": {
+      "100486896": {
+        "video": "https://www.youtube.com/watch?v=LzygtqobTOg",
+        "completion_date": "2025-11-08",
+        "is_mobile": false
+      },
+      "113036509": {
+        "video": "https://www.youtube.com/watch?v=PGuLEvVfJvA",
+        "completion_date": "2025-11-07",
+        "is_mobile": false
+      },
       "77690694": {
         "video": "https://www.youtube.com/watch?v=OeWMDZt30Qc",
         "completion_date": "2025-10-31",
