@@ -1611,6 +1611,14 @@
     [
       "Fallen Horizon",
       "127305966"
+    ],
+    [
+      "Shardscapes",
+      "79997992"
+    ],
+    [
+      "GewErbiX",
+      "68311699"
     ]
   ],
   "legacy": [
@@ -1687,6 +1695,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "79997992": {
+        "video": "https://www.youtube.com/watch?v=fiSf5trwlBI",
+        "completion_date": "2025-11-17",
+        "is_mobile": false
+      },
+      "68311699": {
+        "video": "https://www.youtube.com/watch?v=f7dtgagmto0",
+        "completion_date": "2025-11-14",
+        "is_mobile": false
+      },
       "52289646": {
         "video": "https://www.youtube.com/watch?v=pfnkBWPhHms",
         "completion_date": "2025-11-11",
@@ -4614,6 +4632,11 @@
       }
     },
     "ProStylePancake": {
+      "38235367": {
+        "video": "https://www.youtube.com/watch?v=GL2aP58x1c8",
+        "completion_date": "2025-11-17",
+        "is_mobile": false
+      },
       "35448603": {
         "video": "https://www.youtube.com/watch?v=A58JbtPSly0",
         "completion_date": "2025-11-11",
@@ -4838,6 +4861,11 @@
       }
     },
     "HankK漢": {
+      "113138918": {
+        "video": "https://www.facebook.com/share/v/19jzRe6y2e/",
+        "completion_date": "2025-11-17",
+        "is_mobile": false
+      },
       "87425029": {
         "video": "https://www.facebook.com/share/v/17HBUUhA8Y/",
         "completion_date": "2025-11-02",
@@ -4944,6 +4972,11 @@
       }
     },
     "Gabu": {
+      "58811846": {
+        "video": "https://www.facebook.com/share/v/16pNbDravX/",
+        "completion_date": "2025-11-16",
+        "is_mobile": false
+      },
       "56889568": {
         "video": "https://www.facebook.com/share/v/1FWhSQrDdp/",
         "completion_date": "2025-11-06",
