@@ -1619,6 +1619,18 @@
     [
       "GewErbiX",
       "68311699"
+    ],
+    [
+      "Wayback Array",
+      "90036102"
+    ],
+    [
+      "Auroral Valhalla",
+      "113685088"
+    ],
+    [
+      "FUTURE DEMON MACHINE",
+      "94923922"
     ]
   ],
   "legacy": [
@@ -1695,6 +1707,21 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "113685088": {
+        "video": "https://www.youtube.com/watch?v=WouA4PwB_F4",
+        "completion_date": "2025-11-19",
+        "is_mobile": false
+      },
+      "94923922": {
+        "video": "https://www.youtube.com/watch?v=qH9036VIx5o",
+        "completion_date": "2025-11-20",
+        "is_mobile": false
+      },
+      "90036102": {
+        "video": "https://www.youtube.com/watch?v=fiSf5trwlBI",
+        "completion_date": "2025-11-17",
+        "is_mobile": false
+      },
       "79997992": {
         "video": "https://www.youtube.com/watch?v=fiSf5trwlBI",
         "completion_date": "2025-11-17",
@@ -4903,6 +4930,11 @@
       }
     },
     "一根蔥": {
+      "65860142": {
+        "video": "https://www.youtube.com/watch?v=LPM22Yj9i6o",
+        "completion_date": "2025-11-19",
+        "is_mobile": false
+      },
       "48229256": {
         "video": "https://www.youtube.com/watch?v=uk0QiQ5F0ao",
         "completion_date": "2025-11-05",
