@@ -1631,6 +1631,10 @@
     [
       "FUTURE DEMON MACHINE",
       "94923922"
+    ],
+    [
+      "Vociferous",
+      "79546293"
     ]
   ],
   "legacy": [
@@ -1707,6 +1711,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "79546293": {
+        "video": "https://www.youtube.com/watch?v=7okJwgAxosc",
+        "completion_date": "2025-11-21",
+        "is_mobile": false
+      },
       "113685088": {
         "video": "https://www.youtube.com/watch?v=WouA4PwB_F4",
         "completion_date": "2025-11-19",
