@@ -1635,6 +1635,14 @@
     [
       "Vociferous",
       "79546293"
+    ],
+    [
+      "Vacant",
+      "93596347"
+    ],
+    [
+      "Crackhead Circles",
+      "95524621"
     ]
   ],
   "legacy": [
@@ -1711,6 +1719,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "95524621": {
+        "video": "https://www.youtube.com/watch?v=1mSsb3MIw8k",
+        "completion_date": "2025-11-23",
+        "is_mobile": false
+      },
+      "93596347": {
+        "video": "https://www.youtube.com/watch?v=QQTdR-3xRp8",
+        "completion_date": "2025-11-23",
+        "is_mobile": false
+      },
       "79546293": {
         "video": "https://www.youtube.com/watch?v=7okJwgAxosc",
         "completion_date": "2025-11-21",
@@ -5093,6 +5111,13 @@
         "video": "https://www.facebook.com/share/v/1CaAUwD3HN/",
         "completion_date": "2025-11-13",
         "is_mobile": true
+      }
+    },
+    "Ayanecy [GD]": {
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=5x-pKuZxuBs",
+        "completion_date": "2025-11-23",
+        "is_mobile": false
       }
     }
   }

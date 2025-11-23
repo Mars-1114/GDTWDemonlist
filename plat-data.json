@@ -143,6 +143,10 @@
     [
       "ball that bounces",
       "119733044"
+    ],
+    [
+      "Myrce",
+      "119676812"
     ]
   ],
   "legacy": [
@@ -311,6 +315,11 @@
       }
     },
     "超大法國麵包🥖": {
+      "119676812": {
+        "video": "https://www.youtube.com/watch?v=KCsFHVPk6X4",
+        "completion_date": "2025-11-22",
+        "is_mobile": false
+      },
       "119733044": {
         "video": "https://www.youtube.com/watch?v=y9hVmnX0T1k",
         "completion_date": "2025-11-06",
