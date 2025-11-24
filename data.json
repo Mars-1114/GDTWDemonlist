@@ -1643,6 +1643,14 @@
     [
       "Crackhead Circles",
       "95524621"
+    ],
+    [
+      "The Sulphur Sea",
+      "81548163"
+    ],
+    [
+      "Pale Machine",
+      "126702304"
     ]
   ],
   "legacy": [
@@ -1719,6 +1727,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "126702304": {
+        "video": "https://www.youtube.com/watch?v=LyRnCxF-ff8",
+        "completion_date": "2025-11-24",
+        "is_mobile": false
+      },
       "95524621": {
         "video": "https://www.youtube.com/watch?v=1mSsb3MIw8k",
         "completion_date": "2025-11-23",
@@ -4686,6 +4699,11 @@
       }
     },
     "ProStylePancake": {
+      "81548163": {
+        "video": "https://www.youtube.com/watch?v=e0ohJnDIWQ0",
+        "completion_date": "2025-11-24",
+        "is_mobile": false
+      },
       "38235367": {
         "video": "https://www.youtube.com/watch?v=GL2aP58x1c8",
         "completion_date": "2025-11-17",
