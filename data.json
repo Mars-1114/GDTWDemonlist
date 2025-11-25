@@ -1651,6 +1651,18 @@
     [
       "Pale Machine",
       "126702304"
+    ],
+    [
+      "Lonely Lights",
+      "72785216"
+    ],
+    [
+      "my worst level",
+      "127320494"
+    ],
+    [
+      "Antonymph",
+      "124293350"
     ]
   ],
   "legacy": [
@@ -1727,6 +1739,21 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "72785216": {
+        "video": "https://www.youtube.com/watch?v=3uNImvtfJjc",
+        "completion_date": "2025-11-25",
+        "is_mobile": false
+      },
+      "127320494": {
+        "video": "https://www.youtube.com/watch?v=h0VDS-6y0XU",
+        "completion_date": "2025-11-17",
+        "is_mobile": false
+      },
+      "124293350": {
+        "video": "https://www.youtube.com/watch?v=kU0zCuOiVLo",
+        "completion_date": "2025-10-16",
+        "is_mobile": false
+      },
       "126702304": {
         "video": "https://www.youtube.com/watch?v=LyRnCxF-ff8",
         "completion_date": "2025-11-24",
@@ -5121,6 +5148,11 @@
       "95764848": {
         "video": "https://www.facebook.com/share/v/1D4e9jDupV/",
         "completion_date": "2025-11-09",
+        "is_mobile": false
+      },
+      "61079355": {
+        "video": "https://www.facebook.com/share/v/1D4e9jDupV/",
+        "completion_date": "2025-11-24",
         "is_mobile": false
       }
     },
