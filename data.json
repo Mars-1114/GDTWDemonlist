@@ -1663,6 +1663,10 @@
     [
       "Antonymph",
       "124293350"
+    ],
+    [
+      "ETERNAL",
+      "86996130"
     ]
   ],
   "legacy": [
@@ -1739,6 +1743,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "86996130": {
+        "video": "https://www.youtube.com/watch?v=ZjsNP4P7wC8",
+        "completion_date": "2025-11-27",
+        "is_mobile": false
+      },
       "72785216": {
         "video": "https://www.youtube.com/watch?v=3uNImvtfJjc",
         "completion_date": "2025-11-25",
