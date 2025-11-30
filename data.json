@@ -1671,6 +1671,10 @@
     [
       "Dismay",
       "64680297"
+    ],
+    [
+      "Concaved Memories",
+      "57559425"
     ]
   ],
   "legacy": [
@@ -1747,6 +1751,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "57559425": {
+        "video": "https://www.youtube.com/watch?v=KAArnAR3Gfw",
+        "completion_date": "2025-11-30",
+        "is_mobile": false
+      },
       "64680297": {
         "video": "https://www.youtube.com/watch?v=FQ-azk2EWZY",
         "completion_date": "2025-11-28",
