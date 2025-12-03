@@ -1675,6 +1675,10 @@
     [
       "Concaved Memories",
       "57559425"
+    ],
+    [
+      "lunar",
+      "123392717"
     ]
   ],
   "legacy": [
@@ -1751,6 +1755,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "123392717": {
+        "video": "https://www.youtube.com/watch?v=Hvw5fZzCOz0",
+        "completion_date": "2025-12-02",
+        "is_mobile": false
+      },
       "57559425": {
         "video": "https://www.youtube.com/watch?v=KAArnAR3Gfw",
         "completion_date": "2025-11-30",
