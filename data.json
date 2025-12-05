@@ -1683,6 +1683,10 @@
     [
       "EXPLICIT",
       "74028410"
+    ],
+    [
+      "Screaming",
+      "123964123"
     ]
   ],
   "legacy": [
@@ -1759,6 +1763,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "123964123": {
+        "video": "https://www.youtube.com/watch?v=_-5vwtxRnuM",
+        "completion_date": "2025-12-05",
+        "is_mobile": false
+      },
       "74028410": {
         "video": "https://www.youtube.com/watch?v=P0EgFKNa1Ic",
         "completion_date": "2025-12-03",
@@ -4312,6 +4321,11 @@
       }
     },
     "Ruiq♿": {
+      "93549959": {
+        "video": "https://www.facebook.com/share/v/1CjQBv3hch/",
+        "completion_date": "2025-12-05",
+        "is_mobile": false
+      },
       "88577065": {
         "video": "https://www.facebook.com/share/v/19oLeDM3Tw/",
         "completion_date": "2025-09-19",
@@ -5222,6 +5236,13 @@
       "61079355": {
         "video": "https://www.youtube.com/watch?v=5x-pKuZxuBs",
         "completion_date": "2025-11-23",
+        "is_mobile": false
+      }
+    },
+    "Lucas70707": {
+      "61079355": {
+        "video": "https://www.facebook.com/share/v/1ByKPHbMyp/",
+        "completion_date": "2025-12-06",
         "is_mobile": false
       }
     }
