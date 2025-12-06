@@ -1687,6 +1687,10 @@
     [
       "Screaming",
       "123964123"
+    ],
+    [
+      "Cersia Difficult",
+      "74840882"
     ]
   ],
   "legacy": [
@@ -4561,6 +4565,11 @@
       }
     },
     "InfAstral": {
+      "63775846": {
+        "video": "https://www.youtube.com/watch?v=HnqVBTMwG2E",
+        "completion_date": "2025-12-06",
+        "is_mobile": false
+      },
       "69010770": {
         "video": "https://www.youtube.com/watch?v=RwNAxB_couo",
         "completion_date": "2025-12-05",
@@ -4795,6 +4804,11 @@
       }
     },
     "ProStylePancake": {
+      "74840882": {
+        "video": "https://www.youtube.com/watch?v=46MNhMwSmTc",
+        "completion_date": "2025-12-06",
+        "is_mobile": false
+      },
       "81548163": {
         "video": "https://www.youtube.com/watch?v=e0ohJnDIWQ0",
         "completion_date": "2025-11-24",
@@ -4893,6 +4907,11 @@
       }
     },
     "Cyter867": {
+      "60516506": {
+        "video": "https://www.youtube.com/watch?v=vhqj_ffaHvU",
+        "completion_date": "2025-12-06",
+        "is_mobile": false
+      },
       "59899374": {
         "video": "https://www.youtube.com/watch?v=JbX0q_7HHbg",
         "completion_date": "2025-11-11",
