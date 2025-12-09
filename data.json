@@ -1695,6 +1695,14 @@
     [
       "Rate Demon",
       "44860762"
+    ],
+    [
+      "TORNADO",
+      "83098728"
+    ],
+    [
+      "Stalemate Redux",
+      "37398911"
     ]
   ],
   "legacy": [
@@ -1771,6 +1779,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "37398911": {
+        "video": "https://www.youtube.com/watch?v=roh0ENDmpdI",
+        "completion_date": "2025-12-09",
+        "is_mobile": false
+      },
       "44860762": {
         "video": "https://www.youtube.com/watch?v=HEfWhMu4S6M",
         "completion_date": "2025-12-07",
@@ -4334,6 +4347,11 @@
       }
     },
     "Ruiq♿": {
+      "83098728": {
+        "video": "https://www.facebook.com/share/v/17YuecYc3T/",
+        "completion_date": "2025-12-08",
+        "is_mobile": false
+      },
       "93549959": {
         "video": "https://www.facebook.com/share/v/1CjQBv3hch/",
         "completion_date": "2025-12-05",
@@ -4574,6 +4592,11 @@
       }
     },
     "InfAstral": {
+      "89224784": {
+        "video": "https://www.youtube.com/watch?v=ve3CaEpfaDE",
+        "completion_date": "2025-12-09",
+        "is_mobile": false
+      },
       "63775846": {
         "video": "https://www.youtube.com/watch?v=HnqVBTMwG2E",
         "completion_date": "2025-12-06",
@@ -5247,6 +5270,11 @@
       }
     },
     "噴火龍🐉": {
+      "93549959": {
+        "video": "https://www.facebook.com/share/v/1KD3H1MC7e/",
+        "completion_date": "2025-12-08",
+        "is_mobile": false
+      },
       "95061038": {
         "video": "https://www.facebook.com/share/v/16Gmzqs2DV/",
         "completion_date": "2025-12-07",
