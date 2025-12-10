@@ -1703,6 +1703,10 @@
     [
       "Stalemate Redux",
       "37398911"
+    ],
+    [
+      "Alpha",
+      "106362836"
     ]
   ],
   "legacy": [
@@ -4939,6 +4943,11 @@
       }
     },
     "Cyter867": {
+      "106362836": {
+        "video": "https://www.youtube.com/watch?v=V_i4iDP_q8w",
+        "completion_date": "2025-12-10",
+        "is_mobile": false
+      },
       "60516506": {
         "video": "https://www.youtube.com/watch?v=vhqj_ffaHvU",
         "completion_date": "2025-12-06",
