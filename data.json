@@ -1707,6 +1707,10 @@
     [
       "Alpha",
       "106362836"
+    ],
+    [
+      "Timor",
+      "65969451"
     ]
   ],
   "legacy": [
@@ -1783,6 +1787,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "65969451": {
+        "video": "https://www.youtube.com/watch?v=txiZBw7qTUk",
+        "completion_date": "2025-12-11",
+        "is_mobile": false
+      },
       "37398911": {
         "video": "https://www.youtube.com/watch?v=roh0ENDmpdI",
         "completion_date": "2025-12-09",
