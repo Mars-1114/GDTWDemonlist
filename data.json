@@ -1711,6 +1711,10 @@
     [
       "Timor",
       "65969451"
+    ],
+    [
+      "Ergonomic Chair",
+      "121864716"
     ]
   ],
   "legacy": [
@@ -1787,6 +1791,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "121864716": {
+        "video": "https://www.youtube.com/watch?v=WExzZiyauNU",
+        "completion_date": "2025-10-06",
+        "is_mobile": false
+      },
       "65969451": {
         "video": "https://www.youtube.com/watch?v=txiZBw7qTUk",
         "completion_date": "2025-12-11",

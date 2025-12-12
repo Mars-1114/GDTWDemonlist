@@ -143,6 +143,10 @@
     [
       "Myrce",
       "119676812"
+    ],
+    [
+      "Twisted Reality",
+      "117247616"
     ]
   ],
   "legacy": [
@@ -316,6 +320,11 @@
       }
     },
     "超大法國麵包🥖": {
+      "108103482": {
+        "video": "https://www.youtube.com/watch?v=r-XpDIUPSu8",
+        "completion_date": "2025-12-12",
+        "is_mobile": false
+      },
       "119676812": {
         "video": "https://www.youtube.com/watch?v=KCsFHVPk6X4",
         "completion_date": "2025-11-22",
@@ -425,6 +434,11 @@
       }
     },
     "InfAstral": {
+      "117247616": {
+        "video": "https://www.youtube.com/watch?v=NVUq78MWcCM",
+        "completion_date": "2025-12-07",
+        "is_mobile": false
+      },
       "102557379": {
         "video": "https://www.youtube.com/watch?v=uDD_M7eiNwk",
         "completion_date": "2025-02-26",
