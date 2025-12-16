@@ -1719,6 +1719,10 @@
     [
       "GBS",
       "95294285"
+    ],
+    [
+      "Bausha Vortex",
+      "30380566"
     ]
   ],
   "legacy": [
@@ -1795,6 +1799,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "30380566": {
+        "video": "https://www.youtube.com/watch?v=gCttfhImCdg",
+        "completion_date": "2025-12-16",
+        "is_mobile": false
+      },
       "95294285": {
         "video": "https://www.youtube.com/watch?v=SC3VGiyed1k",
         "completion_date": "2025-12-14",
@@ -4378,6 +4387,11 @@
       }
     },
     "Ruiq♿": {
+      "82148336": {
+        "video": "https://www.facebook.com/share/v/1HF6tY9zAm/",
+        "completion_date": "2025-12-16",
+        "is_mobile": false
+      },
       "83098728": {
         "video": "https://www.facebook.com/share/v/17YuecYc3T/",
         "completion_date": "2025-12-08",
@@ -4970,6 +4984,11 @@
       }
     },
     "Cyter867": {
+      "60284098": {
+        "video": "https://www.youtube.com/watch?v=bu_VO49LprA",
+        "completion_date": "2025-12-15",
+        "is_mobile": false
+      },
       "106362836": {
         "video": "https://www.youtube.com/watch?v=V_i4iDP_q8w",
         "completion_date": "2025-12-10",
