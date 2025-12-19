@@ -1731,6 +1731,14 @@
     [
       "kowareta",
       "46763581"
+    ],
+    [
+      "The Red Coronation",
+      "28779964"
+    ],
+    [
+      "No Ember",
+      "97018775"
     ]
   ],
   "legacy": [
@@ -1807,6 +1815,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "28779964": {
+        "video": "https://www.youtube.com/watch?v=i1HfpS8gIus",
+        "completion_date": "2025-12-19",
+        "is_mobile": false
+      },
       "46763581": {
         "video": "https://www.youtube.com/watch?v=0uk_2CtRXpc",
         "completion_date": "2025-12-17",
@@ -4997,6 +5010,16 @@
       }
     },
     "Cyter867": {
+      "97018775": {
+        "video": "https://www.youtube.com/watch?v=bSgd-YxhB1w",
+        "completion_date": "2025-12-19",
+        "is_mobile": false
+      },
+      "110027124": {
+        "video": "https://www.youtube.com/watch?v=MO-eDd6QMZQ",
+        "completion_date": "2025-12-18",
+        "is_mobile": false
+      },
       "60284098": {
         "video": "https://www.youtube.com/watch?v=bu_VO49LprA",
         "completion_date": "2025-12-15",
@@ -5274,6 +5297,11 @@
       }
     },
     "Gabu": {
+      "116735521": {
+        "video": "https://www.facebook.com/share/v/1AXFAQ37W1/",
+        "completion_date": "2025-12-18",
+        "is_mobile": false
+      },
       "114422869": {
         "video": "https://www.facebook.com/share/v/16abj5z775/",
         "completion_date": "2025-12-12",
@@ -5392,6 +5420,13 @@
       "61079355": {
         "video": "https://www.facebook.com/share/v/1ByKPHbMyp/",
         "completion_date": "2025-12-06",
+        "is_mobile": false
+      }
+    },
+    "Kairo10124": {
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=aVYO9Gaa_Hg",
+        "completion_date": "2025-12-17",
         "is_mobile": false
       }
     }
