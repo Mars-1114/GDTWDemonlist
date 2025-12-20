@@ -1739,6 +1739,18 @@
     [
       "No Ember",
       "97018775"
+    ],
+    [
+      "Hyper Ascent",
+      "125801346"
+    ],
+    [
+      "violetwall",
+      "127661518"
+    ],
+    [
+      "meow hard",
+      "111862459"
     ]
   ],
   "legacy": [
@@ -1815,6 +1827,26 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "25241513": {
+        "video": "https://www.youtube.com/watch?v=adoqm1ySnt4",
+        "completion_date": "2025-12-20",
+        "is_mobile": false
+      },
+      "111862459": {
+        "video": "https://www.youtube.com/watch?v=Xw7443YQhkE",
+        "completion_date": "2025-12-20",
+        "is_mobile": false
+      },
+      "127661518": {
+        "video": "https://www.youtube.com/watch?v=ZCXUZ72bcvA",
+        "completion_date": "2025-12-10",
+        "is_mobile": false
+      },
+      "125801346": {
+        "video": "https://www.youtube.com/watch?v=JYgc67P5P5g",
+        "completion_date": "2025-12-18",
+        "is_mobile": false
+      },
       "28779964": {
         "video": "https://www.youtube.com/watch?v=i1HfpS8gIus",
         "completion_date": "2025-12-19",
