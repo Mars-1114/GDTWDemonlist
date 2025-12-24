@@ -1755,6 +1755,10 @@
     [
       "MINIMUM",
       "88108583"
+    ],
+    [
+      "Sevvend Clubstep",
+      "120255728"
     ]
   ],
   "legacy": [
@@ -1831,6 +1835,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "120255728": {
+        "video": "https://www.facebook.com/share/v/17o4m5oaB3/",
+        "completion_date": "2025-12-08",
+        "is_mobile": false
+      },
       "25241513": {
         "video": "https://www.youtube.com/watch?v=adoqm1ySnt4",
         "completion_date": "2025-12-20",
