@@ -1759,6 +1759,10 @@
     [
       "Sevvend Clubstep",
       "120255728"
+    ],
+    [
+      "shimmer",
+      "94156085"
     ]
   ],
   "legacy": [
@@ -1835,6 +1839,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "94156085": {
+        "video": "https://www.youtube.com/watch?v=w1XC28u7HV0",
+        "completion_date": "2025-12-26",
+        "is_mobile": false
+      },
       "120255728": {
         "video": "https://www.youtube.com/watch?v=HIEZ09tQ_nM",
         "completion_date": "2025-12-08",
@@ -5417,6 +5426,11 @@
       }
     },
     "Gabu": {
+      "83825373": {
+        "video": "https://www.facebook.com/share/v/17wJsEWmNa/",
+        "completion_date": "2025-12-25",
+        "is_mobile": false
+      },
       "38754426": {
         "video": "https://www.facebook.com/share/v/1Gw6xm7zkH/",
         "completion_date": "2025-12-21",
