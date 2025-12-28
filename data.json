@@ -1771,6 +1771,22 @@
     [
       "Kanpai",
       "118613010"
+    ],
+    [
+      "Air Tech",
+      "77698239"
+    ],
+    [
+      "Twilight Spire",
+      "109637861"
+    ],
+    [
+      "headlock",
+      "94353238"
+    ],
+    [
+      "Worse Trip",
+      "78248443"
     ]
   ],
   "legacy": [
@@ -5589,6 +5605,53 @@
       "61079355": {
         "video": "https://www.youtube.com/watch?v=aVYO9Gaa_Hg",
         "completion_date": "2025-12-17",
+        "is_mobile": false
+      }
+    },
+    "Asbl11": {
+      "78248443": {
+        "video": "https://www.youtube.com/watch?v=AQD28cSAx38",
+        "completion_date": "2025-12-27",
+        "is_mobile": false
+      },
+      "94353238": {
+        "video": "https://www.youtube.com/watch?v=bQ-lQd-cwW0",
+        "completion_date": "2025-12-15",
+        "is_mobile": false
+      },
+      "109637861": {
+        "video": "https://www.youtube.com/watch?v=bQ-lQd-cwW0",
+        "completion_date": "2025-12-22",
+        "is_mobile": false
+      },
+      "60197839": {
+        "video": "https://www.youtube.com/watch?v=obl0oY5Emqo&t=828",
+        "completion_date": "2025-10-19",
+        "is_mobile": false
+      },
+      "77698239": {
+        "video": "https://www.youtube.com/watch?v=M_dVPslb_8A&t=522",
+        "completion_date": "2023-10-21",
+        "is_mobile": false
+      },
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=qNRr8kOwXgs&t=2051",
+        "completion_date": "2023-10-21",
+        "is_mobile": false
+      },
+      "83098728": {
+        "video": "https://www.youtube.com/watch?v=dOT5lLxFT3U&t=880",
+        "completion_date": "2023-09-29",
+        "is_mobile": false
+      },
+      "76670086": {
+        "video": "https://www.youtube.com/watch?v=jtZiZ-xKcHg",
+        "completion_date": "2022-08-23",
+        "is_mobile": false
+      },
+      "74924716": {
+        "video": "https://www.youtube.com/watch?v=CBEXFFsW9T0",
+        "completion_date": "2022-08-21",
         "is_mobile": false
       }
     }
