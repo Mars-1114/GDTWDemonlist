@@ -1787,6 +1787,10 @@
     [
       "Worse Trip",
       "78248443"
+    ],
+    [
+      "in canon",
+      "80575901"
     ]
   ],
   "legacy": [
@@ -4303,6 +4307,11 @@
       }
     },
     "Mars": {
+      "80575901": {
+        "video": "https://www.youtube.com/watch?v=QKD_d6cUUQQ",
+        "completion_date": "2022-08-13",
+        "is_mobile": false
+      },
       "112412828": {
         "video": "https://www.facebook.com/share/v/1LWHVPyiHL/",
         "completion_date": "2025-08-28",
