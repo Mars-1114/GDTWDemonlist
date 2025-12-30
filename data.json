@@ -1795,6 +1795,10 @@
     [
       "Violently X",
       "39976494"
+    ],
+    [
+      "ZAPHKIEL",
+      "36329434"
     ]
   ],
   "legacy": [
@@ -1871,6 +1875,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "36329434": {
+        "video": "https://www.youtube.com/watch?v=4AYvEXR1v0U",
+        "completion_date": "2025-12-30",
+        "is_mobile": false
+      },
       "39976494": {
         "video": "https://www.youtube.com/watch?v=tiCVpES4Muo",
         "completion_date": "2025-12-29",
