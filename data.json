@@ -1791,6 +1791,10 @@
     [
       "in canon",
       "80575901"
+    ],
+    [
+      "Violently X",
+      "39976494"
     ]
   ],
   "legacy": [
@@ -1867,6 +1871,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "39976494": {
+        "video": "https://www.youtube.com/watch?v=tiCVpES4Muo",
+        "completion_date": "2025-12-29",
+        "is_mobile": false
+      },
       "118613010": {
         "video": "https://www.youtube.com/watch?v=1Fz6FexA4m4",
         "completion_date": "2025-12-26",
