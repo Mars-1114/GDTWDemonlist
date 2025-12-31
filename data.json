@@ -1799,6 +1799,10 @@
     [
       "ZAPHKIEL",
       "36329434"
+    ],
+    [
+      "Hateful Reflection",
+      "61132346"
     ]
   ],
   "legacy": [
@@ -1875,6 +1879,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "61132346": {
+        "video": "https://www.youtube.com/watch?v=HSwKDwyyun4",
+        "completion_date": "2025-12-31",
+        "is_mobile": false
+      },
       "36329434": {
         "video": "https://www.youtube.com/watch?v=4AYvEXR1v0U",
         "completion_date": "2025-12-30",
