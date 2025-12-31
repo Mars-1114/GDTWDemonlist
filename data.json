@@ -1803,6 +1803,10 @@
     [
       "Hateful Reflection",
       "61132346"
+    ],
+    [
+      "Realtered",
+      "87153593"
     ]
   ],
   "legacy": [
@@ -1879,6 +1883,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "87153593": {
+        "video": "https://www.youtube.com/watch?v=UUoDN0JExIA",
+        "completion_date": "2025-12-31",
+        "is_mobile": false
+      },
       "61132346": {
         "video": "https://www.youtube.com/watch?v=HSwKDwyyun4",
         "completion_date": "2025-12-31",
@@ -5506,6 +5515,11 @@
       }
     },
     "Gabu": {
+      "92957491": {
+        "video": "https://www.facebook.com/share/v/16eaewzaQG/",
+        "completion_date": "2025-12-31",
+        "is_mobile": false
+      },
       "83825373": {
         "video": "https://www.facebook.com/share/v/17wJsEWmNa/",
         "completion_date": "2025-12-25",
