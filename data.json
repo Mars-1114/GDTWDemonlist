@@ -1807,6 +1807,10 @@
     [
       "Realtered",
       "87153593"
+    ],
+    [
+      "Carbon Fiber",
+      "129561693"
     ]
   ],
   "legacy": [
@@ -1883,6 +1887,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "129561693": {
+        "video": "https://www.youtube.com/watch?v=Nm_G_fpwphA",
+        "completion_date": "2026-01-02",
+        "is_mobile": false
+      },
       "87153593": {
         "video": "https://www.youtube.com/watch?v=UUoDN0JExIA",
         "completion_date": "2025-12-31",
