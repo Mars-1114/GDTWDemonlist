@@ -1811,6 +1811,10 @@
     [
       "Carbon Fiber",
       "129561693"
+    ],
+    [
+      "Solar Flare",
+      "90390075"
     ]
   ],
   "legacy": [
@@ -1887,6 +1891,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "90390075": {
+        "video": "https://www.youtube.com/watch?v=EjJwTTyHIKA",
+        "completion_date": "2026-01-04",
+        "is_mobile": false
+      },
       "129561693": {
         "video": "https://www.youtube.com/watch?v=Nm_G_fpwphA",
         "completion_date": "2026-01-02",
