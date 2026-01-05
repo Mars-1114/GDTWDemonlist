@@ -1815,6 +1815,10 @@
     [
       "Solar Flare",
       "90390075"
+    ],
+    [
+      "aether",
+      "99800205"
     ]
   ],
   "legacy": [
@@ -4361,6 +4365,11 @@
       }
     },
     "Mars": {
+      "111372142": {
+        "video": "https://www.facebook.com/share/v/19F2eSQ3Y5/",
+        "completion_date": "2026-01-05",
+        "is_mobile": false
+      },
       "80575901": {
         "video": "https://www.youtube.com/watch?v=QKD_d6cUUQQ",
         "completion_date": "2022-08-13",
@@ -5538,6 +5547,11 @@
       }
     },
     "Gabu": {
+      "99800205": {
+        "video": "https://www.facebook.com/share/v/1DSRjC2ozN/",
+        "completion_date": "2026-01-04",
+        "is_mobile": false
+      },
       "92957491": {
         "video": "https://www.facebook.com/share/v/16eaewzaQG/",
         "completion_date": "2025-12-31",
