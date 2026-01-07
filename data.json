@@ -1819,6 +1819,10 @@
     [
       "aether",
       "99800205"
+    ],
+    [
+      "Carnage Mode",
+      "36107975"
     ]
   ],
   "legacy": [
@@ -1895,6 +1899,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "36107975": {
+        "video": "https://www.youtube.com/watch?v=jFgUpubIhtQ",
+        "completion_date": "2026-01-07",
+        "is_mobile": false
+      },
       "90390075": {
         "video": "https://www.youtube.com/watch?v=EjJwTTyHIKA",
         "completion_date": "2026-01-04",
@@ -4365,6 +4374,11 @@
       }
     },
     "Mars": {
+      "95061038": {
+        "video": "https://www.facebook.com/share/v/1AyF2bYbco/",
+        "completion_date": "2026-01-07",
+        "is_mobile": false
+      },
       "111372142": {
         "video": "https://www.facebook.com/share/v/19F2eSQ3Y5/",
         "completion_date": "2026-01-05",
