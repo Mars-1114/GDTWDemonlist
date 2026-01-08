@@ -1823,6 +1823,10 @@
     [
       "Carnage Mode",
       "36107975"
+    ],
+    [
+      "ECSTASY",
+      "78277793"
     ]
   ],
   "legacy": [
@@ -1899,6 +1903,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "78277793": {
+        "video": "https://www.youtube.com/watch?v=YbG9CAyHsEw",
+        "completion_date": "2026-01-08",
+        "is_mobile": false
+      },
       "36107975": {
         "video": "https://www.youtube.com/watch?v=jFgUpubIhtQ",
         "completion_date": "2026-01-07",
