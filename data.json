@@ -1831,6 +1831,10 @@
     [
       "Wind Storm",
       "88940074"
+    ],
+    [
+      "story 2",
+      "106154722"
     ]
   ],
   "legacy": [
@@ -1907,6 +1911,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "106154722": {
+        "video": "https://www.youtube.com/watch?v=rmFxGilv0fs",
+        "completion_date": "2026-01-10",
+        "is_mobile": false
+      },
       "88940074": {
         "video": "https://www.youtube.com/watch?v=y31DEQ5XG9E",
         "completion_date": "2026-01-09",
@@ -5589,6 +5598,11 @@
       }
     },
     "Gabu": {
+      "119259720": {
+        "video": "https://www.facebook.com/share/v/1DSRjC2ozN/",
+        "completion_date": "2026-01-10",
+        "is_mobile": false
+      },
       "99800205": {
         "video": "https://www.facebook.com/share/v/1DSRjC2ozN/",
         "completion_date": "2026-01-04",

@@ -147,6 +147,10 @@
     [
       "Twisted Reality",
       "117247616"
+    ],
+    [
+      "Hidden Horizons",
+      "115025465"
     ]
   ],
   "legacy": [
@@ -168,6 +172,11 @@
   ],
   "player": {
     "carti": {
+      "115025465": {
+        "video": "https://www.facebook.com/share/v/16epkmQJPz/",
+        "completion_date": "2026-01-10",
+        "is_mobile": false
+      },
       "116493063": {
         "video": "https://www.facebook.com/share/v/1FNHHM879H/",
         "completion_date": "2025-08-31",
