@@ -1839,6 +1839,10 @@
     [
       "Rayovac",
       "97018999"
+    ],
+    [
+      "Clown Control",
+      "113620104"
     ]
   ],
   "legacy": [
@@ -1915,6 +1919,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "113620104": {
+        "video": "https://www.youtube.com/watch?v=KtEQbXUumhA",
+        "completion_date": "2026-01-11",
+        "is_mobile": false
+      },
       "106154722": {
         "video": "https://www.youtube.com/watch?v=rmFxGilv0fs",
         "completion_date": "2026-01-10",
