@@ -1843,6 +1843,10 @@
     [
       "Clown Control",
       "113620104"
+    ],
+    [
+      "Digital Descent",
+      "37456092"
     ]
   ],
   "legacy": [
@@ -1919,6 +1923,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "37456092": {
+        "video": "https://www.youtube.com/watch?v=yX33J5yyVLw",
+        "completion_date": "2026-01-13",
+        "is_mobile": false
+      },
       "103411024": {
         "video": "https://www.youtube.com/watch?v=19Z8ZXXn1mc",
         "completion_date": "2026-01-12",
@@ -4638,27 +4647,27 @@
     },
     "Ruiq♿": {
       "78248443": {
-        "video": "https://www.facebook.com/share/v/1BGFTgF1hw/",
+        "video": "https://www.youtube.com/watch?v=brlE_KtNPWs",
         "completion_date": "2026-01-09",
         "is_mobile": false
       },
       "88108583": {
-        "video": "https://www.facebook.com/share/v/1D2CBgmHC4/",
+        "video": "https://www.youtube.com/watch?v=YNG-E691vwU",
         "completion_date": "2025-12-23",
         "is_mobile": false
       },
       "95061038": {
-        "video": "https://www.facebook.com/share/v/1JRg3ooWth/",
+        "video": "https://www.youtube.com/watch?v=Ouff0HGrLIw",
         "completion_date": "2025-12-23",
         "is_mobile": false
       },
       "82148336": {
-        "video": "https://www.facebook.com/share/v/1HF6tY9zAm/",
+        "video": "https://www.youtube.com/watch?v=1nDg0ZCT-WM",
         "completion_date": "2025-12-16",
         "is_mobile": false
       },
       "83098728": {
-        "video": "https://www.facebook.com/share/v/17YuecYc3T/",
+        "video": "https://www.youtube.com/watch?v=IeDRgcb0yDg",
         "completion_date": "2025-12-08",
         "is_mobile": false
       },
