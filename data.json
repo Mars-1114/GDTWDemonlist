@@ -1847,6 +1847,10 @@
     [
       "Digital Descent",
       "37456092"
+    ],
+    [
+      "Godspeed",
+      "117710857"
     ]
   ],
   "legacy": [
@@ -1923,6 +1927,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "117710857": {
+        "video": "https://www.youtube.com/watch?v=EUWrt4Cb2DE",
+        "completion_date": "2025-11-13",
+        "is_mobile": false
+      },
       "37456092": {
         "video": "https://www.youtube.com/watch?v=yX33J5yyVLw",
         "completion_date": "2026-01-13",
