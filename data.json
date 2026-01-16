@@ -1851,6 +1851,10 @@
     [
       "Godspeed",
       "117710857"
+    ],
+    [
+      "Gloxinia",
+      "110038200"
     ]
   ],
   "legacy": [
@@ -1927,6 +1931,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "110038200": {
+        "video": "https://www.youtube.com/watch?v=_KRfsSknjX0",
+        "completion_date": "2026-01-16",
+        "is_mobile": false
+      },
       "117710857": {
         "video": "https://www.youtube.com/watch?v=EUWrt4Cb2DE",
         "completion_date": "2025-11-13",
