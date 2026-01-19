@@ -1789,10 +1789,6 @@
       "78248443"
     ],
     [
-      "in canon",
-      "80575901"
-    ],
-    [
       "Violently X",
       "39976494"
     ],
@@ -1855,9 +1851,22 @@
     [
       "Gloxinia",
       "110038200"
+    ],
+    [
+      "CLOWNS",
+      "90667326"
+    ],
+    [
+      "Misty Mountains",
+      "60708767"
     ]
   ],
   "legacy": [
+    {
+      "level": "in canon",
+      "id": "80575901",
+      "publisher": "cordeaux"
+    },
     {
       "level": "teehee colon three",
       "id": "90661998",
@@ -1931,6 +1940,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "60708767": {
+        "video": "https://www.youtube.com/watch?v=xJUvuOxa2HI",
+        "completion_date": "2026-01-18",
+        "is_mobile": false
+      },
+      "90667326": {
+        "video": "https://www.youtube.com/watch?v=qdTa8wCkbJg",
+        "completion_date": "2025-12-28",
+        "is_mobile": false
+      },
       "110038200": {
         "video": "https://www.youtube.com/watch?v=_KRfsSknjX0",
         "completion_date": "2026-01-16",
@@ -4446,6 +4465,11 @@
       }
     },
     "Mars": {
+      "114933189": {
+        "video": "https://www.facebook.com/share/v/1GqxVx2FbA/",
+        "completion_date": "2026-01-19",
+        "is_mobile": false
+      },
       "61910810": {
         "video": "https://www.facebook.com/share/v/1ALifnuhyr/",
         "completion_date": "2026-01-09",
@@ -4852,6 +4876,11 @@
       }
     },
     "黃世宏": {
+      "87425029": {
+        "video": "https://www.facebook.com/share/v/175Fmkd139/",
+        "completion_date": "2026-01-18",
+        "is_mobile": false
+      },
       "108459320": {
         "video": "https://www.facebook.com/share/v/1EmVJdZsus/",
         "completion_date": "2025-08-22",
