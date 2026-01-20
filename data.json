@@ -1859,6 +1859,14 @@
     [
       "Misty Mountains",
       "60708767"
+    ],
+    [
+      "SIGSEGV",
+      "61936205"
+    ],
+    [
+      "Awakening Horus",
+      "39458641"
     ]
   ],
   "legacy": [
@@ -4465,6 +4473,11 @@
       }
     },
     "Mars": {
+      "62214792": {
+        "video": "https://www.facebook.com/share/v/1AVkKn2bTi/",
+        "completion_date": "2026-01-20",
+        "is_mobile": false
+      },
       "114933189": {
         "video": "https://www.facebook.com/share/v/1GqxVx2FbA/",
         "completion_date": "2026-01-19",
@@ -4777,6 +4790,11 @@
       }
     },
     "Nabeyaki": {
+      "119653522": {
+        "video": "https://www.facebook.com/share/v/163WC79zuB/",
+        "completion_date": "2026-01-20",
+        "is_mobile": false
+      },
       "78687216": {
         "video": "https://www.facebook.com/share/v/185wzPE6ut/",
         "completion_date": "2025-12-30",
@@ -5841,6 +5859,16 @@
       }
     },
     "Asbl11": {
+      "39458641": {
+        "video": "https://www.facebook.com/share/v/1C7yHtrNWD/",
+        "completion_date": "2026-01-20",
+        "is_mobile": false
+      },
+      "61936205": {
+        "video": "https://www.youtube.com/watch?v=9YPP13ZDNdE",
+        "completion_date": "2026-01-10",
+        "is_mobile": false
+      },
       "109730342": {
         "video": "https://www.youtube.com/watch?v=cnMxmarN2vk",
         "completion_date": "2026-01-09",
