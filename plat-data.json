@@ -151,6 +151,10 @@
     [
       "Hidden Horizons",
       "115025465"
+    ],
+    [
+      "Intervallum",
+      "104049200"
     ]
   ],
   "legacy": [
@@ -172,6 +176,11 @@
   ],
   "player": {
     "carti": {
+      "104049200": {
+        "video": "https://www.facebook.com/share/v/17idtsq5Gb/",
+        "completion_date": "2026-01-26",
+        "is_mobile": false
+      },
       "115025465": {
         "video": "https://www.facebook.com/share/v/16epkmQJPz/",
         "completion_date": "2026-01-10",
