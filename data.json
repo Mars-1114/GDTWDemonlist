@@ -1875,6 +1875,10 @@
     [
       "Fabrication",
       "33983930"
+    ],
+    [
+      "Masterpiece",
+      "96471808"
     ]
   ],
   "legacy": [
@@ -1956,6 +1960,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "96471808": {
+        "video": "https://www.youtube.com/watch?v=cYSkKopFdpA",
+        "completion_date": "2026-01-26",
+        "is_mobile": false
+      },
       "33983930": {
         "video": "https://www.youtube.com/watch?v=VMo-6BU4tS0",
         "completion_date": "2026-01-25",
