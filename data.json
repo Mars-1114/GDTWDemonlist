@@ -1887,6 +1887,10 @@
     [
       "Weald",
       "89046759"
+    ],
+    [
+      "FLAMETHROWER",
+      "106588541"
     ]
   ],
   "legacy": [
@@ -1968,6 +1972,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "106588541": {
+        "video": "https://www.youtube.com/watch?v=Q4VZPgCsUb4",
+        "completion_date": "2026-01-30",
+        "is_mobile": false
+      },
       "89046759": {
         "video": "https://www.youtube.com/watch?v=AXPrAoT1nW4",
         "completion_date": "2026-01-15",
