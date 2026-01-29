@@ -1883,6 +1883,10 @@
     [
       "Aerial Gleam",
       "79771070"
+    ],
+    [
+      "Weald",
+      "89046759"
     ]
   ],
   "legacy": [
@@ -1964,6 +1968,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "89046759": {
+        "video": "https://www.youtube.com/watch?v=AXPrAoT1nW4",
+        "completion_date": "2026-01-15",
+        "is_mobile": false
+      },
       "79771070": {
         "video": "https://www.youtube.com/watch?v=0SmYFkThFtk",
         "completion_date": "2026-01-28",
@@ -4737,6 +4746,11 @@
       }
     },
     "Ruiq♿": {
+      "118931226": {
+        "video": "https://www.youtube.com/watch?v=YxVrtSFtuq0",
+        "completion_date": "2026-01-29",
+        "is_mobile": false
+      },
       "114321891": {
         "video": "https://www.youtube.com/watch?v=efxxTKyZR70",
         "completion_date": "2026-01-22",
