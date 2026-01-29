@@ -1879,6 +1879,10 @@
     [
       "Masterpiece",
       "96471808"
+    ],
+    [
+      "Aerial Gleam",
+      "79771070"
     ]
   ],
   "legacy": [
@@ -1960,6 +1964,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "79771070": {
+        "video": "https://www.youtube.com/watch?v=0SmYFkThFtk",
+        "completion_date": "2026-01-28",
+        "is_mobile": false
+      },
       "96471808": {
         "video": "https://www.youtube.com/watch?v=cYSkKopFdpA",
         "completion_date": "2026-01-26",
@@ -5658,6 +5667,11 @@
       }
     },
     "一根蔥": {
+      "26133601": {
+        "video": "https://www.youtube.com/watch?v=pvRuOdwPRKM",
+        "completion_date": "2025-01-28",
+        "is_mobile": false
+      },
       "23262780": {
         "video": "https://www.youtube.com/watch?v=sSYlj15pJbA",
         "completion_date": "2025-01-25",
