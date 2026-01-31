@@ -1891,6 +1891,18 @@
     [
       "FLAMETHROWER",
       "106588541"
+    ],
+    [
+      "Death Corridor Z",
+      "38403655"
+    ],
+    [
+      "All In",
+      "96549270"
+    ],
+    [
+      "squelch",
+      "116820901"
     ]
   ],
   "legacy": [
@@ -1972,6 +1984,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "38403655": {
+        "video": "https://www.youtube.com/watch?v=1-Po33BbwfU",
+        "completion_date": "2026-01-31",
+        "is_mobile": false
+      },
       "106588541": {
         "video": "https://www.youtube.com/watch?v=Q4VZPgCsUb4",
         "completion_date": "2026-01-30",
@@ -4755,6 +4772,11 @@
       }
     },
     "Ruiq♿": {
+      "116820901": {
+        "video": "https://www.youtube.com/watch?v=AweLB8BTCKk",
+        "completion_date": "2026-01-30",
+        "is_mobile": false
+      },
       "118931226": {
         "video": "https://www.youtube.com/watch?v=YxVrtSFtuq0",
         "completion_date": "2026-01-29",
@@ -5457,6 +5479,11 @@
       }
     },
     "Cyter867": {
+      "96549270": {
+        "video": "https://www.youtube.com/watch?v=5Ul7BvwbVxM",
+        "completion_date": "2026-01-31",
+        "is_mobile": false
+      },
       "129561693": {
         "video": "https://www.youtube.com/watch?v=v8sPhN7U4xA",
         "completion_date": "2026-01-23",
@@ -5690,6 +5717,11 @@
       }
     },
     "一根蔥": {
+      "26681070": {
+        "video": "https://www.youtube.com/watch?v=gGtOJbDS5ys",
+        "completion_date": "2025-01-31",
+        "is_mobile": false
+      },
       "26133601": {
         "video": "https://www.youtube.com/watch?v=pvRuOdwPRKM",
         "completion_date": "2025-01-28",
@@ -6018,6 +6050,18 @@
       "61079355": {
         "video": "https://www.facebook.com/share/v/1FDuMYQ4eD/",
         "completion_date": "2026-01-28",
+        "is_mobile": false
+      }
+    },
+    "Sylvie": {
+      "87425029": {
+        "video": "https://www.youtube.com/watch?v=4AinGXlipxE",
+        "completion_date": "2025-10-25",
+        "is_mobile": false
+      },
+      "3979721": {
+        "video": "https://www.youtube.com/watch?v=I8p5p_JG5F8",
+        "completion_date": "2024-03-28",
         "is_mobile": false
       }
     }
