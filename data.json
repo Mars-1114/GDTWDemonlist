@@ -1903,6 +1903,22 @@
     [
       "squelch",
       "116820901"
+    ],
+    [
+      "Summer Sky",
+      "125387083"
+    ],
+    [
+      "Final Round",
+      "126509718"
+    ],
+    [
+      "Sleepwalking",
+      "126978758"
+    ],
+    [
+      "Bruno Mars",
+      "88159604"
     ]
   ],
   "legacy": [
@@ -1984,6 +2000,26 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "126978758": {
+        "video": "https://www.youtube.com/watch?v=fQLzC3gBg74",
+        "completion_date": "2026-02-02",
+        "is_mobile": false
+      },
+      "88159604": {
+        "video": "https://www.youtube.com/watch?v=5eue0-Goa58",
+        "completion_date": "2026-02-01",
+        "is_mobile": false
+      },
+      "126509718": {
+        "video": "https://www.youtube.com/watch?v=L_ODezLFUr8",
+        "completion_date": "2026-01-28",
+        "is_mobile": false
+      },
+      "125387083": {
+        "video": "https://www.youtube.com/watch?v=q8gG8QN50us",
+        "completion_date": "2025-12-13",
+        "is_mobile": false
+      },
       "38403655": {
         "video": "https://www.youtube.com/watch?v=1-Po33BbwfU",
         "completion_date": "2026-01-31",
@@ -4539,6 +4575,11 @@
       }
     },
     "Mars": {
+      "88159604": {
+        "video": "https://www.facebook.com/share/v/14UQMXkRRnh/",
+        "completion_date": "2026-01-29",
+        "is_mobile": false
+      },
       "114422869": {
         "video": "https://www.facebook.com/share/v/14SQ3SrNjwt/",
         "completion_date": "2026-01-23",
@@ -5821,6 +5862,16 @@
       }
     },
     "Gabu": {
+      "10565740": {
+        "video": "https://www.facebook.com/share/v/18CoBwzXom/",
+        "completion_date": "2026-02-02",
+        "is_mobile": false
+      },
+      "102562296": {
+        "video": "https://www.facebook.com/share/v/189iHkyhAV/",
+        "completion_date": "2026-02-01",
+        "is_mobile": false
+      },
       "119259720": {
         "video": "https://www.facebook.com/share/v/1GCaiTpbDm/",
         "completion_date": "2026-01-10",
