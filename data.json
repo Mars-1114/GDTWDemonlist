@@ -1919,6 +1919,14 @@
     [
       "Bruno Mars",
       "88159604"
+    ],
+    [
+      "OOPZ",
+      "70252932"
+    ],
+    [
+      "ChopStep",
+      "87333912"
     ]
   ],
   "legacy": [
@@ -4575,6 +4583,11 @@
       }
     },
     "Mars": {
+      "70252932": {
+        "video": "https://www.facebook.com/share/v/18433WrHkn/",
+        "completion_date": "2026-02-02",
+        "is_mobile": false
+      },
       "88159604": {
         "video": "https://www.facebook.com/share/v/14UQMXkRRnh/",
         "completion_date": "2026-01-29",
@@ -6036,6 +6049,11 @@
       }
     },
     "Asbl11": {
+      "87333912": {
+        "video": "https://www.facebook.com/share/v/1DRMRLbbD1/",
+        "completion_date": "2026-02-02",
+        "is_mobile": false
+      },
       "39458641": {
         "video": "https://www.facebook.com/share/v/1C7yHtrNWD/",
         "completion_date": "2026-01-20",
