@@ -1927,6 +1927,10 @@
     [
       "ChopStep",
       "87333912"
+    ],
+    [
+      "ANNIHILATED",
+      "115370944"
     ]
   ],
   "legacy": [
@@ -2008,6 +2012,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "52527538": {
+        "video": "https://www.youtube.com/watch?v=pNwuYa69wW4",
+        "completion_date": "2026-02-03",
+        "is_mobile": false
+      },
       "126978758": {
         "video": "https://www.youtube.com/watch?v=fQLzC3gBg74",
         "completion_date": "2026-02-02",
@@ -6049,6 +6058,11 @@
       }
     },
     "Asbl11": {
+      "115370944": {
+        "video": "https://www.facebook.com/share/v/17rUCYTFvA/",
+        "completion_date": "2026-02-03",
+        "is_mobile": false
+      },
       "87333912": {
         "video": "https://www.facebook.com/share/v/1DRMRLbbD1/",
         "completion_date": "2026-02-02",
