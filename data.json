@@ -1931,6 +1931,18 @@
     [
       "ANNIHILATED",
       "115370944"
+    ],
+    [
+      "devins thorn zone",
+      "98911329"
+    ],
+    [
+      "Flappy Dynamix II",
+      "71850733"
+    ],
+    [
+      "Stasis",
+      "119137644"
     ]
   ],
   "legacy": [
@@ -2012,6 +2024,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "98911329": {
+        "video": "https://www.youtube.com/watch?v=Qb4G0AUYkEI",
+        "completion_date": "2026-02-04",
+        "is_mobile": false
+      },
       "52527538": {
         "video": "https://www.youtube.com/watch?v=pNwuYa69wW4",
         "completion_date": "2026-02-03",
@@ -6058,6 +6075,16 @@
       }
     },
     "Asbl11": {
+      "119137644": {
+        "video": "https://www.youtube.com/watch?v=m-Dv9C8J1m0",
+        "completion_date": "2026-02-04",
+        "is_mobile": false
+      },
+      "71850733": {
+        "video": "https://www.youtube.com/watch?v=PZix-GZ1htM",
+        "completion_date": "2026-02-04",
+        "is_mobile": false
+      },
       "115370944": {
         "video": "https://www.facebook.com/share/v/17rUCYTFvA/",
         "completion_date": "2026-02-03",
