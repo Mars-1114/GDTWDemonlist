@@ -49,14 +49,6 @@
       "107420706"
     ],
     [
-      "Chief Needler",
-      "102557379"
-    ],
-    [
-      "Tower of Infinity",
-      "97713011"
-    ],
-    [
       "The SMR Collection",
       "114333632"
     ],
@@ -89,10 +81,6 @@
       "116120637"
     ],
     [
-      "Withering Gallery",
-      "114308040"
-    ],
-    [
       "Guidance",
       "118139675"
     ],
@@ -115,10 +103,6 @@
     [
       "SUMMER",
       "122287167"
-    ],
-    [
-      "Walk to the midnight",
-      "118946505"
     ],
     [
       "Creepy Needle",
@@ -145,10 +129,6 @@
       "119676812"
     ],
     [
-      "Twisted Reality",
-      "117247616"
-    ],
-    [
       "Hidden Horizons",
       "115025465"
     ],
@@ -166,6 +146,31 @@
     ]
   ],
   "legacy": [
+    {
+      "level": "Tower of Infinity",
+      "id": "97713011",
+      "publisher": "MadisonYuko"
+    },
+    {
+      "level": "Twisted Reality",
+      "id": "117247616",
+      "publisher": "NightThemeGMD"
+    },
+    {
+      "level": "Walk to the midnight",
+      "id": "118946505",
+      "publisher": "Anyvix"
+    },
+    {
+      "level": "Chief Needler",
+      "id": "102557379",
+      "publisher": "Orelu"
+    },
+    {
+      "level": "Withering Gallery",
+      "id": "114308040",
+      "publisher": "vsowanted"
+    },
     {
       "level": "Himu",
       "id": "117516392",
