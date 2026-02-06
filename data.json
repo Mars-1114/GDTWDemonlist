@@ -1947,6 +1947,10 @@
     [
       "tran la luot",
       "116935154"
+    ],
+    [
+      "MONITORING",
+      "118026710"
     ]
   ],
   "legacy": [
@@ -5759,6 +5763,11 @@
       }
     },
     "HankK漢": {
+      "118026710": {
+        "video": "https://www.youtube.com/watch?v=sIoZSsdaNf8",
+        "completion_date": "2026-02-06",
+        "is_mobile": false
+      },
       "10565740": {
         "video": "https://www.youtube.com/watch?v=YfoBa7_AlhU",
         "completion_date": "2026-01-01",
@@ -5905,6 +5914,11 @@
       }
     },
     "Gabu": {
+      "118026710": {
+        "video": "https://www.facebook.com/share/v/183oUYrg26/",
+        "completion_date": "2025-09-28",
+        "is_mobile": false
+      },
       "10565740": {
         "video": "https://www.facebook.com/share/v/18CoBwzXom/",
         "completion_date": "2026-02-02",
