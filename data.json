@@ -1741,10 +1741,6 @@
       "97018775"
     ],
     [
-      "Hyper Ascent",
-      "125801346"
-    ],
-    [
       "violetwall",
       "127661518"
     ],
@@ -1951,9 +1947,22 @@
     [
       "MONITORING",
       "118026710"
+    ],
+    [
+      "2 0",
+      "7676557"
+    ],
+    [
+      "Thunderzone",
+      "63858842"
     ]
   ],
   "legacy": [
+    {
+      "level": "Hyper Ascent",
+      "id": "125801346",
+      "publisher": "NotIconixx"
+    },
     {
       "level": "in canon",
       "id": "80575901",
@@ -2032,6 +2041,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "63858842": {
+        "video": "https://www.youtube.com/watch?v=JdDVl-ACoJQ",
+        "completion_date": "2026-02-07",
+        "is_mobile": false
+      },
+      "7676557": {
+        "video": "https://www.youtube.com/watch?v=6ueofY4WN1s",
+        "completion_date": "2026-02-06",
+        "is_mobile": false
+      },
       "98911329": {
         "video": "https://www.youtube.com/watch?v=Qb4G0AUYkEI",
         "completion_date": "2026-02-04",
