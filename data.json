@@ -1955,6 +1955,14 @@
     [
       "Thunderzone",
       "63858842"
+    ],
+    [
+      "The Grotto",
+      "108897593"
+    ],
+    [
+      "Monstercat",
+      "60810066"
     ]
   ],
   "legacy": [
@@ -2041,6 +2049,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "60810066": {
+        "video": "https://www.youtube.com/watch?v=vmWCsxv-Jr0",
+        "completion_date": "2026-02-09",
+        "is_mobile": false
+      },
+      "108897593": {
+        "video": "https://www.youtube.com/watch?v=j8hGHw3irrg",
+        "completion_date": "2025-12-29",
+        "is_mobile": false
+      },
       "111372142": {
         "video": "https://www.youtube.com/watch?v=czav2p_ab3A",
         "completion_date": "2026-02-08",
