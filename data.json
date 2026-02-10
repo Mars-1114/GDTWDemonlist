@@ -1963,6 +1963,10 @@
     [
       "Monstercat",
       "60810066"
+    ],
+    [
+      "CONVOLVER",
+      "129550139"
     ]
   ],
   "legacy": [
@@ -2049,6 +2053,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "129550139": {
+        "video": "https://www.youtube.com/watch?v=klCdhPC9Poc",
+        "completion_date": "2026-02-05",
+        "is_mobile": false
+      },
       "60810066": {
         "video": "https://www.youtube.com/watch?v=vmWCsxv-Jr0",
         "completion_date": "2026-02-09",
@@ -6252,6 +6261,13 @@
       "3979721": {
         "video": "https://www.youtube.com/watch?v=I8p5p_JG5F8",
         "completion_date": "2024-03-28",
+        "is_mobile": false
+      }
+    },
+    "Shorejim": {
+      "95061038": {
+        "video": "https://www.facebook.com/share/v/16wMh2MmSy/",
+        "completion_date": "2026-02-09",
         "is_mobile": false
       }
     }
