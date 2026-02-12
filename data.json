@@ -1971,6 +1971,10 @@
     [
       "BOINKERS",
       "116306886"
+    ],
+    [
+      "Fair Morning",
+      "130554006"
     ]
   ],
   "legacy": [
@@ -2057,6 +2061,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "130554006": {
+        "video": "https://www.youtube.com/watch?v=RUqSDtvl_BQ",
+        "completion_date": "2026-01-27",
+        "is_mobile": false
+      },
       "116306886": {
         "video": "https://www.youtube.com/watch?v=TQfCQdQJflI",
         "completion_date": "2026-02-11",
