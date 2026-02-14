@@ -1945,10 +1945,6 @@
       "116935154"
     ],
     [
-      "MONITORING",
-      "118026710"
-    ],
-    [
       "2 0",
       "7676557"
     ],
@@ -2057,6 +2053,11 @@
       "level": "Leyak",
       "id": "61137742",
       "publisher": "EnZore"
+    },
+    {
+      "level": "MONITORING",
+      "id": "118026710",
+      "publisher": "IIIGamBiTIII"
     }
   ],
   "player": {
@@ -4929,6 +4930,11 @@
       }
     },
     "Ruiq♿": {
+      "114422869": {
+        "video": "https://www.youtube.com/watch?v=SvLoFJO5Vr8",
+        "completion_date": "2026-02-14",
+        "is_mobile": false
+      },
       "118026710": {
         "video": "https://www.facebook.com/share/v/1DFnXJxtjG/",
         "completion_date": "2026-02-08",
