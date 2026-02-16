@@ -1971,6 +1971,10 @@
     [
       "Fair Morning",
       "130554006"
+    ],
+    [
+      "Cosmic Cluster",
+      "84849805"
     ]
   ],
   "legacy": [
@@ -2062,6 +2066,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "84849805": {
+        "video": "https://www.youtube.com/watch?v=kl3lG5DkhxE",
+        "completion_date": "2026-02-16",
+        "is_mobile": false
+      },
       "130554006": {
         "video": "https://www.youtube.com/watch?v=RUqSDtvl_BQ",
         "completion_date": "2026-01-27",
