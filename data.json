@@ -1975,6 +1975,10 @@
     [
       "Cosmic Cluster",
       "84849805"
+    ],
+    [
+      "SARYYX NEVER CLEAR",
+      "95998005"
     ]
   ],
   "legacy": [
@@ -5548,6 +5552,11 @@
       }
     },
     "ProStylePancake": {
+      "95998005": {
+        "video": "https://www.youtube.com/watch?v=7T7Cbkuq0fo",
+        "completion_date": "2026-02-17",
+        "is_mobile": false
+      },
       "74840882": {
         "video": "https://www.youtube.com/watch?v=46MNhMwSmTc",
         "completion_date": "2025-12-06",
