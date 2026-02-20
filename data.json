@@ -1987,6 +1987,10 @@
     [
       "Cassette",
       "114554827"
+    ],
+    [
+      "Cosmic Cluster II",
+      "93271158"
     ]
   ],
   "legacy": [
@@ -2078,6 +2082,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "93271158": {
+        "video": "https://www.youtube.com/watch?v=vnCwPptvM-A",
+        "completion_date": "2026-02-20",
+        "is_mobile": false
+      },
       "114554827": {
         "video": "https://www.youtube.com/watch?v=UmROrQGEG_s",
         "completion_date": "2026-02-15",
