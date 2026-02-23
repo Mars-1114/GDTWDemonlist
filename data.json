@@ -1995,6 +1995,10 @@
     [
       "Time Lapse",
       "97705490"
+    ],
+    [
+      "AUTONOMICA",
+      "129343574"
     ]
   ],
   "legacy": [
@@ -4974,6 +4978,11 @@
       }
     },
     "Ruiq♿": {
+      "129343574": {
+        "video": "https://www.youtube.com/watch?v=6GjuiZr-oJ0",
+        "completion_date": "2026-01-19",
+        "is_mobile": false
+      },
       "114422869": {
         "video": "https://www.youtube.com/watch?v=SvLoFJO5Vr8",
         "completion_date": "2026-02-14",
