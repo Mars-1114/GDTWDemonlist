@@ -1999,6 +1999,10 @@
     [
       "AUTONOMICA",
       "129343574"
+    ],
+    [
+      "Diamond Disco",
+      "117862884"
     ]
   ],
   "legacy": [
@@ -5705,6 +5709,11 @@
       }
     },
     "Cyter867": {
+      "117862884": {
+        "video": "https://www.youtube.com/watch?v=3ptPGl8znd8",
+        "completion_date": "2026-02-24",
+        "is_mobile": false
+      },
       "96549270": {
         "video": "https://www.youtube.com/watch?v=5Ul7BvwbVxM",
         "completion_date": "2026-01-31",
