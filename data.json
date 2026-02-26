@@ -2003,6 +2003,10 @@
     [
       "Diamond Disco",
       "117862884"
+    ],
+    [
+      "Cyberstorm",
+      "87668112"
     ]
   ],
   "legacy": [
@@ -2094,6 +2098,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "87668112": {
+        "video": "https://www.youtube.com/watch?v=Tno9aW8Hz-g",
+        "completion_date": "2026-02-25",
+        "is_mobile": false
+      },
       "97705490": {
         "video": "https://www.youtube.com/watch?v=FZyMSFMa3LA",
         "completion_date": "2026-02-21",
