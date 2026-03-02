@@ -2011,6 +2011,10 @@
     [
       "sarthix",
       "75232616"
+    ],
+    [
+      "Digital Disarray",
+      "57390806"
     ]
   ],
   "legacy": [
@@ -6283,6 +6287,11 @@
       }
     },
     "Asbl11": {
+      "57390806": {
+        "video": "https://www.youtube.com/watch?v=EOogqM8EWzA",
+        "completion_date": "2026-03-02",
+        "is_mobile": false
+      },
       "116935154": {
         "video": "https://www.youtube.com/watch?v=rZtoBmK--6I",
         "completion_date": "2026-02-05",
@@ -6402,6 +6411,13 @@
       "95061038": {
         "video": "https://www.facebook.com/share/v/16wMh2MmSy/",
         "completion_date": "2026-02-09",
+        "is_mobile": false
+      }
+    },
+    "Laserrr": {
+      "20761188": {
+        "video": "https://www.youtube.com/watch?v=hzKk0j0QaQE",
+        "completion_date": "2026-03-01",
         "is_mobile": false
       }
     }
