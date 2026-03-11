@@ -2023,6 +2023,10 @@
     [
       "Renevant",
       "58161496"
+    ],
+    [
+      "kuiper belt",
+      "125025200"
     ]
   ],
   "legacy": [
@@ -2114,6 +2118,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "125025200": {
+        "video": "https://www.youtube.com/watch?v=AeFgTWFr3fk",
+        "completion_date": "2026-02-19",
+        "is_mobile": false
+      },
       "58161496": {
         "video": "https://www.youtube.com/watch?v=Sv0uX498bzo",
         "completion_date": "2026-03-06",
