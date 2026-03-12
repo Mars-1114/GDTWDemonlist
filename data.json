@@ -2027,6 +2027,10 @@
     [
       "kuiper belt",
       "125025200"
+    ],
+    [
+      "PARADISE POINT",
+      "113782971"
     ]
   ],
   "legacy": [
@@ -2118,6 +2122,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "113782971": {
+        "video": "https://www.youtube.com/watch?v=t3N0QixngDo",
+        "completion_date": "2026-02-26",
+        "is_mobile": false
+      },
       "125025200": {
         "video": "https://www.youtube.com/watch?v=AeFgTWFr3fk",
         "completion_date": "2026-02-19",
