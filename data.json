@@ -2031,6 +2031,10 @@
     [
       "PARADISE POINT",
       "113782971"
+    ],
+    [
+      "Anoxysm",
+      "57430694"
     ]
   ],
   "legacy": [
@@ -6328,6 +6332,11 @@
       }
     },
     "Asbl11": {
+      "57430694": {
+        "video": "https://www.youtube.com/watch?v=4rcrXWk6Jgs",
+        "completion_date": "2026-03-13",
+        "is_mobile": false
+      },
       "120312886": {
         "video": "https://www.youtube.com/watch?v=HFJcwqR5kJY",
         "completion_date": "2026-03-05",
