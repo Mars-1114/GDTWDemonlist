@@ -2035,6 +2035,18 @@
     [
       "Anoxysm",
       "57430694"
+    ],
+    [
+      "A Fleeting Reverie",
+      "123186264_2p"
+    ],
+    [
+      "find the answer",
+      "111797205"
+    ],
+    [
+      "Devils Disco",
+      "75350544"
     ]
   ],
   "legacy": [
@@ -3277,27 +3289,27 @@
         "is_mobile": false
       },
       "114933189": {
-        "video": "https://www.facebook.com/reel/2154101715004913",
+        "video": "https://www.youtube.com/watch?v=rsyN54gBc-g",
         "completion_date": "2025-03-21",
         "is_mobile": false
       },
       "19759411": {
-        "video": "https://www.facebook.com/share/v/177eGoQqQR/",
+        "video": "https://www.youtube.com/watch?v=rsyN54gBc-g",
         "completion_date": "2025-03-21",
         "is_mobile": false
       },
       "105290756": {
-        "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+        "video": "https://www.youtube.com/watch?v=rsyN54gBc-g",
         "completion_date": "2025-03-21",
         "is_mobile": false
       },
       "32969607": {
-        "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+        "video": "https://www.youtube.com/watch?v=rsyN54gBc-g",
         "completion_date": "2025-03-21",
         "is_mobile": false
       },
       "107641215": {
-        "video": "https://www.facebook.com/share/v/1BcWGbJJzu/",
+        "video": "https://www.youtube.com/watch?v=rsyN54gBc-g",
         "completion_date": "2025-03-21",
         "is_mobile": false
       },
@@ -5349,6 +5361,11 @@
       }
     },
     "InfAstral": {
+      "93490967": {
+        "video": "https://www.youtube.com/watch?v=nN3KdmWbmIk",
+        "completion_date": "2026-03-15",
+        "is_mobile": false
+      },
       "26133601": {
         "video": "https://www.youtube.com/watch?v=AdcIDgxP9Qw",
         "completion_date": "2025-12-24",
@@ -6138,6 +6155,11 @@
       }
     },
     "Gabu": {
+      "111797205": {
+        "video": "https://www.facebook.com/share/v/18R32vDajH/",
+        "completion_date": "2026-02-15",
+        "is_mobile": false
+      },
       "77008332": {
         "video": "https://www.facebook.com/share/v/189nX7X622/",
         "completion_date": "2026-02-13",
@@ -6332,6 +6354,16 @@
       }
     },
     "Asbl11": {
+      "75350544": {
+        "video": "https://www.youtube.com/watch?v=PrsoyEHOePQ",
+        "completion_date": "2026-03-16",
+        "is_mobile": false
+      },
+      "123186264_2p": {
+        "video": "https://www.youtube.com/watch?v=5G1tyUuHEsI",
+        "completion_date": "2026-03-15",
+        "is_mobile": false
+      },
       "57430694": {
         "video": "https://www.youtube.com/watch?v=4rcrXWk6Jgs",
         "completion_date": "2026-03-13",
