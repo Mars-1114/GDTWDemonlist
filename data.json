@@ -805,10 +805,6 @@
       "87033090"
     ],
     [
-      "White Album",
-      "85242343"
-    ],
-    [
       "Virtual Collapse",
       "62463489"
     ],
@@ -2047,9 +2043,18 @@
     [
       "Devils Disco",
       "75350544"
+    ],
+    [
+      "Our Fountain",
+      "58023558"
     ]
   ],
   "legacy": [
+    {
+      "level": "White Album",
+      "id": "85242343",
+      "publisher": "Javp"
+    },
     {
       "level": "Hyper Ascent",
       "id": "125801346",
@@ -6354,6 +6359,11 @@
       }
     },
     "Asbl11": {
+      "58023558": {
+        "video": "https://www.youtube.com/watch?v=sYvgvjTGxoo",
+        "completion_date": "2026-03-17",
+        "is_mobile": false
+      },
       "75350544": {
         "video": "https://www.youtube.com/watch?v=PrsoyEHOePQ",
         "completion_date": "2026-03-16",
