@@ -2047,6 +2047,18 @@
     [
       "Our Fountain",
       "58023558"
+    ],
+    [
+      "STARBREAKER",
+      "123386255"
+    ],
+    [
+      "LOOSE ENDS",
+      "133471757"
+    ],
+    [
+      "Marching Band",
+      "134499333"
     ]
   ],
   "legacy": [
@@ -2143,6 +2155,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "134499333": {
+        "video": "https://www.youtube.com/watch?v=FOvQM9zstW8",
+        "completion_date": "2026-03-08",
+        "is_mobile": false
+      },
+      "133471757": {
+        "video": "https://www.youtube.com/watch?v=JJNjbOF1MNk",
+        "completion_date": "2026-03-07",
+        "is_mobile": false
+      },
       "113782971": {
         "video": "https://www.youtube.com/watch?v=t3N0QixngDo",
         "completion_date": "2026-02-26",
@@ -5793,6 +5815,11 @@
       }
     },
     "Cyter867": {
+      "123386255": {
+        "video": "https://www.youtube.com/watch?v=eyFa67q7Epg",
+        "completion_date": "2026-03-20",
+        "is_mobile": false
+      },
       "117862884": {
         "video": "https://www.youtube.com/watch?v=3ptPGl8znd8",
         "completion_date": "2026-02-24",
