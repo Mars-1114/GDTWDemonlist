@@ -2059,6 +2059,26 @@
     [
       "Marching Band",
       "134499333"
+    ],
+    [
+      "Edelweiss",
+      "85393418"
+    ],
+    [
+      "Eon",
+      "101478916"
+    ],
+    [
+      "Viridian",
+      "130733081"
+    ],
+    [
+      "Autumnal Remanence",
+      "132226370"
+    ],
+    [
+      "Shine For Me",
+      "132088589"
     ]
   ],
   "legacy": [
@@ -2155,6 +2175,21 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "132088589": {
+        "video": "https://www.youtube.com/watch?v=MdMj3wcirDM",
+        "completion_date": "2026-02-12",
+        "is_mobile": false
+      },
+      "132226370": {
+        "video": "https://www.youtube.com/watch?v=6SVZrnML9WU",
+        "completion_date": "2026-03-03",
+        "is_mobile": false
+      },
+      "130733081": {
+        "video": "https://www.youtube.com/watch?v=BcS_WmR74cg",
+        "completion_date": "2026-03-16",
+        "is_mobile": false
+      },
       "134499333": {
         "video": "https://www.youtube.com/watch?v=FOvQM9zstW8",
         "completion_date": "2026-03-08",
@@ -4835,6 +4870,11 @@
       }
     },
     "Mars": {
+      "130554006": {
+        "video": "https://www.facebook.com/share/v/1843c7ub9L/",
+        "completion_date": "2026-03-21",
+        "is_mobile": false
+      },
       "70252932": {
         "video": "https://www.facebook.com/share/v/18433WrHkn/",
         "completion_date": "2026-02-02",
@@ -5815,6 +5855,11 @@
       }
     },
     "Cyter867": {
+      "85393418": {
+        "video": "https://www.youtube.com/watch?v=Y6vefYS5AtE",
+        "completion_date": "2026-03-21",
+        "is_mobile": false
+      },
       "123386255": {
         "video": "https://www.youtube.com/watch?v=eyFa67q7Epg",
         "completion_date": "2026-03-20",
@@ -6187,6 +6232,11 @@
       }
     },
     "Gabu": {
+      "101478916": {
+        "video": "https://www.facebook.com/share/v/1E7mJDroCT/",
+        "completion_date": "2026-03-21",
+        "is_mobile": false
+      },
       "111797205": {
         "video": "https://www.facebook.com/share/v/18R32vDajH/",
         "completion_date": "2026-02-15",
