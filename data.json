@@ -2083,6 +2083,14 @@
     [
       "Unfair Evening",
       "107226949"
+    ],
+    [
+      "Cryothorn Hell",
+      "125034264"
+    ],
+    [
+      "Fever Dream (ElirpscalionPC)",
+      "130119849"
     ]
   ],
   "legacy": [
@@ -2179,6 +2187,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "130119849": {
+        "video": "https://www.youtube.com/watch?v=dqIVo5UkDQA",
+        "completion_date": "2026-03-12",
+        "is_mobile": false
+      },
+      "125034264": {
+        "video": "https://www.youtube.com/watch?v=9OwRH4EJ47Q",
+        "completion_date": "2026-03-20",
+        "is_mobile": false
+      },
       "132088589": {
         "video": "https://www.youtube.com/watch?v=MdMj3wcirDM",
         "completion_date": "2026-02-12",
