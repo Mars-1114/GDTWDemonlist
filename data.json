@@ -2091,6 +2091,10 @@
     [
       "Fever Dream (ElirpscalionPC)",
       "130119849"
+    ],
+    [
+      "cloud",
+      "128236384"
     ]
   ],
   "legacy": [
@@ -2187,6 +2191,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "128236384": {
+        "video": "https://www.youtube.com/watch?v=MdNmOZtfpm0",
+        "completion_date": "2026-03-26",
+        "is_mobile": false
+      },
       "130119849": {
         "video": "https://www.youtube.com/watch?v=dqIVo5UkDQA",
         "completion_date": "2026-03-12",
@@ -6254,6 +6263,11 @@
       }
     },
     "Gabu": {
+      "87425029": {
+        "video": "https://www.facebook.com/share/v/1KMp7jDfph/",
+        "completion_date": "2026-03-25",
+        "is_mobile": false
+      },
       "101478916": {
         "video": "https://www.facebook.com/share/v/1E7mJDroCT/",
         "completion_date": "2026-03-21",
