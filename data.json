@@ -2111,6 +2111,10 @@
     [
       "KOLOR KORE",
       "125771235"
+    ],
+    [
+      "Elite Z Rebirth",
+      "26157409"
     ]
   ],
   "legacy": [
@@ -6195,6 +6199,11 @@
       }
     },
     "一根蔥": {
+      "132904827": {
+        "video": "https://www.youtube.com/watch?v=ge4YcFiod0k",
+        "completion_date": "2025-03-31",
+        "is_mobile": false
+      },
       "55385816": {
         "video": "https://www.youtube.com/watch?v=hRarq1pASD8",
         "completion_date": "2025-02-18",
@@ -6299,6 +6308,11 @@
       }
     },
     "Gabu": {
+      "26157409": {
+        "video": "https://www.facebook.com/share/v/1L7vkrq5W5/",
+        "completion_date": "2026-03-31",
+        "is_mobile": false
+      },
       "87425029": {
         "video": "https://www.facebook.com/share/v/1KMp7jDfph/",
         "completion_date": "2026-03-25",
