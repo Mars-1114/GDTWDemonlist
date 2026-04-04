@@ -2115,6 +2115,10 @@
     [
       "Elite Z Rebirth",
       "26157409"
+    ],
+    [
+      "Shirakami",
+      "127148097"
     ]
   ],
   "legacy": [
@@ -2211,6 +2215,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "90922017": {
+        "video": "https://www.youtube.com/watch?v=whsMuEklRnM",
+        "completion_date": "2026-04-03",
+        "is_mobile": false
+      },
+      "127148097": {
+        "video": "https://www.youtube.com/watch?v=YqznTDGSXAw",
+        "completion_date": "2025-12-21",
+        "is_mobile": false
+      },
       "125771235": {
         "video": "https://www.youtube.com/watch?v=nxUcDszOSDg",
         "completion_date": "2026-02-14",
