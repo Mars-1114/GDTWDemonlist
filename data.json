@@ -2119,6 +2119,10 @@
     [
       "Shirakami",
       "127148097"
+    ],
+    [
+      "Lovers Sadness",
+      "113464561"
     ]
   ],
   "legacy": [
@@ -6766,6 +6770,63 @@
       "25610878": {
         "video": "https://www.youtube.com/watch?v=0FhBapuVoDk",
         "completion_date": "2026-02-08",
+        "is_mobile": false
+      }
+    },
+    "gonker": {
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=rDLBAWoyqGY",
+        "completion_date": "2024-10-31",
+        "is_mobile": false
+      },
+      "88940074": {
+        "video": "https://www.youtube.com/watch?v=QoaMSYbZND4",
+        "completion_date": "2025-01-29",
+        "is_mobile": false
+      },
+      "112412828": {
+        "video": "https://www.youtube.com/watch?v=j4Zi6cEM8hE",
+        "completion_date": "2025-07-12",
+        "is_mobile": false
+      },
+      "58507437": {
+        "video": "https://www.youtube.com/watch?v=F1BbCgcKm2o",
+        "completion_date": "2025-09-16",
+        "is_mobile": false
+      },
+      "92299438": {
+        "video": "https://www.youtube.com/watch?v=v3xiXcWmgW0",
+        "completion_date": "2025-11-20",
+        "is_mobile": false
+      },
+      "60284098": {
+        "video": "https://www.youtube.com/watch?v=CAn34kjIur4",
+        "completion_date": "2026-01-18",
+        "is_mobile": false
+      },
+      "129550139": {
+        "video": "https://www.youtube.com/watch?v=_wPfb-uI7xU",
+        "completion_date": "2026-02-13",
+        "is_mobile": false
+      },
+      "70187443": {
+        "video": "https://www.youtube.com/watch?v=U-hGPUT1Cmg",
+        "completion_date": "2026-02-28",
+        "is_mobile": false
+      },
+      "46510793": {
+        "video": "https://www.youtube.com/watch?v=JklVU2FxD2Y",
+        "completion_date": "2026-03-09",
+        "is_mobile": false
+      },
+      "113464561": {
+        "video": "https://www.youtube.com/watch?v=oumeXSWQhvw",
+        "completion_date": "2026-04-04",
+        "is_mobile": false
+      },
+      "123066284": {
+        "video": "https://www.youtube.com/watch?v=Y68gJQNoWEA",
+        "completion_date": "2026-04-05",
         "is_mobile": false
       }
     }
