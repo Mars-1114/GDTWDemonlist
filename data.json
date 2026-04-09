@@ -2127,6 +2127,10 @@
     [
       "Le Fishe",
       "80647754"
+    ],
+    [
+      "CHERRYCRUSH",
+      "129447575"
     ]
   ],
   "legacy": [
@@ -2223,6 +2227,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "129447575": {
+        "video": "https://www.youtube.com/watch?v=qelFB6zDASs",
+        "completion_date": "2026-04-08",
+        "is_mobile": false
+      },
       "80647754": {
         "video": "https://www.youtube.com/watch?v=DM8rm0wKGUo",
         "completion_date": "2026-04-07",
@@ -6718,7 +6727,12 @@
       "95061038": {
         "video": "https://www.facebook.com/share/v/16wMh2MmSy/",
         "completion_date": "2026-02-09",
-        "is_mobile": false
+        "is_mobile": true
+      },
+      "113138918": {
+        "video": "https://www.facebook.com/share/v/1GeKxgaZji/",
+        "completion_date": "2026-04-09",
+        "is_mobile": true
       }
     },
     "Laserrr": {
