@@ -2131,6 +2131,14 @@
     [
       "CHERRYCRUSH",
       "129447575"
+    ],
+    [
+      "Spectrum Blaze",
+      "40693278"
+    ],
+    [
+      "Just A Bunch Of Idea",
+      "131654854"
     ]
   ],
   "legacy": [
@@ -2227,6 +2235,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "131654854": {
+        "video": "https://www.youtube.com/watch?v=k3QluEQuzrM",
+        "completion_date": "2026-02-10",
+        "is_mobile": false
+      },
       "129447575": {
         "video": "https://www.youtube.com/watch?v=qelFB6zDASs",
         "completion_date": "2026-04-08",
@@ -6183,6 +6196,11 @@
       }
     },
     "HankK漢": {
+      "119259720": {
+        "video": "https://www.youtube.com/watch?v=GSmGmf6dQZk",
+        "completion_date": "2026-04-11",
+        "is_mobile": false
+      },
       "112309508": {
         "video": "https://www.youtube.com/watch?v=0vbZv0lUPq8",
         "completion_date": "2026-03-29",
@@ -6563,6 +6581,11 @@
       }
     },
     "Asbl11": {
+      "40693278": {
+        "video": "https://www.youtube.com/watch?v=92wVh8rri2M",
+        "completion_date": "2026-01-15",
+        "is_mobile": false
+      },
       "130508187": {
         "video": "https://www.facebook.com/share/v/1C5EbtSDUD/",
         "completion_date": "2026-01-15",
@@ -6856,6 +6879,13 @@
         "video": "https://www.youtube.com/watch?v=Y68gJQNoWEA",
         "completion_date": "2026-04-05",
         "is_mobile": false
+      }
+    },
+    "Yt_Lucas0918": {
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=BTX6JqUY-uU",
+        "completion_date": "2026-04-11",
+        "is_mobile": true
       }
     }
   }
