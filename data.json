@@ -2139,6 +2139,10 @@
     [
       "Just A Bunch Of Idea",
       "131654854"
+    ],
+    [
+      "GANGIMARI",
+      "85698971"
     ]
   ],
   "legacy": [
@@ -2235,6 +2239,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "85698971": {
+        "video": "https://www.youtube.com/watch?v=hrKbk5d4Myk",
+        "completion_date": "2026-04-14",
+        "is_mobile": false
+      },
       "131654854": {
         "video": "https://www.youtube.com/watch?v=k3QluEQuzrM",
         "completion_date": "2026-02-10",
@@ -4674,7 +4683,7 @@
       },
       "83357887": {
         "video": "https://www.youtube.com/watch?v=qBHjFUMPra0",
-        "completion_date": "2023/09/01",
+        "completion_date": "2023-09-01",
         "is_mobile": false
       },
       "83658556": {
