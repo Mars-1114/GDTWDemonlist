@@ -2147,6 +2147,10 @@
     [
       "Fun Friday",
       "127135884"
+    ],
+    [
+      "FanTasticLand",
+      "63422160"
     ]
   ],
   "legacy": [
@@ -2243,6 +2247,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "63422160": {
+        "video": "https://www.youtube.com/watch?v=__17M9Bhh90",
+        "completion_date": "2026-03-14",
+        "is_mobile": false
+      },
       "127135884": {
         "video": "https://www.youtube.com/watch?v=bMJ2SP5no4o",
         "completion_date": "2025-10-18",
@@ -5556,6 +5565,11 @@
       }
     },
     "InfAstral": {
+      "127135884": {
+        "video": "https://www.youtube.com/watch?v=G1srmFlTNhQ",
+        "completion_date": "2026-04-16",
+        "is_mobile": false
+      },
       "39641092": {
         "video": "https://www.youtube.com/watch?v=Gs63Zi2r_m0",
         "completion_date": "2026-04-15",
