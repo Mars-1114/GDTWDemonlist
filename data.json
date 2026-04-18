@@ -2151,6 +2151,14 @@
     [
       "FanTasticLand",
       "63422160"
+    ],
+    [
+      "Cerebral Torment",
+      "79807331"
+    ],
+    [
+      "Controlled Chaos",
+      "115650566"
     ]
   ],
   "legacy": [
@@ -2247,6 +2255,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "115650566": {
+        "video": "https://www.youtube.com/watch?v=2BNOF7rpfg0",
+        "completion_date": "2026-04-17",
+        "is_mobile": false
+      },
       "63422160": {
         "video": "https://www.youtube.com/watch?v=__17M9Bhh90",
         "completion_date": "2026-03-14",
@@ -6638,6 +6651,11 @@
       }
     },
     "Asbl11": {
+      "79807331": {
+        "video": "https://www.youtube.com/watch?v=dIFs0yFimy8",
+        "completion_date": "2026-04-17",
+        "is_mobile": false
+      },
       "40693278": {
         "video": "https://www.youtube.com/watch?v=92wVh8rri2M",
         "completion_date": "2026-03-23",
