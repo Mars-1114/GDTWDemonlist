@@ -2167,6 +2167,10 @@
     [
       "Psychopath",
       "96970924"
+    ],
+    [
+      "Trueffet",
+      "71434979"
     ]
   ],
   "legacy": [
@@ -2263,6 +2267,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "71434979": {
+        "video": "https://www.youtube.com/watch?v=YwONfbOvqSg",
+        "completion_date": "2026-04-19",
+        "is_mobile": false
+      },
       "127975974": {
         "video": "https://www.youtube.com/watch?v=qMWvRk5J76g",
         "completion_date": "2026-03-11",
