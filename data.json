@@ -2159,6 +2159,14 @@
     [
       "Controlled Chaos",
       "115650566"
+    ],
+    [
+      "Porridge Factory",
+      "127975974"
+    ],
+    [
+      "Psychopath",
+      "96970924"
     ]
   ],
   "legacy": [
@@ -2255,6 +2263,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "127975974": {
+        "video": "https://www.youtube.com/watch?v=qMWvRk5J76g",
+        "completion_date": "2026-03-11",
+        "is_mobile": false
+      },
+      "96970924": {
+        "video": "https://www.youtube.com/watch?v=WHZeUFlXgCc",
+        "completion_date": "2026-04-11",
+        "is_mobile": false
+      },
       "115650566": {
         "video": "https://www.youtube.com/watch?v=2BNOF7rpfg0",
         "completion_date": "2026-04-17",
