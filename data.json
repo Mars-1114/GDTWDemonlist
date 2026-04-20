@@ -2171,6 +2171,14 @@
     [
       "Trueffet",
       "71434979"
+    ],
+    [
+      "La Llorona",
+      "92362284"
+    ],
+    [
+      "Frozen Cave",
+      "68908396"
     ]
   ],
   "legacy": [
@@ -5605,6 +5613,11 @@
       }
     },
     "InfAstral": {
+      "92362284": {
+        "video": "https://www.youtube.com/watch?v=BPeOZE4Be4c",
+        "completion_date": "2026-04-20",
+        "is_mobile": false
+      },
       "127135884": {
         "video": "https://www.youtube.com/watch?v=G1srmFlTNhQ",
         "completion_date": "2026-04-16",
@@ -6459,6 +6472,11 @@
       }
     },
     "Gabu": {
+      "68908396": {
+        "video": "https://www.facebook.com/share/v/1CzAsUJ2GJ/",
+        "completion_date": "2026-04-20",
+        "is_mobile": false
+      },
       "95281931": {
         "video": "https://www.facebook.com/share/v/1AsXtshbyK/",
         "completion_date": "2026-04-18",
