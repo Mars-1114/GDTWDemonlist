@@ -2179,6 +2179,10 @@
     [
       "Frozen Cave",
       "68908396"
+    ],
+    [
+      "The Yandere",
+      "54615662"
     ]
   ],
   "legacy": [
@@ -6908,6 +6912,11 @@
       }
     },
     "阿茲": {
+      "54615662": {
+        "video": "https://www.facebook.com/share/v/1GkYNT14GB/",
+        "completion_date": "2025-04-22",
+        "is_mobile": false
+      },
       "3979721": {
         "video": "https://www.youtube.com/watch?v=HGWNnMhbHkE",
         "completion_date": "2025-01-18",
