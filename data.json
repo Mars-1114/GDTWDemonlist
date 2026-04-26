@@ -2187,6 +2187,10 @@
     [
       "Grand Eclipse",
       "126368623"
+    ],
+    [
+      "Cicatrize",
+      "93941971"
     ]
   ],
   "legacy": [
@@ -2283,6 +2287,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "93941971": {
+        "video": "https://www.youtube.com/watch?v=3h4q_dgMZ2Y",
+        "completion_date": "2026-04-26",
+        "is_mobile": false
+      },
       "71434979": {
         "video": "https://www.youtube.com/watch?v=YwONfbOvqSg",
         "completion_date": "2026-04-19",
