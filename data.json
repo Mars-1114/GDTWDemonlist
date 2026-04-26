@@ -2183,6 +2183,10 @@
     [
       "The Yandere",
       "54615662"
+    ],
+    [
+      "Grand Eclipse",
+      "126368623"
     ]
   ],
   "legacy": [
@@ -6310,6 +6314,11 @@
       }
     },
     "HankK漢": {
+      "126368623": {
+        "video": "https://www.youtube.com/watch?v=QIYLuLf-5-8",
+        "completion_date": "2026-04-25",
+        "is_mobile": false
+      },
       "127135884": {
         "video": "https://www.youtube.com/watch?v=rMnsV6S_7XE",
         "completion_date": "2026-04-19",
