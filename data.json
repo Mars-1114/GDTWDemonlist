@@ -2191,6 +2191,10 @@
     [
       "Cicatrize",
       "93941971"
+    ],
+    [
+      "Wavetrip",
+      "118697760"
     ]
   ],
   "legacy": [
@@ -2287,6 +2291,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "118697760": {
+        "video": "https://www.youtube.com/watch?v=9NTncWoIPZE",
+        "completion_date": "2026-04-23",
+        "is_mobile": false
+      },
       "93941971": {
         "video": "https://www.youtube.com/watch?v=3h4q_dgMZ2Y",
         "completion_date": "2026-04-26",
@@ -6940,6 +6949,11 @@
       }
     },
     "阿茲": {
+      "118613010": {
+        "video": "https://www.youtube.com/watch?v=NERnJI_tiqY",
+        "completion_date": "2026-04-24",
+        "is_mobile": false
+      },
       "54615662": {
         "video": "https://www.youtube.com/watch?v=6e5h29CaM1E",
         "completion_date": "2026-04-22",
