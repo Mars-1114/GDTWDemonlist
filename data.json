@@ -2195,6 +2195,10 @@
     [
       "Wavetrip",
       "118697760"
+    ],
+    [
+      "Distortion",
+      "119663227"
     ]
   ],
   "legacy": [
@@ -6101,6 +6105,11 @@
       }
     },
     "Cyter867": {
+      "119663227": {
+        "video": "https://www.youtube.com/watch?v=uIpegMaEUy8",
+        "completion_date": "2026-04-28",
+        "is_mobile": false
+      },
       "127135884": {
         "video": "https://www.youtube.com/watch?v=iIARJ9LuPME",
         "completion_date": "2026-04-13",
