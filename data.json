@@ -2203,6 +2203,10 @@
     [
       "cloudscape",
       "94741609"
+    ],
+    [
+      "THE PRINCE",
+      "99693231"
     ]
   ],
   "legacy": [
@@ -2299,6 +2303,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "99693231": {
+        "video": "https://www.youtube.com/watch?v=-k4jb-mIMf4",
+        "completion_date": "2026-05-01",
+        "is_mobile": false
+      },
       "21280210": {
         "video": "https://www.youtube.com/watch?v=MmmSCJeQAAM",
         "completion_date": "2026-04-30",
@@ -6536,6 +6545,11 @@
       }
     },
     "Gabu": {
+      "20761188": {
+        "video": "https://www.facebook.com/share/v/18ibS2SvkT/",
+        "completion_date": "2026-04-30",
+        "is_mobile": false
+      },
       "68908396": {
         "video": "https://www.facebook.com/share/v/1CzAsUJ2GJ/",
         "completion_date": "2026-04-20",
