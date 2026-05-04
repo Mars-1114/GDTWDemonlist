@@ -2207,6 +2207,10 @@
     [
       "THE PRINCE",
       "99693231"
+    ],
+    [
+      "Color Beam",
+      "121243106"
     ]
   ],
   "legacy": [
@@ -5666,6 +5670,11 @@
       }
     },
     "InfAstral": {
+      "121243106": {
+        "video": "https://www.youtube.com/watch?v=3JvEFapc-IU",
+        "completion_date": "2026-05-03",
+        "is_mobile": false
+      },
       "92362284": {
         "video": "https://www.youtube.com/watch?v=BPeOZE4Be4c",
         "completion_date": "2026-04-20",
