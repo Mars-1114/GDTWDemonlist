@@ -2211,6 +2211,10 @@
     [
       "Color Beam",
       "121243106"
+    ],
+    [
+      "Penombre",
+      "48454650"
     ]
   ],
   "legacy": [
@@ -2307,6 +2311,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "48454650": {
+        "video": "https://www.youtube.com/watch?v=2JdQsfl2K5k",
+        "completion_date": "2026-05-05",
+        "is_mobile": false
+      },
       "99693231": {
         "video": "https://www.youtube.com/watch?v=-k4jb-mIMf4",
         "completion_date": "2026-05-01",
