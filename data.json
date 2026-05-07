@@ -2215,6 +2215,14 @@
     [
       "Penombre",
       "48454650"
+    ],
+    [
+      "CRUEL",
+      "114996529"
+    ],
+    [
+      "Static Ignition",
+      "73335285"
     ]
   ],
   "legacy": [
@@ -2311,6 +2319,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "73335285": {
+        "video": "https://www.youtube.com/watch?v=E-r17f-5D58",
+        "completion_date": "2026-05-07",
+        "is_mobile": false
+      },
+      "114996529": {
+        "video": "https://www.youtube.com/watch?v=RtKySa5m60Q",
+        "completion_date": "2026-04-25",
+        "is_mobile": false
+      },
       "7174110": {
         "video": "https://www.youtube.com/watch?v=bTgMJWgJQEA",
         "completion_date": "2026-05-06",
