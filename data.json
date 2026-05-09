@@ -2227,6 +2227,10 @@
     [
       "pulsation",
       "83948570"
+    ],
+    [
+      "SLAM",
+      "138082325"
     ]
   ],
   "legacy": [
@@ -2323,6 +2327,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "138082325": {
+        "video": "https://www.youtube.com/watch?v=G5LY4F5FQAc",
+        "completion_date": "2026-05-02",
+        "is_mobile": false
+      },
       "83948570": {
         "video": "https://www.youtube.com/watch?v=hnD-FheF7XQ",
         "completion_date": "2026-05-08",
@@ -6844,6 +6853,11 @@
       }
     },
     "Asbl11": {
+      "138082325": {
+        "video": "https://www.youtube.com/watch?v=rkqdTMB0KTw",
+        "completion_date": "2026-04-14",
+        "is_mobile": false
+      },
       "121243106": {
         "video": "https://www.youtube.com/watch?v=QVxHLuZMITY",
         "completion_date": "2026-05-06",
