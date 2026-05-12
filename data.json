@@ -2239,6 +2239,10 @@
     [
       "NEUTRA",
       "88611404"
+    ],
+    [
+      "Carmine Cascade",
+      "125486820"
     ]
   ],
   "legacy": [
@@ -6876,6 +6880,11 @@
       }
     },
     "Asbl11": {
+      "125486820": {
+        "video": "https://www.youtube.com/watch?v=rYWrq46bXOs",
+        "completion_date": "2026-05-10",
+        "is_mobile": false
+      },
       "138082325": {
         "video": "https://www.youtube.com/watch?v=rkqdTMB0KTw",
         "completion_date": "2026-04-14",
