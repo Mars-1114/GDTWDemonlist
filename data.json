@@ -2243,6 +2243,14 @@
     [
       "Carmine Cascade",
       "125486820"
+    ],
+    [
+      "No Survivors",
+      "132458573"
+    ],
+    [
+      "Necrocide",
+      "53653552"
     ]
   ],
   "legacy": [
@@ -2339,6 +2347,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "53653552": {
+        "video": "https://www.youtube.com/watch?v=YoLVUuZOOdQ",
+        "completion_date": "2026-04-29",
+        "is_mobile": false
+      },
+      "132458573": {
+        "video": "https://www.youtube.com/watch?v=LRZ36Cwu1hY",
+        "completion_date": "2026-05-04",
+        "is_mobile": false
+      },
       "68323859": {
         "video": "https://www.youtube.com/watch?v=zeFB8Ja_DGc",
         "completion_date": "2026-05-09",
