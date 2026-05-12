@@ -2251,6 +2251,10 @@
     [
       "Necrocide",
       "53653552"
+    ],
+    [
+      "MINUSdry",
+      "89414220"
     ]
   ],
   "legacy": [
@@ -2347,6 +2351,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "89414220": {
+        "video": "https://www.youtube.com/watch?v=TtmGkOVo_EM",
+        "completion_date": "2026-05-12",
+        "is_mobile": false
+      },
       "53653552": {
         "video": "https://www.youtube.com/watch?v=YoLVUuZOOdQ",
         "completion_date": "2026-04-29",
