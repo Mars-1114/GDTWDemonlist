@@ -2259,6 +2259,10 @@
     [
       "Azure Metropolis",
       "136107492"
+    ],
+    [
+      "Edge of Destiny",
+      "89187968"
     ]
   ],
   "legacy": [
@@ -2355,6 +2359,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "89187968": {
+        "video": "https://www.youtube.com/watch?v=IM_yadcxppI",
+        "completion_date": "2026-05-14",
+        "is_mobile": false
+      },
       "136107492": {
         "video": "https://www.youtube.com/watch?v=nrW-xcVWfrE",
         "completion_date": "2026-05-14",
