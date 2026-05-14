@@ -374,7 +374,7 @@ function listDemons(demons) {
   }
   for (let n in demons_copy) {
     // color
-    if (+demons_copy[n].placement <= 25) {
+    if (+demons_copy[n].placement <= 50) {
       var color = "--text-list-top";
     }
     else if (+demons_copy[n].placement <= 75) {

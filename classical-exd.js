@@ -1,3 +1,10 @@
+// TODO:
+// 0. REWORK WEBSITE
+// 1. 新增個人通關關卡名次選項
+// 2. 幫幻月加30000分
+// 3. 搜尋功能
+// 4. unreliable 2P flag from AREDL
+
 let file = "data.json";
 let contact_file = "player-contact.json";
 let site = "https://api.aredl.net/v2/api/aredl/levels/";
@@ -83,7 +90,7 @@ $(document).ajaxStop(function() {
   var str = "";
   for (let level of levels) {
     // level name color
-    if (level.placement <= 25) {
+    if (level.placement <= 50) {
       var color = "--text-list-top";
     }
     else if (level.placement <= 75) {
@@ -132,7 +139,7 @@ $(document).ajaxStop(function() {
   str = "";
   for (let level of levels) {
     // level name color
-    if (level.placement <= 25) {
+    if (level.placement <= 50) {
       var color = "--text-list-top";
     }
     else if (level.placement <= 75) {
@@ -320,7 +327,7 @@ function loadDetails(dID) {
   let lvl = levels[dID - 1];
 
   // level name color
-  if (lvl.placement <= 25) {
+  if (lvl.placement <= 50) {
     var color = "--text-list-top";
   }
   else if (lvl.placement <= 75) {
