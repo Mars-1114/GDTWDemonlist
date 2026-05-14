@@ -2255,6 +2255,10 @@
     [
       "MINUSdry",
       "89414220"
+    ],
+    [
+      "Azure Metropolis",
+      "136107492"
     ]
   ],
   "legacy": [
@@ -2351,6 +2355,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "136107492": {
+        "video": "https://www.youtube.com/watch?v=nrW-xcVWfrE",
+        "completion_date": "2026-05-14",
+        "is_mobile": false
+      },
       "89414220": {
         "video": "https://www.youtube.com/watch?v=TtmGkOVo_EM",
         "completion_date": "2026-05-12",
@@ -6907,6 +6916,11 @@
       }
     },
     "Asbl11": {
+      "136107492": {
+        "video": "https://www.youtube.com/watch?v=TgjL_hF452M",
+        "completion_date": "2026-05-08",
+        "is_mobile": false
+      },
       "125486820": {
         "video": "https://www.youtube.com/watch?v=rYWrq46bXOs",
         "completion_date": "2026-05-10",
