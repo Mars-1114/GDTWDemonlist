@@ -81,7 +81,7 @@ $(document).ajaxStop(function() {
   var str = "";
   for (let level of levels) {
     // level name color
-    if (level.placement <= 25) {
+    if (level.placement <= 50) {
       var color = "--text-list-top";
     }
     else if (level.placement <= 75) {
@@ -130,7 +130,7 @@ $(document).ajaxStop(function() {
   str = "";
   for (let level of levels) {
     // level name color
-    if (level.placement <= 25) {
+    if (level.placement <= 50) {
       var color = "--text-list-top";
     }
     else if (level.placement <= 75) {
@@ -318,7 +318,7 @@ function loadDetails(dID) {
   let lvl = levels[dID - 1];
 
   // level name color
-  if (lvl.placement <= 25) {
+  if (lvl.placement <= 50) {
     var color = "--text-list-top";
   }
   else if (lvl.placement <= 75) {
