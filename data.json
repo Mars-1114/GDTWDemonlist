@@ -2263,6 +2263,10 @@
     [
       "Edge of Destiny",
       "89187968"
+    ],
+    [
+      "Void Wave",
+      "59620684"
     ]
   ],
   "legacy": [
@@ -6180,6 +6184,11 @@
       }
     },
     "carti": {
+      "58252259": {
+        "video": "https://www.youtube.com/watch?v=fPxr4svSR7k",
+        "completion_date": "2026-05-16",
+        "is_mobile": false
+      },
       "127305966": {
         "video": "https://www.facebook.com/share/v/1B88KcRSQA/",
         "completion_date": "2026-04-23",
@@ -6681,6 +6690,11 @@
       }
     },
     "Gabu": {
+      "59620684": {
+        "video": "https://www.facebook.com/share/v/18edQSqm5T/",
+        "completion_date": "2026-05-16",
+        "is_mobile": false
+      },
       "88611404": {
         "video": "https://www.facebook.com/share/v/1EAY9JKduQ/",
         "completion_date": "2026-05-10",
