@@ -6917,6 +6917,11 @@
       }
     },
     "Crytist": {
+      "119259720": {
+        "video": "https://www.youtube.com/watch?v=p1XmpO9hY40",
+        "completion_date": "2026-05-17",
+        "is_mobile": false
+      },
       "95764848": {
         "video": "https://www.youtube.com/watch?v=P-PZYupOUNI",
         "completion_date": "2026-02-21",
@@ -7308,6 +7313,13 @@
         "video": "https://www.youtube.com/watch?v=BTX6JqUY-uU",
         "completion_date": "2026-04-11",
         "is_mobile": true
+      }
+    },
+    "Pifflepipi": {
+      "119259720": {
+        "video": "https://www.youtube.com/watch?v=FU2PaNFOUP4",
+        "completion_date": "2026-05-17",
+        "is_mobile": false
       }
     }
   }
