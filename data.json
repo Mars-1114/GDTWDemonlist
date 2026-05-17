@@ -2267,6 +2267,10 @@
     [
       "Void Wave",
       "59620684"
+    ],
+    [
+      "Manic Machine",
+      "84829178"
     ]
   ],
   "legacy": [
@@ -6184,6 +6188,16 @@
       }
     },
     "carti": {
+      "95061038": {
+        "video": "https://www.facebook.com/share/v/1BDyAPziEq/",
+        "completion_date": "2026-05-17",
+        "is_mobile": false
+      },
+      "48454650": {
+        "video": "https://www.facebook.com/share/v/1CcjbXP1UL/",
+        "completion_date": "2026-05-15",
+        "is_mobile": false
+      },
       "58252259": {
         "video": "https://www.youtube.com/watch?v=fPxr4svSR7k",
         "completion_date": "2026-05-16",
@@ -6939,6 +6953,11 @@
       }
     },
     "Asbl11": {
+      "84829178": {
+        "video": "https://www.youtube.com/watch?v=Qd7iItd33bk",
+        "completion_date": "2026-05-13",
+        "is_mobile": false
+      },
       "136107492": {
         "video": "https://www.youtube.com/watch?v=TgjL_hF452M",
         "completion_date": "2026-05-08",
