@@ -2271,6 +2271,10 @@
     [
       "Manic Machine",
       "84829178"
+    ],
+    [
+      "ampere",
+      "128454710"
     ]
   ],
   "legacy": [
@@ -2367,6 +2371,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "128454710": {
+        "video": "https://www.youtube.com/watch?v=KZazY9gFDSo",
+        "completion_date": "2026-05-12",
+        "is_mobile": false
+      },
       "89187968": {
         "video": "https://www.youtube.com/watch?v=IM_yadcxppI",
         "completion_date": "2026-05-14",
@@ -6600,6 +6609,11 @@
       }
     },
     "一根蔥": {
+      "87425029": {
+        "video": "https://www.youtube.com/watch?v=-N6-h0xwhzI",
+        "completion_date": "2026-05-18",
+        "is_mobile": false
+      },
       "132904827": {
         "video": "https://www.youtube.com/watch?v=ge4YcFiod0k",
         "completion_date": "2026-03-31",
