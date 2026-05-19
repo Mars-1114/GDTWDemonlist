@@ -2275,6 +2275,10 @@
     [
       "ampere",
       "128454710"
+    ],
+    [
+      "iI HOT Ii",
+      "130447818"
     ]
   ],
   "legacy": [
@@ -2371,6 +2375,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "130447818": {
+        "video": "https://www.youtube.com/watch?v=cajR9eYnJk4",
+        "completion_date": "2026-05-16",
+        "is_mobile": false
+      },
       "128454710": {
         "video": "https://www.youtube.com/watch?v=KZazY9gFDSo",
         "completion_date": "2026-05-12",
