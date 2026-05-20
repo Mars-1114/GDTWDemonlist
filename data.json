@@ -2279,6 +2279,10 @@
     [
       "iI HOT Ii",
       "130447818"
+    ],
+    [
+      "Malevolent",
+      "128362929"
     ]
   ],
   "legacy": [
@@ -2375,6 +2379,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "128362929": {
+        "video": "https://www.youtube.com/watch?v=VSn1YUkfq-s",
+        "completion_date": "2026-05-19",
+        "is_mobile": false
+      },
       "130447818": {
         "video": "https://www.youtube.com/watch?v=cajR9eYnJk4",
         "completion_date": "2026-05-16",
