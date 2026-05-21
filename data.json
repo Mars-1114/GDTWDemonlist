@@ -2283,6 +2283,10 @@
     [
       "Malevolent",
       "128362929"
+    ],
+    [
+      "Nosedive",
+      "139622770"
     ]
   ],
   "legacy": [
@@ -2379,6 +2383,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "139622770": {
+        "video": "https://www.youtube.com/watch?v=JKyayrE8Eck",
+        "completion_date": "2026-05-18",
+        "is_mobile": false
+      },
       "128362929": {
         "video": "https://www.youtube.com/watch?v=VSn1YUkfq-s",
         "completion_date": "2026-05-19",
@@ -6627,6 +6636,11 @@
       }
     },
     "一根蔥": {
+      "68688849": {
+        "video": "https://www.youtube.com/watch?v=24o2ElQ-Jpk",
+        "completion_date": "2026-05-20",
+        "is_mobile": false
+      },
       "87425029": {
         "video": "https://www.youtube.com/watch?v=-N6-h0xwhzI",
         "completion_date": "2026-05-18",

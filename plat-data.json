@@ -147,6 +147,10 @@
     [
       "Null",
       "104031134"
+    ],
+    [
+      "Sleepover ii",
+      "127615297"
     ]
   ],
   "legacy": [
@@ -570,6 +574,13 @@
       "105382136": {
         "video": "https://www.youtube.com/watch?v=RWET2M7wTqA",
         "completion_date": "2026-01-31",
+        "is_mobile": false
+      }
+    },
+    "Mazj": {
+      "127615297": {
+        "video": "https://www.youtube.com/watch?v=cdddXgHGsqE",
+        "completion_date": "2026-05-20",
         "is_mobile": false
       }
     }
