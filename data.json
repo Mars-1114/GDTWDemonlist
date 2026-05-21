@@ -2287,6 +2287,10 @@
     [
       "Nosedive",
       "139622770"
+    ],
+    [
+      "Thoughtless Space",
+      "135282166"
     ]
   ],
   "legacy": [
@@ -2383,6 +2387,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "135282166": {
+        "video": "https://www.youtube.com/watch?v=lQgvuXNFSag",
+        "completion_date": "2026-05-21",
+        "is_mobile": false
+      },
       "139622770": {
         "video": "https://www.youtube.com/watch?v=JKyayrE8Eck",
         "completion_date": "2026-05-18",
