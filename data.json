@@ -2291,6 +2291,10 @@
     [
       "Thoughtless Space",
       "135282166"
+    ],
+    [
+      "Clock tower",
+      "105095161"
     ]
   ],
   "legacy": [
@@ -2387,6 +2391,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "105095161": {
+        "video": "https://www.youtube.com/watch?v=D1SAoGGxy-U",
+        "completion_date": "2026-05-23",
+        "is_mobile": false
+      },
       "135282166": {
         "video": "https://www.youtube.com/watch?v=lQgvuXNFSag",
         "completion_date": "2026-05-21",
@@ -5840,6 +5849,16 @@
       }
     },
     "InfAstral": {
+      "114784521": {
+        "video": "https://www.youtube.com/watch?v=r5AZ6DlNl70",
+        "completion_date": "2026-05-23",
+        "is_mobile": false
+      },
+      "105095161": {
+        "video": "https://www.youtube.com/watch?v=jCrCIGlwpmw",
+        "completion_date": "2026-05-23",
+        "is_mobile": false
+      },
       "121243106": {
         "video": "https://www.youtube.com/watch?v=3JvEFapc-IU",
         "completion_date": "2026-05-03",
@@ -6650,6 +6669,11 @@
       }
     },
     "一根蔥": {
+      "42584142": {
+        "video": "https://www.youtube.com/watch?v=umW3_t-kY0k",
+        "completion_date": "2026-05-23",
+        "is_mobile": false
+      },
       "68688849": {
         "video": "https://www.youtube.com/watch?v=24o2ElQ-Jpk",
         "completion_date": "2026-05-20",
