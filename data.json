@@ -2295,6 +2295,10 @@
     [
       "Clock tower",
       "105095161"
+    ],
+    [
+      "Pessimism",
+      "109050674"
     ]
   ],
   "legacy": [
@@ -6356,6 +6360,11 @@
       }
     },
     "Cyter867": {
+      "109050674": {
+        "video": "https://www.youtube.com/watch?v=UTUPhqZ3seM",
+        "completion_date": "2026-05-25",
+        "is_mobile": false
+      },
       "119663227": {
         "video": "https://www.youtube.com/watch?v=uIpegMaEUy8",
         "completion_date": "2026-04-28",
