@@ -83,7 +83,7 @@
         }
     },
     "carti": {
-        "left-group": false,
+        "left-group": true,
         "facebook": "https://www.facebook.com/groups/173396940046034/user/100026657391593",
         "gd": {
             "icon": "catti",
