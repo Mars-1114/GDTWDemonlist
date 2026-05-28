@@ -2307,6 +2307,14 @@
     [
       "Death Sentence",
       "109855055"
+    ],
+    [
+      "Twisted Tranquility",
+      "32920197"
+    ],
+    [
+      "Erosion",
+      "105219294"
     ]
   ],
   "legacy": [
@@ -5876,6 +5884,11 @@
       }
     },
     "InfAstral": {
+      "32920197": {
+        "video": "https://www.youtube.com/watch?v=a01Kq84JlQg",
+        "completion_date": "2026-05-28",
+        "is_mobile": false
+      },
       "114784521": {
         "video": "https://www.youtube.com/watch?v=r5AZ6DlNl70",
         "completion_date": "2026-05-23",
@@ -7089,6 +7102,11 @@
       }
     },
     "Asbl11": {
+      "105219294": {
+        "video": "https://www.youtube.com/watch?v=Dvk43zek5Mc",
+        "completion_date": "2026-05-28",
+        "is_mobile": false
+      },
       "76196489": {
         "video": "https://www.youtube.com/watch?v=CyimY3BWcVo",
         "completion_date": "2026-05-24",
