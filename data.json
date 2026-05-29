@@ -2315,6 +2315,10 @@
     [
       "Erosion",
       "105219294"
+    ],
+    [
+      "Destination 19",
+      "82382742"
     ]
   ],
   "legacy": [
@@ -2411,6 +2415,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "82382742": {
+        "video": "https://www.youtube.com/watch?v=4mwoPP5RCfg",
+        "completion_date": "2026-05-29",
+        "is_mobile": false
+      },
       "109855055": {
         "video": "https://www.youtube.com/watch?v=fnkTJS_GVCU",
         "completion_date": "2026-05-28",
