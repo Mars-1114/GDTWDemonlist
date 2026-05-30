@@ -2285,10 +2285,6 @@
       "128362929"
     ],
     [
-      "Nosedive",
-      "139622770"
-    ],
-    [
       "Thoughtless Space",
       "135282166"
     ],
@@ -2319,9 +2315,18 @@
     [
       "Destination 19",
       "82382742"
+    ],
+    [
+      "Icon Breaker 2",
+      "140061776"
     ]
   ],
   "legacy": [
+    {
+      "level": "Nosedive",
+      "id": "139622770",
+      "publisher": "rustere"
+    },
     {
       "level": "White Album",
       "id": "85242343",
@@ -7116,6 +7121,11 @@
       }
     },
     "Asbl11": {
+      "140061776": {
+        "video": "https://www.youtube.com/watch?v=oIr6kV2BKFk",
+        "completion_date": "2026-05-25",
+        "is_mobile": false
+      },
       "105219294": {
         "video": "https://www.youtube.com/watch?v=Dvk43zek5Mc",
         "completion_date": "2026-05-28",
