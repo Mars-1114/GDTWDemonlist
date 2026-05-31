@@ -2420,6 +2420,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "57390806": {
+        "video": "https://www.youtube.com/watch?v=5okUmVTdJCc",
+        "completion_date": "2026-05-31",
+        "is_mobile": false
+      },
       "82382742": {
         "video": "https://www.youtube.com/watch?v=4mwoPP5RCfg",
         "completion_date": "2026-05-29",
@@ -6867,6 +6872,11 @@
       }
     },
     "Gabu": {
+      "26133601": {
+        "video": "https://www.facebook.com/share/v/1DbfqrfNeV/",
+        "completion_date": "2026-05-31",
+        "is_mobile": false
+      },
       "88203501": {
         "video": "https://www.facebook.com/share/v/1Cr14mJ77v/",
         "completion_date": "2026-05-24",
@@ -7358,10 +7368,15 @@
         "is_mobile": true
       }
     },
-    "Laserrr": {
+    "Laserrrr": {
       "20761188": {
         "video": "https://www.youtube.com/watch?v=hzKk0j0QaQE",
         "completion_date": "2026-03-01",
+        "is_mobile": false
+      },
+      "10565740": {
+        "video": "https://www.youtube.com/watch?v=ZY5VnlYxKU0",
+        "completion_date": "2026-05-31",
         "is_mobile": false
       }
     },
