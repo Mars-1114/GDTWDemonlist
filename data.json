@@ -2319,6 +2319,10 @@
     [
       "Icon Breaker 2",
       "140061776"
+    ],
+    [
+      "ConTroller",
+      "79619086"
     ]
   ],
   "legacy": [
@@ -6420,6 +6424,11 @@
       }
     },
     "Cyter867": {
+      "79619086": {
+        "video": "https://www.youtube.com/watch?v=KkYPMJXNnJk",
+        "completion_date": "2026-06-01",
+        "is_mobile": false
+      },
       "109050674": {
         "video": "https://www.youtube.com/watch?v=UTUPhqZ3seM",
         "completion_date": "2026-05-25",
