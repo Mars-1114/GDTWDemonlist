@@ -2323,6 +2323,10 @@
     [
       "ConTroller",
       "79619086"
+    ],
+    [
+      "Microsoft DriveThru",
+      "94164875"
     ]
   ],
   "legacy": [
@@ -2424,6 +2428,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "94164875": {
+        "video": "https://www.youtube.com/watch?v=_SkMHbiCIQg",
+        "completion_date": "2026-06-02",
+        "is_mobile": false
+      },
       "57390806": {
         "video": "https://www.youtube.com/watch?v=5okUmVTdJCc",
         "completion_date": "2026-05-31",
