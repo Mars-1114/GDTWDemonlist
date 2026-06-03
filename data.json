@@ -2327,10 +2327,6 @@
     [
       "Microsoft DriveThru",
       "94164875"
-    ],
-    [
-      "BuTiTi III",
-      "57433866"
     ]
   ],
   "legacy": [
@@ -2432,11 +2428,6 @@
   ],
   "player": {
     "超大法國麵包🥖": {
-      "57433866": {
-        "video": " ",
-        "completion_date": "2026-06-02",
-        "is_mobile": false
-      },
       "94164875": {
         "video": "https://www.youtube.com/watch?v=_SkMHbiCIQg",
         "completion_date": "2026-06-02",
