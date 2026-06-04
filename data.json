@@ -2331,6 +2331,10 @@
     [
       "BuTiTi III",
       "57433866"
+    ],
+    [
+      "Exotic Energy",
+      "57312412"
     ]
   ],
   "legacy": [
@@ -2432,6 +2436,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "57312412": {
+        "video": "https://www.youtube.com/watch?v=kPNcIOZPE3w",
+        "completion_date": "2026-06-04",
+        "is_mobile": false
+      },
       "57433866": {
         "video": "https://www.youtube.com/watch?v=U9bg4ZacfB4",
         "completion_date": "2026-06-03",
