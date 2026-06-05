@@ -2351,6 +2351,10 @@
     [
       "Enlightened memories",
       "78011370"
+    ],
+    [
+      "SMARTISH MODE",
+      "89901532"
     ]
   ],
   "legacy": [
@@ -2452,6 +2456,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "89901532": {
+        "video": "https://www.youtube.com/watch?v=a2EnbXwYidc",
+        "completion_date": "2026-06-05",
+        "is_mobile": false
+      },
       "78011370": {
         "video": "https://www.youtube.com/watch?v=n5wP3MiSJzU",
         "completion_date": "2026-06-05",
