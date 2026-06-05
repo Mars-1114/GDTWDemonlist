@@ -2347,6 +2347,10 @@
     [
       "Witching Hour",
       "94083417"
+    ],
+    [
+      "Enlightened memories",
+      "78011370"
     ]
   ],
   "legacy": [
@@ -2448,6 +2452,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "78011370": {
+        "video": "https://www.youtube.com/watch?v=n5wP3MiSJzU",
+        "completion_date": "2026-06-05",
+        "is_mobile": false
+      },
       "94083417": {
         "video": "https://www.youtube.com/watch?v=n5wP3MiSJzU",
         "completion_date": "2026-06-05",
