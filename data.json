@@ -2335,6 +2335,18 @@
     [
       "Exotic Energy",
       "57312412"
+    ],
+    [
+      "Masochism",
+      "79665466"
+    ],
+    [
+      "Stereo Smasher",
+      "128096546"
+    ],
+    [
+      "Witching Hour",
+      "94083417"
     ]
   ],
   "legacy": [
@@ -2436,6 +2448,21 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "94083417": {
+        "video": "https://www.youtube.com/watch?v=n5wP3MiSJzU",
+        "completion_date": "2026-06-05",
+        "is_mobile": false
+      },
+      "128096546": {
+        "video": "https://www.youtube.com/watch?v=FjIPmF3f3jk",
+        "completion_date": "2026-06-05",
+        "is_mobile": false
+      },
+      "79665466": {
+        "video": "https://www.youtube.com/watch?v=mhvS4LOQ9W8",
+        "completion_date": "2026-06-05",
+        "is_mobile": false
+      },
       "57312412": {
         "video": "https://www.youtube.com/watch?v=kPNcIOZPE3w",
         "completion_date": "2026-06-04",
