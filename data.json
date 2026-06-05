@@ -2355,6 +2355,10 @@
     [
       "SMARTISH MODE",
       "89901532"
+    ],
+    [
+      "Rift",
+      "106905149"
     ]
   ],
   "legacy": [
@@ -2456,6 +2460,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "106905149": {
+        "video": "https://www.youtube.com/watch?v=QnSGg52_b_Q",
+        "completion_date": "2026-06-05",
+        "is_mobile": false
+      },
       "89901532": {
         "video": "https://www.youtube.com/watch?v=a2EnbXwYidc",
         "completion_date": "2026-06-05",
