@@ -293,6 +293,9 @@ function listPlayers(players) {
       else if (player.video.includes("youtube.com")) {
         var img = "yt.png";
       }
+      else if (player.video.includes("bilibili.com")) {
+        var img = "bilibili.png";
+      }
       else {
         var img = "link.png";
       }

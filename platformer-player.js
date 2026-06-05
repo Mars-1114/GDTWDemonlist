@@ -428,6 +428,9 @@ function listDemons(demons) {
       else if (demons_copy[n].video.includes("youtube.com")) {
         var img = "yt.png";
       }
+      else if (demons_copy[n].video.includes("bilibili.com")) {
+        var img = "bilibili.png";
+      }
       else {
         var img = "link.png";
       }
