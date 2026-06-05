@@ -7611,6 +7611,23 @@
         "completion_date": "2026-05-17",
         "is_mobile": false
       }
+    },
+    ":P": {
+      "61079355": {
+        "video": "https://www.bilibili.com/video/BV1XcLD6BEbx",
+        "completion_date": "2026-05-20",
+        "is_mobile": false
+      },
+      "17711004": {
+        "video": "https://www.bilibili.com/video/BV1RMVg69EGq",
+        "completion_date": "2026-05-30",
+        "is_mobile": false
+      },
+      "3979721": {
+        "video": "https://www.bilibili.com/video/BV18a7R6DEpP",
+        "completion_date": "2026-06-04",
+        "is_mobile": false
+      }
     }
   }
 }
