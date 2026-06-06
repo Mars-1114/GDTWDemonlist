@@ -2359,6 +2359,14 @@
     [
       "Rift",
       "106905149"
+    ],
+    [
+      "plunq",
+      "136984556"
+    ],
+    [
+      "L0L K3K",
+      "125658310"
     ]
   ],
   "legacy": [
@@ -2460,6 +2468,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "125658310": {
+        "video": "https://www.youtube.com/watch?v=gMz9p0LtUoI",
+        "completion_date": "2026-05-24",
+        "is_mobile": false
+      },
+      "136984556": {
+        "video": "https://www.youtube.com/watch?v=gIdcPnyqIz4",
+        "completion_date": "2026-04-21",
+        "is_mobile": false
+      },
       "106905149": {
         "video": "https://www.youtube.com/watch?v=QnSGg52_b_Q",
         "completion_date": "2026-06-05",
