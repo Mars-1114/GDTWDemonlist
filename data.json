@@ -2367,6 +2367,10 @@
     [
       "L0L K3K",
       "125658310"
+    ],
+    [
+      "Gaming",
+      "84765340"
     ]
   ],
   "legacy": [
@@ -2468,6 +2472,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "84765340": {
+        "video": "https://www.youtube.com/watch?v=gMz9p0LtUoI",
+        "completion_date": "2026-06-06",
+        "is_mobile": false
+      },
       "125658310": {
         "video": "https://www.youtube.com/watch?v=gMz9p0LtUoI",
         "completion_date": "2026-05-24",

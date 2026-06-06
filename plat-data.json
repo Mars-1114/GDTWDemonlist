@@ -151,6 +151,10 @@
     [
       "Sleepover ii",
       "127615297"
+    ],
+    [
+      "Meisou Hanabi",
+      "115933758"
     ]
   ],
   "legacy": [
@@ -581,6 +585,13 @@
       "127615297": {
         "video": "https://www.youtube.com/watch?v=cdddXgHGsqE",
         "completion_date": "2026-05-20",
+        "is_mobile": false
+      }
+    },
+    ":P": {
+      "115933758": {
+        "video": "https://www.bilibili.com/video/BV1Dk7S6BEH6/",
+        "completion_date": "2026-06-06",
         "is_mobile": false
       }
     }
