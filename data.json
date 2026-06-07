@@ -2383,6 +2383,10 @@
     [
       "Psychotic",
       "89277532"
+    ],
+    [
+      "Tron",
+      "81753058"
     ]
   ],
   "legacy": [
@@ -2484,6 +2488,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "81753058": {
+        "video": "https://www.youtube.com/watch?v=NUAznuFWdM0",
+        "completion_date": "2026-06-07",
+        "is_mobile": false
+      },
       "89277532": {
         "video": "https://www.youtube.com/watch?v=yPkaQATsqWQ",
         "completion_date": "2026-06-07",
