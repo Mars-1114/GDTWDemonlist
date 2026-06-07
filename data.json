@@ -2387,6 +2387,14 @@
     [
       "Tron",
       "81753058"
+    ],
+    [
+      "Psycho Killer",
+      "128295414"
+    ],
+    [
+      "BROOKLYNBLOODPOP",
+      "137097482"
     ]
   ],
   "legacy": [
@@ -2488,6 +2496,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "137097482": {
+        "video": "https://www.youtube.com/watch?v=ZV2ztE-veIs",
+        "completion_date": "2026-06-01",
+        "is_mobile": false
+      },
+      "128295414": {
+        "video": "https://www.youtube.com/watch?v=HAl3II8m3u8",
+        "completion_date": "2026-05-27",
+        "is_mobile": false
+      },
       "81753058": {
         "video": "https://www.youtube.com/watch?v=NUAznuFWdM0",
         "completion_date": "2026-06-07",
@@ -6906,6 +6924,11 @@
       }
     },
     "一根蔥": {
+      "137097482": {
+        "video": "https://www.youtube.com/watch?v=xaQ35sKHHGc",
+        "completion_date": "2026-06-04",
+        "is_mobile": false
+      },
       "77114615": {
         "video": "https://www.youtube.com/watch?v=FK9e4uk-xgY",
         "completion_date": "2026-05-28",
@@ -7299,6 +7322,11 @@
       }
     },
     "Asbl11": {
+      "137097482": {
+        "video": "https://www.youtube.com/watch?v=L-eKNQ1qStI",
+        "completion_date": "2026-05-31",
+        "is_mobile": false
+      },
       "109513812": {
         "video": "https://www.youtube.com/watch?v=Q4RCHtuQnwI",
         "completion_date": "2026-05-30",
