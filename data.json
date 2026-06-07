@@ -2375,6 +2375,14 @@
     [
       "Toxic Sewers",
       "110416299"
+    ],
+    [
+      "Myocardia",
+      "75248070"
+    ],
+    [
+      "Psychotic",
+      "89277532"
     ]
   ],
   "legacy": [
@@ -2476,6 +2484,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "89277532": {
+        "video": "https://www.youtube.com/watch?v=yPkaQATsqWQ",
+        "completion_date": "2026-06-07",
+        "is_mobile": false
+      },
+      "75248070": {
+        "video": "https://www.youtube.com/watch?v=7bz20Z7NIVw",
+        "completion_date": "2026-06-07",
+        "is_mobile": false
+      },
       "110416299": {
         "video": "https://www.youtube.com/watch?v=9kjj_rp0Qo4",
         "completion_date": "2026-06-07",
