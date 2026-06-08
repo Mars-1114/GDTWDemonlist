@@ -45,10 +45,6 @@
       "108103482"
     ],
     [
-      "Nextphase",
-      "107420706"
-    ],
-    [
       "The SMR Collection",
       "114333632"
     ],
@@ -158,6 +154,11 @@
     ]
   ],
   "legacy": [
+    {
+      "level": "Nextphase",
+      "id": "107420706",
+      "publisher": "Doshterhoz"
+    },
     {
       "level": "Tower of Infinity",
       "id": "97713011",
