@@ -1577,20 +1577,12 @@
       "45866767"
     ],
     [
-      "Ddiamond",
-      "74034217"
-    ],
-    [
       "Bored Walk",
       "75700448"
     ],
     [
       "The Winged Sword",
       "94748298"
-    ],
-    [
-      "Explosion",
-      "56889568"
     ],
     [
       "Runtime Error",
@@ -1803,10 +1795,6 @@
     [
       "Solar Flare",
       "90390075"
-    ],
-    [
-      "aether",
-      "99800205"
     ],
     [
       "Carnage Mode",
@@ -2037,10 +2025,6 @@
       "123186264"
     ],
     [
-      "find the answer",
-      "111797205"
-    ],
-    [
       "Devils Disco",
       "75350544"
     ],
@@ -2063,10 +2047,6 @@
     [
       "Edelweiss",
       "85393418"
-    ],
-    [
-      "Eon",
-      "101478916"
     ],
     [
       "Viridian",
@@ -2111,10 +2091,6 @@
     [
       "KOLOR KORE",
       "125771235"
-    ],
-    [
-      "Elite Z Rebirth",
-      "26157409"
     ],
     [
       "Shirakami",
@@ -2177,10 +2153,6 @@
       "92362284"
     ],
     [
-      "Frozen Cave",
-      "68908396"
-    ],
-    [
       "The Yandere",
       "54615662"
     ],
@@ -2237,10 +2209,6 @@
       "68323859"
     ],
     [
-      "NEUTRA",
-      "88611404"
-    ],
-    [
       "Carmine Cascade",
       "125486820"
     ],
@@ -2263,10 +2231,6 @@
     [
       "Edge of Destiny",
       "89187968"
-    ],
-    [
-      "Void Wave",
-      "59620684"
     ],
     [
       "Manic Machine",
@@ -2492,6 +2456,51 @@
       "level": "MONITORING",
       "id": "118026710",
       "publisher": "IIIGamBiTIII"
+    },
+    {
+      "level": "NEUTRA",
+      "id": "88611404",
+      "publisher": "Jenkins"
+    },
+    {
+      "level": "Frozen Cave",
+      "id": "68908396",
+      "publisher": "TheParadoxTeam"
+    },
+    {
+      "level": "Ddiamond",
+      "id": "74034217",
+      "publisher": "Lfritz"
+    },
+    {
+      "level": "find the answer",
+      "id": "111797205",
+      "publisher": "qalli"
+    },
+    {
+      "level": "Void Wave",
+      "id": "59620684",
+      "publisher": "CherryBT"
+    },
+    {
+      "level": "aether",
+      "id": "99800205",
+      "publisher": "ZeroSR"
+    },
+    {
+      "level": "Eon",
+      "id": "101478916",
+      "publisher": "Renn241"
+    },
+    {
+      "level": "Explosion",
+      "id": "56889568",
+      "publisher": "EternaswipVMAX"
+    },
+    {
+      "level": "Elite Z Rebirth",
+      "id": "26157409",
+      "publisher": "KrmaL"
     }
   ],
   "player": {
@@ -7059,183 +7068,6 @@
       "30219145": {
         "video": "https://www.facebook.com/share/v/19aD9xJaGS/",
         "completion_date": "2025-07-27",
-        "is_mobile": false
-      }
-    },
-    "Gabu": {
-      "132904827": {
-        "video": "https://www.facebook.com/share/v/18XBAW3hBF/",
-        "completion_date": "2026-06-10",
-        "is_mobile": false
-      },
-      "26133601": {
-        "video": "https://www.facebook.com/share/v/1DbfqrfNeV/",
-        "completion_date": "2026-05-31",
-        "is_mobile": false
-      },
-      "88203501": {
-        "video": "https://www.facebook.com/share/v/1Cr14mJ77v/",
-        "completion_date": "2026-05-24",
-        "is_mobile": false
-      },
-      "59620684": {
-        "video": "https://www.facebook.com/share/v/18edQSqm5T/",
-        "completion_date": "2026-05-16",
-        "is_mobile": false
-      },
-      "88611404": {
-        "video": "https://www.facebook.com/share/v/1EAY9JKduQ/",
-        "completion_date": "2026-05-10",
-        "is_mobile": false
-      },
-      "20761188": {
-        "video": "https://www.facebook.com/share/v/18ibS2SvkT/",
-        "completion_date": "2026-04-30",
-        "is_mobile": false
-      },
-      "68908396": {
-        "video": "https://www.facebook.com/share/v/1CzAsUJ2GJ/",
-        "completion_date": "2026-04-20",
-        "is_mobile": false
-      },
-      "95281931": {
-        "video": "https://www.facebook.com/share/v/1AsXtshbyK/",
-        "completion_date": "2026-04-18",
-        "is_mobile": false
-      },
-      "100485888": {
-        "video": "https://www.facebook.com/share/v/1CTYHKXpm3/",
-        "completion_date": "2026-04-12",
-        "is_mobile": false
-      },
-      "26157409": {
-        "video": "https://www.facebook.com/share/v/1L7vkrq5W5/",
-        "completion_date": "2026-03-31",
-        "is_mobile": false
-      },
-      "87425029": {
-        "video": "https://www.facebook.com/share/v/1KMp7jDfph/",
-        "completion_date": "2026-03-25",
-        "is_mobile": false
-      },
-      "101478916": {
-        "video": "https://www.facebook.com/share/v/1E7mJDroCT/",
-        "completion_date": "2026-03-21",
-        "is_mobile": false
-      },
-      "111797205": {
-        "video": "https://www.facebook.com/share/v/18R32vDajH/",
-        "completion_date": "2026-02-15",
-        "is_mobile": false
-      },
-      "77008332": {
-        "video": "https://www.facebook.com/share/v/189nX7X622/",
-        "completion_date": "2026-02-13",
-        "is_mobile": false
-      },
-      "118026710": {
-        "video": "https://www.facebook.com/share/v/183oUYrg26/",
-        "completion_date": "2025-09-28",
-        "is_mobile": false
-      },
-      "10565740": {
-        "video": "https://www.facebook.com/share/v/18CoBwzXom/",
-        "completion_date": "2026-02-02",
-        "is_mobile": false
-      },
-      "102562296": {
-        "video": "https://www.facebook.com/share/v/189iHkyhAV/",
-        "completion_date": "2026-02-01",
-        "is_mobile": false
-      },
-      "119259720": {
-        "video": "https://www.facebook.com/share/v/1GCaiTpbDm/",
-        "completion_date": "2026-01-10",
-        "is_mobile": false
-      },
-      "99800205": {
-        "video": "https://www.facebook.com/share/v/1DSRjC2ozN/",
-        "completion_date": "2026-01-04",
-        "is_mobile": false
-      },
-      "92957491": {
-        "video": "https://www.facebook.com/share/v/16eaewzaQG/",
-        "completion_date": "2025-12-31",
-        "is_mobile": false
-      },
-      "83825373": {
-        "video": "https://www.facebook.com/share/v/17wJsEWmNa/",
-        "completion_date": "2025-12-25",
-        "is_mobile": false
-      },
-      "38754426": {
-        "video": "https://www.facebook.com/share/v/1Gw6xm7zkH/",
-        "completion_date": "2025-12-21",
-        "is_mobile": false
-      },
-      "116735521": {
-        "video": "https://www.facebook.com/share/v/1AXFAQ37W1/",
-        "completion_date": "2025-12-18",
-        "is_mobile": false
-      },
-      "114422869": {
-        "video": "https://www.facebook.com/share/v/16abj5z775/",
-        "completion_date": "2025-12-12",
-        "is_mobile": false
-      },
-      "54953085": {
-        "video": "https://www.facebook.com/share/v/17c46osk6R/",
-        "completion_date": "2025-12-07",
-        "is_mobile": false
-      },
-      "58811846": {
-        "video": "https://www.facebook.com/share/v/16pNbDravX/",
-        "completion_date": "2025-11-16",
-        "is_mobile": false
-      },
-      "56889568": {
-        "video": "https://www.facebook.com/share/v/1FWhSQrDdp/",
-        "completion_date": "2025-11-06",
-        "is_mobile": false
-      },
-      "74034217": {
-        "video": "https://www.facebook.com/share/v/1AAJuZhxRf/",
-        "completion_date": "2025-11-01",
-        "is_mobile": false
-      },
-      "55184818": {
-        "video": "https://www.facebook.com/share/v/1A4RHjoj7a/",
-        "completion_date": "2025-10-10",
-        "is_mobile": false
-      },
-      "61079355": {
-        "video": "https://www.facebook.com/share/v/1FRowBDmqr/",
-        "completion_date": "2025-10-07",
-        "is_mobile": false
-      },
-      "96036893": {
-        "video": "https://www.facebook.com/share/v/1EYfLihvUE/",
-        "completion_date": "2025-09-17",
-        "is_mobile": false
-      },
-      "105409034": {
-        "video": "https://www.facebook.com/share/v/16rN3e71wL/",
-        "completion_date": "2025-09-11",
-        "is_mobile": false
-      },
-      "19759411": {
-        "video": "https://www.facebook.com/share/v/1N5bnP2Kic/",
-        "completion_date": "2025-09-06",
-        "is_mobile": false
-      },
-      "58825144": {
-        "video": "https://www.facebook.com/share/v/1JBG7uXb3F/",
-        "completion_date": "2025-08-20",
-        "is_mobile": false
-      },
-      "111372142": {
-        "video": "https://www.facebook.com/share/v/1FyRPp7m4o/",
-        "completion_date": "2025-08-23",
         "is_mobile": false
       }
     },
