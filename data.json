@@ -2367,6 +2367,14 @@
     [
       "Sky tech",
       "38047229"
+    ],
+    [
+      "Last Station",
+      "85492715"
+    ],
+    [
+      "Paranoid",
+      "141179568"
     ]
   ],
   "legacy": [
@@ -2513,6 +2521,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "141179568": {
+        "video": "https://www.youtube.com/watch?v=lvINpav2X3M",
+        "completion_date": "2026-06-05",
+        "is_mobile": false
+      },
       "62463489": {
         "video": "https://www.youtube.com/watch?v=YJYRtfSeYI4",
         "completion_date": "2026-06-08",
@@ -6951,6 +6964,11 @@
       }
     },
     "一根蔥": {
+      "49576382": {
+        "video": "https://www.youtube.com/watch?v=YaZvICjyEUk",
+        "completion_date": "2026-06-12",
+        "is_mobile": false
+      },
       "137097482": {
         "video": "https://www.youtube.com/watch?v=xaQ35sKHHGc",
         "completion_date": "2026-06-04",
@@ -7647,6 +7665,11 @@
       "38047229": {
         "video": "https://www.youtube.com/watch?v=qxjcKDtwQGI",
         "completion_date": "2026-04-21",
+        "is_mobile": false
+      },
+      "85492715": {
+        "video": "https://www.youtube.com/watch?v=yw597g4-5-E",
+        "completion_date": "2026-06-12",
         "is_mobile": false
       }
     }
