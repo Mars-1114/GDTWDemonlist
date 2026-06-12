@@ -2359,6 +2359,14 @@
     [
       "BROOKLYNBLOODPOP",
       "137097482"
+    ],
+    [
+      "Cold Sweat",
+      "63996127"
+    ],
+    [
+      "Sky tech",
+      "38047229"
     ]
   ],
   "legacy": [
@@ -7597,6 +7605,48 @@
       "3979721": {
         "video": "https://www.bilibili.com/video/BV18a7R6DEpP",
         "completion_date": "2026-06-04",
+        "is_mobile": false
+      }
+    },
+    "Eddie1Mc": {
+      "63996127": {
+        "video": "https://www.youtube.com/watch?v=4kNp42Rw7CU",
+        "completion_date": "2026-05-05",
+        "is_mobile": false
+      },
+      "26681070": {
+        "video": "https://www.youtube.com/watch?v=eWDRMbd0Cyo",
+        "completion_date": "2025-09-29",
+        "is_mobile": false
+      },
+      "34057654": {
+        "video": "https://www.youtube.com/watch?v=P7OfDLDLliM",
+        "completion_date": "2024-08-03",
+        "is_mobile": false
+      },
+      "55385816": {
+        "video": "https://www.youtube.com/watch?v=MjXlvRneVcc",
+        "completion_date": "2026-03-09",
+        "is_mobile": false
+      },
+      "78248443": {
+        "video": "https://www.youtube.com/watch?v=pg_Y0Cnriuk",
+        "completion_date": "2026-05-11",
+        "is_mobile": false
+      },
+      "59899374": {
+        "video": "https://www.youtube.com/watch?v=4RJkSBaolQE",
+        "completion_date": "2025-10-18",
+        "is_mobile": false
+      },
+      "55184818": {
+        "video": "https://www.youtube.com/watch?v=CjRQQSb1nbw",
+        "completion_date": "2024-09-18",
+        "is_mobile": false
+      },
+      "38047229": {
+        "video": "https://www.youtube.com/watch?v=qxjcKDtwQGI",
+        "completion_date": "2026-04-21",
         "is_mobile": false
       }
     }
