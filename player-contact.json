@@ -319,6 +319,11 @@
   },
   "Eddie1Mc": {
     "left-group": false,
-    "facebook": "https://www.facebook.com/groups/173396940046034/user/61575015368542"
+    "facebook": "https://www.facebook.com/groups/173396940046034/user/61575015368542",
+    "youtube": "https://www.youtube.com/@Eddie1Mc",
+    "gd": {
+      "icon": "eddie",
+      "username": "Eddie1Mc"
+    }
   }
 }

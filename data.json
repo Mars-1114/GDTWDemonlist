@@ -2375,6 +2375,10 @@
     [
       "Paranoid",
       "141179568"
+    ],
+    [
+      "Final Epilogue",
+      "28231603"
     ]
   ],
   "legacy": [
@@ -7195,6 +7199,11 @@
       }
     },
     "Asbl11": {
+      "28231603": {
+        "video": "https://www.youtube.com/watch?v=ELxAJOw76AA",
+        "completion_date": "2026-06-13",
+        "is_mobile": false
+      },
       "137097482": {
         "video": "https://www.youtube.com/watch?v=L-eKNQ1qStI",
         "completion_date": "2026-05-31",
@@ -7457,6 +7466,11 @@
       }
     },
     "阿茲": {
+      "132904827": {
+        "video": "https://www.youtube.com/watch?v=PhSZUMN_fak",
+        "completion_date": "2026-06-12",
+        "is_mobile": false
+      },
       "62214792": {
         "video": "https://www.youtube.com/watch?v=aqkho21ySGU",
         "completion_date": "2026-05-07",
@@ -7627,6 +7641,11 @@
       }
     },
     "Eddie1Mc": {
+      "24301797": {
+        "video": "https://www.youtube.com/watch?v=GATqUG3QdsQ",
+        "completion_date": "2025-07-24",
+        "is_mobile": false
+      },
       "63996127": {
         "video": "https://www.youtube.com/watch?v=4kNp42Rw7CU",
         "completion_date": "2026-05-05",
