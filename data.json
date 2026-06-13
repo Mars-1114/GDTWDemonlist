@@ -2379,6 +2379,10 @@
     [
       "Final Epilogue",
       "28231603"
+    ],
+    [
+      "Lone",
+      "141662502"
     ]
   ],
   "legacy": [
@@ -2525,6 +2529,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "141662502": {
+        "video": "https://www.youtube.com/watch?v=mXYsV94qvG0",
+        "completion_date": "2026-06-06",
+        "is_mobile": false
+      },
       "141179568": {
         "video": "https://www.youtube.com/watch?v=lvINpav2X3M",
         "completion_date": "2026-06-05",
@@ -7199,6 +7208,11 @@
       }
     },
     "Asbl11": {
+      "141662502": {
+        "video": "https://www.youtube.com/watch?v=HVnHmBY4qiU",
+        "completion_date": "2026-06-07",
+        "is_mobile": false
+      },
       "28231603": {
         "video": "https://www.youtube.com/watch?v=ELxAJOw76AA",
         "completion_date": "2026-06-13",
