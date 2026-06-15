@@ -2383,6 +2383,14 @@
     [
       "Lone",
       "141662502"
+    ],
+    [
+      "Yggdrasil",
+      "94505292"
+    ],
+    [
+      "TerrorCore",
+      "92093417"
     ]
   ],
   "legacy": [
@@ -7208,6 +7216,11 @@
       }
     },
     "Asbl11": {
+      "94505292": {
+        "video": "https://www.youtube.com/watch?v=PC0yhtparL8",
+        "completion_date": "2026-06-14",
+        "is_mobile": false
+      },
       "141662502": {
         "video": "https://www.youtube.com/watch?v=HVnHmBY4qiU",
         "completion_date": "2026-06-07",
@@ -7655,6 +7668,26 @@
       }
     },
     "Eddie1Mc": {
+      "95764848": {
+        "video": "https://www.youtube.com/watch?v=IvFhvqemNWc",
+        "completion_date": "2026-06-09",
+        "is_mobile": false
+      },
+      "141662502": {
+        "video": "https://www.youtube.com/watch?v=W1qP78-VW3U",
+        "completion_date": "2026-06-09",
+        "is_mobile": false
+      },
+      "19300593": {
+        "video": "https://www.youtube.com/watch?v=Etg_PEuOz9k",
+        "completion_date": "2025-11-15",
+        "is_mobile": false
+      },
+      "92093417": {
+        "video": "https://www.youtube.com/watch?v=yVr4556iwp0",
+        "completion_date": "2026-06-14",
+        "is_mobile": false
+      },
       "24301797": {
         "video": "https://www.youtube.com/watch?v=GATqUG3QdsQ",
         "completion_date": "2025-07-24",

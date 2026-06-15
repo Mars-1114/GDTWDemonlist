@@ -151,6 +151,10 @@
     [
       "Meisou Hanabi",
       "115933758"
+    ],
+    [
+      "Robot King",
+      "99927952"
     ]
   ],
   "legacy": [
@@ -593,6 +597,13 @@
       "115933758": {
         "video": "https://www.bilibili.com/video/BV1Dk7S6BEH6/",
         "completion_date": "2026-06-06",
+        "is_mobile": false
+      }
+    },
+    "Eddie1Mc": {
+      "99927952": {
+        "video": "https://www.youtube.com/watch?v=AolXBDXqQPU",
+        "completion_date": "2026-01-11",
         "is_mobile": false
       }
     }
