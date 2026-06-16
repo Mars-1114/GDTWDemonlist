@@ -2391,6 +2391,14 @@
     [
       "TerrorCore",
       "92093417"
+    ],
+    [
+      "Voltage",
+      "131599104"
+    ],
+    [
+      "Supernova",
+      "104895221"
     ]
   ],
   "legacy": [
@@ -2537,6 +2545,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "131599104": {
+        "video": "https://www.youtube.com/watch?v=MUwKQZpzszA",
+        "completion_date": "2026-06-16",
+        "is_mobile": false
+      },
       "141662502": {
         "video": "https://www.youtube.com/watch?v=mXYsV94qvG0",
         "completion_date": "2026-06-06",
@@ -5815,6 +5828,11 @@
       }
     },
     "Ruiq♿": {
+      "104895221": {
+        "video": "https://www.youtube.com/watch?v=UiLlGFxgGvg",
+        "completion_date": "2026-06-16",
+        "is_mobile": false
+      },
       "130508187": {
         "video": "https://www.youtube.com/watch?v=ClnIKM83EX8",
         "completion_date": "2026-01-15",
