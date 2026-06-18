@@ -2399,6 +2399,26 @@
     [
       "Supernova",
       "104895221"
+    ],
+    [
+      "Brimtanic Paradise",
+      "59535791"
+    ],
+    [
+      "Aimbotter Force",
+      "87930093"
+    ],
+    [
+      "Voided",
+      "82598548"
+    ],
+    [
+      "Sephtis",
+      "75857309"
+    ],
+    [
+      "WHITE LIGHT",
+      "117563662"
     ]
   ],
   "legacy": [
@@ -6148,6 +6168,16 @@
       }
     },
     "InfAstral": {
+      "87930093": {
+        "video": "https://www.youtube.com/watch?v=taNXXHY166A",
+        "completion_date": "2026-06-18",
+        "is_mobile": false
+      },
+      "59535791": {
+        "video": "https://www.youtube.com/watch?v=Sv2kLjneqUA",
+        "completion_date": "2026-06-18",
+        "is_mobile": false
+      },
       "32920197": {
         "video": "https://www.youtube.com/watch?v=a01Kq84JlQg",
         "completion_date": "2026-05-28",
@@ -7234,6 +7264,21 @@
       }
     },
     "Asbl11": {
+      "117563662": {
+        "video": "https://www.youtube.com/watch?v=ruxpcD1hV0k",
+        "completion_date": "2026-06-16",
+        "is_mobile": false
+      },
+      "75857309": {
+        "video": "https://www.youtube.com/watch?v=MOH1P9ly0TU",
+        "completion_date": "2026-06-17",
+        "is_mobile": false
+      },
+      "82598548": {
+        "video": "https://www.youtube.com/watch?v=rQUgSY54MM0",
+        "completion_date": "2026-06-18",
+        "is_mobile": false
+      },
       "94505292": {
         "video": "https://www.youtube.com/watch?v=PC0yhtparL8",
         "completion_date": "2026-06-14",
