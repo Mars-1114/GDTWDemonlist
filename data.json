@@ -2419,6 +2419,14 @@
     [
       "WHITE LIGHT",
       "117563662"
+    ],
+    [
+      "Corrosion",
+      "58385535"
+    ],
+    [
+      "BRUTAL",
+      "138356396"
     ]
   ],
   "legacy": [
@@ -2565,6 +2573,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "138356396": {
+        "video": "https://www.youtube.com/watch?v=T9l-PLkTXno",
+        "completion_date": "2026-05-03",
+        "is_mobile": false
+      },
       "131599104": {
         "video": "https://www.youtube.com/watch?v=MUwKQZpzszA",
         "completion_date": "2026-06-16",
@@ -6168,6 +6181,11 @@
       }
     },
     "InfAstral": {
+      "58385535": {
+        "video": "https://www.youtube.com/watch?v=wExcVoGiTG0",
+        "completion_date": "2026-06-19",
+        "is_mobile": false
+      },
       "87930093": {
         "video": "https://www.youtube.com/watch?v=taNXXHY166A",
         "completion_date": "2026-06-18",
