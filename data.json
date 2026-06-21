@@ -2427,6 +2427,14 @@
     [
       "BRUTAL",
       "138356396"
+    ],
+    [
+      "Light Travel",
+      "62497003"
+    ],
+    [
+      "Trickshot",
+      "136135870"
     ]
   ],
   "legacy": [
@@ -2573,6 +2581,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "136135870": {
+        "video": "https://www.youtube.com/watch?v=dfhodDQVTW0",
+        "completion_date": "2026-06-19",
+        "is_mobile": false
+      },
       "138356396": {
         "video": "https://www.youtube.com/watch?v=T9l-PLkTXno",
         "completion_date": "2026-05-03",
@@ -7282,6 +7295,16 @@
       }
     },
     "Asbl11": {
+      "62497003": {
+        "video": "https://www.youtube.com/watch?v=ev-SkfufVTQ",
+        "completion_date": "2026-06-20",
+        "is_mobile": false
+      },
+      "61910810": {
+        "video": "https://www.youtube.com/watch?v=cYY7EYk46TE",
+        "completion_date": "2026-06-21",
+        "is_mobile": false
+      },
       "117563662": {
         "video": "https://www.youtube.com/watch?v=ruxpcD1hV0k",
         "completion_date": "2026-06-16",
@@ -7574,6 +7597,11 @@
       }
     },
     "阿茲": {
+      "128236384": {
+        "video": "https://www.youtube.com/watch?v=bTO4WNDiRuc",
+        "completion_date": "2026-06-19",
+        "is_mobile": false
+      },
       "132904827": {
         "video": "https://www.youtube.com/watch?v=PhSZUMN_fak",
         "completion_date": "2026-06-12",
