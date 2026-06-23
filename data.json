@@ -2435,6 +2435,14 @@
     [
       "Trickshot",
       "136135870"
+    ],
+    [
+      "MIAMI",
+      "130673921"
+    ],
+    [
+      "Reeses Potentially 2",
+      "128991737"
     ]
   ],
   "legacy": [
@@ -2581,6 +2589,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "128991737": {
+        "video": "https://www.youtube.com/watch?v=0xl_l7G-BdM",
+        "completion_date": "2026-05-30",
+        "is_mobile": false
+      },
+      "130673921": {
+        "video": "https://www.youtube.com/watch?v=5r_mUPOJFdk",
+        "completion_date": "2026-05-17",
+        "is_mobile": false
+      },
       "136135870": {
         "video": "https://www.youtube.com/watch?v=dfhodDQVTW0",
         "completion_date": "2026-06-19",
