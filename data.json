@@ -2443,6 +2443,14 @@
     [
       "Reeses Potentially 2",
       "128991737"
+    ],
+    [
+      "Silverstone Hills",
+      "136953694"
+    ],
+    [
+      "encroaching dark",
+      "100041767"
     ]
   ],
   "legacy": [
@@ -2589,6 +2597,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "136953694": {
+        "video": "https://www.youtube.com/watch?v=XstNc-7HK3Y",
+        "completion_date": "2026-06-24",
+        "is_mobile": false
+      },
       "128991737": {
         "video": "https://www.youtube.com/watch?v=0xl_l7G-BdM",
         "completion_date": "2026-05-30",
@@ -6739,6 +6752,11 @@
       }
     },
     "Cyter867": {
+      "100041767": {
+        "video": "https://www.youtube.com/watch?v=3i0fEhI4OLE",
+        "completion_date": "2026-06-24",
+        "is_mobile": false
+      },
       "119653522": {
         "video": "https://www.youtube.com/watch?v=K1p_dDDq6jk",
         "completion_date": "2026-06-03",
