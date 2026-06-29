@@ -7,26 +7,42 @@
 
 let file = "data.json";
 let contact_file = "player-contact.json";
-let site = "https://api.aredl.net/v2/api/aredl/levels/";
+let site = "https://api.aredl.net/v2/api/aredl/levels";
 
 let local_data;
 let exd_arr = [];
 let levels = [];
+let first_load = false;
 
 $.getJSON(file, function(data) {
-  local_data = data;
-  for (let n = 0; n < data.demon.length; n++) {
-    $.ajax({
-      url: site + data.demon[n][1],
-      type: "GET",
-      success: function(lvl) {
-        exd_arr.push(lvl);
-      }
-    })
-  }
+    local_data = data;
+    $.ajax(
+        {
+            url: site,
+            type: "GET",
+            success: function(data) {
+                for (let i = 0; i < local_data['demon'].length; i++) {
+                    let exd_local = local_data['demon'][i];
+                    for (let j = 0; j < data.length; j++) {
+                        let exd_raw = data[j];
+                        let id = exd_raw.level_id + (exd_raw.two_player ? "_2p" : "");
+                        if (exd_local[1] == id) {
+                            // extract data
+                            exd_arr.push(exd_raw);
+                            break;
+                        }
+                    }
+                }
+                console.log(exd_arr);
+            }
+        }
+    )
 });
 
 $(document).ajaxStop(function() {
+    if (first_load) {return;}
+    first_load = true
+
   // sort by placement
   exd_arr.sort((a, b) => a.position - b.position);
 
@@ -44,13 +60,12 @@ $(document).ajaxStop(function() {
       }
       lvl_name = lvl_name.substring(0, deli_pos);
     }
-    //console.log(exd_arr[level]);
 
     let lvl = {
       name: lvl_name,
       id: id,
       id_display: exd_arr[level].level_id,
-      publisher: exd_arr[level].publisher.global_name,
+        publisher: exd_arr[level].publisher_id,
       placement: +exd_arr[level].position,
       gdtw_placement: +level + 1,
       is_2p: exd_arr[level].two_player,
@@ -58,7 +73,6 @@ $(document).ajaxStop(function() {
       pts: FORMULA(+level + 1, +exd_arr[level].position, exd_arr.length),
       completion: []
     }
-    console.log(lvl.pts)
 
     // check player completion
     for (let player in local_data.player) {
@@ -126,7 +140,6 @@ $(document).ajaxStop(function() {
 
     if (level.multi_lvl) {
       str += "<span style='color: var(--text-note); float: left; font-weight: normal'>\
-                &nbsp&nbsp(" + level.publisher + ")\
               </span>";
     }
 
@@ -171,7 +184,6 @@ $(document).ajaxStop(function() {
 
     if (level.multi_lvl) {
       str += "<span style='color: var(--text-note); float: left; font-weight: normal'>\
-                &nbsp&nbsp(" + level.publisher + ")\
               </span>";
     }
 
@@ -327,31 +339,36 @@ function listPlayers(players) {
 }
 
 function loadDetails(dID) {
-  let lvl = levels[dID - 1];
+    let lvl = levels[dID - 1];
+    console.log(lvl)
+    $.ajax({
+        url: "https://api.aredl.net/v2/api/users/" + lvl.publisher,
+        type: "GET",
+        success: function(data) {
+            let publisher = data.global_name;
+            // level name color
+            if (lvl.placement <= 50) {
+                var color = "--text-list-top";
+            }
+            else if (lvl.placement <= 75) {
+                var color = "--text-list-main";
+            }
+            else if (lvl.placement <= 150) {
+                var color = "--text-list-extended";
+            }
+            else {
+                var color = "--text-list-default";
+            }
 
-  // level name color
-  if (lvl.placement <= 50) {
-    var color = "--text-list-top";
-  }
-  else if (lvl.placement <= 75) {
-    var color = "--text-list-main";
-  }
-  else if (lvl.placement <= 150) {
-    var color = "--text-list-extended";
-  }
-  else {
-    var color = "--text-list-default";
-  }
-
-  let str = "";
-  str += "<div style='margin: 30px 0 5px 40px; height: 50px; width: 90%;'>\
-            <h1 style='float: left; color: var(" + color + "); max-width: 400px; height: 50px; line-height: 50px; margin: 0'>" + 
-              ((lvl.is_2p) ? "<span style='font-weight: normal; color: var(--text-note);'>[2P]&nbsp&nbsp</span>" : "") +
-              lvl.name + 
-            "</h1>\
-          </div>\
-          <div style='font-size: 18px; margin: 0 0 30px 40px;'>\
-            <i>by &nbsp"+ lvl.publisher + "</i>\
+            let str = "";
+            str += "<div style='margin: 30px 0 5px 40px; height: 50px; width: 90%;'>\
+            <h1 style='float: left; color: var(" + color + "); max-width: 400px; height: 50px; line-height: 50px; margin: 0'>" +
+                ((lvl.is_2p) ? "<span style='font-weight: normal; color: var(--text-note);'>[2P]&nbsp&nbsp</span>" : "") +
+                lvl.name +
+                "</h1>\
+              </div>\
+              <div style='font-size: 18px; margin: 0 0 30px 40px;'>\
+                <i>by &nbsp"+ publisher + "</i>\
           </div>\
           <div id='player-info' style='margin-left: 40px;'>\
             <span class='title' style='grid-column: 1/2; grid-row: 1/2'>\
@@ -367,29 +384,29 @@ function loadDetails(dID) {
               #" + lvl.gdtw_placement + "<span style='color: var(--text-note)'> [ #" + lvl.placement + " ]</span>\
             </span>\
             <span class='leaderboard-detail-content' style='grid-column: 2/3; grid-row: 2/3'>" +
-              lvl.id_display +
-            "</span>\
-            <span class='leaderboard-detail-content' style='grid-column: 3/4; grid-row: 2/3'>" +
-              lvl.pts +
-            "</span>\
-          </div>\
-          <div style='margin: 30px 0 20px 40px; width: 98%; height: 35px;'>\
-            <h2 style='margin: 0; width: 150px; float: left;'>\
-              通關玩家\
-            </h2>\
-          </div>\
-          <div id='player-level-list'>" + listPlayers(lvl.completion) + "</div>";
-  $("#player-detail").html(str);
+                lvl.id_display +
+                "</span>\
+                <span class='leaderboard-detail-content' style='grid-column: 3/4; grid-row: 2/3'>" +
+                lvl.pts +
+                "</span>\
+              </div>\
+              <div style='margin: 30px 0 20px 40px; width: 98%; height: 35px;'>\
+                <h2 style='margin: 0; width: 150px; float: left;'>\
+                  通關玩家\
+                </h2>\
+              </div>\
+              <div id='player-level-list'>" + listPlayers(lvl.completion) + "</div>";
+            $("#player-detail").html(str);
 
-  str = "";
-  str += "<div style='margin: 0 0 0 40px; height: 50px; width: 90%;'>\
-            <h1 style='float: left; color: var(" + color + "); max-width: 400px; height: 50px; line-height: 50px; margin: 0'>" + 
-              ((lvl.is_2p) ? "<span style='font-weight: normal; color: var(--text-note);'>[2P]&nbsp&nbsp</span>" : "") +
-              lvl.name + 
-            "</h1>\
-          </div>\
-          <div style='font-size: 14px; margin: 0 0 30px 40px;'>\
-            <i>by &nbsp"+ lvl.publisher + "</i>\
+            str = "";
+            str += "<div style='margin: 0 0 0 40px; height: 50px; width: 90%;'>\
+            <h1 style='float: left; color: var(" + color + "); max-width: 400px; height: 50px; line-height: 50px; margin: 0'>" +
+                ((lvl.is_2p) ? "<span style='font-weight: normal; color: var(--text-note);'>[2P]&nbsp&nbsp</span>" : "") +
+                lvl.name +
+                "</h1>\
+              </div>\
+              <div style='font-size: 14px; margin: 0 0 30px 40px;'>\
+                <i>by &nbsp"+ publisher + "</i>\
           </div>\
           <div id='player-info_mobile' style='margin-left: 40px;'>\
             <span class='title' style='grid-column: 1/2; grid-row: 1/2'>\
@@ -405,19 +422,21 @@ function loadDetails(dID) {
               #" + lvl.gdtw_placement + "<span style='color: var(--text-note)'> [ #" + lvl.placement + " ]</span>\
             </span>\
             <span class='leaderboard-detail-content' style='grid-column: 2/3; grid-row: 2/3'>" +
-              lvl.id_display +
-            "</span>\
-            <span class='leaderboard-detail-content' style='grid-column: 3/4; grid-row: 2/3'>" +
-              lvl.pts +
-            "</span>\
-          </div>\
-          <div id='mobile-level-list-title' style='margin: 30px 0 20px 40px; width: 98%; height: 35px;'>\
-            <h2 style='margin: 0; width: 150px; float: left;'>\
-              通關玩家\
-            </h2>\
-          </div>\
-          <div id='player-level-list_mobile'>" + listPlayers(lvl.completion) + "</div>";
-  $("#mobile-detail").html(str);
+                lvl.id_display +
+                "</span>\
+                <span class='leaderboard-detail-content' style='grid-column: 3/4; grid-row: 2/3'>" +
+                lvl.pts +
+                "</span>\
+              </div>\
+              <div id='mobile-level-list-title' style='margin: 30px 0 20px 40px; width: 98%; height: 35px;'>\
+                <h2 style='margin: 0; width: 150px; float: left;'>\
+                  通關玩家\
+                </h2>\
+              </div>\
+              <div id='player-level-list_mobile'>" + listPlayers(lvl.completion) + "</div>";
+            $("#mobile-detail").html(str);
+        }
+    });
 }
 
 // compute score
