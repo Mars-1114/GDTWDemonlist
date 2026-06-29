@@ -2451,6 +2451,10 @@
     [
       "encroaching dark",
       "100041767"
+    ],
+    [
+      "Four",
+      "139763131"
     ]
   ],
   "legacy": [
@@ -2597,6 +2601,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "139763131": {
+        "video": "https://www.youtube.com/watch?v=ie7vjC9vITE",
+        "completion_date": "2026-06-27",
+        "is_mobile": false
+      },
       "136953694": {
         "video": "https://www.youtube.com/watch?v=XstNc-7HK3Y",
         "completion_date": "2026-06-24",
@@ -6648,6 +6657,11 @@
       }
     },
     "carti": {
+      "138356396": {
+        "video": "https://www.facebook.com/share/v/1E8S8rTVZB/",
+        "completion_date": "2026-05-07",
+        "is_mobile": false
+      },
       "60284098": {
         "video": "https://www.facebook.com/share/v/1E8S8rTVZB/",
         "completion_date": "2026-05-25",
@@ -6752,6 +6766,11 @@
       }
     },
     "Cyter867": {
+      "139763131": {
+        "video": "https://www.youtube.com/watch?v=J3i5Cecgcbw",
+        "completion_date": "2026-05-06",
+        "is_mobile": false
+      },
       "100041767": {
         "video": "https://www.youtube.com/watch?v=3i0fEhI4OLE",
         "completion_date": "2026-06-24",
