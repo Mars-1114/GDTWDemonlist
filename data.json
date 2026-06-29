@@ -2455,6 +2455,10 @@
     [
       "Four",
       "139763131"
+    ],
+    [
+      "Tapwreck",
+      "58306889"
     ]
   ],
   "legacy": [
@@ -2601,6 +2605,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "58306889": {
+        "video": "https://www.youtube.com/watch?v=SXNMvapJUEg",
+        "completion_date": "2026-06-29",
+        "is_mobile": false
+      },
       "139763131": {
         "video": "https://www.youtube.com/watch?v=ie7vjC9vITE",
         "completion_date": "2026-06-27",
