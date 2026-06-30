@@ -27,7 +27,7 @@ $.getJSON(file, function(data) {
         }
         else {
           exd = all_exd_arr.find(x => +x.level_id == +lvl[1] && !x.two_player);
-
+        }
         if (exd !== undefined && !exd.legacy) {
           exd_arr.push(exd);
         }
