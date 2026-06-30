@@ -54,10 +54,12 @@ $(document).ajaxStop(function() {
     // extract level name
     let deli_pos = lvl_name.indexOf("(");
     let multi_lvl = false;
+    let publisher = ""
     if (deli_pos != -1) {
       if (lvl_name.substring(deli_pos + 1, lvl_name.length - 1) != "2P") {
         multi_lvl = true;
       }
+      publisher = lvl_name.substring(deli_pos + 1, lvl_name.length - 1);
       lvl_name = lvl_name.substring(0, deli_pos);
     }
 
@@ -66,6 +68,7 @@ $(document).ajaxStop(function() {
       id: id,
       id_display: exd_arr[level].level_id,
         publisher: exd_arr[level].publisher_id,
+        publisher_name: publisher,
       placement: +exd_arr[level].position,
       gdtw_placement: +level + 1,
       is_2p: exd_arr[level].two_player,
@@ -100,6 +103,8 @@ $(document).ajaxStop(function() {
 
     levels.push(lvl);
   }
+
+
 
   var str = "";
   for (let level of levels) {
@@ -140,6 +145,7 @@ $(document).ajaxStop(function() {
 
     if (level.multi_lvl) {
       str += "<span style='color: var(--text-note); float: left; font-weight: normal'>\
+                &nbsp&nbsp(" + level.publisher_name + ")\
               </span>";
     }
 
@@ -184,6 +190,7 @@ $(document).ajaxStop(function() {
 
     if (level.multi_lvl) {
       str += "<span style='color: var(--text-note); float: left; font-weight: normal'>\
+                &nbsp&nbsp(" + level.publisher_name + ")\
               </span>";
     }
 
