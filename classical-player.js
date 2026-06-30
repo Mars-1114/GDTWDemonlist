@@ -28,7 +28,6 @@ $.getJSON(file, function(data) {
         else {
           exd = all_exd_arr.find(x => +x.level_id == +lvl[1] && !x.two_player);
         }
-        //console.log(exd)
         if (exd !== undefined && !exd.legacy) {
           exd_arr.push(exd);
         }
@@ -108,7 +107,6 @@ $(document).ajaxStop(function() {
       }
     }
   })
-  //console.log(players);
 
   let place = 1;
   var str = "";

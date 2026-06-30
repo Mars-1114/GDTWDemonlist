@@ -33,7 +33,6 @@ $.getJSON(file, function(data) {
                         }
                     }
                 }
-                console.log(exd_arr);
             }
         }
     )
@@ -347,7 +346,6 @@ function listPlayers(players) {
 
 function loadDetails(dID) {
     let lvl = levels[dID - 1];
-    console.log(lvl)
     $.ajax({
         url: "https://api.aredl.net/v2/api/users/" + lvl.publisher,
         type: "GET",

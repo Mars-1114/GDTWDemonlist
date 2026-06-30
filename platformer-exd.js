@@ -37,7 +37,6 @@ $(document).ajaxStop(function() {
       }
       lvl_name = lvl_name.substring(0, deli_pos);
     }
-    //console.log(exd_arr[level]);
 
     let lvl = {
       name: lvl_name,
