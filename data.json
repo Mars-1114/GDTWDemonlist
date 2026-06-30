@@ -2459,6 +2459,10 @@
     [
       "Tapwreck",
       "58306889"
+    ],
+    [
+      "The Wonder of You",
+      "94858072"
     ]
   ],
   "legacy": [
@@ -2605,6 +2609,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "94858072": {
+        "video": "https://www.youtube.com/watch?v=UuaxnMYJaIg",
+        "completion_date": "2026-06-30",
+        "is_mobile": false
+      },
       "58306889": {
         "video": "https://www.youtube.com/watch?v=SXNMvapJUEg",
         "completion_date": "2026-06-29",
@@ -7686,6 +7695,11 @@
       }
     },
     "阿茲": {
+      "68848817": {
+        "video": "https://www.youtube.com/watch?v=VDh6eqFaFQ8",
+        "completion_date": "2026-06-30",
+        "is_mobile": false
+      },
       "78277793": {
         "video": "https://www.youtube.com/watch?v=oxdhRAEXyg4",
         "completion_date": "2026-06-25",
