@@ -1,4 +1,4 @@
-export function Home() {
+export function ClassicLevel() {
     return (
         <div>
             <h1>Welcome to My Site</h1>
