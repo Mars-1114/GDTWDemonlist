@@ -2463,6 +2463,18 @@
     [
       "The Wonder of You",
       "94858072"
+    ],
+    [
+      "Olly",
+      "137472888"
+    ],
+    [
+      "INCODE",
+      "132079107"
+    ],
+    [
+      "niflhel",
+      "90197147"
     ]
   ],
   "legacy": [
@@ -2609,6 +2621,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "132079107": {
+        "video": "https://www.youtube.com/watch?v=1j4Gf0JNZTA",
+        "completion_date": "2026-06-21",
+        "is_mobile": false
+      },
+      "137472888": {
+        "video": "https://www.youtube.com/watch?v=m03W4RVB0KQ",
+        "completion_date": "2026-06-25",
+        "is_mobile": false
+      },
       "94858072": {
         "video": "https://www.youtube.com/watch?v=UuaxnMYJaIg",
         "completion_date": "2026-06-30",
@@ -6252,6 +6274,16 @@
       }
     },
     "InfAstral": {
+      "90197147": {
+        "video": "https://www.youtube.com/watch?v=LQOITB3Du1M",
+        "completion_date": "2026-07-03",
+        "is_mobile": false
+      },
+      "138356396": {
+        "video": "https://www.youtube.com/watch?v=-del5B1yIww",
+        "completion_date": "2026-07-03",
+        "is_mobile": false
+      },
       "58385535": {
         "video": "https://www.youtube.com/watch?v=wExcVoGiTG0",
         "completion_date": "2026-06-19",
@@ -6784,6 +6816,11 @@
       }
     },
     "Cyter867": {
+      "137472888": {
+        "video": "https://www.youtube.com/watch?v=Dg77Ips1x8Y",
+        "completion_date": "2026-06-27",
+        "is_mobile": false
+      },
       "116401475": {
         "video": "https://www.youtube.com/watch?v=Jm0AEOz_-VU",
         "completion_date": "2026-06-29",
@@ -7147,6 +7184,11 @@
       }
     },
     "一根蔥": {
+      "128236384": {
+        "video": "https://www.youtube.com/watch?v=-67jDaaq1bg",
+        "completion_date": "2026-07-02",
+        "is_mobile": false
+      },
       "78277793": {
         "video": "https://www.youtube.com/watch?v=laCCTKmSmCM",
         "completion_date": "2026-06-29",
@@ -7695,6 +7737,11 @@
       }
     },
     "阿茲": {
+      "77008332": {
+        "video": "https://www.youtube.com/watch?v=E-Oexpkwar4",
+        "completion_date": "2026-07-02",
+        "is_mobile": false
+      },
       "68848817": {
         "video": "https://www.youtube.com/watch?v=VDh6eqFaFQ8",
         "completion_date": "2026-06-30",
