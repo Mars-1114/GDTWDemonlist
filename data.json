@@ -2475,6 +2475,10 @@
     [
       "niflhel",
       "90197147"
+    ],
+    [
+      "Sakupen Joy",
+      "139286842"
     ]
   ],
   "legacy": [
@@ -2621,6 +2625,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "139286842": {
+        "video": "https://www.youtube.com/watch?v=d6_A7loP7uY",
+        "completion_date": "2026-06-19",
+        "is_mobile": false
+      },
       "132079107": {
         "video": "https://www.youtube.com/watch?v=1j4Gf0JNZTA",
         "completion_date": "2026-06-21",
