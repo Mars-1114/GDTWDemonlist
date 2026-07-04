@@ -4,22 +4,23 @@ export interface LevelRaw {
     level_id: string;
     position: number;
     two_player: boolean;
-    legacy: boolean;
 }
 
-export interface LevelRecord {
+export interface record {
     url: string;
     date: string;
     id: string; // used for ordering
     is_mobile: boolean;
 }
 
-export type RecordsRaw = Record<string, LevelRecord>;
+export type LevelRecord = Record<string, record>; // player: record
+
+export type Records = Record<string, LevelRecord>;  // lvl_id: record
 
 export interface Level extends LevelRaw {
-    local_position: number;
+    local_position: number; // GDTW position
     points: number;
-    records: RecordsRaw;
+    records: LevelRecord;
 }
 
-export type Levels = Record<string, Level>;
+export type Levels = Record<string, Level>;  // lvl_id: detail
