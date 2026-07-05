@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mars-1114&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mars-1114/GDTWDemonlist.git&quot;,
+    &quot;accountId&quot;: &quot;e3a88e59-140f-4fd2-a23a-6fc43e7893e1&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="328ieatcocaGdQqUXUwYidkykWH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.classic_level.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "v4",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/GDTWDemonlist",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\GDTWDemonlist\img\icons" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="" />
+      <created>1756808696986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756808696986</updated>
+      <workItem from="1756808697978" duration="450000" />
+      <workItem from="1756993200123" duration="2070000" />
+      <workItem from="1757176009733" duration="1468000" />
+      <workItem from="1757255914004" duration="513000" />
+      <workItem from="1757348378184" duration="828000" />
+      <workItem from="1757440397529" duration="439000" />
+      <workItem from="1757466601345" duration="1397000" />
+      <workItem from="1757555297954" duration="982000" />
+      <workItem from="1757654254433" duration="933000" />
+      <workItem from="1757736663711" duration="2272000" />
+      <workItem from="1757944324699" duration="1186000" />
+      <workItem from="1758071139035" duration="1594000" />
+      <workItem from="1758113088701" duration="709000" />
+      <workItem from="1758200632925" duration="327000" />
+      <workItem from="1758261990327" duration="902000" />
+      <workItem from="1758278781921" duration="744000" />
+      <workItem from="1758297201879" duration="186000" />
+      <workItem from="1758346046633" duration="408000" />
+      <workItem from="1758437088104" duration="1369000" />
+      <workItem from="1758473462776" duration="1096000" />
+      <workItem from="1758475990296" duration="1522000" />
+      <workItem from="1758538766449" duration="1195000" />
+      <workItem from="1758608662577" duration="849000" />
+      <workItem from="1758637933854" duration="667000" />
+      <workItem from="1758748050853" duration="2271000" />
+      <workItem from="1758858824729" duration="1280000" />
+      <workItem from="1758883913388" duration="1545000" />
+      <workItem from="1758960541925" duration="1315000" />
+      <workItem from="1759029337577" duration="5453000" />
+      <workItem from="1759300289270" duration="1784000" />
+      <workItem from="1759499738100" duration="813000" />
+      <workItem from="1759565904683" duration="4246000" />
+      <workItem from="1759630617690" duration="2760000" />
+      <workItem from="1759755240576" duration="152000" />
+      <workItem from="1759852513202" duration="1066000" />
+      <workItem from="1760014579959" duration="2694000" />
+      <workItem from="1760062040384" duration="264000" />
+      <workItem from="1760117653583" duration="1953000" />
+      <workItem from="1760458446498" duration="1269000" />
+      <workItem from="1760671897590" duration="4994000" />
+      <workItem from="1760898603742" duration="4158000" />
+      <workItem from="1760954973325" duration="5000" />
+      <workItem from="1761213624133" duration="6990000" />
+      <workItem from="1761329493028" duration="5719000" />
+      <workItem from="1761588923298" duration="2511000" />
+      <workItem from="1761753983331" duration="2194000" />
+      <workItem from="1761914563436" duration="2058000" />
+      <workItem from="1762011783583" duration="5241000" />
+      <workItem from="1762258836304" duration="12859000" />
+      <workItem from="1762651712711" duration="14025000" />
+      <workItem from="1762999063927" duration="2767000" />
+      <workItem from="1763049185208" duration="2530000" />
+      <workItem from="1763223805248" duration="1951000" />
+      <workItem from="1763302527212" duration="6597000" />
+      <workItem from="1763390313590" duration="61000" />
+      <workItem from="1763626914850" duration="2047000" />
+      <workItem from="1763647758713" duration="5931000" />
+      <workItem from="1763802604136" duration="160000" />
+      <workItem from="1763806831144" duration="608000" />
+      <workItem from="1763877973963" duration="18000" />
+      <workItem from="1763888890720" duration="5509000" />
+      <workItem from="1763962890145" duration="2006000" />
+      <workItem from="1764075470565" duration="2127000" />
+      <workItem from="1764314033744" duration="925000" />
+      <workItem from="1764401091378" duration="3356000" />
+      <workItem from="1764515439869" duration="21941000" />
+      <workItem from="1764833171084" duration="5086000" />
+      <workItem from="1764905540736" duration="52069000" />
+      <workItem from="1765377875629" duration="16360000" />
+      <workItem from="1765616289620" duration="32107000" />
+      <workItem from="1766297247199" duration="3975000" />
+      <workItem from="1766457393813" duration="608000" />
+      <workItem from="1766545583073" duration="40316000" />
+      <workItem from="1767079047331" duration="5465000" />
+      <workItem from="1767211152908" duration="822000" />
+      <workItem from="1767265569899" duration="2376000" />
+      <workItem from="1767325573346" duration="1507000" />
+      <workItem from="1767475206488" duration="1662000" />
+      <workItem from="1767616597017" duration="2423000" />
+      <workItem from="1767799079451" duration="9252000" />
+      <workItem from="1768031992729" duration="3103000" />
+      <workItem from="1768051125501" duration="535000" />
+      <workItem from="1768478143858" duration="3985000" />
+      <workItem from="1768558575980" duration="15627000" />
+      <workItem from="1768912307716" duration="40838000" />
+      <workItem from="1769703377638" duration="655000" />
+      <workItem from="1769708903561" duration="20525000" />
+      <workItem from="1770017762329" duration="22761000" />
+      <workItem from="1770361567743" duration="31837000" />
+      <workItem from="1770837257611" duration="1630000" />
+      <workItem from="1771012472626" duration="39199000" />
+      <workItem from="1772093298716" duration="24340000" />
+      <workItem from="1773403746117" duration="54119000" />
+      <workItem from="1775478277174" duration="10925000" />
+      <workItem from="1776472452750" duration="15969000" />
+      <workItem from="1777176048496" duration="28670000" />
+      <workItem from="1778757507312" duration="20910000" />
+      <workItem from="1779258406013" duration="55260000" />
+      <workItem from="1780453337276" duration="8828000" />
+      <workItem from="1780664624385" duration="3023000" />
+      <workItem from="1780708923283" duration="20441000" />
+      <workItem from="1781190430475" duration="3912000" />
+      <workItem from="1781197146037" duration="75416000" />
+      <workItem from="1782722359566" duration="2251000" />
+      <workItem from="1782724846286" duration="2830000" />
+      <workItem from="1782730017268" duration="3878000" />
+      <workItem from="1782734276710" duration="452000" />
+      <workItem from="1782734751719" duration="641000" />
+      <workItem from="1782736702896" duration="4998000" />
+      <workItem from="1782751114451" duration="48566000" />
+      <workItem from="1783081493052" duration="20555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Submission&#10;&#10;超大法國麵包 - Northern Essence" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
