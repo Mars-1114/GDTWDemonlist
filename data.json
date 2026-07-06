@@ -2479,6 +2479,10 @@
     [
       "Sakupen Joy",
       "139286842"
+    ],
+    [
+      "Blueprint",
+      "138169386"
     ]
   ],
   "legacy": [
@@ -2625,6 +2629,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "138169386": {
+        "video": "https://www.youtube.com/watch?v=kgUXHW39FbI",
+        "completion_date": "2026-06-21",
+        "is_mobile": false
+      },
       "62869408": {
         "video": "https://www.youtube.com/watch?v=ej_pi_WtVH4",
         "completion_date": "2026-07-05",
@@ -7198,6 +7207,11 @@
       }
     },
     "一根蔥": {
+      "31462941": {
+        "video": "https://www.youtube.com/watch?v=X6TIH_9BCdY",
+        "completion_date": "2026-07-06",
+        "is_mobile": false
+      },
       "128236384": {
         "video": "https://www.youtube.com/watch?v=-67jDaaq1bg",
         "completion_date": "2026-07-02",
