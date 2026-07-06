@@ -1,7 +1,10 @@
 {
   "123": {
     "player": {
-      "": ""
+      "url": "test",
+      "date": "2010/1/1",
+      "is_mobile": true,
+      "id": 0
     }
   }
 }

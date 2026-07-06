@@ -9,7 +9,7 @@ export interface LevelRaw {
 export interface record {
     url: string;
     date: string;
-    id: string; // used for ordering
+    id: number; // used for ordering
     is_mobile: boolean;
 }
 

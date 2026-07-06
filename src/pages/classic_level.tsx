@@ -1,12 +1,13 @@
-import { useState } from "react";
+//import { useState } from "react";
+import { formatLevel } from "../utilities/format_levels"
+import { List } from "../components/list.tsx"
 
-export function ClassicLevel() {
-    const [atPosition, setAtPosition] = useState<number>(0);
-
+export async function ClassicLevel() {
+    //const [atPosition, setAtPosition] = useState<number>(0);
+    let levels = await formatLevel("classic");
     return (
-        <div>
-            <h1>Welcome to My Site</h1>
-            <p>This is the home page rewritten in React!</p>
-        </div>
+        <>
+            <List levels={levels} />
+        </>
     );
 }
