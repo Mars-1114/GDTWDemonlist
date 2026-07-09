@@ -1,4 +1,5 @@
 import * as obj from "./obj"
+import classicRecords from "../data/classic-records.json";
 
 export async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<obj.LevelRaw[]> {
     let list = (lvl_type === "classic") ? "aredl" : "arepl";
@@ -7,6 +8,9 @@ export async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<ob
 }
 
 export async function fetchRecord(lvl_type: "classic" | "platformer"): Promise<obj.Records> {
-    const response = await fetch(`../../data/${lvl_type}-records.json`);
-    return await response.json();
+    if (lvl_type === "classic") {
+        return classicRecords as obj.Records;
+    }
+
+    return {};
 }

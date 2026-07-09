@@ -13,14 +13,20 @@ export interface record {
     is_mobile: boolean;
 }
 
-export type LevelRecord = Record<string, record>; // player: record
-
-export type Records = Record<string, LevelRecord>;  // lvl_id: record
-
-export interface Level extends LevelRaw {
-    local_position: number; // GDTW position
-    points: number;
-    records: LevelRecord;
+export interface LevelRecord extends record {
+    player: string;
 }
 
+export interface Level extends LevelRaw {
+    local_id: string;
+    local_position: number; // GDTW position
+    points: number;
+    records: OrderedRecord;
+}
+
+export type Leaderboard = Level[]
+
 export type Levels = Record<string, Level>;  // lvl_id: detail
+export type Records = Record<string, Record<string, record>>;  // lvl_id: player: record
+export type OrderedLevels = Level[]
+export type OrderedRecord = LevelRecord[];

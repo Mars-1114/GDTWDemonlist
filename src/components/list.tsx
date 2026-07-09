@@ -1,19 +1,21 @@
 import * as obj from "../utilities/obj"
 
-function ListUnit({ name, position }: {name: string; position: number}) {
+type setRank = (rank: number) => void;
+
+function ListUnit({ name, position, setRank }: { name: string; position: number, setRank: setRank }) {
     return (
-        <div>
+        <div onClick={() => setRank(position - 1)}>
             #{position} - {name}
         </div>
     );
 }
 
-export function List({ levels }: {levels: obj.Levels}) {
+export function List({ levels, setRank }: { levels: obj.OrderedLevels, setRank: setRank }) {
     let rows = [];
     for (let lvl_id in levels) {
         let level = levels[lvl_id];
         rows.push(
-            <ListUnit name={level.name} position={level.local_position} />
+            <ListUnit key={lvl_id} name={level.name} position={level.local_position} setRank={setRank} />
         );
     }
     return (
