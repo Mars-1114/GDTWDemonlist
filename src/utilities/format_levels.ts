@@ -1,6 +1,6 @@
 import { fetchLevel, fetchRecord } from "./fetch_levels";
-import * as obj from "./obj"
-import { getPoints } from "./compute"
+import * as obj from "./obj";
+import { getPoints } from "./compute";
 
 export async function formatLevel(lvl_type: "classic" | "platformer") {
     let rawLevels = await fetchLevel(lvl_type);
@@ -22,19 +22,19 @@ export async function formatLevel(lvl_type: "classic" | "platformer") {
             };
             for (const player in records[lvl_id]) {
                 levelDetail.records.push(
-                    {
-                        ...records[lvl_id][player],
-                        player: player
-                    }
+                    [
+                        player,
+                        records[lvl_id][player]
+                    ]
                 );
             }
             levelDetail.records.sort((a, b) => {
-                let aDate = Date.parse(a.date);
-                let bDate = Date.parse(b.date);
+                let aDate = Date.parse(a[1].date);
+                let bDate = Date.parse(b[1].date);
                 if (aDate != bDate) {
                     return aDate - bDate;
                 }
-                return a.id - b.id;
+                return a[1].id - b[1].id;
             });
 
             formattedRecords.push(levelDetail);

@@ -1,5 +1,6 @@
 import * as obj from "./obj"
 import classicRecords from "../data/classic-records.json";
+import classicLegacy from "../data/classic-legacy.json";
 
 export async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<obj.LevelRaw[]> {
     let list = (lvl_type === "classic") ? "aredl" : "arepl";
@@ -10,6 +11,14 @@ export async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<ob
 export async function fetchRecord(lvl_type: "classic" | "platformer"): Promise<obj.Records> {
     if (lvl_type === "classic") {
         return classicRecords as obj.Records;
+    }
+
+    return {};
+}
+
+export async function fetchLegacy(lvl_type: "classic" | "platformer"): Promise<obj.Legacy> {
+    if (lvl_type === "classic") {
+        return classicLegacy as obj.Legacy;
     }
 
     return {};

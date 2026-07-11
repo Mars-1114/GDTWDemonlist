@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { formatLevel } from "../utilities/format_levels";
 import { List } from "../components/list.tsx";
-import { ListDetail } from "../components/list_detail.tsx"
+import { ListDetail } from "../components/list_detail.tsx";
 import * as obj from "../utilities/obj";
 
 export function ClassicLevel() {
@@ -36,7 +36,7 @@ export function ClassicLevel() {
                 {levels ? <List levels={levels} setRank={setRank} /> : <div>No levels found.</div>}
             </div>
             <div style={{flex: 1}}>
-                <ListDetail level_detail={levels[rank].records} />
+                {levels ? <ListDetail level={levels[rank]}/> : <></>}
             </div>
         </div>
     );

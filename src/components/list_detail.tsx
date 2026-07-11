@@ -1,24 +1,32 @@
 import * as obj from "../utilities/obj";
+import type {record} from "../utilities/obj";
 
-function ListDetailUnit({ player, rank, record }: { player: string, rank:  number, record: obj.record }) {
+function ListDetailUnit({ record, rank }: { record: [string, record], rank:  number }) {
     return (
         <div>
-            #{ rank } - { player } <a href={record.url}>vid</a>
+            #{ rank } - { record[0] } <a href={record[1].url}>vid</a> ({ record[1].date })
         </div>
     );
 }
 
-export function ListDetail({ level_detail }: { level_detail: obj.OrderedRecord}) {
+export function ListDetail({ level }: { level: obj.Level}) {
     let rows = [];
     let rank = 0;
-    for (const record of level_detail) {
+    for (const record of level.records) {
         ++rank;
         rows.push(
-            <ListDetailUnit player={record.player} rank={rank} record={record} />
+            <ListDetailUnit record={record} rank={rank}/>
         );
     }
     return (
         <>
+            <div>
+                <h2>{level.name}</h2>
+                <h4>by {level.publisher_id}</h4>
+                <div>
+                    #{level.local_position} [ #{level.position} ] / {level.level_id} / {level.points}
+                </div>
+            </div>
             { rows }
         </>
     );

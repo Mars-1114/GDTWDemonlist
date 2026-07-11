@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Navbar } from './components/navbar';
 import { ClassicLevel } from './pages/classic_level';
 import { About } from './pages/about';
+import { ClassicLeaderboard } from "./pages/classic_leaderboard.tsx";
 
 export default function App() {
     // Track the current view in state
@@ -12,6 +13,8 @@ export default function App() {
         switch (currentView) {
             case 'classic_level':
                 return <ClassicLevel />;
+            case 'classic_leaderboard':
+                return <ClassicLeaderboard />;
             case 'about':
                 return <About />;
             default:
