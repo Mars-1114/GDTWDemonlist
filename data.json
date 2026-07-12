@@ -2491,6 +2491,10 @@
     [
       "Inflective",
       "61591522"
+    ],
+    [
+      "Reflective",
+      "78831233"
     ]
   ],
   "legacy": [
@@ -2637,6 +2641,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "78831233": {
+        "video": "https://www.youtube.com/watch?v=tkrgIe6Eewk",
+        "completion_date": "2026-07-11",
+        "is_mobile": false
+      },
       "61591522": {
         "video": "https://www.youtube.com/watch?v=qwgVuvI7sBw",
         "completion_date": "2026-07-09",
@@ -5995,6 +6004,11 @@
       }
     },
     "Ruiq♿": {
+      "78831233": {
+        "video": "https://www.youtube.com/watch?v=rs4_Tp2yERc",
+        "completion_date": "2026-07-11",
+        "is_mobile": false
+      },
       "104895221": {
         "video": "https://www.youtube.com/watch?v=UiLlGFxgGvg",
         "completion_date": "2026-06-16",
