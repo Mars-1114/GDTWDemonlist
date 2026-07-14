@@ -1,114 +1,114 @@
 {
-  "Nosedive": {
-    "id": "139622770",
+  "139622770": {
+    "name": "Nosedive",
     "publisher": "rustere"
   },
-  "White Album": {
-    "id": "85242343",
+  "85242343": {
+    "name": "White Album",
     "publisher": "Javp"
   },
-  "Hyper Ascent": {
-    "id": "125801346",
+  "125801346": {
+    "name": "Hyper Ascent",
     "publisher": "NotIconixx"
   },
-  "in canon": {
-    "id": "80575901",
+  "80575901": {
+    "name": "in canon",
     "publisher": "cordeaux"
   },
-  "teehee colon three": {
-    "id": "90661998",
+  "90661998": {
+    "name": "teehee colon three",
     "publisher": "Wolvyy"
   },
-  "cja": {
-    "id": "112209834",
+  "112209834": {
+    "name": "cja",
     "publisher": "DWGro"
   },
-  "Delirium Tremens": {
-    "id": "73289291",
+  "73289291": {
+    "name": "Delirium Tremens",
     "publisher": "Vadi"
   },
-  "TRIANGULAR": {
-    "id": "81636212",
+  "81636212": {
+    "name": "TRIANGULAR",
     "publisher": "zNickname"
   },
-  "Gunslinga Corridor": {
-    "id": "58069223",
+  "58069223": {
+    "name": "Gunslinga Corridor",
     "publisher": "zEvilPrisma"
   },
-  "ICE Carbon Diablo X": {
-    "id": "814678",
+  "814678": {
+    "name": "ICE Carbon Diablo X",
     "publisher": "Roadbose"
   },
-  "Hate War": {
-    "id": "23328970",
+  "23328970": {
+    "name": "Hate War",
     "publisher": "Stormfly"
   },
-  "MY SONG": {
-    "id": "83431859",
+  "83431859": {
+    "name": "MY SONG",
     "publisher": "lGenoxide"
   },
-  "Eternal Star": {
-    "id": "68894546",
+  "68894546": {
+    "name": "Eternal Star",
     "publisher": "GOKILL"
   },
-  "Ainoseikatsu": {
-    "id": "77396433",
+  "77396433": {
+    "name": "Ainoseikatsu",
     "publisher": "TheBlackHell"
   },
-  "Thanatophobia": {
-    "id": "62809982",
+  "62809982": {
+    "name": "Thanatophobia",
     "publisher": "ARtu"
   },
-  "CraZy III": {
-    "id": "73725400",
+  "73725400": {
+    "name": "CraZy III",
     "publisher": "DavJT"
   },
-  "Night Life": {
-    "id": "58620226",
+  "58620226": {
+    "name": "Night Life",
     "publisher": "para"
   },
-  "Leyak": {
-    "id": "61137742",
+  "61137742": {
+    "name": "Leyak",
     "publisher": "EnZore"
   },
-  "MONITORING": {
-    "id": "118026710",
+  "118026710": {
+    "name": "MONITORING",
     "publisher": "IIIGamBiTIII"
   },
-  "NEUTRA": {
-    "id": "88611404",
+  "88611404": {
+    "name": "NEUTRA",
     "publisher": "Jenkins"
   },
-  "Frozen Cave": {
-    "id": "68908396",
+  "68908396": {
+    "name": "Frozen Cave",
     "publisher": "TheParadoxTeam"
   },
-  "Ddiamond": {
-    "id": "74034217",
+  "74034217": {
+    "name": "Ddiamond",
     "publisher": "Lfritz"
   },
-  "find the answer": {
-    "id": "111797205",
+  "111797205": {
+    "name": "find the answer",
     "publisher": "qalli"
   },
-  "Void Wave": {
-    "id": "59620684",
+  "59620684": {
+    "name": "Void Wave",
     "publisher": "CherryBT"
   },
-  "aether": {
-    "id": "99800205",
+  "99800205": {
+    "name": "aether",
     "publisher": "ZeroSR"
   },
-  "Eon": {
-    "id": "101478916",
+  "101478916": {
+    "name": "Eon",
     "publisher": "Renn241"
   },
-  "Explosion": {
-    "id": "56889568",
+  "56889568": {
+    "name": "Explosion",
     "publisher": "EternaswipVMAX"
   },
-  "Elite Z Rebirth": {
-    "id": "26157409",
+  "26157409": {
+    "name": "Elite Z Rebirth",
     "publisher": "KrmaL"
   }
 }

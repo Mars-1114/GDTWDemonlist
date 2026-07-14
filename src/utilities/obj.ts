@@ -1,39 +1,96 @@
-export interface LevelRaw {
+/* ------ RAW DATA ------
+ * Used for data fetching
+ * ---------------------- */
+
+export interface RawLevel {
     name: string;
     publisher_id: string;
     level_id: string;
     position: number;
     two_player: boolean;
+    legacy: boolean;
 }
 
-export interface record {
+export interface RawRecord {
     url: string;
     date: string;
     id: number; // used for ordering
     is_mobile: boolean;
 }
 
-export interface Level extends LevelRaw {
-    local_id: string;
-    local_position: number; // GDTW position
-    points: number;
-    records: [string, record][]; // [player, record]
-}
-
-export interface LegacyLevel {
-    id: string;
+export interface Legacy {
+    name: string;
     publisher: string;
 }
 
-export interface LeaderboardPlayer {
-    player: string;
-    points: number;
-    records: [string, record][]; // [lvl_name, record]
+export interface RawPlayerInfo {
+    in_group: boolean;
+    contact: {
+        facebook?: string;
+        youtube?: string;
+        discord?: string;
+        gd?: {
+            icon: string;
+            account: string;
+        };
+    }
 }
-export type UnorderedLeaderboard = Record<string, LeaderboardPlayer>;  // player: leaderboard
-export type Leaderboard = LeaderboardPlayer[];
 
-export type Records = Record<string, Record<string, record>>;  // lvl_id: player: record
-export type OrderedLevels = Level[];
+export type RawLevels = RawLevel[];
+export type RawRecords = Record<LevelId, Record<Player, RawRecord>>;
+export type Legacies = Record<LevelId, Legacy>;
+export type Players = Record<Player, RawPlayerInfo>;
 
-export type Legacy = Record<string, LegacyLevel>;
+export interface RawData {
+    levels: RawLevels;
+    records: RawRecords;
+    legacies: Legacies;
+    players: Players;
+}
+
+
+/* ------- FORMATTED DATA -------
+ * Used for internal computation
+ * ------------------------------ */
+
+export interface FormattedLevel {
+    name: string;
+    publisher?: string;
+    publisher_id?: string;
+    aredl_rank: number;
+    local_rank: number;
+    points: number;
+    two_player: boolean;
+    is_legacy: boolean;
+
+    records: Map<Player, RawRecord>;
+}
+
+export interface FormattedPlayer {
+    points: number;
+    rank: number;
+
+    records: Map<LevelId, RawRecord>;
+}
+
+export interface ChangelogInfo {
+    addition: LevelId[];
+    removal: LevelId[];
+
+    update?: {
+        version: string;
+        message: string;
+    }
+}
+
+export type Demonlist = Map<LevelId, FormattedLevel>;
+export type Leaderboard = Map<Player, FormattedPlayer>;
+export type Changelog = Map<Date, ChangelogInfo>;
+
+
+/* ------- ALIASES -------
+ * Used for readability
+ * ----------------------- */
+
+export type LevelId = string;
+export type Player = string;

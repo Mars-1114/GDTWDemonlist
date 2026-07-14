@@ -1,33 +1,68 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Navbar } from './components/navbar';
 import { ClassicLevel } from './pages/classic_level';
+import { ClassicLeaderboard } from "./pages/classic_leaderboard";
 import { About } from './pages/about';
-import { ClassicLeaderboard } from "./pages/classic_leaderboard.tsx";
+
+import { fetchAll } from "./utilities/fetch";
+import { formatDemonlist, formatLeaderboard } from "./utilities/format";
+import * as obj from "./utilities/obj";
 
 export default function App() {
-    // Track the current view in state
     const [currentView, setCurrentView] = useState<string>('classic_level');
+    const [loading, setLoading] = useState<boolean>(true);
+    const [classicDemonlist, setClassicDemonlist] = useState<obj.Demonlist | null>(null);
+    const [classicLeaderboard, setClassicLeaderboard] = useState<obj.Leaderboard | null>(null);
+    const [platformerDemonlist, setPlatformerDemonlist] = useState<obj.Demonlist | null>(null);
+    const [platformerLeaderboard, setPlatformerLeaderboard] = useState<obj.Leaderboard | null>(null);
 
-    // Determine which component to render
+    useEffect(() => {
+        async function loadData() {
+            try {
+                let classicData = await fetchAll("classic");
+                let classicDemonlist = formatDemonlist(classicData);
+                let classicLeaderboard = formatLeaderboard(classicDemonlist);
+                setClassicDemonlist(classicDemonlist);
+                setClassicLeaderboard(classicLeaderboard);
+            }
+            catch(error) {
+                console.log("Failed to fetch classic levels:", error);
+            }
+
+            try {
+                let platformerData = await fetchAll("platformer");
+                let platformerDemonlist = formatDemonlist(platformerData);
+                let platformerLeaderboard = formatLeaderboard(platformerDemonlist);
+                setPlatformerDemonlist(platformerDemonlist);
+                setPlatformerLeaderboard(platformerLeaderboard);
+            }
+            catch(error) {
+                console.log("Failed to fetch platformer levels:", error);
+            }
+
+            setLoading(false);
+        }
+
+        loadData();
+    }, []);
+
     const renderView = () => {
         switch (currentView) {
             case 'classic_level':
-                return <ClassicLevel />;
+                return <ClassicLevel demonlist={classicDemonlist} loading={loading} />;
             case 'classic_leaderboard':
-                return <ClassicLeaderboard />;
+                return <ClassicLeaderboard leaderboard={classicLeaderboard} demonlist={classicDemonlist!} loading={loading} />;
             case 'about':
                 return <About />;
             default:
-                return <ClassicLevel />;
+                return <ClassicLevel demonlist={classicDemonlist} loading={loading} />;
         }
     };
 
     return (
         <div>
-            {/* Pass the state setter down to the Navbar */}
             <Navbar setView={setCurrentView} />
 
-            {/* Render the active page content */}
             <main style={{ padding: '20px' }}>
                 {renderView()}
             </main>
