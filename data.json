@@ -2495,6 +2495,30 @@
     [
       "Reflective",
       "78831233"
+    ],
+    [
+      "paranoia",
+      "113364415"
+    ],
+    [
+      "Semicolon 3",
+      "81944593"
+    ],
+    [
+      "lezicuv",
+      "13314218"
+    ],
+    [
+      "Nostalgic Overdrive",
+      "96977745"
+    ],
+    [
+      "Plasma Pulse Finale",
+      "38655495"
+    ],
+    [
+      "Dolos",
+      "58417850"
     ]
   ],
   "legacy": [
@@ -2641,6 +2665,21 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "58417850": {
+        "video": "https://www.youtube.com/watch?v=MDgWTWlq6fw",
+        "completion_date": "2026-07-15",
+        "is_mobile": false
+      },
+      "81944593": {
+        "video": "https://www.youtube.com/watch?v=-tFULXHpiag",
+        "completion_date": "2026-07-14",
+        "is_mobile": false
+      },
+      "113364415": {
+        "video": "https://www.youtube.com/watch?v=S2zHGoa5cU4",
+        "completion_date": "2026-07-12",
+        "is_mobile": false
+      },
       "78831233": {
         "video": "https://www.youtube.com/watch?v=tkrgIe6Eewk",
         "completion_date": "2026-07-11",
@@ -7152,6 +7191,11 @@
       }
     },
     "HankK漢": {
+      "95764848": {
+        "video": "https://www.youtube.com/watch?v=DYYrqqKTjuE",
+        "completion_date": "2026-07-13",
+        "is_mobile": false
+      },
       "95757926": {
         "video": "https://www.youtube.com/watch?v=Im00lSgWYg0",
         "completion_date": "2026-06-28",
@@ -7500,6 +7544,21 @@
       }
     },
     "Asbl11": {
+      "38655495": {
+        "video": "https://www.youtube.com/watch?v=zgkUiRW9w6s",
+        "completion_date": "2026-07-13",
+        "is_mobile": false
+      },
+      "96977745": {
+        "video": "https://www.youtube.com/watch?v=tlI40JozBrk",
+        "completion_date": "2026-07-15",
+        "is_mobile": false
+      },
+      "13314218": {
+        "video": "https://www.youtube.com/watch?v=xEMZYPlGU5Y",
+        "completion_date": "2026-07-14",
+        "is_mobile": false
+      },
       "62497003": {
         "video": "https://www.youtube.com/watch?v=ev-SkfufVTQ",
         "completion_date": "2026-06-20",
