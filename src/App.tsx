@@ -3,9 +3,10 @@ import { Navbar } from './components/navbar';
 import { ClassicLevel } from './pages/classic_level';
 import { ClassicLeaderboard } from "./pages/classic_leaderboard";
 import { About } from './pages/about';
+import { Guidelines } from "./pages/guidelines.tsx";
 
 import { fetchAll } from "./utilities/fetch";
-import { formatDemonlist, formatLeaderboard } from "./utilities/format";
+import { formatDemonlist, formatLeaderboard, formatChangelog } from "./utilities/format";
 import * as obj from "./utilities/obj";
 
 export default function App() {
@@ -24,6 +25,8 @@ export default function App() {
                 let classicLeaderboard = formatLeaderboard(classicDemonlist);
                 setClassicDemonlist(classicDemonlist);
                 setClassicLeaderboard(classicLeaderboard);
+
+                console.log(formatChangelog(classicDemonlist));
             }
             catch(error) {
                 console.log("Failed to fetch classic levels:", error);
@@ -54,6 +57,8 @@ export default function App() {
                 return <ClassicLeaderboard leaderboard={classicLeaderboard} demonlist={classicDemonlist!} loading={loading} />;
             case 'about':
                 return <About />;
+            case 'guidelines':
+                return <Guidelines />;
             default:
                 return <ClassicLevel demonlist={classicDemonlist} loading={loading} />;
         }

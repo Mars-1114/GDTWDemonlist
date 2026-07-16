@@ -1,0 +1,334 @@
+import { Latex } from "../utilities/latex";
+import Mobile from "../assets/img/mobile.png";
+import TwoPlayer from "../assets/img/2P.png";
+
+export function Guidelines() {
+    return (
+        <div className="content">
+            <h3>一、上傳成績：</h3>
+            <ol>
+                <li>只有臉書社團<b>「幾何衝刺台灣遊玩討論區」(下簡稱社團) 之社員</b>才能登錄成績。</li>
+                <li>有二種途徑可以提交紀錄至榜上：</li>
+                <ol style={{listStyleType: "lower-roman"}}>
+                    <li>在社團發布貼文 / 連結</li>
+                    <li>填寫<a className="link" href="https://forms.gle/vyMuAXSCKD9K9toj6">表單</a></li>
+                </ol>
+                <li>該關卡難度必須為<b>Extreme Demon</b>。</li>
+                <li>
+                    欲登錄紀錄者，需附上以下證明：
+                    <ul style={{listStyleType: "square"}}>
+                        <li>若通關關卡為 Classic Extreme <b>前400名 (含)</b> 或 Platformer Extreme <b>前50名
+                            (含)</b>，須提供 <b>i. ~ iv.</b> 之證明
+                        </li>
+                        <li>其餘關卡須提供 <b>i.</b> ，以及 <b>ii. ~ iv. 內任一項</b> 之證明</li>
+                    </ul>
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>
+                            完整通關錄影
+                            <ol style={{listStyleType: "lower-latin"}}>
+                                <li>
+                                    對於<b>Classic Extreme Demon</b>：
+                                    <ul style={{listStyleType: "disc"}}>
+                                        <li>須包含自<strong>前次嘗試之死亡</strong>，<b>角色重生</b>至<strong>完全彈出通關視窗</strong>之錄影
+                                        </li>
+                                        <li>若玩家於<b>首次嘗試</b>即通關，則需包含<b>進入關卡</b>之片段</li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    對於<b>Platformer Extreme Demon</b>：
+                                    <ul style={{listStyleType: "disc"}}>
+                                        <li>須包含<strong>所有記錄點</strong>之通過片段</li>
+                                        <li>每個片段須包含<strong>前次嘗試之死亡</strong>至<b>碰觸下個紀錄點</b>或<b>完全彈出通關視窗</b>之過程
+                                        </li>
+                                        <li>若玩家於<b>首次嘗試</b>即通關，則需包含<b>進入關卡</b>或<b>紀錄點</b>之片段
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>遊玩畫面須清晰可見，且無裁切或遮擋螢幕</li>
+                            </ol>
+                        </li>
+                        <li>
+                            可明顯聽見之<b>點擊聲</b>
+                            <ul style={{listStyleType: "disc"}}>
+                                <li style={{color: "#ff93dd"} /* --text-highlight-important */}>不允許使用Click
+                                    Sounds模組來提供點擊聲
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            在<b>通關畫面</b>中顯示<b>作弊指示燈</b> (Cheat Indicator)
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>此功能可透過 <a className="link"
+                                                    href="https://geode-sdk.org">Geode</a> 安裝之任意 <b>Mod
+                                    Menu</b> (Mega Hack, Eclipse, QOL, Prism 等) 開啟
+                                </li>
+                                <li style={{color: "#ff93dd"} /* --text-highlight-important */}>若無安裝 Geode，則無需提供此證明</li>
+                            </ul>
+                        </li>
+                        <li>
+                            提供<b>原始 (即未剪輯) 之錄影檔</b>
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>
+                                    若通關關卡為 Classic Extreme <b>前400名 (含)</b> 或 Platformer Extreme <b>前50名
+                                    (含)</b>，須額外遵守以下規定：
+                                    <ol style={{listStyleType: "lower-latin"}}>
+                                        <li>點擊聲錄製於另一獨立音軌</li>
+                                        <li>上傳至<strong>不會修改影片格式</strong>之平台 (如 Google Drive)</li>
+                                    </ol>
+                                </li>
+                            </ul>
+                        </li>
+                    </ol>
+                    <ul style={{listStyleType: "square"}}>
+                        <li>如該紀錄已被 <b>AREDL</b> 或 <b>Pointercrate</b> 審核通過，則無須另外提供證明。</li>
+                    </ul>
+                </li>
+                <li>
+                    證明影片須上傳至<b>可被社團內所有人檢視</b>之網站，包含但不限於：
+                    <ul style={{listStyleType: "disc"}}>
+                        <li>本社社團</li>
+                        <li>YouTube</li>
+                        <li>BiliBili</li>
+                        <li>Twitch (限精華)</li>
+                    </ul>
+                    <ul style={{listStyleType: "square"}}>
+                        <li style={{color: "#ff93dd"} /* --text-highlight-important */}>不接受上傳至色情網站之影片</li>
+                    </ul>
+                </li>
+            </ol>
+            <h3>二、玩家規範：</h3>
+            <ol>
+                <li>
+                    以下行為在本榜被<strong>禁止</strong>：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>
+                            使用<b>外掛</b>及<b>模組</b>來進行利於通關的行為，包含但不限於：
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>NoClip - 傷害無視</li>
+                                <li>Speedhack - 調整速度</li>
+                                <li>Show Hitboxes - 顯示碰撞箱</li>
+                                <li>Hitbox Multiplier - 縮放碰撞箱</li>
+                                <li>Bot - 使用預錄點擊遊玩</li>
+                            </ul>
+                            於第<b>2</b>點允許之模組則不在此限。
+                        </li>
+                        <li>自行調整<b>關卡難度</b>，如刪刺 / 移動障礙物等</li>
+                        <li>盜用他人影片</li>
+                        <li>在Classical關卡或Platformer關卡內任一紀錄點中以<b>拼接影片</b>之形式證明</li>
+                        <li>
+                            <b>多人共用</b>同一社團帳號登錄成績
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>此情形包含<b>代替該玩家通關</b></li>
+                            </ul>
+                        </li>
+                        <li>
+                            使用<b>Smooth Fix</b>功能來刻意減緩關卡速度
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>若無大幅影響關卡速度則仍可使用</li>
+                            </ul>
+                        </li>
+                        <li>使用會影響紀錄審查之模組 (如<b>Click Sounds</b>) 或剪輯手法 (如大幅遮擋畫面)</li>
+                        <li>使用明顯非設計之路線 (<b>Secret Way</b>) 通關</li>
+                        <li>遊玩該關之<b>舊版本</b></li>
+                        <li>在<b>Platformer關卡</b>傳送至或起始於某存檔點</li>
+                    </ol>
+                    <ul style={{listStyleType: "square"}}>
+                        <li>違反上述 <b>i. ~
+                            v.</b> 任一項且欺瞞其行為者，將會被<strong>永久禁止登錄成績</strong>並<strong>將其先前所登錄之成績刪除</strong>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    以下行為在本榜被<strong style={{color: "#00ff00"} /* --text-highlight-allow */}>允許</strong>：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>
+                            使用以下外掛或模組：
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>Click Between Frames</li>
+                                <li>FPS/TPS Bypass</li>
+                                <li>0% Practice Complete</li>
+                                <li>Show Hitboxes on Death</li>
+                                <li>Deathlink</li>
+                            </ul>
+                        </li>
+                        <li>在<b>練習模式</b>下自起點無傷通關</li>
+                    </ol>
+                </li>
+                <li>
+                    若關卡模式為<b>2-Player</b>，可<strong style={{color: "#00ff00"} /* --text-highlight-allow */}>允許</strong>二個玩家進行遊玩，但須遵守以下規定：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>若兩玩家於不同裝置遊玩，雙方皆<strong>須</strong>使用<b>Deathlink</b>，並使用AREDL官方帳號(<a
+                            className="link"
+                            href="https://gdbrowser.com/u/aredlofficial">AREDLofficial</a>)提供之<b>Globed版本</b>通關，以及提供雙方的證明影片與<strong>拍攝手部畫面之錄影</strong>。
+                        </li>
+                    </ol>
+                    <ul style={{listStyleType: "square"}}>
+                        <li>該關排名會與以單人通關之排名分別列出。</li>
+                    </ul>
+                </li>
+                <li>
+                    若玩家通關於關卡之<b>複本</b>，須遵守以下規定：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>
+                            <strong>不可</strong>自行調整關卡難度，如刪刺 / 移動障礙物等。
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>若為<b>Bugfix</b>需要則可允許。</li>
+                            </ul>
+                        </li>
+                        <li>如為<b>自製LDM</b>，其不應大幅影響難度，如刪除遮擋玩家之裝飾。</li>
+                    </ol>
+                    <ul style={{listStyleType: "square"}}>
+                        <li>若不確定該複本之有效性，可事先與管理員確認後，方可使用。</li>
+                    </ul>
+                </li>
+                <li>紀錄須在遊戲<b>目前版本<strong>或</strong>該關卡驗證時之版本</b>通關。</li>
+            </ol>
+            <h3>三、紀錄形式：</h3>
+            <ol>
+                <li>
+                    <b>關卡</b>榜排序規則：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>
+                            排序依據為 <a className="link" href="https://aredl.net">AREDL</a> 之<b>關卡難度</b>排名。
+                            <ul style={{listStyleType: "square"}}>
+                                <li style={{color: "#ff93dd"} /* --text-highlight-important */}>若該網站尚未排序此關卡，則本網站會待其排序後再行放置</li>
+                            </ul>
+                        </li>
+                        <li>
+                            通過一關卡會給予玩家相對應之積分，由該關之<b>排名</b>及列表<b>總關卡數</b>決定。積分算法設計標準為：
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>通過列表<b>最難</b>關卡會給予<b>250</b>分</li>
+                                <li>通過列表<b>最簡單</b>關卡會給予<b>10</b>分</li>
+                                <li>若通過<b>前400難</b>的關卡，會再額外給予加分 (線性遞增至最難關加<b>250</b>分)</li>
+                            </ul>
+                            公式如下，四捨五入至小數第二位：
+                            <div style={{overflowX: "auto"}}>
+                                <Latex
+                                    formula="分數=2176.2\times\frac{1 +\ln\frac{N+7}{8}}{(N + 7)\times1.0881^{N^{0.6}}}+{C}，其中N=\frac{150 - 1}{總關卡數 - 1}\times(關卡排名-1)+1，C=\mathrm{max}\left(\frac{401 -\mathrm{AREDL}排名}{400}\times250, 0\right)"
+                                />
+                            </div>
+                            或可參考此<a className="link" href="https://www.desmos.com/calculator/ey3ndver1b">圖表</a>。
+                        </li>
+                        <li>
+                            通過一關卡之玩家會列於該關清單內。若有二名以上玩家通過同一關卡，會依下列標準作排序：
+                            <ol style={{listStyleType: "lower-latin"}}>
+                                <li>證明影片上傳時間</li>
+                                <li>玩家名稱之<b>字母排序</b></li>
+                            </ol>
+                            <ul style={{listStyleType: "square"}}>
+                                <li>若使用<b>手機</b>通關之玩家，在記錄旁會註記 <img src={Mobile} alt="mobile" height="20px"
+                                                                                    style={{position: "relative", top: "4px"}}/>
+                                </li>
+                            </ul>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <b>玩家</b>榜排序規則：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>
+                            <b>玩家排名</b>依下列標準作排序 :
+                            <ol style={{listStyleType: "lower-latin"}}>
+                                <li>獲得之分數<b>總分</b></li>
+                                <li>通關之最難關卡<b>排名</b></li>
+                                <li>通關之關卡<b>數量</b></li>
+                                <li>通關最難關卡之證明影片<b>上傳時間</b></li>
+                                <li>玩家名稱之<b>字母排序</b></li>
+                            </ol>
+                        </li>
+                        <li>
+                            玩家所過之關卡會依據<b>難度</b>由上而下排序：
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>如為遊戲前<b>50</b>難之關卡，其顏色會標註<b
+                                    style={{color: "#f00"} /* --text-list-top */}>紅色</b></li>
+                                <li>如為遊戲前<b>75</b>難之關卡，其顏色會標註<b
+                                    style={{color: "#ff0"} /* --text-list-main */}>黃色</b></li>
+                                <li>如為遊戲前<b>150</b>難之關卡，其顏色會標註<b
+                                    style={{color: "#0f0"} /* --text-list-extended */}>綠色</b></li>
+                            </ul>
+                            <ul style={{listStyleType: "square"}}>
+                                <li>若使用<b>手機</b>通關之玩家，在記錄旁會註記 <img src={Mobile} alt="mobile" height="20px"
+                                                                                    style={{position: "relative", top: "4px"}}/>
+                                </li>
+                                <li>若為<b>雙人</b>通關之關卡，在記錄旁會註記 <img src={TwoPlayer} alt="2p" height="20px"
+                                                                                  style={{position: "relative", top: "4px"}}/>
+                                </li>
+                            </ul>
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+            <h3>四、審核與通知：</h3>
+            <ol>
+                <li>
+                    提交紀錄之審核時長約落於<b>一至三日</b>內。
+                    <ul style={{listStyleType: "disc"}}>
+                        <li><b>三.1.i</b> 之例外情形或管理員暫時<b>無暇處理</b>皆可能導致紀錄放置時間延後。</li>
+                    </ul>
+                </li>
+                <li>若該玩家並未列於榜中，管理員會於社團內之<a className="link"
+                                                              href="https://www.facebook.com/groups/173396940046034/posts/741664459885943">榜單公告貼文</a>下標註該玩家通知其上榜。
+                </li>
+                <li>
+                    若提交的紀錄有違規之疑慮，管理員會通知該玩家並請求其提供更詳細的證明，如：
+                    <ul style={{listStyleType: "disc"}}>
+                        <li>原始 (未剪輯) 錄影檔</li>
+                        <li>更清晰的錄影檔</li>
+                    </ul>
+                </li>
+            </ol>
+            <h3>五、紀錄移除：</h3>
+            <ol>
+                <li>
+                    一紀錄之移除可能為下列原因所導致：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>該關卡之難度被降級為<b>Insane Demon或以下</b>或被<b>取消其評級</b>，且持續至少<b>5天</b></li>
+                        <li>玩家違反規定<b>二.1</b>、<b>二.3</b>、<b>二.4</b>，或<b>二.5</b></li>
+                        <li>玩家經規定<b>六.2</b>請求移除</li>
+                        <li><b>證明影片連結</b>因故無法被社團內所有人檢視</li>
+                        <li>該關卡經更新後難度<b>顯著提升</b></li>
+                    </ol>
+                    <ul style={{listStyleType: "square"}}>
+                        <li>社員退社<strong>不會</strong>使其紀錄被刪除。</li>
+                    </ul>
+                </li>
+                <li>
+                    被移除後之關卡會移至<b>Legacy List</b>作保存，且該關不會再接受新的紀錄。
+                    <ul style={{listStyleType: "disc"}}>
+                        <li>原紀錄持有者仍會顯示於該關內列表。</li>
+                        <li>若該關難度被升至<b>Extreme Demon</b>，且持續至少<b>5天</b>後，其會重返回關卡榜上。</li>
+                    </ul>
+                </li>
+            </ol>
+            <h3>六、玩家資料修改：</h3>
+            <ol>
+                <li>
+                    玩家上榜後，可向管理員請求對下列資料進行新增、修改或移除：
+                    <ol style={{listStyleType: "lower-roman"}}>
+                        <li>玩家名稱 <strong>(必留)</strong></li>
+                        <li>
+                            玩家連結
+                            <ul style={{listStyleType: "disc"}}>
+                                <li>此包含<b>GD</b>、<b>YouTube</b>以及<b>社團</b>帳號。</li>
+                                <li>亦可更改GD帳號顯示之<b>icon</b>。</li>
+                            </ul>
+                        </li>
+                        <li>證明影片連結 <strong>(必留)</strong></li>
+                    </ol>
+                </li>
+                <li>
+                    玩家亦可提出刪除部分或全部紀錄之請求。
+                    <ul style={{listStyleType: "disc"}}>
+                        <li>此行為不會對該玩家未來重新提交紀錄造成影響。</li>
+                    </ul>
+                </li>
+            </ol>
+            <h3>七、其它：</h3>
+            <ol>
+                <li>本網站之規定以<b>不溯及既往</b>為原則，並套用至未來增訂之規則。</li>
+                <li>此規則<strong>僅</strong>適用於本網站，不影響社團內之運作。</li>
+                <li>如有任何問題，歡迎在社團詢問或私訊管理員。</li>
+            </ol>
+        </div>
+    )
+}

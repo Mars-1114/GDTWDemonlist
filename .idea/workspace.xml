@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/demonlist.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/demonlist_detail.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/leaderboard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/players.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utilities/fetch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/changelog.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/changelog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/guidelines.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utilities/latex.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/list.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/list_detail.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/classic-legacy.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/classic-legacy.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/classic_leaderboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/classic_leaderboard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/classic_level.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/classic_level.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/fetch_levels.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/format_leaderboard.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/format_levels.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/format.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/classic-records.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/classic-records.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/format.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/format.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utilities/obj.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/obj.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -252,6 +249,7 @@
       <workItem from="1783622403829" duration="29931000" />
       <workItem from="1783874741423" duration="249000" />
       <workItem from="1783875011448" duration="40828000" />
+      <workItem from="1784115722163" duration="27714000" />
     </task>
     <servers />
   </component>

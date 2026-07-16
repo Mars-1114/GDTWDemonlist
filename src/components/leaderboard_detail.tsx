@@ -19,7 +19,7 @@ export function LeaderboardDetail({player, playerDetail, demonlist}: {player: st
     return (
       <div>
           <h2>{player}</h2>
-          <h4>#{playerDetail.rank} / {playerDetail.points} pts</h4>
+          <h4>#{playerDetail.rank} / {playerDetail.points} pts </h4>
           {rows}
       </div>
     );

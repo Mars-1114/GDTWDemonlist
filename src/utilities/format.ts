@@ -7,10 +7,6 @@ function formatRecords(records: Record<obj.Player, obj.RawRecord>) {
         levelRecords.set(player, records[player]);
     }
     levelRecords = new Map([...levelRecords].sort((a, b) => {
-        let aDate = Date.parse(a[1].date);
-        let bDate = Date.parse(b[1].date);
-        if (aDate != bDate)
-            return aDate - bDate;
         return a[1].id - b[1].id;
     }));
 
@@ -88,7 +84,6 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
         });
     });
 
-    // rewrite after polishing record id system
     let leaderboard: obj.Leaderboard = new Map(Object.entries(rawLeaderboard).sort((a, b) => {
         let playerA = a[0], playerB = b[0];
         let detailA = a[1], detailB = b[1];
@@ -103,15 +98,8 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
         if (hardestPointsA == 0)
             return playerA.localeCompare(playerB);
 
-        let hardestRecordA = detailA.records.values().next().value!;
-        let hardestRecordB = detailB.records.values().next().value!;
-        let hardestDateA = Date.parse(hardestRecordA.date);
-        let hardestDateB = Date.parse(hardestRecordB.date);
-        if (hardestDateA != hardestDateB)
-            return hardestDateA - hardestDateB;
-
-        let hardestRecordIdA = hardestRecordB.id;
-        let hardestRecordIdB = hardestRecordB.id;
+        let hardestRecordIdA = detailA.records.values().next().value!.id;
+        let hardestRecordIdB = detailB.records.values().next().value!.id;
         return hardestRecordIdA - hardestRecordIdB;
     }));
 
@@ -126,4 +114,64 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
     });
 
     return leaderboard;
+}
+
+// TODO: Complete rewrite after I figure out how to parse the raw changelog page
+export function formatChangelog(demonlist: obj.Demonlist): obj.Changelog {
+    let firstCompletionDate: Record<obj.LevelId, obj.FormattedDate> = {};
+    demonlist.forEach((lvl, lvl_id) => {
+        let records = [...lvl.records.values()];
+        if (records.length == 0) return;
+
+        records.sort((a, b) => {
+            let dateA = Date.parse(a.date);
+            let dateB = Date.parse(b.date);
+            return dateA - dateB;
+        });
+        firstCompletionDate[lvl_id] = records[0].date;
+    });
+
+    let rawChangelogList: Record<obj.LevelId, obj.ChangelogInfo> = {};
+    for (const lvl_id in firstCompletionDate) {
+        let date = firstCompletionDate[lvl_id];
+        if (!(date in rawChangelogList)) {
+            rawChangelogList[date] = {
+                addition: {
+                    classical: [],
+                    platformer: []
+                },
+                deletion: {
+                    classical: [],
+                    platformer: []
+                }
+            };
+        }
+
+        rawChangelogList[date].addition.classical.push(lvl_id);
+    }
+
+    // sort
+    for (const date in rawChangelogList) {
+        rawChangelogList[date].addition.classical.sort((a, b) => {
+            let ptsA = demonlist.get(a)!.points;
+            let ptsB = demonlist.get(b)!.points;
+
+            if (ptsA != ptsB)
+                return ptsB - ptsA;
+
+            let nameA = demonlist.get(a)!.name;
+            let nameB = demonlist.get(b)!.name;
+            return nameA.localeCompare(nameB);
+        });
+
+        // swap lvl_id with name
+        let len = rawChangelogList[date].addition.classical.length;
+        for (let i = 0; i < len; i++) {
+            let lvl_id = rawChangelogList[date].addition.classical[i];
+            rawChangelogList[date].addition.classical[i] = demonlist.get(lvl_id)!.name;
+        }
+    }
+    return new Map(Object.entries(rawChangelogList).sort((a, b) => {
+        return Date.parse(a[0]) - Date.parse(b[0]);
+    }));
 }

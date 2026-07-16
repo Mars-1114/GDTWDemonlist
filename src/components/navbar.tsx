@@ -8,6 +8,7 @@ export function Navbar({ setView }: NavbarProps) {
             <button onClick={() => setView('classic_level')}>Classic</button>
             <button onClick={() => setView('classic_leaderboard')}>Leaderboard</button>
             <button onClick={() => setView('about')}>About</button>
+            <button onClick={() => setView('guidelines')}>Guidelines</button>
         </nav>
     );
 }

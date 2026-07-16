@@ -74,18 +74,24 @@ export interface FormattedPlayer {
 }
 
 export interface ChangelogInfo {
-    addition: LevelId[];
-    removal: LevelId[];
+    addition: {
+        classical: LevelId[];
+        platformer: LevelId[];
+    };
+    deletion: {
+        classical: LevelId[];
+        platformer: LevelId[];
+    };
 
     update?: {
         version: string;
         message: string;
-    }
+    };
 }
 
 export type Demonlist = Map<LevelId, FormattedLevel>;
 export type Leaderboard = Map<Player, FormattedPlayer>;
-export type Changelog = Map<Date, ChangelogInfo>;
+export type Changelog = Map<FormattedDate, ChangelogInfo>;
 
 
 /* ------- ALIASES -------
@@ -94,3 +100,4 @@ export type Changelog = Map<Date, ChangelogInfo>;
 
 export type LevelId = string;
 export type Player = string;
+export type FormattedDate = string;
