@@ -2519,6 +2519,14 @@
     [
       "Dolos",
       "58417850"
+    ],
+    [
+      "Boson",
+      "116579233"
+    ],
+    [
+      "6LACKLIGHT",
+      "135166699"
     ]
   ],
   "legacy": [
@@ -2665,6 +2673,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "135166699": {
+        "video": "https://www.youtube.com/watch?v=0xXxwoy8fU4",
+        "completion_date": "2026-07-16",
+        "is_mobile": false
+      },
       "58417850": {
         "video": "https://www.youtube.com/watch?v=MDgWTWlq6fw",
         "completion_date": "2026-07-15",
@@ -6167,6 +6180,11 @@
         "video": "https://www.facebook.com/100055094347754/videos/566935772979524/",
         "completion_date": "2025-02-09",
         "is_mobile": false
+      },
+      "116579233": {
+        "video": "https://www.youtube.com/watch?v=is2lLuAoL7k",
+        "completion_date": "2026-07-02",
+        "is_mobile": false
       }
     },
     "Supercoolyoshi": {
@@ -6915,6 +6933,11 @@
       }
     },
     "Cyter867": {
+      "138356396": {
+        "video": "https://www.youtube.com/watch?v=oxNWFRZD4TI",
+        "completion_date": "2026-07-16",
+        "is_mobile": false
+      },
       "137472888": {
         "video": "https://www.youtube.com/watch?v=Dg77Ips1x8Y",
         "completion_date": "2026-06-27",
