@@ -2535,6 +2535,10 @@
     [
       "Brave",
       "137059352"
+    ],
+    [
+      "IGAKU",
+      "119732476"
     ]
   ],
   "legacy": [
@@ -6951,6 +6955,11 @@
       }
     },
     "Cyter867": {
+      "119732476": {
+        "video": "https://www.youtube.com/watch?v=3b9N6znNokg",
+        "completion_date": "2026-07-17",
+        "is_mobile": false
+      },
       "138356396": {
         "video": "https://www.youtube.com/watch?v=oxNWFRZD4TI",
         "completion_date": "2026-07-16",
@@ -7232,6 +7241,11 @@
       }
     },
     "HankK漢": {
+      "95061038": {
+        "video": "https://www.youtube.com/watch?v=rR1KgYi8z9E",
+        "completion_date": "2026-07-17",
+        "is_mobile": false
+      },
       "95764848": {
         "video": "https://www.youtube.com/watch?v=DYYrqqKTjuE",
         "completion_date": "2026-07-13",
