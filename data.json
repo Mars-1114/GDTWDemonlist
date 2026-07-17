@@ -2527,6 +2527,14 @@
     [
       "6LACKLIGHT",
       "135166699"
+    ],
+    [
+      "GREFG",
+      "134430850"
+    ],
+    [
+      "Brave",
+      "137059352"
     ]
   ],
   "legacy": [
@@ -2673,6 +2681,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "137059352": {
+        "video": "https://www.youtube.com/watch?v=HPWso4EAtyk",
+        "completion_date": "2026-07-06",
+        "is_mobile": false
+      },
+      "134430850": {
+        "video": "https://www.youtube.com/watch?v=3W7aNDa1xHQ",
+        "completion_date": "2026-07-17",
+        "is_mobile": false
+      },
       "135166699": {
         "video": "https://www.youtube.com/watch?v=0xXxwoy8fU4",
         "completion_date": "2026-07-16",
