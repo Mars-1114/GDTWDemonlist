@@ -1,12 +1,10 @@
-// TODO: Complete rewrite after I figure out how to parse the raw changelog page
-
 import * as obj from "../utilities/obj";
 import type { JSX } from "react/jsx-runtime";
 
 function ChangelogUnit({date, changelog}: {date: string, changelog: obj.ChangelogInfo}) {
-    const additionClassical: string = changelog.addition.classical.join(", ");
+    const additionClassical: string = changelog.addition.classic.join(", ");
     const additionPlatformer: string = changelog.addition.platformer.join(", ");
-    const deletionClassical: string = changelog.deletion.classical.join(", ");
+    const deletionClassical: string = changelog.deletion.classic.join(", ");
     const deletionPlatformer: string = changelog.deletion.platformer.join(", ");
 
     const addition: string = (additionClassical + additionPlatformer != "") ? `新增 ${additionClassical}, ${additionPlatformer}` : "";
@@ -23,7 +21,7 @@ function ChangelogUnit({date, changelog}: {date: string, changelog: obj.Changelo
     );
 }
 
-export function Changelog({changelog_list}: {changelog_list: obj.Changelog}) {
+export function Changelog({changelog_list}: {changelog_list: obj.Changelogs}) {
     let rows: JSX.Element[] = [];
     changelog_list.forEach((changelog, date) => {
         rows.push(

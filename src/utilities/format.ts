@@ -13,16 +13,12 @@ function formatRecords(records: Record<obj.Player, obj.RawRecord>) {
     return levelRecords;
 }
 
-export function formatDemonlist(raw_data: obj.RawData) {
-    const rawLevels = raw_data.levels;
-    const legacies = raw_data.legacies;
-    const rawRecords = raw_data.records;
-
+export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawRecords, legacies: obj.Legacies) {
     let demonlist: obj.Demonlist = new Map();
     let count = 0;
-    for (const lvl of rawLevels) {
+    for (const lvl of raw_levels) {
         const lvl_id = lvl.level_id + (lvl.two_player ? "_2p" : "");
-        if (!(lvl_id in rawRecords))
+        if (!(lvl_id in raw_records))
             continue;
         ++count;
 
@@ -34,7 +30,7 @@ export function formatDemonlist(raw_data: obj.RawData) {
             points: 0,
             two_player: lvl.two_player,
             is_legacy: false,
-            records: formatRecords(rawRecords[lvl_id])
+            records: formatRecords(raw_records[lvl_id])
         });
     }
 
@@ -56,7 +52,7 @@ export function formatDemonlist(raw_data: obj.RawData) {
             points: 0,
             two_player: false,
             is_legacy: true,
-            records: formatRecords(rawRecords[lvl_id])
+            records: formatRecords(raw_records[lvl_id])
         });
     }
 
@@ -116,62 +112,35 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
     return leaderboard;
 }
 
-// TODO: Complete rewrite after I figure out how to parse the raw changelog page
-export function formatChangelog(demonlist: obj.Demonlist): obj.Changelog {
-    let firstCompletionDate: Record<obj.LevelId, obj.FormattedDate> = {};
-    demonlist.forEach((lvl, lvl_id) => {
-        let records = [...lvl.records.values()];
-        if (records.length == 0) return;
-
-        records.sort((a, b) => {
-            let dateA = Date.parse(a.date);
-            let dateB = Date.parse(b.date);
-            return dateA - dateB;
-        });
-        firstCompletionDate[lvl_id] = records[0].date;
-    });
-
-    let rawChangelogList: Record<obj.LevelId, obj.ChangelogInfo> = {};
-    for (const lvl_id in firstCompletionDate) {
-        let date = firstCompletionDate[lvl_id];
-        if (!(date in rawChangelogList)) {
-            rawChangelogList[date] = {
-                addition: {
-                    classical: [],
-                    platformer: []
-                },
-                deletion: {
-                    classical: [],
-                    platformer: []
-                }
-            };
-        }
-
-        rawChangelogList[date].addition.classical.push(lvl_id);
-    }
-
-    // sort
-    for (const date in rawChangelogList) {
-        rawChangelogList[date].addition.classical.sort((a, b) => {
+function replaceIdWithName(ids: string[], demonlist: obj.Demonlist) {
+    ids.sort((a, b) => {
+        try {
             let ptsA = demonlist.get(a)!.points;
             let ptsB = demonlist.get(b)!.points;
-
             if (ptsA != ptsB)
                 return ptsB - ptsA;
 
             let nameA = demonlist.get(a)!.name;
             let nameB = demonlist.get(b)!.name;
             return nameA.localeCompare(nameB);
-        });
-
-        // swap lvl_id with name
-        let len = rawChangelogList[date].addition.classical.length;
-        for (let i = 0; i < len; i++) {
-            let lvl_id = rawChangelogList[date].addition.classical[i];
-            rawChangelogList[date].addition.classical[i] = demonlist.get(lvl_id)!.name;
         }
+        catch (error) {
+            console.log("Error getting ID of ", a, " or ", b);
+            return -1;
+        }
+    });
+    for (let i = 0; i < ids.length; i++) {
+        ids[i] = demonlist.get(ids[i])!.name;
     }
-    return new Map(Object.entries(rawChangelogList).sort((a, b) => {
-        return Date.parse(a[0]) - Date.parse(b[0]);
-    }));
+}
+
+export function formatChangelog(raw_changelog: obj.RawChangelogs, classical_demonlist: obj.Demonlist, platformer_demonlist: obj.Demonlist): obj.Changelogs {
+    for (const date in raw_changelog) {
+        let info = raw_changelog[date];
+        replaceIdWithName(info.addition.classic, classical_demonlist);
+        replaceIdWithName(info.addition.platformer, platformer_demonlist);
+        replaceIdWithName(info.deletion.classic, classical_demonlist);
+        replaceIdWithName(info.deletion.platformer, platformer_demonlist);
+    }
+    return new Map(Object.entries(raw_changelog));
 }

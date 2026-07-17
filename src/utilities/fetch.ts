@@ -1,6 +1,10 @@
 import classicRecords from "../data/classic-records.json";
 import classicLegacy from "../data/classic-legacy.json";
+import platformerRecords from "../data/platformer-records.json";
+import platformerLegacy from "../data/platformer-legacy.json";
 import players from "../data/players.json";
+import changelog from "../data/changelog.json";
+
 import * as obj from "./obj"
 
 async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<obj.RawLevels> {
@@ -9,29 +13,31 @@ async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<obj.RawLe
     return await response.json();
 }
 
-function fetchRecord(lvl_type: "classic" | "platformer"): obj.RawRecords {
-    if (lvl_type === "classic") {
-        return classicRecords as obj.RawRecords;
+export async function fetchAll(): Promise<obj.RawData | null> {
+    try {
+        let rawClassicLevels = await fetchLevel("classic");
+        let rawPlatformerLevels = await fetchLevel("platformer");
+        rawClassicLevels.sort((a, b) => a.position - b.position);  // ensure ordering
+        rawPlatformerLevels.sort((a, b) => a.position - b.position);  // ensure ordering
+        return {
+            levels: {
+                classic: rawClassicLevels,
+                platformer: rawPlatformerLevels,
+            },
+            records: {
+                classic: classicRecords as obj.RawRecords,
+                platformer: platformerRecords as obj.RawRecords
+            },
+            legacies: {
+                classic: classicLegacy as obj.Legacies,
+                platformer: platformerLegacy as obj.Legacies
+            },
+            players: players,
+            changelog: changelog as obj.RawChangelogs
+        }
     }
-
-    return {};
-}
-
-function fetchLegacy(lvl_type: "classic" | "platformer"): obj.Legacies {
-    if (lvl_type === "classic") {
-        return classicLegacy as obj.Legacies;
-    }
-
-    return {};
-}
-
-export async function fetchAll(lvl_type: "classic" | "platformer"): Promise<obj.RawData> {
-    let rawLevels = await fetchLevel(lvl_type);
-    rawLevels.sort((a, b) => a.position - b.position);  // ensure ordering
-    return {
-        levels: rawLevels,
-        records: fetchRecord(lvl_type),
-        legacies: fetchLegacy(lvl_type),
-        players: players
+    catch (error) {
+        console.log("Failed to fetch levels: ", error);
+        return null;
     }
 }

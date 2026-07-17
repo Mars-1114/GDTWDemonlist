@@ -1,8 +1,15 @@
-export function About() {
+import { Changelog } from "../components/changelog";
+import * as obj from "../utilities/obj";
+
+export function About({changelogs}: {changelogs: obj.Changelogs}) {
     return (
-        <div>
-            <h1>Welcome to My Site</h1>
-            <p>This is the about page rewritten in React!</p>
-        </div>
+        <>
+            <div>
+                <h2>Welcome to My Site</h2>
+            </div>
+            <div>
+                <Changelog changelog_list={changelogs} />
+            </div>
+        </>
     );
 }

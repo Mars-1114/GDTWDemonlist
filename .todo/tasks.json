@@ -1,0 +1,26 @@
+[
+  {
+    "id": "TASK_1",
+    "priority": "LOW",
+    "tags": [
+      "Consideration"
+    ],
+    "title": "Change the way list detail is linked",
+    "description": "Use indexes instead of level IDs to simplify the list initialization process",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 17
+      },
+      "time": {
+        "hour": 23,
+        "minute": 43,
+        "second": 29,
+        "nano": 896837700
+      }
+    },
+    "isImported": false
+  }
+]

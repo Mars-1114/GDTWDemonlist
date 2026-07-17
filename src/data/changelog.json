@@ -1,0 +1,5490 @@
+{
+  "2026-07-17": {
+    "addition": {
+      "classic": [
+        "134430850",
+        "135166699",
+        "137059352",
+        "116579233",
+        "119732476"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-07-15": {
+    "addition": {
+      "classic": [
+        "113364415",
+        "38655495",
+        "58417850",
+        "81944593",
+        "13314218",
+        "96977745"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-07-12": {
+    "addition": {
+      "classic": [
+        "78831233"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-07-10": {
+    "addition": {
+      "classic": [
+        "61591522",
+        "121538082"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-07-06": {
+    "addition": {
+      "classic": [
+        "138169386"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-07-05": {
+    "addition": {
+      "classic": [
+        "139286842"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-07-03": {
+    "addition": {
+      "classic": [
+        "132079107",
+        "137472888",
+        "90197147"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-30": {
+    "addition": {
+      "classic": [
+        "94858072"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-29": {
+    "addition": {
+      "classic": [
+        "139763131"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-25": {
+    "addition": {
+      "classic": [
+        "136953694",
+        "100041767"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-24": {
+    "addition": {
+      "classic": [
+        "130673921",
+        "128991737"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-23": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "3.2",
+      "message": "更新規則"
+    }
+  },
+  "2026-06-21": {
+    "addition": {
+      "classic": [
+        "136135870",
+        "62497003"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-19": {
+    "addition": {
+      "classic": [
+        "58385535",
+        "138356396"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-18": {
+    "addition": {
+      "classic": [
+        "82598548",
+        "59535791",
+        "117563662",
+        "87930093",
+        "75857309"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-16": {
+    "addition": {
+      "classic": [
+        "131599104",
+        "104895221"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-15": {
+    "addition": {
+      "classic": [
+        "94505292",
+        "92093417"
+      ],
+      "platformer": [
+        "99927952"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-14": {
+    "addition": {
+      "classic": [
+        "141662502"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-13": {
+    "addition": {
+      "classic": [
+        "28231603"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-12": {
+    "addition": {
+      "classic": [
+        "63996127",
+        "38047229",
+        "141179568",
+        "85492715"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "88611404",
+        "68908396",
+        "74034217",
+        "111797205",
+        "59620684",
+        "99800205",
+        "101478916",
+        "56889568",
+        "26157409"
+      ],
+      "platformer": []
+    }
+  },
+  "2026-06-08": {
+    "addition": {
+      "classic": [
+        "128295414",
+        "137097482"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": [
+        "107420706"
+      ]
+    }
+  },
+  "2026-06-07": {
+    "addition": {
+      "classic": [
+        "81753058",
+        "75248070",
+        "89277532",
+        "110416299"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-06": {
+    "addition": {
+      "classic": [
+        "136984556",
+        "125658310",
+        "84765340"
+      ],
+      "platformer": [
+        "115933758"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-05": {
+    "addition": {
+      "classic": [
+        "79665466",
+        "128096546",
+        "106905149",
+        "78011370",
+        "94083417",
+        "89901532"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-04": {
+    "addition": {
+      "classic": [
+        "57312412"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-03": {
+    "addition": {
+      "classic": [
+        "57433866"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-02": {
+    "addition": {
+      "classic": [
+        "94164875"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-06-01": {
+    "addition": {
+      "classic": [
+        "79619086"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-30": {
+    "addition": {
+      "classic": [
+        "140061776"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "139622770"
+      ],
+      "platformer": []
+    }
+  },
+  "2026-05-29": {
+    "addition": {
+      "classic": [
+        "82382742"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-28": {
+    "addition": {
+      "classic": [
+        "32920197",
+        "109855055",
+        "96002712",
+        "105219294"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-25": {
+    "addition": {
+      "classic": [
+        "109050674"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-23": {
+    "addition": {
+      "classic": [
+        "105095161"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-21": {
+    "addition": {
+      "classic": [
+        "135282166",
+        "139622770"
+      ],
+      "platformer": [
+        "127615297"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-20": {
+    "addition": {
+      "classic": [
+        "128362929"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-19": {
+    "addition": {
+      "classic": [
+        "130447818"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-18": {
+    "addition": {
+      "classic": [
+        "128454710"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-17": {
+    "addition": {
+      "classic": [
+        "84829178"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-16": {
+    "addition": {
+      "classic": [
+        "59620684"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-14": {
+    "addition": {
+      "classic": [
+        "89187968",
+        "136107492"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-13": {
+    "addition": {
+      "classic": [
+        "89414220"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-12": {
+    "addition": {
+      "classic": [
+        "53653552",
+        "125486820",
+        "132458573"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-10": {
+    "addition": {
+      "classic": [
+        "88611404"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-09": {
+    "addition": {
+      "classic": [
+        "68323859",
+        "138082325"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-08": {
+    "addition": {
+      "classic": [
+        "83948570"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-07": {
+    "addition": {
+      "classic": [
+        "73335285",
+        "114996529"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-05": {
+    "addition": {
+      "classic": [
+        "48454650"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-04": {
+    "addition": {
+      "classic": [
+        "121243106"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-05-01": {
+    "addition": {
+      "classic": [
+        "99693231"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-29": {
+    "addition": {
+      "classic": [
+        "94741609"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-28": {
+    "addition": {
+      "classic": [
+        "119663227"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-27": {
+    "addition": {
+      "classic": [
+        "118697760"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-26": {
+    "addition": {
+      "classic": [
+        "93941971",
+        "126368623"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-22": {
+    "addition": {
+      "classic": [
+        "54615662"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-21": {
+    "addition": {
+      "classic": [
+        "68908396",
+        "92362284"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-19": {
+    "addition": {
+      "classic": [
+        "71434979",
+        "127975974",
+        "96970924"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-18": {
+    "addition": {
+      "classic": [
+        "115650566",
+        "79807331"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-16": {
+    "addition": {
+      "classic": [
+        "63422160"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-15": {
+    "addition": {
+      "classic": [
+        "127135884"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-14": {
+    "addition": {
+      "classic": [
+        "85698971"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-12": {
+    "addition": {
+      "classic": [
+        "131654854",
+        "40693278"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-07": {
+    "addition": {
+      "classic": [
+        "80647754"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-06": {
+    "addition": {
+      "classic": [
+        "113464561"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-04": {
+    "addition": {
+      "classic": [
+        "127148097"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-04-02": {
+    "addition": {
+      "classic": [
+        "26157409"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-31": {
+    "addition": {
+      "classic": [
+        "112309508",
+        "130508187",
+        "90922017",
+        "125771235"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-26": {
+    "addition": {
+      "classic": [
+        "128236384"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-25": {
+    "addition": {
+      "classic": [
+        "125034264",
+        "130119849"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-24": {
+    "addition": {
+      "classic": [
+        "107226949"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-23": {
+    "addition": {
+      "classic": [
+        "85393418",
+        "130733081",
+        "101478916",
+        "132226370",
+        "132088589"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-20": {
+    "addition": {
+      "classic": [
+        "123386255",
+        "133471757",
+        "134499333"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-18": {
+    "addition": {
+      "classic": [
+        "58023558"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "85242343"
+      ],
+      "platformer": []
+    }
+  },
+  "2026-03-16": {
+    "addition": {
+      "classic": [
+        "111797205",
+        "123186264",
+        "75350544"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-13": {
+    "addition": {
+      "classic": [
+        "57430694",
+        "113782971"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-11": {
+    "addition": {
+      "classic": [
+        "125025200"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-06": {
+    "addition": {
+      "classic": [
+        "58161496",
+        "120312886"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-03-02": {
+    "addition": {
+      "classic": [
+        "57390806",
+        "75232616"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-26": {
+    "addition": {
+      "classic": [
+        "87668112"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-24": {
+    "addition": {
+      "classic": [
+        "117862884"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-23": {
+    "addition": {
+      "classic": [
+        "129343574"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-21": {
+    "addition": {
+      "classic": [
+        "97705490"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-20": {
+    "addition": {
+      "classic": [
+        "93271158"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-19": {
+    "addition": {
+      "classic": [
+        "132904827",
+        "114554827"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-17": {
+    "addition": {
+      "classic": [
+        "95998005"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-16": {
+    "addition": {
+      "classic": [
+        "84849805"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-15": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "118026710"
+      ],
+      "platformer": []
+    }
+  },
+  "2026-02-12": {
+    "addition": {
+      "classic": [
+        "130554006",
+        "116306886"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-10": {
+    "addition": {
+      "classic": [
+        "129550139"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-09": {
+    "addition": {
+      "classic": [
+        "60810066",
+        "108897593"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-07": {
+    "addition": {
+      "classic": [
+        "63858842",
+        "7676557",
+        "118026710"
+      ],
+      "platformer": [
+        "104031134"
+      ]
+    },
+    "deletion": {
+      "classic": [
+        "125801346"
+      ],
+      "platformer": []
+    }
+  },
+  "2026-02-05": {
+    "addition": {
+      "classic": [
+        "116935154"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": [
+        "114308040",
+        "102557379",
+        "118946505",
+        "117247616",
+        "97713011"
+      ]
+    }
+  },
+  "2026-02-04": {
+    "addition": {
+      "classic": [
+        "98911329",
+        "119137644",
+        "71850733",
+        "115370944"
+      ],
+      "platformer": [
+        "107052022",
+        "109950617"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-02-02": {
+    "addition": {
+      "classic": [
+        "70252932",
+        "125387083",
+        "87333912",
+        "126978758",
+        "126509718",
+        "88159604"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-31": {
+    "addition": {
+      "classic": [
+        "38403655",
+        "96549270",
+        "116820901"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-30": {
+    "addition": {
+      "classic": [
+        "106588541",
+        "89046759"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-29": {
+    "addition": {
+      "classic": [
+        "79771070"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-27": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "104049200"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-26": {
+    "addition": {
+      "classic": [
+        "96471808"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-25": {
+    "addition": {
+      "classic": [
+        "33983930"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-22": {
+    "addition": {
+      "classic": [
+        "114321891"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-19": {
+    "addition": {
+      "classic": [
+        "39458641",
+        "61936205"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-18": {
+    "addition": {
+      "classic": [
+        "90667326",
+        "60708767"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "80575901"
+      ],
+      "platformer": []
+    }
+  },
+  "2026-01-16": {
+    "addition": {
+      "classic": [
+        "110038200",
+        "117710857"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-14": {
+    "addition": {
+      "classic": [
+        "37456092"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-11": {
+    "addition": {
+      "classic": [
+        "113620104"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-10": {
+    "addition": {
+      "classic": [
+        "97018999",
+        "106154722"
+      ],
+      "platformer": [
+        "115025465"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-09": {
+    "addition": {
+      "classic": [
+        "88940074"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-08": {
+    "addition": {
+      "classic": [
+        "78277793"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-07": {
+    "addition": {
+      "classic": [
+        "36107975"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-05": {
+    "addition": {
+      "classic": [
+        "99800205"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-04": {
+    "addition": {
+      "classic": [
+        "90390075"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-02": {
+    "addition": {
+      "classic": [
+        "129561693"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2026-01-01": {
+    "addition": {
+      "classic": [
+        "87153593"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-31": {
+    "addition": {
+      "classic": [
+        "61132346"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-30": {
+    "addition": {
+      "classic": [
+        "36329434",
+        "39976494"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-29": {
+    "addition": {
+      "classic": [
+        "80575901"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-28": {
+    "addition": {
+      "classic": [
+        "78248443",
+        "94353238",
+        "109637861",
+        "77698239"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-27": {
+    "addition": {
+      "classic": [
+        "102523266",
+        "118613010"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-26": {
+    "addition": {
+      "classic": [
+        "94156085"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-25": {
+    "addition": {
+      "classic": [
+        "120255728"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-24": {
+    "addition": {
+      "classic": [
+        "88108583"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-20": {
+    "addition": {
+      "classic": [
+        "28779964",
+        "97018775",
+        "111862459",
+        "125801346",
+        "127661518"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-17": {
+    "addition": {
+      "classic": [
+        "46763581"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-16": {
+    "addition": {
+      "classic": [
+        "30380566",
+        "124483358"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-14": {
+    "addition": {
+      "classic": [
+        "95294285"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-12": {
+    "addition": {
+      "classic": [
+        "121864716"
+      ],
+      "platformer": [
+        "117247616"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-11": {
+    "addition": {
+      "classic": [
+        "65969451"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-10": {
+    "addition": {
+      "classic": [
+        "106362836"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-09": {
+    "addition": {
+      "classic": [
+        "37398911",
+        "83098728"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-07": {
+    "addition": {
+      "classic": [
+        "44860762"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-06": {
+    "addition": {
+      "classic": [
+        "74840882",
+        "123964123"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-04": {
+    "addition": {
+      "classic": [
+        "74028410"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-03": {
+    "addition": {
+      "classic": [
+        "123392717"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-12-02": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "3.1",
+      "message": "更新規則"
+    }
+  },
+  "2025-11-30": {
+    "addition": {
+      "classic": [
+        "57559425"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-29": {
+    "addition": {
+      "classic": [
+        "64680297"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": [
+        "119733044"
+      ]
+    }
+  },
+  "2025-11-28": {
+    "addition": {
+      "classic": [
+        "86996130"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-25": {
+    "addition": {
+      "classic": [
+        "124293350",
+        "72785216",
+        "127320494"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-24": {
+    "addition": {
+      "classic": [
+        "81548163",
+        "126702304"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-23": {
+    "addition": {
+      "classic": [
+        "95524621",
+        "93596347"
+      ],
+      "platformer": [
+        "119676812"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-21": {
+    "addition": {
+      "classic": [
+        "79546293"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-20": {
+    "addition": {
+      "classic": [
+        "90036102",
+        "94923922",
+        "113685088"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-17": {
+    "addition": {
+      "classic": [
+        "79997992",
+        "68311699"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-08": {
+    "addition": {
+      "classic": [
+        "113036509",
+        "93490967",
+        "114784521",
+        "127305966"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-06": {
+    "addition": {
+      "classic": [
+        "94748298",
+        "75700448",
+        "56889568"
+      ],
+      "platformer": [
+        "119733044"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-11-02": {
+    "addition": {
+      "classic": [
+        "74034217"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-30": {
+    "addition": {
+      "classic": [
+        "45866767",
+        "77690694",
+        "69685815"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-28": {
+    "addition": {
+      "classic": [
+        "73988608"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-25": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "126447025"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-23": {
+    "addition": {
+      "classic": [
+        "74986585",
+        "119653522"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-20": {
+    "addition": {
+      "classic": [
+        "88421468",
+        "84960998",
+        "92729757"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-17": {
+    "addition": {
+      "classic": [
+        "55539300"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-15": {
+    "addition": {
+      "classic": [
+        "90024795"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-11": {
+    "addition": {
+      "classic": [
+        "86513236"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-09": {
+    "addition": {
+      "classic": [
+        "88913586",
+        "111230291"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-05": {
+    "addition": {
+      "classic": [
+        "123853954"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-04": {
+    "addition": {
+      "classic": [
+        "69459902"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-03": {
+    "addition": {
+      "classic": [
+        "77008332",
+        "93971978"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-10-01": {
+    "addition": {
+      "classic": [
+        "95313820"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-29": {
+    "addition": {
+      "classic": [
+        "123344470",
+        "82348741"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-26": {
+    "addition": {
+      "classic": [
+        "104464785",
+        "60516506"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-22": {
+    "addition": {
+      "classic": [
+        "79054135"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-21": {
+    "addition": {
+      "classic": [
+        "57121503"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-19": {
+    "addition": {
+      "classic": [
+        "114340057",
+        "92299438",
+        "88577065"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-18": {
+    "addition": {
+      "classic": [
+        "104336808"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-17": {
+    "addition": {
+      "classic": [
+        "93549959"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-15": {
+    "addition": {
+      "classic": [
+        "95423156"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-13": {
+    "addition": {
+      "classic": [
+        "80178903"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-12": {
+    "addition": {
+      "classic": [
+        "91701349"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-10": {
+    "addition": {
+      "classic": [
+        "117428580",
+        "88719355"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-07": {
+    "addition": {
+      "classic": [
+        "84140347",
+        "95471187"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-04": {
+    "addition": {
+      "classic": [
+        "46249401"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-09-03": {
+    "addition": {
+      "classic": [
+        "116415188"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-31": {
+    "addition": {
+      "classic": [
+        "118044718",
+        "123066284",
+        "72506465"
+      ],
+      "platformer": [
+        "116493063",
+        "98316946"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": [
+        "117516392"
+      ]
+    }
+  },
+  "2025-08-30": {
+    "addition": {
+      "classic": [
+        "44788659"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-29": {
+    "addition": {
+      "classic": [
+        "121267216",
+        "90942005"
+      ],
+      "platformer": [
+        "115691111",
+        "121501168",
+        "118946505"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-26": {
+    "addition": {
+      "classic": [
+        "123912413"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-23": {
+    "addition": {
+      "classic": [
+        "111372142",
+        "108459320"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-22": {
+    "addition": {
+      "classic": [
+        "34057654",
+        "116735521"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-19": {
+    "addition": {
+      "classic": [
+        "77518059",
+        "72744364"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-17": {
+    "addition": {
+      "classic": [
+        "102807047",
+        "123111660",
+        "96043243"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "90661998"
+      ],
+      "platformer": []
+    }
+  },
+  "2025-08-15": {
+    "addition": {
+      "classic": [
+        "27379546",
+        "60130895",
+        "59533451",
+        "68578147"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-10": {
+    "addition": {
+      "classic": [
+        "93155813",
+        "96846935",
+        "88853479",
+        "93570042"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-07": {
+    "addition": {
+      "classic": [
+        "117098295",
+        "88017017",
+        "90661998"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-05": {
+    "addition": {
+      "classic": [
+        "91692203",
+        "95565191"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-08-02": {
+    "addition": {
+      "classic": [
+        "78119012"
+      ],
+      "platformer": [
+        "122287167"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-31": {
+    "addition": {
+      "classic": [
+        "91509581"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-30": {
+    "addition": {
+      "classic": [
+        "105114233"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-29": {
+    "addition": {
+      "classic": [
+        "85972099"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-27": {
+    "addition": {
+      "classic": [
+        "96512076"
+      ],
+      "platformer": [
+        "116566158"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-26": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "114329313",
+        "113553729",
+        "115945148"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-23": {
+    "addition": {
+      "classic": [
+        "20329544"
+      ],
+      "platformer": [
+        "117516392"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-22": {
+    "addition": {
+      "classic": [
+        "90335871",
+        "110227780"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-21": {
+    "addition": {
+      "classic": [
+        "99992952"
+      ],
+      "platformer": [
+        "118139675"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-20": {
+    "addition": {
+      "classic": [
+        "96039801"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-18": {
+    "addition": {
+      "classic": [
+        "70484097",
+        "89192645",
+        "102682401"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-14": {
+    "addition": {
+      "classic": [
+        "54953085",
+        "72651677"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-12": {
+    "addition": {
+      "classic": [
+        "94587757",
+        "110980754",
+        "118366680"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-08": {
+    "addition": {
+      "classic": [
+        "62556400_2p",
+        "91042484_2p",
+        "56916170_2p"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "3.0",
+      "message": "更新網站介面、規則"
+    }
+  },
+  "2025-07-07": {
+    "addition": {
+      "classic": [
+        "85317764"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-06": {
+    "addition": {
+      "classic": [
+        "61127840",
+        "117907680",
+        "117061407"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-07-01": {
+    "addition": {
+      "classic": [
+        "92782493"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-29": {
+    "addition": {
+      "classic": [
+        "58507437",
+        "76931927"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-27": {
+    "addition": {
+      "classic": [
+        "22183448"
+      ],
+      "platformer": [
+        "114308040"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-26": {
+    "addition": {
+      "classic": [
+        "71912451",
+        "66085306",
+        "71136146",
+        "101948024"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-20": {
+    "addition": {
+      "classic": [
+        "67622133",
+        "116124917"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-19": {
+    "addition": {
+      "classic": [
+        "89224784",
+        "62759650",
+        "89471892",
+        "119259720"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-14": {
+    "addition": {
+      "classic": [
+        "68193306",
+        "111849025",
+        "52527538"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-13": {
+    "addition": {
+      "classic": [
+        "57208977",
+        "72943745",
+        "109513812"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-11": {
+    "addition": {
+      "classic": [
+        "113155871",
+        "115169829"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-08": {
+    "addition": {
+      "classic": [
+        "110027124"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-06": {
+    "addition": {
+      "classic": [
+        "108212471",
+        "81148582"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-02": {
+    "addition": {
+      "classic": [
+        "60978746"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-06-01": {
+    "addition": {
+      "classic": [
+        "20159880"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-29": {
+    "addition": {
+      "classic": [
+        "118931226"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-24": {
+    "addition": {
+      "classic": [
+        "95764848"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-16": {
+    "addition": {
+      "classic": [
+        "72414148",
+        "114849191"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-14": {
+    "addition": {
+      "classic": [
+        "51311699"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-10": {
+    "addition": {
+      "classic": [
+        "79242390"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-06": {
+    "addition": {
+      "classic": [
+        "108558924"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-05": {
+    "addition": {
+      "classic": [
+        "26133601"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-04": {
+    "addition": {
+      "classic": [
+        "60284098"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-05-03": {
+    "addition": {
+      "classic": [
+        "113824520",
+        "116019507"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-04-28": {
+    "addition": {
+      "classic": [
+        "92957491",
+        "116401475"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-04-26": {
+    "addition": {
+      "classic": [
+        "114990369",
+        "88203501",
+        "38765979",
+        "78374157",
+        "109670049",
+        "107539734"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "112209834"
+      ],
+      "platformer": []
+    }
+  },
+  "2025-04-13": {
+    "addition": {
+      "classic": [
+        "102352215"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-04-11": {
+    "addition": {
+      "classic": [
+        "112209834"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-04-10": {
+    "addition": {
+      "classic": [
+        "81721025"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-04-03": {
+    "addition": {
+      "classic": [
+        "95675702"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-30": {
+    "addition": {
+      "classic": [
+        "57571983"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-25": {
+    "addition": {
+      "classic": [
+        "115151904"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-23": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "116120637"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-22": {
+    "addition": {
+      "classic": [
+        "32969607",
+        "19759411",
+        "105290756",
+        "107641215",
+        "114933189"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-20": {
+    "addition": {
+      "classic": [
+        "55955642",
+        "107281415",
+        "61350256",
+        "85383554"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-16": {
+    "addition": {
+      "classic": [
+        "59141478"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-14": {
+    "addition": {
+      "classic": [
+        "48229256"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-13": {
+    "addition": {
+      "classic": [
+        "112371654"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-11": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "113507295"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-08": {
+    "addition": {
+      "classic": [
+        "59075347"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-07": {
+    "addition": {
+      "classic": [
+        "113716462"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-04": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "107418375"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-03-02": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "111113059"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-28": {
+    "addition": {
+      "classic": [
+        "64766514"
+      ],
+      "platformer": [
+        "99608524",
+        "110904791"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-25": {
+    "addition": {
+      "classic": [
+        "93019675"
+      ],
+      "platformer": [
+        "108338683"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-22": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "114333632"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-18": {
+    "addition": {
+      "classic": [
+        "69333212"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-16": {
+    "addition": {
+      "classic": [
+        "113138918"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-14": {
+    "addition": {
+      "classic": [
+        "114510471"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-13": {
+    "addition": {
+      "classic": [
+        "100486896",
+        "62151546"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-06": {
+    "addition": {
+      "classic": [
+        "78051190",
+        "84325817"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-05": {
+    "addition": {
+      "classic": [
+        "89807521"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-04": {
+    "addition": {
+      "classic": [
+        "112515547",
+        "80335620"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-02-03": {
+    "addition": {
+      "classic": [
+        "114422869"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-31": {
+    "addition": {
+      "classic": [
+        "114231424"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-30": {
+    "addition": {
+      "classic": [
+        "110913375"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-28": {
+    "addition": {
+      "classic": [
+        "109540067"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-27": {
+    "addition": {
+      "classic": [
+        "82172844"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-25": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "73289291"
+      ],
+      "platformer": []
+    }
+  },
+  "2025-01-24": {
+    "addition": {
+      "classic": [
+        "72082021"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-23": {
+    "addition": {
+      "classic": [
+        "73005068"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-22": {
+    "addition": {
+      "classic": [
+        "86917672"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-20": {
+    "addition": {
+      "classic": [
+        "64066032",
+        "43214204"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-19": {
+    "addition": {
+      "classic": [
+        "42117203",
+        "61531210"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-15": {
+    "addition": {
+      "classic": [
+        "52374843",
+        "60740290"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-14": {
+    "addition": {
+      "classic": [
+        "112412828"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-13": {
+    "addition": {
+      "classic": [
+        "66315180"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "2.21",
+      "message": "更新網站"
+    }
+  },
+  "2025-01-12": {
+    "addition": {
+      "classic": [
+        "90420966"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2025-01-09": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "2.2",
+      "message": "更新網站、規則"
+    }
+  },
+  "2025-01-04": {
+    "addition": {
+      "classic": [
+        "71025973"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-12-21": {
+    "addition": {
+      "classic": [
+        "64148732",
+        "62419638"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-12-18": {
+    "addition": {
+      "classic": [
+        "76670086"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-12-17": {
+    "addition": {
+      "classic": [
+        "66851981"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-30": {
+    "addition": {
+      "classic": [
+        "82148336"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": [
+        "107732760"
+      ]
+    }
+  },
+  "2024-11-27": {
+    "addition": {
+      "classic": [
+        "85242343"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-23": {
+    "addition": {
+      "classic": [
+        "79006927",
+        "41149984",
+        "96383314"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-17": {
+    "addition": {
+      "classic": [
+        "57600307"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-13": {
+    "addition": {
+      "classic": [
+        "95355264"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-11": {
+    "addition": {
+      "classic": [
+        "45626173"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-10": {
+    "addition": {
+      "classic": [
+        "30194711"
+      ],
+      "platformer": [
+        "109365157"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-09": {
+    "addition": {
+      "classic": [
+        "76159410"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-07": {
+    "addition": {
+      "classic": [
+        "95914480"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-11-03": {
+    "addition": {
+      "classic": [
+        "95061038"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-10-31": {
+    "addition": {
+      "classic": [
+        "76760593",
+        "83340498"
+      ],
+      "platformer": [
+        "108103482"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-10-23": {
+    "addition": {
+      "classic": [
+        "95255152",
+        "36886759",
+        "105409034"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-10-19": {
+    "addition": {
+      "classic": [
+        "88244926",
+        "91204586",
+        "41832323"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-10-16": {
+    "addition": {
+      "classic": [
+        "87033090"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-10-14": {
+    "addition": {
+      "classic": [
+        "80966089",
+        "106508870"
+      ],
+      "platformer": [
+        "111066266"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-10-09": {
+    "addition": {
+      "classic": [
+        "79918576",
+        "87481937",
+        "107341811"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-10-01": {
+    "addition": {
+      "classic": [
+        "77669659",
+        "89490128"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-22": {
+    "addition": {
+      "classic": [
+        "71728635"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-21": {
+    "addition": {
+      "classic": [
+        "109730342"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-16": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "103998262"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-15": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "109930878"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-12": {
+    "addition": {
+      "classic": [
+        "95757926"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-07": {
+    "addition": {
+      "classic": [
+        "87072454"
+      ],
+      "platformer": [
+        "105382136"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-06": {
+    "addition": {
+      "classic": [
+        "73645039",
+        "98371484"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-09-05": {
+    "addition": {
+      "classic": [
+        "68688849",
+        "104619741",
+        "108016996"
+      ],
+      "platformer": [
+        "98163412"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-26": {
+    "addition": {
+      "classic": [
+        "88660668"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-23": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "102805772",
+        "99978783",
+        "102010719",
+        "107732760",
+        "107420706"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-20": {
+    "addition": {
+      "classic": [],
+      "platformer": [
+        "102557379"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-18": {
+    "addition": {
+      "classic": [
+        "95281931"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-10": {
+    "addition": {
+      "classic": [
+        "75286957"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-07": {
+    "addition": {
+      "classic": [
+        "104444534"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-04": {
+    "addition": {
+      "classic": [
+        "83676299",
+        "95228237"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-03": {
+    "addition": {
+      "classic": [
+        "93916671"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-08-01": {
+    "addition": {
+      "classic": [
+        "103953282",
+        "73837161"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-29": {
+    "addition": {
+      "classic": [
+        "94772024"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-28": {
+    "addition": {
+      "classic": [
+        "94410319"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-24": {
+    "addition": {
+      "classic": [
+        "80177488",
+        "68414488"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-22": {
+    "addition": {
+      "classic": [
+        "93726172"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-19": {
+    "addition": {
+      "classic": [
+        "58825144",
+        "49576382",
+        "102562296"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-15": {
+    "addition": {
+      "classic": [
+        "31462941"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-12": {
+    "addition": {
+      "classic": [
+        "38235367"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-11": {
+    "addition": {
+      "classic": [
+        "89190831",
+        "88912081"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-05": {
+    "addition": {
+      "classic": [
+        "20321297"
+      ],
+      "platformer": [
+        "97692058",
+        "97713011"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "2.1",
+      "message": "建立Platformer List"
+    }
+  },
+  "2024-07-02": {
+    "addition": {
+      "classic": [
+        "69108628"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-07-01": {
+    "addition": {
+      "classic": [
+        "63775846"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-06-29": {
+    "addition": {
+      "classic": [
+        "52289646"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-06-26": {
+    "addition": {
+      "classic": [
+        "63433024"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-06-25": {
+    "addition": {
+      "classic": [
+        "96036893"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-06-24": {
+    "addition": {
+      "classic": [
+        "52919433"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-06-20": {
+    "addition": {
+      "classic": [
+        "42584142"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-06-08": {
+    "addition": {
+      "classic": [
+        "77255632",
+        "50333567",
+        "55385816",
+        "58811846",
+        "23262780",
+        "48008831",
+        "91386392",
+        "78653808",
+        "81257586"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-05-15": {
+    "addition": {
+      "classic": [
+        "76196489"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-05-10": {
+    "addition": {
+      "classic": [
+        "43357575"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-05-04": {
+    "addition": {
+      "classic": [
+        "58252259"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-04-21": {
+    "addition": {
+      "classic": [
+        "71216292",
+        "103411024"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-04-16": {
+    "addition": {
+      "classic": [
+        "81549790"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-04-14": {
+    "addition": {
+      "classic": [
+        "86412942"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-03-24": {
+    "addition": {
+      "classic": [
+        "81636212"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-03-11": {
+    "addition": {
+      "classic": [
+        "60257058"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-02-28": {
+    "addition": {
+      "classic": [
+        "100485888"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-02-24": {
+    "addition": {
+      "classic": [
+        "33748382"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2024-02-22": {
+    "addition": {
+      "classic": [
+        "91739197"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "58069223"
+      ],
+      "platformer": []
+    }
+  },
+  "2024-01-31": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "814678"
+      ],
+      "platformer": []
+    },
+    "update": {
+      "version": "2.0",
+      "message": "發布GitHub網頁"
+    }
+  },
+  "2024-01-07": {
+    "addition": {
+      "classic": [
+        "59656281"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-12-23": {
+    "addition": {
+      "classic": [
+        "35448603"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-12-07": {
+    "addition": {
+      "classic": [
+        "57019271",
+        "814678"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-11-27": {
+    "addition": {
+      "classic": [
+        "81754967"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-11-21": {
+    "addition": {
+      "classic": [
+        "93516660"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-11-19": {
+    "addition": {
+      "classic": [
+        "21604884"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "23328970"
+      ],
+      "platformer": []
+    }
+  },
+  "2023-10-17": {
+    "addition": {
+      "classic": [
+        "93939369"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-10-11": {
+    "addition": {
+      "classic": [
+        "8147005"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-09-17": {
+    "addition": {
+      "classic": [
+        "14977845"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-09-14": {
+    "addition": {
+      "classic": [
+        "93752979",
+        "88172786"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-09-07": {
+    "addition": {
+      "classic": [
+        "83357887"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-08-07": {
+    "addition": {
+      "classic": [
+        "81688494"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-06-25": {
+    "addition": {
+      "classic": [
+        "86830933"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-06-10": {
+    "addition": {
+      "classic": [
+        "54988894",
+        "86263198",
+        "66807123"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-04-29": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "83431859"
+      ],
+      "platformer": []
+    }
+  },
+  "2023-04-28": {
+    "addition": {
+      "classic": [
+        "62214792"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-04-17": {
+    "addition": {
+      "classic": [
+        "17711004"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-04-09": {
+    "addition": {
+      "classic": [
+        "88943354"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-04-02": {
+    "addition": {
+      "classic": [
+        "60197839"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-03-10": {
+    "addition": {
+      "classic": [
+        "70406732"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-03-08": {
+    "addition": {
+      "classic": [
+        "59230188"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-02-11": {
+    "addition": {
+      "classic": [
+        "54588072"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-02-09": {
+    "addition": {
+      "classic": [
+        "85933508"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-01-26": {
+    "addition": {
+      "classic": [
+        "87425029"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2023-01-11": {
+    "addition": {
+      "classic": [
+        "69491632",
+        "84354027"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-12-30": {
+    "addition": {
+      "classic": [
+        "62419473",
+        "84766628"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-12-22": {
+    "addition": {
+      "classic": [
+        "84813026"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-12-11": {
+    "addition": {
+      "classic": [
+        "69871779",
+        "61537537"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-11-25": {
+    "addition": {
+      "classic": [
+        "39242117"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-11-21": {
+    "addition": {
+      "classic": [
+        "70406732",
+        "83431859"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-11-19": {
+    "addition": {
+      "classic": [
+        "83658556"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-10-18": {
+    "addition": {
+      "classic": [
+        "45818014"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-09-29": {
+    "addition": {
+      "classic": [
+        "54833498",
+        "83825373"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-09-22": {
+    "addition": {
+      "classic": [
+        "57023074"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-07-31": {
+    "addition": {
+      "classic": [
+        "25449475"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-07-26": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "68894546",
+        "77396433"
+      ],
+      "platformer": []
+    }
+  },
+  "2022-07-17": {
+    "addition": {
+      "classic": [
+        "73289291",
+        "77396433"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-07-01": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "73289291"
+      ],
+      "platformer": []
+    }
+  },
+  "2022-06-29": {
+    "addition": {
+      "classic": [
+        "68894546"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-06-24": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "68894546"
+      ],
+      "platformer": []
+    }
+  },
+  "2022-06-23": {
+    "addition": {
+      "classic": [
+        "68848817"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-06-06": {
+    "addition": {
+      "classic": [
+        "77312559"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-06-03": {
+    "addition": {
+      "classic": [
+        "79146983",
+        "74924716"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-05-29": {
+    "addition": {
+      "classic": [
+        "59746010"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "77396433"
+      ],
+      "platformer": []
+    }
+  },
+  "2022-05-28": {
+    "addition": {
+      "classic": [
+        "70187443"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-05-21": {
+    "addition": {
+      "classic": [
+        "60512120",
+        "20077821"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-04-23": {
+    "addition": {
+      "classic": [
+        "65633532"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-04-21": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "62809982"
+      ],
+      "platformer": []
+    }
+  },
+  "2022-04-20": {
+    "addition": {
+      "classic": [
+        "73289291"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-04-10": {
+    "addition": {
+      "classic": [
+        "78687216"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-03-30": {
+    "addition": {
+      "classic": [
+        "78530747"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-03-20": {
+    "addition": {
+      "classic": [
+        "68894546"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-03-15": {
+    "addition": {
+      "classic": [
+        "77114615"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-03-03": {
+    "addition": {
+      "classic": [
+        "25241513"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-02-13": {
+    "addition": {
+      "classic": [
+        "48843446"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-02-08": {
+    "addition": {
+      "classic": [
+        "62809982"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-01-30": {
+    "addition": {
+      "classic": [
+        "77396433"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2022-01-23": {
+    "addition": {
+      "classic": [
+        "45411361"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "62809982"
+      ],
+      "platformer": []
+    }
+  },
+  "2021-12-24": {
+    "addition": {
+      "classic": [
+        "59899374"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-12-04": {
+    "addition": {
+      "classic": [
+        "33670767",
+        "70132215"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-12-01": {
+    "addition": {
+      "classic": [
+        "2374518"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-11-27": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "70132215"
+      ],
+      "platformer": []
+    }
+  },
+  "2021-11-17": {
+    "addition": {
+      "classic": [
+        "62463489"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-11-06": {
+    "addition": {
+      "classic": [
+        "65561437"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-10-30": {
+    "addition": {
+      "classic": [
+        "62419475"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-10-12": {
+    "addition": {
+      "classic": [
+        "65860142"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-10-09": {
+    "addition": {
+      "classic": [
+        "62214792"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-09-29": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "814678"
+      ],
+      "platformer": []
+    }
+  },
+  "2021-09-25": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "73725400"
+      ],
+      "platformer": []
+    }
+  },
+  "2021-09-18": {
+    "addition": {
+      "classic": [
+        "73725400"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-09-07": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "58620226"
+      ],
+      "platformer": []
+    }
+  },
+  "2021-08-11": {
+    "addition": {
+      "classic": [
+        "70132215"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-08-04": {
+    "addition": {
+      "classic": [
+        "52113279"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-07-31": {
+    "addition": {
+      "classic": [
+        "64658786"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-07-29": {
+    "addition": {
+      "classic": [
+        "58620226"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-07-27": {
+    "addition": {
+      "classic": [
+        "16023141"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-06-28": {
+    "addition": {
+      "classic": [
+        "38550757"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-06-25": {
+    "addition": {
+      "classic": [
+        "69010770"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-06-21": {
+    "addition": {
+      "classic": [
+        "68731559"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-06-20": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "1.01",
+      "message": "更新規則"
+    }
+  },
+  "2021-06-10": {
+    "addition": {
+      "classic": [
+        "56089612"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-06-07": {
+    "addition": {
+      "classic": [
+        "48175126"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-06-04": {
+    "addition": {
+      "classic": [
+        "62592746"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-05-24": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "69010770"
+      ],
+      "platformer": []
+    }
+  },
+  "2021-05-20": {
+    "addition": {
+      "classic": [
+        "55184818",
+        "69010770"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-05-07": {
+    "addition": {
+      "classic": [
+        "36449129"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-05-03": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [
+        "61137742"
+      ],
+      "platformer": []
+    }
+  },
+  "2021-04-30": {
+    "addition": {
+      "classic": [
+        "19300593",
+        "60480035"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-04-27": {
+    "addition": {
+      "classic": [
+        "48765988"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-04-21": {
+    "addition": {
+      "classic": [
+        "55985772"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-04-19": {
+    "addition": {
+      "classic": [
+        "56321709",
+        "24301797",
+        "62809982",
+        "61137742"
+      ],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
+  "2021-04-02": {
+    "addition": {
+      "classic": [],
+      "platformer": []
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    },
+    "update": {
+      "version": "1.0",
+      "message": "發布Google Sites網頁"
+    }
+  }
+}

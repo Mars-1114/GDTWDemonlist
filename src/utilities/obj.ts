@@ -36,16 +36,43 @@ export interface RawPlayerInfo {
     }
 }
 
+export interface ChangelogInfo {
+    addition: {
+        classic: LevelId[];
+        platformer: LevelId[];
+    };
+    deletion: {
+        classic: LevelId[];
+        platformer: LevelId[];
+    };
+
+    update?: {
+        version: string;
+        message: string;
+    };
+}
+
 export type RawLevels = RawLevel[];
 export type RawRecords = Record<LevelId, Record<Player, RawRecord>>;
 export type Legacies = Record<LevelId, Legacy>;
 export type Players = Record<Player, RawPlayerInfo>;
+export type RawChangelogs = Record<FormattedDate, ChangelogInfo>;
 
 export interface RawData {
-    levels: RawLevels;
-    records: RawRecords;
-    legacies: Legacies;
+    levels: {
+        classic: RawLevels;
+        platformer: RawLevels;
+    }
+    records: {
+        classic: RawRecords;
+        platformer: RawRecords;
+    }
+    legacies: {
+        classic: Legacies;
+        platformer: Legacies;
+    }
     players: Players;
+    changelog: RawChangelogs;
 }
 
 
@@ -73,25 +100,22 @@ export interface FormattedPlayer {
     records: Map<LevelId, RawRecord>;
 }
 
-export interface ChangelogInfo {
-    addition: {
-        classical: LevelId[];
-        platformer: LevelId[];
-    };
-    deletion: {
-        classical: LevelId[];
-        platformer: LevelId[];
-    };
-
-    update?: {
-        version: string;
-        message: string;
-    };
-}
-
 export type Demonlist = Map<LevelId, FormattedLevel>;
 export type Leaderboard = Map<Player, FormattedPlayer>;
-export type Changelog = Map<FormattedDate, ChangelogInfo>;
+export type Changelogs = Map<FormattedDate, ChangelogInfo>;
+
+export interface Data {
+    demonlist: {
+        classic: Demonlist;
+        platformer: Demonlist;
+    };
+    leaderboard: {
+        classic: Leaderboard;
+        platformer: Leaderboard;
+    };
+    players: Players;
+    changelogs: Changelogs;
+}
 
 
 /* ------- ALIASES -------
