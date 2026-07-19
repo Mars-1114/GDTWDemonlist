@@ -2539,6 +2539,14 @@
     [
       "IGAKU",
       "119732476"
+    ],
+    [
+      "DMG CTRL",
+      "73733373"
+    ],
+    [
+      "ACHROMATISM",
+      "120617540"
     ]
   ],
   "legacy": [
@@ -2685,6 +2693,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "120617540": {
+        "video": "https://www.youtube.com/watch?v=e5C4u0PmSAE",
+        "completion_date": "2026-07-19",
+        "is_mobile": false
+      },
+      "73733373": {
+        "video": "https://www.youtube.com/watch?v=dgxLi-yyin8",
+        "completion_date": "2026-07-18",
+        "is_mobile": false
+      },
       "137059352": {
         "video": "https://www.youtube.com/watch?v=HPWso4EAtyk",
         "completion_date": "2026-07-06",
@@ -7343,6 +7361,11 @@
       }
     },
     "一根蔥": {
+      "28220417": {
+        "video": "https://www.youtube.com/watch?v=umOpyhhOaVs",
+        "completion_date": "2026-07-19",
+        "is_mobile": false
+      },
       "31462941": {
         "video": "https://www.youtube.com/watch?v=X6TIH_9BCdY",
         "completion_date": "2026-07-06",

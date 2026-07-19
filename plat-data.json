@@ -155,6 +155,10 @@
     [
       "Robot King",
       "99927952"
+    ],
+    [
+      "Walk to the midnight",
+      "118946505"
     ]
   ],
   "legacy": [
@@ -172,11 +176,6 @@
       "level": "Twisted Reality",
       "id": "117247616",
       "publisher": "NightThemeGMD"
-    },
-    {
-      "level": "Walk to the midnight",
-      "id": "118946505",
-      "publisher": "Anyvix"
     },
     {
       "level": "Chief Needler",
