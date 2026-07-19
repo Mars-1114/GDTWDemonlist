@@ -1,12 +1,25 @@
 {
+  "2026-07-20": {
+    "addition": {
+      "classic": [
+        "73733373",
+        "120617540"
+      ],
+      "platformer": [
+        "118946505"
+      ]
+    },
+    "deletion": {
+      "classic": [],
+      "platformer": []
+    }
+  },
   "2026-07-18": {
     "addition": {
       "classic": [
         "119732476"
       ],
-      "platformer": [
-        "118946505"
-      ]
+      "platformer": []
     },
     "deletion": {
       "classic": [],
