@@ -1,48 +1,4 @@
 {
-  "139622770": {
-    "name": "Nosedive",
-    "publisher": "rustere"
-  },
-  "85242343": {
-    "name": "White Album",
-    "publisher": "Javp"
-  },
-  "125801346": {
-    "name": "Hyper Ascent",
-    "publisher": "NotIconixx"
-  },
-  "80575901": {
-    "name": "in canon",
-    "publisher": "cordeaux"
-  },
-  "90661998": {
-    "name": "teehee colon three",
-    "publisher": "Wolvyy"
-  },
-  "112209834": {
-    "name": "cja",
-    "publisher": "DWGro"
-  },
-  "73289291": {
-    "name": "Delirium Tremens",
-    "publisher": "Vadi"
-  },
-  "81636212": {
-    "name": "TRIANGULAR",
-    "publisher": "zNickname"
-  },
-  "58069223": {
-    "name": "Gunslinga Corridor",
-    "publisher": "zEvilPrisma"
-  },
-  "814678": {
-    "name": "ICE Carbon Diablo X",
-    "publisher": "Roadbose"
-  },
-  "23328970": {
-    "name": "Hate War",
-    "publisher": "Stormfly"
-  },
   "83431859": {
     "name": "MY SONG",
     "publisher": "lGenoxide"
@@ -55,10 +11,6 @@
     "name": "Ainoseikatsu",
     "publisher": "TheBlackHell"
   },
-  "62809982": {
-    "name": "Thanatophobia",
-    "publisher": "ARtu"
-  },
   "73725400": {
     "name": "CraZy III",
     "publisher": "DavJT"
@@ -70,10 +22,6 @@
   "61137742": {
     "name": "Leyak",
     "publisher": "EnZore"
-  },
-  "118026710": {
-    "name": "MONITORING",
-    "publisher": "IIIGamBiTIII"
   },
   "88611404": {
     "name": "NEUTRA",
@@ -154,5 +102,13 @@
   "57023074": {
     "name": "Castling",
     "publisher": "Meroo"
+  },
+  "81636212": {
+    "name": "TRIANGULAR",
+    "publisher": "zNickname"
+  },
+  "23328970": {
+    "name": "Hate War",
+    "publisher": "Stormfly"
   }
 }

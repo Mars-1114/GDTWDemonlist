@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data/platformer-legacy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/platformer-records.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.todo/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.todo/tasks.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/changelog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/changelog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/demonlist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demonlist_list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/leaderboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/changelog.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/changelog.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/classic-legacy.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/classic-legacy.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/classic-records.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/classic-records.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/classic_leaderboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/classic_leaderboard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/classic_level.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/classic_level.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/platformer-legacy.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/platformer-legacy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/classic_leaderboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/leaderboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/classic_level.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/demonlist.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utilities/fetch.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/fetch.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utilities/format.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/format.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/obj.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/obj.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "npm.dev.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "Errors",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "C:\\Users\\user\\Documents\\GitHub\\GDTWDemonlist\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"

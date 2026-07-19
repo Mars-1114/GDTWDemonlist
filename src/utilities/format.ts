@@ -20,16 +20,17 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
         const lvl_id = lvl.level_id + (lvl.two_player ? "_2p" : "");
         if (!(lvl_id in raw_records))
             continue;
-        ++count;
+        if (!lvl.legacy)
+            ++count;
 
         demonlist.set(lvl_id, {
             name: lvl.name,
             publisher_id: lvl.publisher_id,
             aredl_rank: lvl.position,
-            local_rank: count,
+            local_rank: !lvl.legacy ? count : -1,
             points: 0,
             two_player: lvl.two_player,
-            is_legacy: false,
+            is_legacy: lvl.legacy,
             records: formatRecords(raw_records[lvl_id])
         });
     }
@@ -38,12 +39,14 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
     demonlist.forEach((lvl, lvl_id) => {
         demonlist.set(lvl_id, {
             ...lvl,
-            points: getPoints(lvl.local_rank, lvl.aredl_rank, count)
+            points: !lvl.is_legacy ? getPoints(lvl.local_rank, lvl.aredl_rank, count) : 0
         });
     })
 
     // legacy
     for (const lvl_id in legacies) {
+        if (demonlist.has(lvl_id))
+            continue;
         demonlist.set(lvl_id, {
             name: legacies[lvl_id].name,
             publisher: legacies[lvl_id].publisher,
@@ -113,7 +116,8 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
 }
 
 function replaceIdWithName(ids: string[], demonlist: obj.Demonlist) {
-    ids.sort((a, b) => {
+    let result = [...ids];
+    result.sort((a, b) => {
         try {
             let ptsA = demonlist.get(a)!.points;
             let ptsB = demonlist.get(b)!.points;
@@ -125,22 +129,37 @@ function replaceIdWithName(ids: string[], demonlist: obj.Demonlist) {
             return nameA.localeCompare(nameB);
         }
         catch (error) {
-            console.log("Error getting ID of ", a, " or ", b);
+            console.log("Error getting ID of", a, "or", b);
             return -1;
         }
     });
-    for (let i = 0; i < ids.length; i++) {
-        ids[i] = demonlist.get(ids[i])!.name;
+
+    for (let i = 0; i < result.length; i++) {
+        try {
+            result[i] = demonlist.get(result[i])!.name;
+        }
+        catch (error) {
+            console.log("Cannot find level name of ID", ids[i]);
+        }
     }
+    return result;
 }
 
 export function formatChangelog(raw_changelog: obj.RawChangelogs, classical_demonlist: obj.Demonlist, platformer_demonlist: obj.Demonlist): obj.Changelogs {
+    let formatted_changelog: obj.Changelogs = new Map();
     for (const date in raw_changelog) {
         let info = raw_changelog[date];
-        replaceIdWithName(info.addition.classic, classical_demonlist);
-        replaceIdWithName(info.addition.platformer, platformer_demonlist);
-        replaceIdWithName(info.deletion.classic, classical_demonlist);
-        replaceIdWithName(info.deletion.platformer, platformer_demonlist);
+        formatted_changelog.set(date, {
+            ...info,
+            addition: {
+                classic: replaceIdWithName(info.addition.classic, classical_demonlist),
+                platformer: replaceIdWithName(info.addition.platformer, platformer_demonlist)
+            },
+            deletion: {
+                classic: replaceIdWithName(info.deletion.classic, classical_demonlist),
+                platformer: replaceIdWithName(info.deletion.platformer, platformer_demonlist)
+            }
+        });
     }
-    return new Map(Object.entries(raw_changelog));
+    return formatted_changelog;
 }

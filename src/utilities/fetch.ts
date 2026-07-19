@@ -9,7 +9,7 @@ import * as obj from "./obj"
 
 async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<obj.RawLevels> {
     let list = (lvl_type === "classic") ? "aredl" : "arepl";
-    const response = await fetch(`https://api.aredl.net/v2/api/${list}/levels?exclude_legacy=true`);
+    const response = await fetch(`https://api.aredl.net/v2/api/${list}/levels`);
     return await response.json();
 }
 

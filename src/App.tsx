@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Navbar } from './components/navbar';
-import { ClassicLevel } from './pages/classic_level';
-import { ClassicLeaderboard } from "./pages/classic_leaderboard";
+import { DemonlistPage } from './pages/demonlist.tsx';
+import { LeaderboardPage } from "./pages/leaderboard.tsx";
 import { About } from './pages/about';
 import { Guidelines } from "./pages/guidelines";
 
@@ -14,6 +14,7 @@ export default function App() {
     const [loading, setLoading] = useState<boolean>(true);
     const [data, setData] = useState<obj.Data | null>(null);
 
+    // call on page load
     useEffect(() => {
         async function loadData() {
             let rawData = await fetchAll();
@@ -51,26 +52,29 @@ export default function App() {
         loadData();
     }, []);
 
-    if (loading) {
-        return <div>Loading Data...</div>;
-    }
-
-    if (data == null) {
-        return <div>Failed to load data :(</div>
-    }
-
     const renderView = () => {
+        if (loading) {
+            return <div>Loading Data...</div>;
+        }
+        if (data == null) {
+            return <div>Failed to load data :(</div>;
+        }
+
         switch (currentView) {
-            case 'classic_level':
-                return <ClassicLevel data={data} />;
+            case 'classic_demonlist':
+                return <DemonlistPage key="classic" data={data} list_type="classic" />;
             case 'classic_leaderboard':
-                return <ClassicLeaderboard data={data} />;
+                return <LeaderboardPage key="classic" data={data} list_type="classic" />;
+            case 'platformer_demonlist':
+                return <DemonlistPage key="platformer" data={data} list_type="platformer" />;
+            case 'platformer_leaderboard':
+                return <LeaderboardPage key="platformer" data={data} list_type="platformer" />;
             case 'about':
                 return <About changelogs={data.changelogs} />;
             case 'guidelines':
                 return <Guidelines />;
             default:
-                return <ClassicLevel data={data} />;
+                return <DemonlistPage key="classic" data={data} list_type="classic" />;
         }
     };
 
