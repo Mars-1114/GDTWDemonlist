@@ -4,9 +4,12 @@ import * as obj from "../utilities/obj";
 type setPlayer = (player: string) => void;
 
 function LeaderboardListUnit({player, playerDetail, setPlayer}: {player: string, playerDetail: obj.FormattedPlayer, setPlayer: setPlayer}) {
+    let rank = playerDetail.points != 0 ? <span>#{playerDetail.rank}</span> : null;
+    let points = playerDetail.points != 0 ? <span>{playerDetail.points} pts</span> : null;
+
     return (
         <div onClick={() => setPlayer(player)}>
-            #{playerDetail.rank} - {player} [{playerDetail.points} pts]
+            {rank} {player} {points}
         </div>
     );
 }

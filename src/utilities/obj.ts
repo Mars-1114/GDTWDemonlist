@@ -89,12 +89,14 @@ export interface FormattedLevel {
     points: number;
     two_player: boolean;
     is_legacy: boolean;
+    is_ambiguous: boolean;  // append publisher
 
     records: Map<Player, RawRecord>;
 }
 
 export interface FormattedPlayer {
     points: number;
+    exd_count: number;
     rank: number;
 
     records: Map<LevelId, RawRecord>;

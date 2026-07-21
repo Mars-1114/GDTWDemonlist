@@ -23,15 +23,22 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
         if (!lvl.legacy)
             ++count;
 
+        // extract name
+        let [, name, publisher]: string[] | undefined[] = lvl.name.match(/^([^(]+?)(?:\s*\(([^)]+)\))?$/) || [];
+        if (publisher == "2P") publisher = undefined;
+
         demonlist.set(lvl_id, {
-            name: lvl.name,
+            name: name,
+            publisher: publisher,
             publisher_id: lvl.publisher_id,
             aredl_rank: lvl.position,
             local_rank: !lvl.legacy ? count : -1,
             points: 0,
             two_player: lvl.two_player,
             is_legacy: lvl.legacy,
-            records: formatRecords(raw_records[lvl_id])
+            is_ambiguous: publisher != undefined,
+
+            records: formatRecords(raw_records[lvl_id]),
         });
     }
 
@@ -55,6 +62,8 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
             points: 0,
             two_player: false,
             is_legacy: true,
+            is_ambiguous: false,
+
             records: formatRecords(raw_records[lvl_id])
         });
     }
@@ -73,13 +82,18 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
         lvl.records.forEach((record, player) => {
             if (!(player in rawLeaderboard)) {
                 rawLeaderboard[player] = {
-                  points: 0,
-                  rank: 0,
-                  records: new Map()
+                    points: 0,
+                    exd_count: 0,
+                    rank: 0,
+                    records: new Map()
                 };
             }
+
+            const lvlDetail = demonlist.get(lvl_id)!;
             rawLeaderboard[player].records.set(lvl_id, record);
-            rawLeaderboard[player].points += demonlist.get(lvl_id)!.points;
+            rawLeaderboard[player].points += lvlDetail.points;
+            if (!lvlDetail.is_legacy)
+                rawLeaderboard[player].exd_count++;
         });
     });
 

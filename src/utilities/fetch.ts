@@ -8,15 +8,15 @@ import changelog from "../data/changelog.json";
 import * as obj from "./obj"
 
 async function fetchLevel(lvl_type: "classic" | "platformer"): Promise<obj.RawLevels> {
-    let list = (lvl_type === "classic") ? "aredl" : "arepl";
+    const list = (lvl_type === "classic") ? "aredl" : "arepl";
     const response = await fetch(`https://api.aredl.net/v2/api/${list}/levels`);
     return await response.json();
 }
 
 export async function fetchAll(): Promise<obj.RawData | null> {
     try {
-        let rawClassicLevels = await fetchLevel("classic");
-        let rawPlatformerLevels = await fetchLevel("platformer");
+        const rawClassicLevels = await fetchLevel("classic");
+        const rawPlatformerLevels = await fetchLevel("platformer");
         rawClassicLevels.sort((a, b) => a.position - b.position);  // ensure ordering
         rawPlatformerLevels.sort((a, b) => a.position - b.position);  // ensure ordering
         return {
@@ -39,5 +39,16 @@ export async function fetchAll(): Promise<obj.RawData | null> {
     catch (error) {
         console.log("Failed to fetch levels: ", error);
         return null;
+    }
+}
+
+export async function fetchPublisher(publisher_id?: string): Promise<obj.Player> {
+    try {
+        const url = `https://api.aredl.net/v2/api/users/${publisher_id}`;
+        const response = await fetch(url);
+        return await response.json().then(x => x['global_name']);
+    }
+    catch (error) {
+        return "-";
     }
 }
