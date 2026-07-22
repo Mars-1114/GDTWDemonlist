@@ -2547,6 +2547,14 @@
     [
       "ACHROMATISM",
       "120617540"
+    ],
+    [
+      "Auroral Ascent",
+      "122872017"
+    ],
+    [
+      "Apparition",
+      "71696716"
     ]
   ],
   "legacy": [
@@ -2693,6 +2701,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "71696716": {
+        "video": "https://www.youtube.com/watch?v=5WAb2bfBlmE",
+        "completion_date": "2026-07-22",
+        "is_mobile": false
+      },
       "120617540": {
         "video": "https://www.youtube.com/watch?v=e5C4u0PmSAE",
         "completion_date": "2026-07-19",
@@ -6973,6 +6986,11 @@
       }
     },
     "Cyter867": {
+      "122872017": {
+        "video": "https://www.youtube.com/watch?v=CViZ6BxR3qw",
+        "completion_date": "2026-07-22",
+        "is_mobile": false
+      },
       "119732476": {
         "video": "https://www.youtube.com/watch?v=3b9N6znNokg",
         "completion_date": "2026-07-17",
