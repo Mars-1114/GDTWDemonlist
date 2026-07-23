@@ -1,6 +1,7 @@
 import type { JSX } from "react/jsx-runtime";
 import * as obj from "../utilities/obj";
-import {ImageLink} from "./image_link.tsx";
+import {VideoLink} from "./image_link.tsx";
+import {PlayerInfo} from "./player_info.tsx";
 import Mobile from "../assets/img/mobile.png";
 import TwoPlayer from "../assets/img/2P.png"
 
@@ -8,7 +9,7 @@ function LeaderboardDetailUnit({lvl_detail, record, rank}: {lvl_detail: obj.Form
     let mobileIndicator = record.is_mobile ? <img alt="mobile completion" width="25px" src={Mobile} /> : null;
     let twoPlayerIndicator = lvl_detail.two_player ? <img alt="2P completion" width="25px" src={TwoPlayer} /> : null;
     let displayRank = !lvl_detail.is_legacy ? <span>#{rank}</span> : null;
-    let vidLink = <ImageLink url={record.url} />
+    let vidLink = <VideoLink url={record.url} />
     let points = !lvl_detail.is_legacy ? <span>{lvl_detail.points} pts</span> : null;
 
     return (
@@ -22,7 +23,7 @@ function LeaderboardDetailUnit({lvl_detail, record, rank}: {lvl_detail: obj.Form
     );
 }
 
-export function LeaderboardDetail({player, playerDetail, demonlist}: {player: string, playerDetail: obj.FormattedPlayer, demonlist: obj.Demonlist}) {
+export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}: {player: string, playerDetail: obj.FormattedPlayer, playerInfo: obj.RawPlayerInfo, demonlist: obj.Demonlist}) {
     let rows: JSX.Element[] = [];
     playerDetail.records.forEach((record, lvl_id) => {
         rows.push(
@@ -31,7 +32,7 @@ export function LeaderboardDetail({player, playerDetail, demonlist}: {player: st
     })
     return (
           <div>
-              <h2>{player}</h2>
+              <PlayerInfo name={player} info={playerInfo} />
               <div style={{display: "grid", gridTemplateColumns: "auto auto auto"}}>
                   <div>排名</div>
                   <div>分數</div>

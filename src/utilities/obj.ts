@@ -28,11 +28,7 @@ export interface RawPlayerInfo {
     contact: {
         facebook?: string;
         youtube?: string;
-        discord?: string;
-        gd?: {
-            icon: string;
-            account: string;
-        };
+        gd?: string;
     }
 }
 

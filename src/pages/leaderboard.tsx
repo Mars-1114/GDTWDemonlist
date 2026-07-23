@@ -14,7 +14,7 @@ export function LeaderboardPage({data, list_type}: {data: obj.Data, list_type: "
                 <LeaderboardList leaderboard={leaderboard} setPlayer={setPlayer} />
             </div>
             <div style={{flex: 1}}>
-                <LeaderboardDetail player={player} playerDetail={leaderboard.get(player)!} demonlist={demonlist} />
+                <LeaderboardDetail player={player} playerDetail={leaderboard.get(player)!} playerInfo={data.players[player]} demonlist={demonlist} />
             </div>
         </div>
     );

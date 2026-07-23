@@ -1,4 +1,4 @@
-import { Latex } from "../utilities/latex";
+import { Latex } from "../components/latex.tsx";
 import Mobile from "../assets/img/mobile.png";
 import TwoPlayer from "../assets/img/2P.png";
 

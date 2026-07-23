@@ -1,13 +1,13 @@
 import type { JSX } from "react/jsx-runtime";
 import * as obj from "../utilities/obj";
 import { Publisher } from "./publisher";
-import { ImageLink } from "./image_link.tsx";
+import { VideoLink } from "./image_link.tsx";
 
 import Mobile from "../assets/img/mobile.png";
 
 function DemonlistDetailUnit({ player, record, rank }: { player: string, record: obj.RawRecord, rank:  number }) {
     let mobileIndicator = record.is_mobile ? <img alt="mobile completion" width="25px" src={Mobile} /> : null;
-    let vidLink = <ImageLink url={record.url}/>;
+    let vidLink = <VideoLink url={record.url}/>;
 
     return (
         <div>

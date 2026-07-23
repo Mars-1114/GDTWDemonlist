@@ -1,13 +1,13 @@
-import React, { useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 import katex from "katex";
 import "katex/dist/katex.min.css";
 
-interface MathProps {
+interface LatexProps {
     formula: string;
     inline?: boolean;
 }
 
-export const Latex: React.FC<MathProps> = ({ formula, inline = false }) => {
+export function Latex({ formula, inline }: LatexProps) {
     const containerRef = useRef<HTMLSpanElement>(null);
 
     useEffect(() => {
@@ -20,4 +20,4 @@ export const Latex: React.FC<MathProps> = ({ formula, inline = false }) => {
     }, [formula, inline]);
 
     return <span ref={containerRef} />;
-};
+}
