@@ -2555,6 +2555,14 @@
     [
       "Apparition",
       "71696716"
+    ],
+    [
+      "CholeriX",
+      "40902405"
+    ],
+    [
+      "Artificial Ideology",
+      "27908448"
     ]
   ],
   "legacy": [
@@ -2701,6 +2709,21 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "117862884": {
+        "video": "https://www.youtube.com/watch?v=ugp4XVTAPwc",
+        "completion_date": "2026-07-25",
+        "is_mobile": false
+      },
+      "27908448": {
+        "video": "https://www.youtube.com/watch?v=Vq7uV-__5hY",
+        "completion_date": "2026-07-24",
+        "is_mobile": false
+      },
+      "40902405": {
+        "video": "https://www.youtube.com/watch?v=cGW1wPABZ-g",
+        "completion_date": "2026-07-23",
+        "is_mobile": false
+      },
       "71696716": {
         "video": "https://www.youtube.com/watch?v=5WAb2bfBlmE",
         "completion_date": "2026-07-22",
@@ -7379,6 +7402,11 @@
       }
     },
     "一根蔥": {
+      "69871779": {
+        "video": "https://www.youtube.com/watch?v=_aYMrY4MzdU",
+        "completion_date": "2026-07-24",
+        "is_mobile": false
+      },
       "28220417": {
         "video": "https://www.youtube.com/watch?v=umOpyhhOaVs",
         "completion_date": "2026-07-19",
@@ -7962,6 +7990,16 @@
       }
     },
     "阿茲": {
+      "77114615": {
+        "video": "https://www.youtube.com/watch?v=BHXIlp5RmDY",
+        "completion_date": "2026-07-25",
+        "is_mobile": false
+      },
+      "26681070": {
+        "video": "https://www.youtube.com/watch?v=-VpRUOctpRw",
+        "completion_date": "2026-07-23",
+        "is_mobile": false
+      },
       "77008332": {
         "video": "https://www.youtube.com/watch?v=E-Oexpkwar4",
         "completion_date": "2026-07-02",
@@ -8245,6 +8283,13 @@
         "video": "https://www.youtube.com/watch?v=xkLoAXsGxbY",
         "completion_date": "2026-07-04",
         "is_mobile": false
+      }
+    },
+    "ジユ": {
+      "87425029": {
+        "video": "https://www.youtube.com/watch?v=xkLoAXsGxbY",
+        "completion_date": "2026-03-27",
+        "is_mobile": true
       }
     }
   }
