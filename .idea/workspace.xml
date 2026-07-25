@@ -6,19 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.todo/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.todo/tasks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/changelog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/changelog.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/demonlist_detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demonlist_detail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/demonlist_list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demonlist_list.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/filter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image_link.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image_link.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/leaderboard_list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_list.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/demonlist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/demonlist.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/leaderboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/leaderboard.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +238,7 @@
       <workItem from="1783874741423" duration="249000" />
       <workItem from="1783875011448" duration="40828000" />
       <workItem from="1784115722163" duration="27714000" />
-      <workItem from="1784773818481" duration="42724000" />
+      <workItem from="1784773818481" duration="43076000" />
     </task>
     <servers />
   </component>
