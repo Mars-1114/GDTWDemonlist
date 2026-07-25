@@ -7,35 +7,18 @@
     <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.todo/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.todo/tasks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/anan.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/anan111.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/astral.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/infastral.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/btcmr.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/gdbtcmr123.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/catti.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/walterberg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/cyter.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/cyter867.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/eddie.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/eddie1mc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/ej.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/ejhuang.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/hardygod.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/thehardygod.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/kiwi.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/kiwibbbbbbbb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/mars.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/imarsi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/netherportal.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/netherportal2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/nostic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/nosticdaderg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/pancake.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/prostylepancake.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/rinon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/mrinon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/ruiq.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/ruiq29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/silver.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/silver062.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/twnoob.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/twthenoob.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/wako.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/wakooooo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icons/yoshi.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/icons/supercoolyoshi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/changelog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/changelog.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/demonlist_detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demonlist_detail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/demonlist_list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demonlist_list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/filter.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/image_link.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image_link.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/player_info.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/player_info.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/players.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/players.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/guidelines.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/guidelines.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/leaderboard_list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/demonlist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/demonlist.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/leaderboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/leaderboard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/latex.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/latex.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/obj.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/obj.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +251,7 @@
       <workItem from="1783874741423" duration="249000" />
       <workItem from="1783875011448" duration="40828000" />
       <workItem from="1784115722163" duration="27714000" />
-      <workItem from="1784773818481" duration="14225000" />
+      <workItem from="1784773818481" duration="41980000" />
     </task>
     <servers />
   </component>

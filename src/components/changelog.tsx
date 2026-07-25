@@ -1,6 +1,15 @@
 import * as obj from "../utilities/obj";
 import type { JSX } from "react/jsx-runtime";
 
+interface ChangelogProps {
+    changelogList: obj.Changelogs;
+}
+
+interface ChangelogUnitProps {
+    date: string;
+    changelog: obj.ChangelogInfo;
+}
+
 function joinElements(elements: JSX.Element[], sep: string = ", ") {
     if (elements.length === 0) return null;
     let prepareElements = elements.slice(0, elements.length - 1).map((element) => <>{element}{sep}</>);
@@ -8,7 +17,7 @@ function joinElements(elements: JSX.Element[], sep: string = ", ") {
     return <>{prepareElements}</>;
 }
 
-function ChangelogUnit({date, changelog}: {date: string, changelog: obj.ChangelogInfo}) {
+function ChangelogUnit({date, changelog}: ChangelogUnitProps) {
     let additionClassic = changelog.addition.classic.map(x => <span>{x}</span>);
     let additionPlatformer = changelog.addition.platformer.map(x => <span>{x}</span>);
     let deletionClassic = changelog.deletion.classic.map(x => <span>{x}</span>);
@@ -37,9 +46,9 @@ function ChangelogUnit({date, changelog}: {date: string, changelog: obj.Changelo
     );
 }
 
-export function Changelog({changelog_list}: {changelog_list: obj.Changelogs}) {
+export function Changelog({changelogList}: ChangelogProps) {
     let rows: JSX.Element[] = [];
-    changelog_list.forEach((changelog, date) => {
+    changelogList.forEach((changelog, date) => {
         rows.push(
             <ChangelogUnit key={date} date={date} changelog={changelog} />
         );

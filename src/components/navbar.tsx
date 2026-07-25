@@ -1,8 +1,16 @@
 import type { JSX } from "react/jsx-runtime";
 
-type setView = (view: string) => void;
+interface DropdownProps {
+    name: string;
+    links: string[];
+    titles: string[];
+    setView: (view: string) => void;
+}
+interface NavbarProps {
+    setView: (view: string) => void;
+}
 
-function Dropdown({ name, links, titles, setView }: { name: string, setView: setView, links: string[], titles: string[] }) {
+function Dropdown({ name, links, titles, setView }: DropdownProps) {
     let dropdowns: JSX.Element[] = [];
     for (let i = 0; i < links.length; i++) {
         dropdowns.push(
@@ -21,7 +29,7 @@ function Dropdown({ name, links, titles, setView }: { name: string, setView: set
     );
 }
 
-export function Navbar({ setView }: { setView: setView }) {
+export function Navbar({ setView }: NavbarProps) {
     return (
         <nav style={{ display: 'flex', gap: '20px', padding: '10px', background: '#eee' }}>
             <Dropdown

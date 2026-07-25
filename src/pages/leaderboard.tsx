@@ -3,9 +3,14 @@ import * as obj from "../utilities/obj";
 import {LeaderboardList} from "../components/leaderboard_list.tsx";
 import {LeaderboardDetail} from "../components/leaderboard_detail.tsx";
 
-export function LeaderboardPage({data, list_type}: {data: obj.Data, list_type: "classic" | "platformer"}) {
-    const demonlist = list_type === "classic" ? data.demonlist.classic : data.demonlist.platformer;
-    const leaderboard = list_type === "classic" ? data.leaderboard.classic : data.leaderboard.platformer;
+interface LeaderboardProps {
+    data: obj.Data;
+    listType: "classic" | "platformer";
+}
+
+export function LeaderboardPage({data, listType}: LeaderboardProps) {
+    const demonlist = listType === "classic" ? data.demonlist.classic : data.demonlist.platformer;
+    const leaderboard = listType === "classic" ? data.leaderboard.classic : data.leaderboard.platformer;
     const [player, setPlayer] = useState<string>(leaderboard.keys().next().value!);
 
     return (

@@ -62,19 +62,19 @@ export default function App() {
 
         switch (currentView) {
             case 'classic_demonlist':
-                return <DemonlistPage key="classic" data={data} list_type="classic" />;
+                return <DemonlistPage key="classic" data={data} listType="classic" />;
             case 'classic_leaderboard':
-                return <LeaderboardPage key="classic" data={data} list_type="classic" />;
+                return <LeaderboardPage key="classic" data={data} listType="classic" />;
             case 'platformer_demonlist':
-                return <DemonlistPage key="platformer" data={data} list_type="platformer" />;
+                return <DemonlistPage key="platformer" data={data} listType="platformer" />;
             case 'platformer_leaderboard':
-                return <LeaderboardPage key="platformer" data={data} list_type="platformer" />;
+                return <LeaderboardPage key="platformer" data={data} listType="platformer" />;
             case 'about':
                 return <About changelogs={data.changelogs} />;
             case 'guidelines':
                 return <Guidelines />;
             default:
-                return <DemonlistPage key="classic" data={data} list_type="classic" />;
+                return <DemonlistPage key="classic" data={data} listType="classic" />;
         }
     };
 

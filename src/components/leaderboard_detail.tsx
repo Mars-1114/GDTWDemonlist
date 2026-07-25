@@ -4,13 +4,28 @@ import {VideoLink} from "./image_link.tsx";
 import {PlayerInfo} from "./player_info.tsx";
 import Mobile from "../assets/img/mobile.png";
 import TwoPlayer from "../assets/img/2P.png"
+import {useEffect, useState} from "react";
 
-function LeaderboardDetailUnit({lvl_detail, record, rank}: {lvl_detail: obj.FormattedLevel, record: obj.RawRecord, rank: number}) {
+interface LeaderboardDetailProps {
+    player: string;
+    playerDetail: obj.FormattedPlayer;
+    playerInfo: obj.RawPlayerInfo;
+    demonlist: obj.Demonlist;
+
+}
+
+interface LeaderboardDetailUnitProps {
+    lvlDetail: obj.FormattedLevel;
+    record: obj.RawRecord;
+    rank: number;
+}
+
+function LeaderboardDetailUnit({lvlDetail, record, rank}: LeaderboardDetailUnitProps) {
     let mobileIndicator = record.is_mobile ? <img alt="mobile completion" width="25px" src={Mobile} /> : null;
-    let twoPlayerIndicator = lvl_detail.two_player ? <img alt="2P completion" width="25px" src={TwoPlayer} /> : null;
-    let displayRank = !lvl_detail.is_legacy ? <span>#{rank}</span> : null;
+    let twoPlayerIndicator = lvlDetail.two_player ? <img alt="2P completion" width="25px" src={TwoPlayer} /> : null;
+    let displayRank = !lvlDetail.is_legacy ? <span>#{rank}</span> : null;
     let vidLink = <VideoLink url={record.url} />
-    let points = !lvl_detail.is_legacy ? <span>{lvl_detail.points} pts</span> : null;
+    let points = !lvlDetail.is_legacy ? <span>{lvlDetail.points} pts</span> : null;
 
     return (
       <div>
@@ -18,16 +33,57 @@ function LeaderboardDetailUnit({lvl_detail, record, rank}: {lvl_detail: obj.Form
               {twoPlayerIndicator}
               {mobileIndicator}
           </span>
-          {displayRank} {lvl_detail.name} {points} {record.date} {vidLink}
+          {displayRank} {lvlDetail.name} {points} {record.date} {vidLink}
       </div>
     );
 }
 
-export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}: {player: string, playerDetail: obj.FormattedPlayer, playerInfo: obj.RawPlayerInfo, demonlist: obj.Demonlist}) {
+export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}: LeaderboardDetailProps) {
+    const [rankType, setRankType] = useState<"gdtw" | "aredl" | "player">("gdtw");
+    const [orderType, setOrderType] = useState<"difficulty" | "alphabet" | "time">("difficulty");
+    const [reorderedRecords, setReorderedRecords] = useState<Map<obj.LevelId, obj.RawRecord>>(playerDetail.records);
+
+    useEffect(() => {
+        switch(orderType) {
+            case "alphabet":
+                setReorderedRecords(
+                    new Map([...playerDetail.records.entries()].sort((a, b) => {
+                        return demonlist.get(a[0])!.name.localeCompare(demonlist.get(b[0])!.name);
+                })));
+                break;
+            case "time":
+                setReorderedRecords(
+                    new Map([...playerDetail.records.entries()].sort((a, b) => {
+                        return a[1].id - b[1].id;
+                })));
+                break;
+            case "difficulty":
+            default:
+                setReorderedRecords(playerDetail.records);
+                break;
+        }
+    }, [orderType]);
+
+
     let rows: JSX.Element[] = [];
-    playerDetail.records.forEach((record, lvl_id) => {
+    let count = 0;
+    reorderedRecords.forEach((record, lvlId) => {
+        count++;
+        let rank = -1;
+        switch(rankType) {
+            case "aredl":
+                rank = demonlist.get(lvlId)!.aredl_rank;
+                break;
+            case "player":
+                rank = count;
+                break;
+            case "gdtw":
+            default:
+                rank = demonlist.get(lvlId)!.local_rank;
+                break;
+        }
         rows.push(
-          <LeaderboardDetailUnit key={lvl_id} lvl_detail={demonlist.get(lvl_id)!} record={record} rank={demonlist.get(lvl_id)!.local_rank}/>
+            <LeaderboardDetailUnit key={lvlId} lvlDetail={demonlist.get(lvlId)!} record={record} rank={rank} />
         );
     })
     return (
@@ -43,8 +99,34 @@ export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}:
               </div>
               <div>
                   <h4>通關關卡</h4>
+                  <button onClick={() => temp1(orderType, setOrderType)}>{orderType}</button>
+                  <button onClick={() => temp2(rankType, setRankType)}>{rankType}</button>
                   {rows}
               </div>
           </div>
     );
+}
+
+function temp1(orderType: string, setOrderType: (order: "difficulty" | "alphabet" | "time") => void) {
+    if (orderType === "difficulty") {
+        setOrderType("alphabet");
+    }
+    else if (orderType === "alphabet") {
+        setOrderType("time");
+    }
+    else if (orderType === "time") {
+        setOrderType("difficulty");
+    }
+}
+
+function temp2(rankType: string, setRankType: (rank: "gdtw" | "aredl" | "player") => void) {
+    if (rankType === "gdtw") {
+        setRankType("aredl");
+    }
+    else if (rankType === "aredl") {
+        setRankType("player");
+    }
+    else if (rankType === "player") {
+        setRankType("gdtw");
+    }
 }

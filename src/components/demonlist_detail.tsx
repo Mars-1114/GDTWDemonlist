@@ -5,7 +5,18 @@ import { VideoLink } from "./image_link.tsx";
 
 import Mobile from "../assets/img/mobile.png";
 
-function DemonlistDetailUnit({ player, record, rank }: { player: string, record: obj.RawRecord, rank:  number }) {
+interface DemonlistDetailProps {
+    lvlId: string;
+    level: obj.FormattedLevel;
+}
+
+interface DemonlistDetailUnitProps {
+    player: string;
+    record: obj.RawRecord;
+    rank: number;
+}
+
+function DemonlistDetailUnit({ player, record, rank }: DemonlistDetailUnitProps) {
     let mobileIndicator = record.is_mobile ? <img alt="mobile completion" width="25px" src={Mobile} /> : null;
     let vidLink = <VideoLink url={record.url}/>;
 
@@ -19,7 +30,7 @@ function DemonlistDetailUnit({ player, record, rank }: { player: string, record:
     );
 }
 
-export function DemonlistDetail({ lvl_id, level }: { lvl_id: string, level: obj.FormattedLevel}) {
+export function DemonlistDetail({ lvlId, level }: DemonlistDetailProps) {
     let rows: JSX.Element[] = [];
     let rank = 0;
     level.records.forEach((record, player) => {
@@ -29,7 +40,7 @@ export function DemonlistDetail({ lvl_id, level }: { lvl_id: string, level: obj.
         );
     })
 
-    let displayId = level.two_player ? lvl_id.substring(0, lvl_id.length - 3) : lvl_id;
+    let displayId = level.two_player ? lvlId.substring(0, lvlId.length - 3) : lvlId;
     let displayRank = !level.is_legacy ? <span>#{level.local_rank} [ #{level.aredl_rank} ]</span> : <span>#Legacy</span>;
     return (
         <>

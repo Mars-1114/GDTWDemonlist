@@ -1,9 +1,19 @@
 import type { JSX } from "react/jsx-runtime";
 import * as obj from "../utilities/obj";
 
-type setLvlId = (lvl_id: string) => void;
+interface DemonlistListUnitProps {
+    lvlId: string;
+    lvlDetail: obj.FormattedLevel;
+    setLvlId: (lvlId: string) => void;
+}
 
-function DemonlistListUnit({lvlId, lvlDetail, setLvlId}: {lvlId: string, lvlDetail: obj.FormattedLevel, setLvlId: setLvlId}) {
+interface DemonlistListProps {
+    demonlist: obj.Demonlist;
+    setLvlId: (lvl_id: string) => void;
+    filterText: string;
+}
+
+function DemonlistListUnit({lvlId, lvlDetail, setLvlId}: DemonlistListUnitProps) {
     let rank = !lvlDetail.is_legacy ? <span>#{lvlDetail.local_rank}</span> : null;
     let publisher = lvlDetail.is_ambiguous ? <span>({lvlDetail.publisher})</span> : null;
     let two_player = lvlDetail.two_player ? <span>[2P]</span> : null;
@@ -16,9 +26,10 @@ function DemonlistListUnit({lvlId, lvlDetail, setLvlId}: {lvlId: string, lvlDeta
     );
 }
 
-export function DemonlistList({demonlist, setLvlId}: { demonlist: obj.Demonlist, setLvlId: setLvlId }) {
+export function DemonlistList({demonlist, setLvlId, filterText}: DemonlistListProps) {
     let rows: JSX.Element[] = [];
     demonlist.forEach((level, lvl_id) => {
+        if (filterText != "" && !level.name.toLowerCase().includes(filterText.toLowerCase())) return;
         rows.push(
             <DemonlistListUnit key={lvl_id} lvlId={lvl_id} lvlDetail={level} setLvlId={setLvlId} />
         )

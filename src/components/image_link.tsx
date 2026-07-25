@@ -5,11 +5,15 @@ import YouTube from "../assets/img/yt.png";
 import YouTubeColored from "../assets/img/yt_color.png";
 import BiliBili from "../assets/img/bilibili.png";
 
+interface ImageLinkProps {
+    url: string;
+}
+
 function getLevelImage(player: string): string {
     return new URL(`../assets/img/icons/${player}.png`, import.meta.url).href;
 }
 
-export function VideoLink({url}: {url: string}) {
+export function VideoLink({url}: ImageLinkProps) {
     let vidSourceImg= DefaultLink;
     if (url.includes("facebook.com"))
         vidSourceImg = Facebook;
@@ -21,7 +25,7 @@ export function VideoLink({url}: {url: string}) {
     return <a href={url}><img alt="link" src={vidSourceImg} width="25px" /></a>;
 }
 
-export function ContactLink({url}: {url: string}) {
+export function ContactLink({url}: ImageLinkProps) {
     let vidSourceImg= "";
     let type = "";
     if (url.includes("facebook.com")) {
