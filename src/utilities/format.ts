@@ -7,6 +7,10 @@ function formatRecords(records: Record<obj.Player, obj.RawRecord>) {
         levelRecords.set(player, records[player]);
     }
     levelRecords = new Map([...levelRecords].sort((a, b) => {
+        let dateA = Date.parse(a[1].date);
+        let dateB = Date.parse(b[1].date);
+        if (dateA != dateB)
+            return dateA - dateB;
         return a[1].id - b[1].id;
     }));
 
@@ -90,7 +94,7 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
             }
 
             const lvlDetail = demonlist.get(lvl_id)!;
-            rawLeaderboard[player].records.set(lvl_id, record);
+            rawLeaderboard[player].records.set(lvl_id, {rank: rawLeaderboard[player].records.size + 1, record: record});
             rawLeaderboard[player].points += lvlDetail.points;
             if (!lvlDetail.is_legacy)
                 rawLeaderboard[player].exd_count++;
@@ -111,8 +115,15 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
         if (hardestPointsA == 0)
             return playerA.localeCompare(playerB);
 
-        let hardestRecordIdA = detailA.records.values().next().value!.id;
-        let hardestRecordIdB = detailB.records.values().next().value!.id;
+        let hardestRecordA = detailA.records.values().next().value!;
+        let hardestRecordB = detailB.records.values().next().value!;
+        let hardestRecordDateA = Date.parse(hardestRecordA.record.date);
+        let hardestRecordDateB = Date.parse(hardestRecordB.record.date);
+        if (hardestRecordDateA != hardestRecordDateB)
+            return hardestRecordDateA - hardestRecordDateB;
+
+        let hardestRecordIdA = detailA.records.values().next().value!.record.id;
+        let hardestRecordIdB = detailB.records.values().next().value!.record.id;
         return hardestRecordIdA - hardestRecordIdB;
     }));
 

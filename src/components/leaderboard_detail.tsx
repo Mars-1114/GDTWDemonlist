@@ -41,7 +41,7 @@ function LeaderboardDetailUnit({lvlDetail, record, rank}: LeaderboardDetailUnitP
 export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}: LeaderboardDetailProps) {
     const [rankType, setRankType] = useState<"gdtw" | "aredl" | "player">("gdtw");
     const [orderType, setOrderType] = useState<"difficulty" | "alphabet" | "time">("difficulty");
-    const [reorderedRecords, setReorderedRecords] = useState<Map<obj.LevelId, obj.RawRecord>>(playerDetail.records);
+    const [reorderedRecords, setReorderedRecords] = useState(playerDetail.records);
 
     useEffect(() => {
         switch(orderType) {
@@ -54,7 +54,7 @@ export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}:
             case "time":
                 setReorderedRecords(
                     new Map([...playerDetail.records.entries()].sort((a, b) => {
-                        return a[1].id - b[1].id;
+                        return a[1].record.id - b[1].record.id;
                 })));
                 break;
             case "difficulty":
@@ -62,20 +62,18 @@ export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}:
                 setReorderedRecords(playerDetail.records);
                 break;
         }
-    }, [orderType]);
+    }, [player, orderType]);
 
 
     let rows: JSX.Element[] = [];
-    let count = 0;
     reorderedRecords.forEach((record, lvlId) => {
-        count++;
-        let rank = -1;
+        let rank;
         switch(rankType) {
             case "aredl":
                 rank = demonlist.get(lvlId)!.aredl_rank;
                 break;
             case "player":
-                rank = count;
+                rank = record.rank;
                 break;
             case "gdtw":
             default:
@@ -83,7 +81,7 @@ export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}:
                 break;
         }
         rows.push(
-            <LeaderboardDetailUnit key={lvlId} lvlDetail={demonlist.get(lvlId)!} record={record} rank={rank} />
+            <LeaderboardDetailUnit key={lvlId} lvlDetail={demonlist.get(lvlId)!} record={record.record} rank={rank} />
         );
     })
     return (

@@ -340,7 +340,7 @@
     "tags": [],
     "title": "Fix player ranking in leaderboard",
     "description": "",
-    "status": "TODO",
+    "status": "DONE",
     "date": {
       "date": {
         "year": 2026,
@@ -352,6 +352,41 @@
         "minute": 0,
         "second": 42,
         "nano": 852615300
+      }
+    },
+    "finishDate": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 26
+      },
+      "time": {
+        "hour": 3,
+        "minute": 9,
+        "second": 21,
+        "nano": 506615000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_153",
+    "priority": "MEDIUM",
+    "tags": [],
+    "title": "Active player filter",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 26
+      },
+      "time": {
+        "hour": 11,
+        "minute": 31,
+        "second": 20,
+        "nano": 558636000
       }
     },
     "isImported": false

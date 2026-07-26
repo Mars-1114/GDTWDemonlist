@@ -95,7 +95,7 @@ export interface FormattedPlayer {
     exd_count: number;
     rank: number;
 
-    records: Map<LevelId, RawRecord>;
+    records: Map<LevelId, { rank: number; record: RawRecord }>;
 }
 
 export type Demonlist = Map<LevelId, FormattedLevel>;
