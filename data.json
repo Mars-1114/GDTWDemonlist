@@ -7990,6 +7990,11 @@
       }
     },
     "阿茲": {
+      "51791710": {
+        "video": "https://www.youtube.com/watch?v=RJMhbpXwiuk",
+        "completion_date": "2026-07-26",
+        "is_mobile": false
+      },
       "77114615": {
         "video": "https://www.youtube.com/watch?v=BHXIlp5RmDY",
         "completion_date": "2026-07-25",
@@ -8289,6 +8294,16 @@
       "87425029": {
         "video": "https://www.youtube.com/watch?v=xkLoAXsGxbY",
         "completion_date": "2026-03-27",
+        "is_mobile": true
+      },
+      "95764848": {
+        "video": "https://www.youtube.com/watch?v=xkLoAXsGxbY",
+        "completion_date": "2026-07-23",
+        "is_mobile": true
+      },
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=oB1DfynNRXA",
+        "completion_date": "2026-07-08",
         "is_mobile": true
       }
     }
