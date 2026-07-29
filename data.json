@@ -2567,6 +2567,18 @@
     [
       "Starlight Summit",
       "114530859"
+    ],
+    [
+      "EdenCity",
+      "94892050"
+    ],
+    [
+      "Geometrical Dominato",
+      "116089123"
+    ],
+    [
+      "Frenzy",
+      "91294711"
     ]
   ],
   "legacy": [
@@ -2713,6 +2725,21 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "116089123": {
+        "video": "https://www.youtube.com/watch?v=tSO6XM-z9Dg",
+        "completion_date": "2026-07-29",
+        "is_mobile": false
+      },
+      "91294711": {
+        "video": "https://www.youtube.com/watch?v=SZQjV48B1bU",
+        "completion_date": "2026-07-28",
+        "is_mobile": false
+      },
+      "94892050": {
+        "video": "https://www.youtube.com/watch?v=lgE_SVpVdVM",
+        "completion_date": "2026-07-27",
+        "is_mobile": false
+      },
       "114530859": {
         "video": "https://www.youtube.com/watch?v=zbPuVsINO-Q",
         "completion_date": "2026-07-26",
@@ -5715,7 +5742,7 @@
       "62419638": {
         "video": "https://www.facebook.com/100004505670128/videos/1212068140184161/",
         "completion_date": "2023-11-07",
-        "is_mobile": true
+        "is_mobile": false
       },
       "62809982": {
         "video": "https://www.facebook.com/100004505670128/videos/445018607022293/",
