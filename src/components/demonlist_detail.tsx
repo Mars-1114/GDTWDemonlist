@@ -41,7 +41,7 @@ export function DemonlistDetail({ lvlId, level }: DemonlistDetailProps) {
     })
 
     let displayId = level.two_player ? lvlId.substring(0, lvlId.length - 3) : lvlId;
-    let displayRank = !level.is_legacy ? <span>#{level.local_rank} [ #{level.aredl_rank} ]</span> : <span>#Legacy</span>;
+    let displayRank = !level.is_legacy ? <span>#{level.local_rank} [ #{level.aredl_rank} ]</span> : <span>Legacy</span>;
     return (
         <>
             <div>

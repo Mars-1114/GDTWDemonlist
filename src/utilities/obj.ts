@@ -94,8 +94,9 @@ export interface FormattedPlayer {
     points: number;
     exd_count: number;
     rank: number;
+    is_active: boolean;
 
-    records: Map<LevelId, { rank: number; record: RawRecord }>;
+    records: Map<LevelId, { index: number; record: RawRecord }>;
 }
 
 export type Demonlist = Map<LevelId, FormattedLevel>;
@@ -123,3 +124,18 @@ export interface Data {
 export type LevelId = string;
 export type Player = string;
 export type FormattedDate = string;
+
+export const OrderType = [
+    {id: "difficulty", label: "難度"},
+    {id: "alphabet", label: "字母"},
+    {id: "time", label: "時間"}
+];
+
+export const RankType = [
+    {id: "gdtw", label: "台灣"},
+    {id: "aredl", label: "全球"},
+    {id: "player", label: "個人"}
+];
+
+export type Order = (typeof OrderType)[number];
+export type Rank = (typeof RankType)[number];

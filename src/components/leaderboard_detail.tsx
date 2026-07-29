@@ -2,8 +2,9 @@ import type { JSX } from "react/jsx-runtime";
 import * as obj from "../utilities/obj";
 import {VideoLink} from "./image_link.tsx";
 import {PlayerInfo} from "./player_info.tsx";
+import {CycleButton} from "./filter.tsx";
 import Mobile from "../assets/img/mobile.png";
-import TwoPlayer from "../assets/img/2P.png"
+import TwoPlayer from "../assets/img/2P.png";
 import {useEffect, useState} from "react";
 
 interface LeaderboardDetailProps {
@@ -39,12 +40,12 @@ function LeaderboardDetailUnit({lvlDetail, record, rank}: LeaderboardDetailUnitP
 }
 
 export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}: LeaderboardDetailProps) {
-    const [rankType, setRankType] = useState<"gdtw" | "aredl" | "player">("gdtw");
-    const [orderType, setOrderType] = useState<"difficulty" | "alphabet" | "time">("difficulty");
+    const [rankType, setRankType] = useState<obj.Rank>(obj.RankType[0]);
+    const [orderType, setOrderType] = useState<obj.Order>(obj.OrderType[0]);
     const [reorderedRecords, setReorderedRecords] = useState(playerDetail.records);
 
     useEffect(() => {
-        switch(orderType) {
+        switch(orderType.id) {
             case "alphabet":
                 setReorderedRecords(
                     new Map([...playerDetail.records.entries()].sort((a, b) => {
@@ -62,18 +63,18 @@ export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}:
                 setReorderedRecords(playerDetail.records);
                 break;
         }
-    }, [player, orderType]);
+    }, [player, playerDetail, orderType]);
 
 
     let rows: JSX.Element[] = [];
     reorderedRecords.forEach((record, lvlId) => {
-        let rank;
-        switch(rankType) {
+        let rank: number;
+        switch(rankType.id) {
             case "aredl":
                 rank = demonlist.get(lvlId)!.aredl_rank;
                 break;
             case "player":
-                rank = record.rank;
+                rank = record.index;
                 break;
             case "gdtw":
             default:
@@ -97,34 +98,10 @@ export function LeaderboardDetail({player, playerDetail, playerInfo, demonlist}:
               </div>
               <div>
                   <h4>通關關卡</h4>
-                  <button onClick={() => temp1(orderType, setOrderType)}>{orderType}</button>
-                  <button onClick={() => temp2(rankType, setRankType)}>{rankType}</button>
+                  <span>排序方式：</span><CycleButton states={obj.OrderType} state={orderType} setState={setOrderType} />
+                  <span>排名依據：</span><CycleButton states={obj.RankType} state={rankType} setState={setRankType} />
                   {rows}
               </div>
           </div>
     );
-}
-
-function temp1(orderType: string, setOrderType: (order: "difficulty" | "alphabet" | "time") => void) {
-    if (orderType === "difficulty") {
-        setOrderType("alphabet");
-    }
-    else if (orderType === "alphabet") {
-        setOrderType("time");
-    }
-    else if (orderType === "time") {
-        setOrderType("difficulty");
-    }
-}
-
-function temp2(rankType: string, setRankType: (rank: "gdtw" | "aredl" | "player") => void) {
-    if (rankType === "gdtw") {
-        setRankType("aredl");
-    }
-    else if (rankType === "aredl") {
-        setRankType("player");
-    }
-    else if (rankType === "player") {
-        setRankType("gdtw");
-    }
 }

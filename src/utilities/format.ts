@@ -81,6 +81,10 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
 }
 
 export function formatLeaderboard(demonlist: obj.Demonlist) {
+    const d = new Date();
+    d.setFullYear(d.getFullYear() - 1);
+    const oneYearAgo = d.getTime();
+
     let rawLeaderboard: Record<obj.Player, obj.FormattedPlayer> = {};
     demonlist.forEach((lvl, lvl_id) => {
         lvl.records.forEach((record, player) => {
@@ -89,18 +93,25 @@ export function formatLeaderboard(demonlist: obj.Demonlist) {
                     points: 0,
                     exd_count: 0,
                     rank: 0,
+                    is_active: false,
                     records: new Map()
                 };
             }
 
             const lvlDetail = demonlist.get(lvl_id)!;
-            rawLeaderboard[player].records.set(lvl_id, {rank: rawLeaderboard[player].records.size + 1, record: record});
+            rawLeaderboard[player].records.set(lvl_id, {index: rawLeaderboard[player].records.size + 1, record: record});
             rawLeaderboard[player].points += lvlDetail.points;
             if (!lvlDetail.is_legacy)
                 rawLeaderboard[player].exd_count++;
+            if (Date.parse(record.date) >= oneYearAgo)
+                rawLeaderboard[player].is_active = true;
         });
     });
 
+    return rankLeaderboard(rawLeaderboard, demonlist);
+}
+
+export function rankLeaderboard(rawLeaderboard: Record<obj.Player, obj.FormattedPlayer>, demonlist: obj.Demonlist) {
     let leaderboard: obj.Leaderboard = new Map(Object.entries(rawLeaderboard).sort((a, b) => {
         let playerA = a[0], playerB = b[0];
         let detailA = a[1], detailB = b[1];

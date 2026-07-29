@@ -84,7 +84,7 @@
     "id": "TASK_11",
     "priority": "LOW",
     "tags": [],
-    "title": "Define compenent properties",
+    "title": "Define component properties",
     "description": "Define that in obj.ts",
     "status": "TODO",
     "date": {
@@ -289,30 +289,6 @@
     "isImported": false
   },
   {
-    "id": "TASK_77",
-    "priority": "LOW",
-    "tags": [
-      "Consideration"
-    ],
-    "title": "Mobile filter",
-    "description": "",
-    "status": "TODO",
-    "date": {
-      "date": {
-        "year": 2026,
-        "month": 7,
-        "day": 21
-      },
-      "time": {
-        "hour": 16,
-        "minute": 9,
-        "second": 32,
-        "nano": 721628500
-      }
-    },
-    "isImported": false
-  },
-  {
     "id": "TASK_89",
     "priority": "MEDIUM",
     "tags": [],
@@ -375,7 +351,7 @@
     "tags": [],
     "title": "Active player filter",
     "description": "",
-    "status": "TODO",
+    "status": "DONE",
     "date": {
       "date": {
         "year": 2026,
@@ -387,6 +363,74 @@
         "minute": 31,
         "second": 20,
         "nano": 558636000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_182",
+    "priority": "MEDIUM",
+    "tags": [],
+    "title": "Design mobile filter",
+    "description": "",
+    "status": "DONE",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 26
+      },
+      "time": {
+        "hour": 21,
+        "minute": 29,
+        "second": 0,
+        "nano": 986666000
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_212",
+    "priority": "LOW",
+    "tags": [
+      "Consideration"
+    ],
+    "title": "Time machine",
+    "description": "Set back to a certain time",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 26
+      },
+      "time": {
+        "hour": 21,
+        "minute": 32,
+        "second": 52,
+        "nano": 958139300
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_258",
+    "priority": "HIGH",
+    "tags": [],
+    "title": "Demonlist mobile filter",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 30
+      },
+      "time": {
+        "hour": 2,
+        "minute": 25,
+        "second": 23,
+        "nano": 831996600
       }
     },
     "isImported": false
