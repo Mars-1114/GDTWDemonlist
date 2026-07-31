@@ -2579,6 +2579,14 @@
     [
       "Frenzy",
       "91294711"
+    ],
+    [
+      "Click Between Worlds",
+      "140571032"
+    ],
+    [
+      "VendetTa",
+      "47797723"
     ]
   ],
   "legacy": [
@@ -2725,6 +2733,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "47797723": {
+        "video": "https://www.youtube.com/watch?v=N1T34KfMtTs",
+        "completion_date": "2026-07-31",
+        "is_mobile": false
+      },
+      "140571032": {
+        "video": "https://www.youtube.com/watch?v=EVyCmyjNF20",
+        "completion_date": "2026-07-30",
+        "is_mobile": false
+      },
       "116089123": {
         "video": "https://www.youtube.com/watch?v=tSO6XM-z9Dg",
         "completion_date": "2026-07-29",
