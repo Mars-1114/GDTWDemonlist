@@ -86,7 +86,7 @@
     "tags": [],
     "title": "Define component properties",
     "description": "Define that in obj.ts",
-    "status": "TODO",
+    "status": "DONE",
     "date": {
       "date": {
         "year": 2026,
@@ -98,6 +98,19 @@
         "minute": 49,
         "second": 27,
         "nano": 390066700
+      }
+    },
+    "finishDate": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 31
+      },
+      "time": {
+        "hour": 21,
+        "minute": 48,
+        "second": 20,
+        "nano": 168142800
       }
     },
     "isImported": false
@@ -294,7 +307,7 @@
     "tags": [],
     "title": "Rewrite how images are loaded",
     "description": "Use import.meta.glob to dynamically all images",
-    "status": "TODO",
+    "status": "DONE",
     "date": {
       "date": {
         "year": 2026,
@@ -306,6 +319,19 @@
         "minute": 18,
         "second": 41,
         "nano": 333511700
+      }
+    },
+    "finishDate": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 31
+      },
+      "time": {
+        "hour": 23,
+        "minute": 42,
+        "second": 49,
+        "nano": 335349900
       }
     },
     "isImported": false
@@ -391,10 +417,8 @@
   },
   {
     "id": "TASK_212",
-    "priority": "LOW",
-    "tags": [
-      "Consideration"
-    ],
+    "priority": "MEDIUM",
+    "tags": [],
     "title": "Time machine",
     "description": "Set back to a certain time",
     "status": "TODO",
@@ -419,7 +443,7 @@
     "tags": [],
     "title": "Demonlist mobile filter",
     "description": "",
-    "status": "TODO",
+    "status": "DONE",
     "date": {
       "date": {
         "year": 2026,
@@ -431,6 +455,135 @@
         "minute": 25,
         "second": 23,
         "nano": 831996600
+      }
+    },
+    "finishDate": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 30
+      },
+      "time": {
+        "hour": 21,
+        "minute": 3,
+        "second": 42,
+        "nano": 432351500
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_307",
+    "priority": "MEDIUM",
+    "tags": [],
+    "title": "Add \"No Records\" message",
+    "description": "",
+    "status": "DONE",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 30
+      },
+      "time": {
+        "hour": 21,
+        "minute": 4,
+        "second": 43,
+        "nano": 609918500
+      }
+    },
+    "finishDate": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 31
+      },
+      "time": {
+        "hour": 23,
+        "minute": 47,
+        "second": 18,
+        "nano": 385132100
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_342",
+    "priority": "LOW",
+    "tags": [],
+    "title": "Records \u0026 Players count on About page",
+    "description": "",
+    "status": "DONE",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 30
+      },
+      "time": {
+        "hour": 21,
+        "minute": 5,
+        "second": 10,
+        "nano": 312023500
+      }
+    },
+    "finishDate": {
+      "date": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 12,
+        "second": 16,
+        "nano": 316628900
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_361",
+    "priority": "LOW",
+    "tags": [],
+    "title": "Credits",
+    "description": "at About",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 30
+      },
+      "time": {
+        "hour": 22,
+        "minute": 3,
+        "second": 58,
+        "nano": 214758500
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_516",
+    "priority": "LOW",
+    "tags": [
+      "Consideration"
+    ],
+    "title": "Country Profile",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 16,
+        "second": 27,
+        "nano": 50798600
       }
     },
     "isImported": false

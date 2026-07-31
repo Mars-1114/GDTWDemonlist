@@ -1,16 +1,16 @@
-import DefaultLink from "../assets/img/link.png";
-import Facebook from "../assets/img/fb.png";
-import FacebookColored from "../assets/img/fb_color.png";
-import YouTube from "../assets/img/yt.png";
-import YouTubeColored from "../assets/img/yt_color.png";
-import BiliBili from "../assets/img/bilibili.png";
+import DefaultLink from "../assets/img/link.webp";
+import Facebook from "../assets/img/fb.webp";
+import FacebookColored from "../assets/img/fb_color.webp";
+import YouTube from "../assets/img/yt.webp";
+import YouTubeColored from "../assets/img/yt_color.webp";
+import BiliBili from "../assets/img/bilibili.webp";
 
 interface ImageLinkProps {
     url: string;
 }
 
-function getLevelImage(player: string): string {
-    return new URL(`../assets/img/icons/${player}.png`, import.meta.url).href;
+function getPlayerIcon(player: string): string {
+    return new URL(`../assets/img/icons/${player}.webp`, import.meta.url).href;
 }
 
 export function VideoLink({url}: ImageLinkProps) {
@@ -38,7 +38,7 @@ export function ContactLink({url}: ImageLinkProps) {
     }
     else if (url.includes("gdbrowser.com")) {
         let [, player] = url.match(/u\/(.+)$/) || [];
-        vidSourceImg = getLevelImage(player);
+        vidSourceImg = getPlayerIcon(player);
         type = "gd";
     }
 

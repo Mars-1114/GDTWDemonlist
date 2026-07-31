@@ -52,3 +52,21 @@ export async function fetchPublisher(publisher_id?: string): Promise<obj.Player>
         return "-";
     }
 }
+
+export function usePreloadImages() {
+    const imageModules = import.meta.glob<{ default: string }>(
+        "../assets/img/**/*.{svg,webp}",
+        { eager: true }
+    );
+    const imageUrls: string[] = Object.values(imageModules).map(
+        (module) => module.default
+    );
+
+    imageUrls.forEach(imageUrl => {
+        const img = new Image();
+        img.src = imageUrl;
+        img.decode();
+
+        img.onload = () => console.log(`Loaded ${imageUrl}`);
+    });
+}

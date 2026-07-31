@@ -7,6 +7,7 @@ import {useEffect, useState} from "react";
 interface LeaderboardListProps {
     demonlist: obj.Demonlist;
     rawLeaderboard: obj.Leaderboard;
+    viewPlayer: string;
     refLeaderboard: obj.Leaderboard;
     setLeaderboard: (leaderboard: obj.Leaderboard) => void;
     setPlayer: (player: string) => void;
@@ -28,13 +29,16 @@ function LeaderboardListUnit({player, playerDetail, setPlayer}: LeaderboardListU
     );
 }
 
-export function LeaderboardList({demonlist, rawLeaderboard, refLeaderboard, setLeaderboard, setPlayer}: LeaderboardListProps) {
+export function LeaderboardList({demonlist, rawLeaderboard, viewPlayer, refLeaderboard, setLeaderboard, setPlayer}: LeaderboardListProps) {
     let rows: JSX.Element[] = [];
     const [filterActive, setFilterActive] = useState<boolean>(false);
     const [filterMobile, setFilterMobile] = useState<boolean>(false);
 
     useEffect(() => {
-        setLeaderboard(formatFilteredLeaderboard(rawLeaderboard, demonlist, filterActive, filterMobile));
+        let filteredLeaderboard = formatFilteredLeaderboard(rawLeaderboard, demonlist, filterActive, filterMobile);
+        if (!filteredLeaderboard.has(viewPlayer))
+            setPlayer(filteredLeaderboard.keys().next().value!);
+        setLeaderboard(filteredLeaderboard);
     }, [filterActive, filterMobile]);
 
     refLeaderboard.forEach((playerDetail, player) => {
@@ -52,20 +56,22 @@ export function LeaderboardList({demonlist, rawLeaderboard, refLeaderboard, setL
     return <>
         <div>
             <label>活躍玩家</label>
-            <input type="checkbox" checked={filterActive} onClick={() => setFilterActive(!filterActive)} />
+            <input type="checkbox" defaultChecked={filterActive} onClick={() => setFilterActive(!filterActive)} />
             <label>手機通關</label>
-            <input type="checkbox" checked={filterMobile} onClick={() => setFilterMobile(!filterMobile)} />
+            <input type="checkbox" defaultChecked={filterMobile} onClick={() => setFilterMobile(!filterMobile)} />
         </div>
         {rows}
     </>;
 }
 
 function formatFilteredLeaderboard(leaderboard: obj.Leaderboard, demonlist: obj.Demonlist, filterActive: boolean, filterMobile: boolean): obj.Leaderboard {
+    if (!filterActive && !filterMobile)
+        return leaderboard;
     let rawFilteredLeaderboard: Record<obj.Player, obj.FormattedPlayer> = {};
     leaderboard.forEach((playerDetail, player) => {
         if (filterActive && !playerDetail.is_active)
             return;
-        let filteredRecords: Map<string, { index: number , record: obj.RawRecord }> = new Map();
+        let filteredRecords: Map<obj.LevelId, { index: number , record: obj.RawRecord }> = new Map();
         let count = 0;
         let points = 0;
         playerDetail.records.forEach((record, lvlId) => {

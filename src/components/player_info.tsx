@@ -1,7 +1,7 @@
 import * as obj from "../utilities/obj";
 import {ContactLink} from "./image_link.tsx";
 
-import LeftGroup from "../assets/img/leave.png";
+import LeftGroup from "../assets/img/leave.webp";
 
 interface PlayerInfoProps {
     name: string;

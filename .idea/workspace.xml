@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.todo/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.todo/tasks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/demonlist_detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/demonlist_detail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/filter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_detail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/leaderboard_list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leaderboard_list.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/changelog.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/changelog.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/classic-records.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/classic-records.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/leaderboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/leaderboard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/format.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/format.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/obj.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/obj.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

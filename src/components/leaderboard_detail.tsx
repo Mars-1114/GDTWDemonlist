@@ -3,8 +3,8 @@ import * as obj from "../utilities/obj";
 import {VideoLink} from "./image_link.tsx";
 import {PlayerInfo} from "./player_info.tsx";
 import {CycleButton} from "./filter.tsx";
-import Mobile from "../assets/img/mobile.png";
-import TwoPlayer from "../assets/img/2P.png";
+import Mobile from "../assets/img/mobile.webp";
+import TwoPlayer from "../assets/img/2P.webp";
 import {useEffect, useState} from "react";
 
 interface LeaderboardDetailProps {

@@ -1,6 +1,6 @@
 import { Latex } from "../components/latex.tsx";
-import Mobile from "../assets/img/mobile.png";
-import TwoPlayer from "../assets/img/2P.png";
+import Mobile from "../assets/img/mobile.webp";
+import TwoPlayer from "../assets/img/2P.webp";
 
 export function Guidelines() {
     return (

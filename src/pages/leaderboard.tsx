@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { useImmer } from "use-immer";
 
 import * as obj from "../utilities/obj";
 import {LeaderboardList} from "../components/leaderboard_list.tsx";
@@ -14,7 +13,7 @@ export function LeaderboardPage({data, listType}: LeaderboardProps) {
     const demonlist = listType === "classic" ? data.demonlist.classic : data.demonlist.platformer;
     const leaderboard = listType === "classic" ? data.leaderboard.classic : data.leaderboard.platformer;
     const [viewPlayer, setViewPlayer] = useState<string>(leaderboard.keys().next().value!);
-    const [filteredLeaderboard, setFilteredLeaderboard] = useImmer(leaderboard);
+    const [filteredLeaderboard, setFilteredLeaderboard] = useState(leaderboard);
 
     return (
         <div style={{display: "flex", flexDirection: "row", height: "500px"}}>
@@ -22,6 +21,7 @@ export function LeaderboardPage({data, listType}: LeaderboardProps) {
                 <LeaderboardList
                     demonlist={demonlist}
                     rawLeaderboard={leaderboard}
+                    viewPlayer={viewPlayer}
                     refLeaderboard={filteredLeaderboard}
                     setLeaderboard={setFilteredLeaderboard}
                     setPlayer={setViewPlayer}

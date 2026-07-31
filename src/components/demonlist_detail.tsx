@@ -3,7 +3,7 @@ import * as obj from "../utilities/obj";
 import { Publisher } from "./publisher";
 import { VideoLink } from "./image_link.tsx";
 
-import Mobile from "../assets/img/mobile.png";
+import Mobile from "../assets/img/mobile.webp";
 
 interface DemonlistDetailProps {
     lvlId: string;
@@ -58,7 +58,7 @@ export function DemonlistDetail({ lvlId, level }: DemonlistDetailProps) {
             </div>
             <div>
                 <h4>通關玩家</h4>
-                { rows }
+                { (rows.length != 0) ? rows : <div>無紀錄</div> }
             </div>
         </>
     );

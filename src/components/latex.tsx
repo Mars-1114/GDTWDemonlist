@@ -15,6 +15,7 @@ export function Latex({ formula, inline }: LatexProps) {
             katex.render(formula, containerRef.current, {
                 displayMode: !inline,
                 throwOnError: false,
+                strict: false
             });
         }
     }, [formula, inline]);

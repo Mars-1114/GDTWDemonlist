@@ -5,7 +5,7 @@ import { LeaderboardPage } from "./pages/leaderboard.tsx";
 import { About } from './pages/about';
 import { Guidelines } from "./pages/guidelines";
 
-import { fetchAll } from "./utilities/fetch";
+import { fetchAll, usePreloadImages } from "./utilities/fetch";
 import { formatDemonlist, formatLeaderboard, formatChangelog } from "./utilities/format";
 import * as obj from "./utilities/obj";
 
@@ -46,6 +46,8 @@ export default function App() {
                 changelogs: formatChangelog(rawData.changelog, classicDemonlist, platformerDemonlist),
             });
 
+            usePreloadImages();
+
             setLoading(false);
         }
 
@@ -70,7 +72,7 @@ export default function App() {
             case 'platformer_leaderboard':
                 return <LeaderboardPage key="platformer" data={data} listType="platformer" />;
             case 'about':
-                return <About changelogs={data.changelogs} />;
+                return <About data={data} />;
             case 'guidelines':
                 return <Guidelines />;
             default:
