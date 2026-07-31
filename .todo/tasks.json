@@ -587,5 +587,51 @@
       }
     },
     "isImported": false
+  },
+  {
+    "id": "TASK_577",
+    "priority": "LOW",
+    "tags": [
+      "Consideration"
+    ],
+    "title": "More Level Colors",
+    "description": "Assign colors to NLW Tiers",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 58,
+        "second": 2,
+        "nano": 370747300
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_599",
+    "priority": "MEDIUM",
+    "tags": [],
+    "title": "Clean up changelog",
+    "description": "In: changelog.json, obj.ts, format.ts\nTask: Remove all empty arrays to save up space\nNote: Do this in python",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 1,
+        "minute": 7,
+        "second": 8,
+        "nano": 474040600
+      }
+    },
+    "isImported": false
   }
 ]
