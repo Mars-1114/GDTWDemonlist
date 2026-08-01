@@ -187,14 +187,14 @@ export function formatChangelog(raw_changelog: obj.RawChangelogs, classical_demo
         let info = raw_changelog[date];
         formatted_changelog.set(date, {
             ...info,
-            addition: {
-                classic: replaceIdWithName(info.addition.classic, classical_demonlist),
-                platformer: replaceIdWithName(info.addition.platformer, platformer_demonlist)
-            },
-            deletion: {
-                classic: replaceIdWithName(info.deletion.classic, classical_demonlist),
-                platformer: replaceIdWithName(info.deletion.platformer, platformer_demonlist)
-            }
+            addition: info.addition ? {
+                classic: info.addition.classic ? replaceIdWithName(info.addition.classic, classical_demonlist) : undefined,
+                platformer: info.addition.platformer ? replaceIdWithName(info.addition.platformer, platformer_demonlist) : undefined
+            } : undefined,
+            deletion: info.deletion ? {
+                classic: info.deletion.classic ? replaceIdWithName(info.deletion.classic, classical_demonlist) : undefined,
+                platformer: info.deletion.platformer ? replaceIdWithName(info.deletion.platformer, platformer_demonlist) : undefined
+            } : undefined
         });
     }
     return formatted_changelog;

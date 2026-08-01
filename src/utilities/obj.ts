@@ -33,13 +33,13 @@ export interface RawPlayerInfo {
 }
 
 export interface ChangelogInfo {
-    addition: {
-        classic: LevelId[];
-        platformer: LevelId[];
+    addition?: {
+        classic?: LevelId[];
+        platformer?: LevelId[];
     };
-    deletion: {
-        classic: LevelId[];
-        platformer: LevelId[];
+    deletion?: {
+        classic?: LevelId[];
+        platformer?: LevelId[];
     };
 
     update?: {

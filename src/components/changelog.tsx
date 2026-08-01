@@ -18,23 +18,25 @@ function joinElements(elements: JSX.Element[], sep: string = ", ") {
 }
 
 function ChangelogUnit({date, changelog}: ChangelogUnitProps) {
-    let additionClassic = changelog.addition.classic.map(x => <span>{x}</span>);
-    let additionPlatformer = changelog.addition.platformer.map(x => <span>{x}</span>);
-    let deletionClassic = changelog.deletion.classic.map(x => <span>{x}</span>);
-    let deletionPlatformer = changelog.deletion.platformer.map(x => <span>{x}</span>);
+    let addition = changelog.addition;
+    let deletion = changelog.deletion;
+    let additionClassic = (addition && addition.classic) ? addition.classic.map(x => <span>{x}</span>) : [];
+    let additionPlatformer = (addition && addition.platformer) ? addition.platformer.map(x => <span>{x}</span>) : [];
+    let deletionClassic = (deletion && deletion.classic) ? deletion.classic.map(x => <span>{x}</span>) : [];
+    let deletionPlatformer = (deletion && deletion.platformer) ? deletion.platformer.map(x => <span>{x}</span>) : [];
 
-    let addition = joinElements([...additionClassic, ...additionPlatformer]);
-    let deletion = joinElements([...deletionClassic, ...deletionPlatformer]);
-    if (addition != null) addition = <>新增{addition}</>;
-    if (deletion != null) deletion = <>移除{deletion}</>;
+    let formattedAddition = joinElements([...additionClassic, ...additionPlatformer]);
+    let formattedDeletion = joinElements([...deletionClassic, ...deletionPlatformer]);
+    if (formattedAddition != null) formattedAddition = <>新增{formattedAddition}</>;
+    if (formattedDeletion != null) formattedDeletion = <>移除{formattedDeletion}</>;
 
     let listChange = <></>;
-    if (addition != null && deletion != null)
-        listChange = <>{date} - {addition}，{deletion}</>;
-    else if (addition != null)
-        listChange = <>{date} - {addition}</>;
-    else if (deletion != null)
-        listChange = <>{date} - {deletion}</>;
+    if (formattedAddition != null && formattedDeletion != null)
+        listChange = <>{date} - {formattedAddition}，{formattedDeletion}</>;
+    else if (formattedAddition != null)
+        listChange = <>{date} - {formattedAddition}</>;
+    else if (formattedDeletion != null)
+        listChange = <>{date} - {formattedDeletion}</>;
 
     let update = (changelog.update != undefined) ? <>{date} - ({changelog.update.version}) {changelog.update.message}</> : <></>;
 

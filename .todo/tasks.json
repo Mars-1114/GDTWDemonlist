@@ -618,7 +618,7 @@
     "tags": [],
     "title": "Clean up changelog",
     "description": "In: changelog.json, obj.ts, format.ts\nTask: Remove all empty arrays to save up space\nNote: Do this in python",
-    "status": "TODO",
+    "status": "DONE",
     "date": {
       "date": {
         "year": 2026,
@@ -630,6 +630,19 @@
         "minute": 7,
         "second": 8,
         "nano": 474040600
+      }
+    },
+    "finishDate": {
+      "date": {
+        "year": 2026,
+        "month": 8,
+        "day": 2
+      },
+      "time": {
+        "hour": 1,
+        "minute": 12,
+        "second": 49,
+        "nano": 131826200
       }
     },
     "isImported": false
