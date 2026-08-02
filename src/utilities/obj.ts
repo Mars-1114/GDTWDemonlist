@@ -9,6 +9,7 @@ export interface RawLevel {
     position: number;
     two_player: boolean;
     legacy: boolean;
+    nlw_tier: string | null;
 }
 
 export interface RawRecord {
@@ -25,6 +26,7 @@ export interface Legacy {
 
 export interface RawPlayerInfo {
     in_group: boolean;
+    division?: string;
     contact: {
         facebook?: string;
         youtube?: string;

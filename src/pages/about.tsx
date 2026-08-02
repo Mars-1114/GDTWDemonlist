@@ -50,6 +50,13 @@ export function About({data}: AboutProps) {
                 <h2>{recordCount}筆記錄，{playerCount}位玩家，{extremeCount}個關卡</h2>
             </div>
             <div>
+                <h2>特別感謝</h2>
+                <p>AREDL團隊</p>
+                <p>GD Colon</p>
+                <p>GDTW</p>
+            </div>
+            <div>
+                <h2>更新日誌</h2>
                 <Changelog changelogList={changelogs} />
             </div>
         </>

@@ -304,10 +304,12 @@
   {
     "id": "TASK_89",
     "priority": "MEDIUM",
-    "tags": [],
+    "tags": [
+      "Consideration"
+    ],
     "title": "Rewrite how images are loaded",
     "description": "Use import.meta.glob to dynamically all images",
-    "status": "DONE",
+    "status": "TODO",
     "date": {
       "date": {
         "year": 2026,
@@ -548,7 +550,7 @@
     "tags": [],
     "title": "Credits",
     "description": "at About",
-    "status": "TODO",
+    "status": "IN_PROGRESS",
     "date": {
       "date": {
         "year": 2026,
@@ -643,6 +645,28 @@
         "minute": 12,
         "second": 49,
         "nano": 131826200
+      }
+    },
+    "isImported": false
+  },
+  {
+    "id": "TASK_622",
+    "priority": "HIGH",
+    "tags": [],
+    "title": "Preserve rank when use text filter",
+    "description": "",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 8,
+        "day": 2
+      },
+      "time": {
+        "hour": 18,
+        "minute": 26,
+        "second": 9,
+        "nano": 657950600
       }
     },
     "isImported": false
