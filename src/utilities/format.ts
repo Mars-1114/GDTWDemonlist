@@ -31,12 +31,18 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
         let [, name, publisher]: string[] | undefined[] = lvl.name.match(/^([^(]+?)(?:\s*\(([^)]+)\))?$/) || [];
         if (publisher == "2P") publisher = undefined;
 
+        let tier = lvl.nlw_tier ? lvl.nlw_tier : undefined;
+        if (!lvl.nlw_tier && lvl.position <= 75) tier = "Main";
+        else if (!lvl.nlw_tier && lvl.position <= 150) tier = "Extended";
+        if (lvl.nlw_tier == "Fuck" || lvl.legacy) tier = undefined;
+
         demonlist.set(lvl_id, {
             name: name,
             publisher: publisher,
             publisher_id: lvl.publisher_id,
             aredl_rank: lvl.position,
             local_rank: !lvl.legacy ? count : -1,
+            difficulty_tier: tier,
             points: 0,
             two_player: lvl.two_player,
             is_legacy: lvl.legacy,
@@ -46,13 +52,18 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
         });
     }
 
-    // assign points
+    // assign points & tiers
+    let lvl_tiers = [...demonlist.values()].map(lvl => lvl.difficulty_tier);
+    let idx = 0;
     demonlist.forEach((lvl, lvl_id) => {
+        ++idx;
+        let tier = lvl.difficulty_tier || lvl.is_legacy ? lvl.difficulty_tier : estimateTier(lvl_tiers.slice(idx - 5, idx + 5));
         demonlist.set(lvl_id, {
             ...lvl,
-            points: !lvl.is_legacy ? getPoints(lvl.local_rank, lvl.aredl_rank, count) : 0
+            points: !lvl.is_legacy ? getPoints(lvl.local_rank, lvl.aredl_rank, count) : 0,
+            difficulty_tier: tier,
         });
-    })
+    });
 
     // legacy
     for (const lvl_id in legacies) {
@@ -198,4 +209,19 @@ export function formatChangelog(raw_changelog: obj.RawChangelogs, classical_demo
         });
     }
     return formatted_changelog;
+}
+
+function estimateTier(neighbors: (string | undefined)[]): string {
+    let bins: Record<string, number> = {};
+    for (const neighbor of neighbors) {
+        if (!neighbor || neighbor == "Main" || neighbor == "Extended")
+            continue;
+        if (neighbor in bins)
+            bins[neighbor]++;
+        else
+            bins[neighbor] = 1;
+    }
+    if (Object.keys(bins).length == 0)
+        return "";
+    return Object.keys(bins).reduce((a, b) => bins[a] > bins[b] ? a : b);
 }

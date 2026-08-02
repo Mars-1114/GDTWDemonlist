@@ -67,6 +67,6 @@ export function usePreloadImages() {
         img.src = imageUrl;
         img.decode();
 
-        img.onload = () => console.log(`Loaded ${imageUrl}`);
+        img.onload = () => {};
     });
 }

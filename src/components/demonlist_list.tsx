@@ -12,20 +12,20 @@ interface DemonlistListProps {
 }
 
 interface DemonlistListUnitProps {
-    rank: number;
     lvlId: string;
     lvlDetail: obj.FormattedLevel;
     setLvlId: (lvlId: string) => void;
 }
 
-function DemonlistListUnit({rank, lvlId, lvlDetail, setLvlId}: DemonlistListUnitProps) {
-    let displayRank = !lvlDetail.is_legacy ? <span>#{rank}</span> : null;
+function DemonlistListUnit({lvlId, lvlDetail, setLvlId}: DemonlistListUnitProps) {
+    let displayRank = !lvlDetail.is_legacy ? <span>#{lvlDetail.local_rank}</span> : null;
     let publisher = lvlDetail.is_ambiguous ? <span>({lvlDetail.publisher})</span> : null;
     let two_player = lvlDetail.two_player ? <span>[2P]</span> : null;
     let points = <span>{lvlDetail.points} pts</span>;
 
     return (
         <div onClick={() => setLvlId(lvlId)}>
+            <div style={{display: "inline-block", width: "10px", height: "20px", backgroundColor: obj.TierPalette[lvlDetail.difficulty_tier!]}}></div>
             {displayRank} {two_player} {lvlDetail.name} {publisher} {points}
         </div>
     );
@@ -42,13 +42,12 @@ export function DemonlistList({rawDemonlist, refDemonlist, viewLvlId, setDemonli
         setDemonlist(filteredDemonlist);
     }, [filterMobile]);
 
-    let count = 0;
     refDemonlist.forEach((level, lvl_id) => {
         if (filterText != "" && !level.name.toLowerCase().includes(filterText.toLowerCase()))
             return;
         rows.push(
-            <DemonlistListUnit key={lvl_id} rank={++count} lvlId={lvl_id} lvlDetail={level} setLvlId={setLvlId} />
-        )
+            <DemonlistListUnit key={lvl_id} lvlId={lvl_id} lvlDetail={level} setLvlId={setLvlId} />
+        );
     });
     return <div>
         <label>手機通關</label>
@@ -61,6 +60,7 @@ function formatFilteredDemonlist(rawDemonlist: obj.Demonlist, filterMobile: bool
     if (!filterMobile)
         return rawDemonlist;
     let filteredDemonlist: obj.Demonlist = new Map();
+    let rank = 0;
     rawDemonlist.forEach((lvlDetail, lvlId) => {
         let records: Map<string, obj.RawRecord> = new Map();
         lvlDetail.records.forEach((record, player) => {
@@ -72,7 +72,8 @@ function formatFilteredDemonlist(rawDemonlist: obj.Demonlist, filterMobile: bool
             return;
         filteredDemonlist.set(lvlId, {
             ...lvlDetail,
-           records: records
+            local_rank: ++rank,
+            records: records
         });
     });
     return filteredDemonlist;

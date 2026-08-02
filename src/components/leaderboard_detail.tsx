@@ -34,6 +34,7 @@ function LeaderboardDetailUnit({lvlDetail, record, rank}: LeaderboardDetailUnitP
               {twoPlayerIndicator}
               {mobileIndicator}
           </span>
+          <div style={{display: "inline-block", width: "10px", height: "20px", backgroundColor: obj.TierPalette[lvlDetail.difficulty_tier!]}}></div>
           {displayRank} {lvlDetail.name} {points} {record.date} {vidLink}
       </div>
     );

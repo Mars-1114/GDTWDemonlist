@@ -85,9 +85,10 @@ export interface FormattedLevel {
     aredl_rank: number;
     local_rank: number;
     points: number;
+    difficulty_tier?: string;
     two_player: boolean;
     is_legacy: boolean;
-    is_ambiguous: boolean;  // append publisher
+    is_ambiguous: boolean;  // multiple levels with the same name
 
     records: Map<Player, RawRecord>;
 }
@@ -141,3 +142,27 @@ export const RankType = [
 
 export type Order = (typeof OrderType)[number];
 export type Rank = (typeof RankType)[number];
+
+export const TierPalette: Record<string, string> = {
+    "Beginner": "#4A86E8",
+    "Easy": "#00FFFF",
+    "Medium": "#00FF00",
+    "Hard": "#FFFF00",
+    "Very Hard": "#FF9900",
+    "Insane": "#FF0000",
+    "Extreme": "#FF00FF",
+    "Remorseless": "#9900FF",
+    "Relentless": "#B087EB",
+    "Terrifying": "#F19EEA",
+    "Catastrophic": "#EA6661",
+    "Inexorable": "#FFC183",
+    "Excruciating": "#FFE599",
+    "Merciless": "#A7E58D",
+    "Malicious": "#56D7C5",
+    "Ludicrous": "#66A6EC",
+    "Diabolical": "#7468F2",
+    "Disastrous": "#BF56ED",
+    "Ridiculous": "#EC4F78",
+    "Extended": "#AAAAAA",
+    "Main": "#FFFFFF"
+};
