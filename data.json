@@ -2587,6 +2587,14 @@
     [
       "VendetTa",
       "47797723"
+    ],
+    [
+      "4ucked Up",
+      "92473158"
+    ],
+    [
+      "NEKOTINE",
+      "110335946"
     ]
   ],
   "legacy": [
@@ -7354,6 +7362,16 @@
       }
     },
     "HankK漢": {
+      "92473158": {
+        "video": "https://www.youtube.com/watch?v=ExdYy7A6TTA",
+        "completion_date": "2026-08-01",
+        "is_mobile": false
+      },
+      "110335946": {
+        "video": "https://www.youtube.com/watch?v=aly5XPCqzjc",
+        "completion_date": "2026-08-01",
+        "is_mobile": false
+      },
       "95061038": {
         "video": "https://www.youtube.com/watch?v=rR1KgYi8z9E",
         "completion_date": "2026-07-17",
@@ -7681,6 +7699,11 @@
       }
     },
     "Crytist": {
+      "87425029": {
+        "video": "https://www.youtube.com/watch?v=vDkRJZ_eWus",
+        "completion_date": "2026-08-01",
+        "is_mobile": false
+      },
       "119259720": {
         "video": "https://www.youtube.com/watch?v=p1XmpO9hY40",
         "completion_date": "2026-05-17",
@@ -8020,6 +8043,11 @@
       }
     },
     "Laserrrr": {
+      "95764848": {
+        "video": "https://www.youtube.com/watch?v=joZht8U1Zzk",
+        "completion_date": "2026-08-01",
+        "is_mobile": false
+      },
       "20761188": {
         "video": "https://www.youtube.com/watch?v=hzKk0j0QaQE",
         "completion_date": "2026-03-01",
