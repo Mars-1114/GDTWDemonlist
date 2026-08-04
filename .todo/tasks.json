@@ -64,7 +64,7 @@
     "tags": [],
     "title": "Find rank of exds in legacy list",
     "description": "Search through the raw demonlist? Or build a temp lookup",
-    "status": "TODO",
+    "status": "DONE",
     "date": {
       "date": {
         "year": 2026,

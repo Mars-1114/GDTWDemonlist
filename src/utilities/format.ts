@@ -22,19 +22,22 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
     let count = 0;
     for (const lvl of raw_levels) {
         const lvl_id = lvl.level_id + (lvl.two_player ? "_2p" : "");
-        if (!(lvl_id in raw_records))
+        if (!(lvl_id in raw_records) && !(lvl_id in legacies))
             continue;
-        if (!lvl.legacy)
+        if (!lvl.legacy && !(lvl_id in legacies))
             ++count;
 
-        // extract name
-        let [, name, publisher]: string[] | undefined[] = lvl.name.match(/^([^(]+?)(?:\s*\(([^)]+)\))?$/) || [];
+        // extract name (format: "{name} ({publisher})")
+        let [, name, publisher]: (string | undefined)[] = lvl.name.match(/^([^(]+?)(?:\s*\(([^)]+)\))?$/) || [];
         if (publisher == "2P") publisher = undefined;
 
         let tier = lvl.nlw_tier ? lvl.nlw_tier : undefined;
-        if (!lvl.nlw_tier && lvl.position <= 75) tier = "Main";
-        else if (!lvl.nlw_tier && lvl.position <= 150) tier = "Extended";
-        if (lvl.nlw_tier == "Fuck" || lvl.legacy) tier = undefined;
+        if (!lvl.nlw_tier && lvl.position <= 75)
+            tier = "Main";
+        else if (!lvl.nlw_tier && lvl.position <= 150)
+            tier = "Extended";
+        if (lvl.legacy || lvl.nlw_tier == "Fuck")
+            tier = undefined;
 
         demonlist.set(lvl_id, {
             name: name,
@@ -45,7 +48,8 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
             difficulty_tier: tier,
             points: 0,
             two_player: lvl.two_player,
-            is_legacy: lvl.legacy,
+            is_legacy: lvl.legacy || lvl_id in legacies,
+            is_extreme: !lvl.legacy,
             is_ambiguous: publisher != undefined,
 
             records: formatRecords(raw_records[lvl_id]),
@@ -57,7 +61,7 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
     let idx = 0;
     demonlist.forEach((lvl, lvl_id) => {
         ++idx;
-        let tier = lvl.difficulty_tier || lvl.is_legacy ? lvl.difficulty_tier : estimateTier(lvl_tiers.slice(idx - 5, idx + 5));
+        let tier = lvl.difficulty_tier || !lvl.is_extreme ? lvl.difficulty_tier : estimateTier(lvl_tiers.slice(idx - 5, idx + 5));
         demonlist.set(lvl_id, {
             ...lvl,
             points: !lvl.is_legacy ? getPoints(lvl.local_rank, lvl.aredl_rank, count) : 0,
@@ -77,6 +81,7 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
             points: 0,
             two_player: false,
             is_legacy: true,
+            is_extreme: false,
             is_ambiguous: false,
 
             records: formatRecords(raw_records[lvl_id])
@@ -86,7 +91,13 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
     demonlist = new Map([...demonlist].sort((a, b) => {
         if (a[1].points > 0 || b[1].points > 0)
             return b[1].points - a[1].points;
-        return a[1].name.localeCompare(b[1].name);
+        if (!a[1].difficulty_tier && !b[1].difficulty_tier)
+            return a[1].name.localeCompare(b[1].name);
+        if (!a[1].difficulty_tier)
+            return -1;
+        if (!b[1].difficulty_tier)
+            return 1;
+        return a[1].aredl_rank - b[1].aredl_rank;
     }));
     return demonlist;
 }
@@ -211,7 +222,7 @@ export function formatChangelog(raw_changelog: obj.RawChangelogs, classical_demo
     return formatted_changelog;
 }
 
-function estimateTier(neighbors: (string | undefined)[]): string {
+function estimateTier(neighbors: (string | undefined)[]): string | undefined {
     let bins: Record<string, number> = {};
     for (const neighbor of neighbors) {
         if (!neighbor || neighbor == "Main" || neighbor == "Extended")
@@ -222,6 +233,6 @@ function estimateTier(neighbors: (string | undefined)[]): string {
             bins[neighbor] = 1;
     }
     if (Object.keys(bins).length == 0)
-        return "";
+        return undefined;
     return Object.keys(bins).reduce((a, b) => bins[a] > bins[b] ? a : b);
 }

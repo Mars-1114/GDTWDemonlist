@@ -88,6 +88,7 @@ export interface FormattedLevel {
     difficulty_tier?: string;
     two_player: boolean;
     is_legacy: boolean;
+    is_extreme: boolean;
     is_ambiguous: boolean;  // multiple levels with the same name
 
     records: Map<Player, RawRecord>;
