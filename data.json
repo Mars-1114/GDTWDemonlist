@@ -2595,6 +2595,14 @@
     [
       "NEKOTINE",
       "110335946"
+    ],
+    [
+      "ROCKBOTTOM",
+      "122196131"
+    ],
+    [
+      "angel",
+      "143457831"
     ]
   ],
   "legacy": [
@@ -2741,6 +2749,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "122196131": {
+        "video": "https://www.youtube.com/watch?v=OxVTmr5GGUo",
+        "completion_date": "2026-08-04",
+        "is_mobile": false
+      },
+      "143457831": {
+        "video": "https://www.youtube.com/watch?v=9lJuvY_VIDw",
+        "completion_date": "2026-08-03",
+        "is_mobile": false
+      },
       "47797723": {
         "video": "https://www.youtube.com/watch?v=N1T34KfMtTs",
         "completion_date": "2026-07-31",
@@ -6962,6 +6980,11 @@
       }
     },
     "carti": {
+      "143457831": {
+        "video": "https://www.facebook.com/share/v/1BwU2MWrZt/",
+        "completion_date": "2026-08-04",
+        "is_mobile": false
+      },
       "138356396": {
         "video": "https://www.facebook.com/share/v/1E8S8rTVZB/",
         "completion_date": "2026-05-07",
@@ -8392,6 +8415,13 @@
         "video": "https://www.youtube.com/watch?v=oB1DfynNRXA",
         "completion_date": "2026-07-08",
         "is_mobile": true
+      }
+    },
+    "sykkk": {
+      "61079355": {
+        "video": "https://www.facebook.com/share/v/1F46yLujy1/",
+        "completion_date": "2026-08-03",
+        "is_mobile": false
       }
     }
   }
