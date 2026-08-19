@@ -2619,6 +2619,30 @@
     [
       "Avalanche",
       "38325880"
+    ],
+    [
+      "OVERDRIVE",
+      "133401995"
+    ],
+    [
+      "rauchkammer",
+      "146399247"
+    ],
+    [
+      "Low Death",
+      "60603962"
+    ],
+    [
+      "Doop",
+      "51393047"
+    ],
+    [
+      "Parallel Theory",
+      "100239627"
+    ],
+    [
+      "Adelucid",
+      "111368620"
     ]
   ],
   "legacy": [
@@ -2765,6 +2789,36 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "100239627": {
+        "video": "https://www.youtube.com/watch?v=ovR50h3mSvo",
+        "completion_date": "2026-07-21",
+        "is_mobile": false
+      },
+      "51393047": {
+        "video": "https://www.youtube.com/watch?v=Rgizxk2KnOE",
+        "completion_date": "2026-08-18",
+        "is_mobile": false
+      },
+      "60603962": {
+        "video": "https://www.youtube.com/watch?v=EKtF0w7ydNE",
+        "completion_date": "2026-08-15",
+        "is_mobile": false
+      },
+      "104895221": {
+        "video": "https://www.youtube.com/watch?v=D9kbGGSHp7c",
+        "completion_date": "2026-08-14",
+        "is_mobile": false
+      },
+      "146399247": {
+        "video": "https://www.youtube.com/watch?v=VsVh1X6Vh-g",
+        "completion_date": "2026-08-13",
+        "is_mobile": false
+      },
+      "133401995": {
+        "video": "https://www.youtube.com/watch?v=O42wVdsVAng",
+        "completion_date": "2026-08-11",
+        "is_mobile": false
+      },
       "146066774": {
         "video": "https://www.youtube.com/watch?v=dYfYL4magp8",
         "completion_date": "2026-08-05",
@@ -7809,6 +7863,11 @@
       }
     },
     "Asbl11": {
+      "111368620": {
+        "video": "https://www.youtube.com/watch?v=VHNoYvwXSjc",
+        "completion_date": "2026-08-17",
+        "is_mobile": false
+      },
       "146066774": {
         "video": "https://www.youtube.com/watch?v=u5yKwy2QCIo",
         "completion_date": "2026-08-02",
@@ -8366,6 +8425,16 @@
       }
     },
     "Eddie1Mc": {
+      "69491632": {
+        "video": "https://www.youtube.com/watch?v=3zi-2XOEGkg",
+        "completion_date": "2026-08-17",
+        "is_mobile": false
+      },
+      "35448603": {
+        "video": "https://www.youtube.com/watch?v=oYlxB9uaq8Q",
+        "completion_date": "2026-08-17",
+        "is_mobile": false
+      },
       "68688849": {
         "video": "https://www.youtube.com/watch?v=wAmdZ-NW6qQ",
         "completion_date": "2026-07-28",
@@ -8443,6 +8512,16 @@
       }
     },
     "無糖綠茶": {
+      "146066774": {
+        "video": "https://www.facebook.com/share/v/19R58ZbZ7h/",
+        "completion_date": "2026-08-13",
+        "is_mobile": false
+      },
+      "95764848": {
+        "video": "https://www.facebook.com/share/v/1CGiujNT89/",
+        "completion_date": "2026-08-18",
+        "is_mobile": false
+      },
       "93549959": {
         "video": "https://www.facebook.com/share/v/1A5KqL4e2K/",
         "completion_date": "2026-06-29",

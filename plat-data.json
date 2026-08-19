@@ -159,6 +159,10 @@
     [
       "Walk to the midnight",
       "118946505"
+    ],
+    [
+      "Ultimate GD Night",
+      "139139690"
     ]
   ],
   "legacy": [
@@ -589,6 +593,11 @@
       "127615297": {
         "video": "https://www.youtube.com/watch?v=cdddXgHGsqE",
         "completion_date": "2026-05-20",
+        "is_mobile": false
+      },
+      "139139690": {
+        "video": "https://www.youtube.com/watch?v=lyVVf2b9qeQ",
+        "completion_date": "2026-06-11",
         "is_mobile": false
       }
     },
