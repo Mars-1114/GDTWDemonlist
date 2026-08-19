@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.todo/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.todo/tasks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/changelog.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/changelog.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/classic-records.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/classic-records.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/platformer-records.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/platformer-records.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/players.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/players.json" afterDir="false" />
-    </list>
+    <list default="true" id="1fcd88ad-4218-44df-afed-78ba79dff294" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,7 +242,7 @@
       <workItem from="1785726394279" duration="24718000" />
       <workItem from="1786364139778" duration="2192000" />
       <workItem from="1786417393798" duration="17748000" />
-      <workItem from="1787073024742" duration="7431000" />
+      <workItem from="1787073024742" duration="7758000" />
     </task>
     <servers />
   </component>
