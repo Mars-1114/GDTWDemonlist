@@ -2643,6 +2643,42 @@
     [
       "Adelucid",
       "111368620"
+    ],
+    [
+      "Ichor",
+      "135651776"
+    ],
+    [
+      "Honeycrisp",
+      "139946318"
+    ],
+    [
+      "SINK (OwOPink)",
+      "130093630"
+    ],
+    [
+      "SECTOR 19",
+      "76358953"
+    ],
+    [
+      "Intrusive ID",
+      "107100184"
+    ],
+    [
+      "SORRYNOTSORRY",
+      "116039153"
+    ],
+    [
+      "Cold Level Go BRRRR",
+      "110479533"
+    ],
+    [
+      "Pentakill",
+      "20142657"
+    ],
+    [
+      "Vitrilyx",
+      "94932876"
     ]
   ],
   "legacy": [
@@ -2789,6 +2825,56 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "63862905": {
+        "video": "https://www.youtube.com/watch?v=kQZ1fRZzNPA",
+        "completion_date": "2026-09-03",
+        "is_mobile": false
+      },
+      "110479533": {
+        "video": "https://www.youtube.com/watch?v=qKD4RjhF6uU",
+        "completion_date": "2026-09-02",
+        "is_mobile": false
+      },
+      "92957491": {
+        "video": "https://www.youtube.com/watch?v=bnDEkoN-POY",
+        "completion_date": "2026-08-31",
+        "is_mobile": false
+      },
+      "116039153": {
+        "video": "https://www.youtube.com/watch?v=UwFxsouK-X8",
+        "completion_date": "2026-08-28",
+        "is_mobile": false
+      },
+      "57520174": {
+        "video": "https://www.youtube.com/watch?v=5GRrdmADGo0",
+        "completion_date": "2026-08-27",
+        "is_mobile": false
+      },
+      "107100184": {
+        "video": "https://www.youtube.com/watch?v=g88TEZsY_pc",
+        "completion_date": "2026-08-26",
+        "is_mobile": false
+      },
+      "76358953": {
+        "video": "https://www.youtube.com/watch?v=tuVygUUKXjE",
+        "completion_date": "2026-08-24",
+        "is_mobile": false
+      },
+      "130093630": {
+        "video": "https://www.youtube.com/watch?v=P4j5b8aHSuA",
+        "completion_date": "2026-08-20",
+        "is_mobile": false
+      },
+      "139946318": {
+        "video": "https://www.youtube.com/watch?v=FCffawmcxKQ",
+        "completion_date": "2026-08-19",
+        "is_mobile": false
+      },
+      "135651776": {
+        "video": "https://www.youtube.com/watch?v=x9cVX1NbAXk",
+        "completion_date": "2026-08-10",
+        "is_mobile": false
+      },
       "100239627": {
         "video": "https://www.youtube.com/watch?v=ovR50h3mSvo",
         "completion_date": "2026-07-21",
@@ -6545,6 +6631,11 @@
       }
     },
     "黃世宏": {
+      "60197839": {
+        "video": "https://www.facebook.com/share/v/1F6ogw3GCH/",
+        "completion_date": "2026-08-20",
+        "is_mobile": false
+      },
       "87425029": {
         "video": "https://www.facebook.com/share/v/175Fmkd139/",
         "completion_date": "2026-01-18",
@@ -7475,6 +7566,21 @@
       }
     },
     "HankK漢": {
+      "109513812": {
+        "video": "https://www.youtube.com/watch?v=gfWU7AsqS10",
+        "completion_date": "2026-09-04",
+        "is_mobile": false
+      },
+      "26133601": {
+        "video": "https://www.youtube.com/watch?v=jfgULngVVtc",
+        "completion_date": "2026-08-28",
+        "is_mobile": false
+      },
+      "38754426": {
+        "video": "https://www.youtube.com/watch?v=bZZhn_5O9tk",
+        "completion_date": "2026-08-23",
+        "is_mobile": false
+      },
       "92473158": {
         "video": "https://www.youtube.com/watch?v=ExdYy7A6TTA",
         "completion_date": "2026-08-01",
@@ -7810,6 +7916,11 @@
       }
     },
     "Aren": {
+      "119653522": {
+        "video": "https://www.facebook.com/share/v/1Ajyupz7fS/",
+        "completion_date": "2026-08-31",
+        "is_mobile": true
+      },
       "119259720": {
         "video": "https://www.facebook.com/share/v/1CaAUwD3HN/",
         "completion_date": "2025-11-13",
@@ -7863,6 +7974,21 @@
       }
     },
     "Asbl11": {
+      "94932876": {
+        "video": "https://www.youtube.com/watch?v=RxA4rtsn2VU",
+        "completion_date": "2026-08-25",
+        "is_mobile": false
+      },
+      "110479533": {
+        "video": "https://www.facebook.com/share/v/19BfrzCzLm/",
+        "completion_date": "2026-08-21",
+        "is_mobile": false
+      },
+      "20142657": {
+        "video": "https://www.youtube.com/watch?v=JwA5LUWpV4Q",
+        "completion_date": "2026-08-20",
+        "is_mobile": false
+      },
       "111368620": {
         "video": "https://www.youtube.com/watch?v=VHNoYvwXSjc",
         "completion_date": "2026-08-17",
@@ -8130,6 +8256,11 @@
       }
     },
     "Shizu": {
+      "114933189": {
+        "video": "https://www.facebook.com/share/v/1GmzMzTdtr/",
+        "completion_date": "2026-09-01",
+        "is_mobile": false
+      },
       "30219145": {
         "video": "https://www.facebook.com/share/v/1BLVSddUJj/",
         "completion_date": "2026-08-09",
@@ -8205,6 +8336,11 @@
       }
     },
     "阿茲": {
+      "68688849": {
+        "video": "https://www.youtube.com/watch?v=4frO3Vphidw",
+        "completion_date": "2026-08-26",
+        "is_mobile": false
+      },
       "146066774": {
         "video": "https://www.youtube.com/watch?v=zZqbNLXD4-M",
         "completion_date": "2026-08-06",
@@ -8384,6 +8520,11 @@
       }
     },
     "Yt_Lucas0918": {
+      "30219145": {
+        "video": "https://www.youtube.com/watch?v=-VUEn0K-PvQ",
+        "completion_date": "2026-09-01",
+        "is_mobile": true
+      },
       "61079355": {
         "video": "https://www.youtube.com/watch?v=BTX6JqUY-uU",
         "completion_date": "2026-04-11",
@@ -8391,6 +8532,11 @@
       }
     },
     "Pifflepipi": {
+      "80335620": {
+        "video": "https://www.youtube.com/watch?v=YnTP1BNUmKk",
+        "completion_date": "2026-08-27",
+        "is_mobile": false
+      },
       "119259720": {
         "video": "https://www.youtube.com/watch?v=FU2PaNFOUP4",
         "completion_date": "2026-05-17",
@@ -8512,6 +8658,21 @@
       }
     },
     "無糖綠茶": {
+      "116019507": {
+        "video": "https://www.facebook.com/share/v/1VSaKwQijY/",
+        "completion_date": "2026-09-04",
+        "is_mobile": false
+      },
+      "100041767": {
+        "video": "https://www.facebook.com/share/v/1RfhrNzQ3a/",
+        "completion_date": "2026-09-03",
+        "is_mobile": false
+      },
+      "75857309": {
+        "video": "https://www.facebook.com/share/v/18EuG3czvt/",
+        "completion_date": "2026-08-23",
+        "is_mobile": false
+      },
       "146066774": {
         "video": "https://www.facebook.com/share/v/19R58ZbZ7h/",
         "completion_date": "2026-08-13",
@@ -8557,6 +8718,20 @@
         "video": "https://www.facebook.com/share/v/1F46yLujy1/",
         "completion_date": "2026-08-03",
         "is_mobile": false
+      }
+    },
+    "MikuDaisuki": {
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=lqpwJTfB6sc",
+        "completion_date": "2026-08-28",
+        "is_mobile": false
+      }
+    },
+    "RG_Blights": {
+      "95061038": {
+        "video": "https://www.youtube.com/watch?v=J9k1SA2rQZU",
+        "completion_date": "2026-08-30",
+        "is_mobile": true
       }
     }
   }
