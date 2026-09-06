@@ -207,7 +207,8 @@
   "HankK漢": {
     "in_group": true,
     "contact": {
-      "facebook": "100069721290259"
+      "facebook": "100069721290259",
+      "gd": "thankw"
     }
   },
   "一根蔥": {
@@ -224,9 +225,10 @@
     }
   },
   "Gabu": {
-    "in_group": true,
+    "in_group": false,
     "contact": {
-      "facebook": "100066507660966"
+      "facebook": "100066507660966",
+      "gd": "yucolianghao"
     }
   },
   "ooller": {
@@ -246,7 +248,8 @@
   "Aren": {
     "in_group": true,
     "contact": {
-      "facebook": "61561392038716"
+      "facebook": "61561392038716",
+      "gd": "aren1234567"
     }
   },
   "Crytist": {
@@ -258,31 +261,36 @@
   "Lucas70707": {
     "in_group": true,
     "contact": {
-      "facebook": "61560030900679"
+      "facebook": "61560030900679",
+      "gd": "lucas70707"
     }
   },
   "Kairo10124": {
     "in_group": true,
     "contact": {
-      "facebook": "100003373682848"
+      "facebook": "100003373682848",
+      "gd": "kairo10124"
     }
   },
   "Asbl11": {
     "in_group": true,
     "contact": {
-      "facebook": "61553683407655"
+      "facebook": "61553683407655",
+      "gd": "asbl11"
     }
   },
   "Shizu": {
     "in_group": true,
     "contact": {
-      "facebook": "100024036930040"
+      "facebook": "100024036930040",
+      "gd": "shi2u"
     }
   },
   "Sylvie": {
     "in_group": true,
     "contact": {
-      "facebook": "100071220196621"
+      "facebook": "100071220196621",
+      "gd": "kippu"
     }
   },
   "Shorejim": {
@@ -300,13 +308,15 @@
   "hzhz": {
     "in_group": true,
     "contact": {
-      "facebook": "61579497865696"
+      "facebook": "61579497865696",
+      "gd": "hezia83"
     }
   },
   "阿茲": {
     "in_group": true,
     "contact": {
-      "facebook": "61582248880788"
+      "facebook": "61582248880788",
+      "gd": "azrielyth"
     }
   },
   "gonker": {
@@ -318,7 +328,8 @@
   "Yt_Lucas0918": {
     "in_group": true,
     "contact": {
-      "facebook": "61561553887938"
+      "facebook": "61561553887938",
+      "gd": "lucas0918"
     }
   },
   "Pifflepipi": {
@@ -362,7 +373,8 @@
   "ジユ": {
     "in_group": true,
     "contact": {
-      "facebook": "100093157069140"
+      "facebook": "100093157069140",
+      "gd": "levelinauto"
     }
   },
   "sykkk": {
@@ -374,19 +386,22 @@
   "MikuDaisuki": {
     "in_group": true,
     "contact": {
-      "facebook": "100058553102060"
+      "facebook": "100058553102060",
+      "gd": "mikudaisuki"
     }
   },
   "RG_Blights": {
     "in_group": true,
     "contact": {
-      "facebook": "100009387307212"
+      "facebook": "100009387307212",
+      "gd": "mechachan"
     }
   },
   "Seamon": {
     "in_group": true,
     "contact": {
-      "facebook": "61572562430914"
+      "facebook": "61572562430914",
+      "gd": "seamongd"
     }
   }
 }
