@@ -24,7 +24,7 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
         const lvl_id = lvl.level_id + (lvl.two_player ? "_2p" : "");
         if (!(lvl_id in raw_records) && !(lvl_id in legacies))
             continue;
-        if (!lvl.legacy && !(lvl_id in legacies))
+        if (lvl.status == "MainList" && !(lvl_id in legacies))
             ++count;
 
         // extract name (format: "{name} ({publisher})")
@@ -36,7 +36,7 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
             tier = "Main";
         else if (!lvl.nlw_tier && lvl.position <= 150)
             tier = "Extended";
-        if (lvl.legacy || lvl.nlw_tier == "Fuck")
+        if (lvl.status != "MainList" || lvl.nlw_tier == "Fuck")
             tier = undefined;
 
         demonlist.set(lvl_id, {
@@ -44,12 +44,13 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
             publisher: publisher,
             publisher_id: lvl.publisher_id,
             aredl_rank: lvl.position,
-            local_rank: !lvl.legacy ? count : -1,
+            local_rank: lvl.status == "MainList" ? count : -1,
             difficulty_tier: tier,
             points: 0,
             two_player: lvl.two_player,
-            is_legacy: lvl.legacy || lvl_id in legacies,
-            is_extreme: !lvl.legacy,
+            is_legacy: lvl.status == "Legacy" || lvl_id in legacies,
+            is_pending: lvl.status == "Pending",
+            is_extreme: lvl.status != "Legacy",
             is_ambiguous: publisher != undefined,
 
             records: formatRecords(raw_records[lvl_id]),
@@ -82,6 +83,7 @@ export function formatDemonlist(raw_levels: obj.RawLevels, raw_records: obj.RawR
             two_player: false,
             is_legacy: true,
             is_extreme: false,
+            is_pending: false,
             is_ambiguous: false,
 
             records: formatRecords(raw_records[lvl_id])

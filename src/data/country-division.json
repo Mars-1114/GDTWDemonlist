@@ -1,0 +1,94 @@
+{
+  "0": {
+    "ch": "臺北市",
+    "en": "Taipei City"
+  },
+  "1": {
+    "ch": "新北市",
+    "en": "New Taipei City"
+  },
+  "2": {
+    "ch": "基隆市",
+    "en": "Keelung City"
+  },
+  "3": {
+    "ch": "桃園市",
+    "en": "Taoyuan City"
+  },
+  "4": {
+    "ch": "新竹縣",
+    "en": "Hsinchu County"
+  },
+  "5": {
+    "ch": "新竹市",
+    "en": "Hsinchu City"
+  },
+  "6": {
+    "ch": "苗栗縣",
+    "en": "Miaoli County"
+  },
+  "7": {
+    "ch": "臺中市",
+    "en": "Taichung City"
+  },
+  "8": {
+    "ch": "彰化縣",
+    "en": "Changhua County"
+  },
+  "9": {
+    "ch": "南投縣",
+    "en": "Nantou County"
+  },
+  "10": {
+    "ch": "雲林縣",
+    "en": "Yunlin County"
+  },
+  "11": {
+    "ch": "嘉義縣",
+    "en": "Chiayi County"
+  },
+  "12": {
+    "ch": "嘉義市",
+    "en": "Chiayi City"
+  },
+  "13": {
+    "ch": "台南市",
+    "en": "Tainan City"
+  },
+  "14": {
+    "ch": "高雄市",
+    "en": "Kaohsiung City"
+  },
+  "15": {
+    "ch": "屏東縣",
+    "en": "Pingtung County"
+  },
+  "16": {
+    "ch": "宜蘭縣",
+    "en": "Yilan County"
+  },
+  "17": {
+    "ch": "花蓮縣",
+    "en": "Hualien County"
+  },
+  "18": {
+    "ch": "台東縣",
+    "en": "Taitung County"
+  },
+  "19": {
+    "ch": "澎湖縣",
+    "en": "Penghu County"
+  },
+  "20": {
+    "ch": "金門縣",
+    "en": "Kinmen County"
+  },
+  "21": {
+    "ch": "連江縣",
+    "en": "Lienchiang County"
+  },
+  "31": {
+    "ch": "外國",
+    "en": "Abroad"
+  }
+}

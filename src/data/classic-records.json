@@ -3381,6 +3381,12 @@
       "date": "2026-09-01",
       "is_mobile": false,
       "id": 1105
+    },
+    "ジユ": {
+      "url": "https://www.youtube.com/watch?v=QIb3RZnPzP0",
+      "date": "2026-09-08",
+      "is_mobile": true,
+      "id": 1117
     }
   },
   "19759411": {
@@ -3855,6 +3861,12 @@
       "date": "2026-05-24",
       "is_mobile": false,
       "id": 925
+    },
+    "Shizu": {
+      "url": "https://www.facebook.com/share/v/1EmkXy6S4C/",
+      "date": "2026-09-06",
+      "is_mobile": false,
+      "id": 1110
     }
   },
   "102562296": {
@@ -4103,6 +4115,12 @@
       "date": "2026-07-04",
       "is_mobile": false,
       "id": 1038
+    },
+    "Crytist": {
+      "url": "https://www.youtube.com/watch?v=lWhbJyAFakQ",
+      "date": "2026-09-09",
+      "is_mobile": false,
+      "id": 1118
     }
   },
   "8147005": {
@@ -4483,6 +4501,12 @@
       "date": "2026-07-06",
       "is_mobile": false,
       "id": 1017
+    },
+    "Eddie1Mc": {
+      "url": "https://www.youtube.com/watch?v=ukvbBvODFdg",
+      "date": "2026-09-05",
+      "is_mobile": false,
+      "id": 1115
     }
   },
   "34379100": {
@@ -5403,6 +5427,12 @@
       "date": "2025-11-19",
       "is_mobile": false,
       "id": 629
+    },
+    "Eddie1Mc": {
+      "url": "https://www.youtube.com/watch?v=zNz6WoPiB8w",
+      "date": "2026-09-07",
+      "is_mobile": false,
+      "id": 1116
     }
   },
   "66851981": {
@@ -7437,6 +7467,12 @@
       "date": "2026-03-05",
       "is_mobile": false,
       "id": 810
+    },
+    "HankK漢": {
+      "url": "https://www.youtube.com/watch?v=RosN4PTHhtE",
+      "date": "2026-09-06",
+      "is_mobile": false,
+      "id": 1111
     }
   },
   "119137644": {
@@ -8029,6 +8065,44 @@
       "date": "2026-09-03",
       "is_mobile": false,
       "id": 1100
+    }
+  },
+  "106737668": {
+    "Cyter867": {
+      "url": "https://www.youtube.com/watch?v=YLnUlZwfxCQ",
+      "date": "2026-09-07",
+      "is_mobile": false,
+      "id": 1112
+    }
+  },
+  "22259203": {
+    "Mazj": {
+      "url": "https://www.youtube.com/watch?v=QigyUzoEEbw",
+      "date": "2026-09-07",
+      "is_mobile": false,
+      "id": 1113
+    }
+  },
+  "104131396": {
+    "超大法國麵包🥖": {
+      "url": "https://www.youtube.com/watch?v=YLnUlZwfxCQ",
+      "date": "2026-09-08",
+      "is_mobile": false,
+      "id": 1114
+    }
+  },
+  "144845980_2p": {
+    "Cyter867": {
+      "url": "https://www.youtube.com/watch?v=0ZB2X9hj4EM",
+      "date": "2026-09-09",
+      "is_mobile": false,
+      "id": 1119
+    },
+    "超大法國麵包🥖": {
+      "url": "https://www.youtube.com/watch?v=JPI82IHEcrw",
+      "date": "2026-09-09",
+      "is_mobile": false,
+      "id": 1120
     }
   }
 }

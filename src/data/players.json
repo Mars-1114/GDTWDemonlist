@@ -5,14 +5,16 @@
       "facebook": "100006613479275",
       "youtube": "marsgd1114",
       "gd": "imarsi"
-    }
+    },
+    "division": 7
   },
   "超大法國麵包🥖": {
     "in_group": true,
     "contact": {
       "facebook": "100022514553192",
       "gd": "silver062"
-    }
+    },
+    "division": 3
   },
   "蘇祺文": {
     "in_group": false,
@@ -33,14 +35,16 @@
     "contact": {
       "facebook": "100003032783836",
       "gd": "zoklev"
-    }
+    },
+    "division": 31
   },
   "蔡龍": {
     "in_group": true,
     "contact": {
       "facebook": "100004505670128",
       "gd": "extraangel"
-    }
+    },
+    "division": 7
   },
   "Nabeyaki": {
     "in_group": true,
@@ -48,14 +52,16 @@
       "facebook": "100003439767236",
       "youtube": "nabeyaki4921",
       "gd": "nabeyaki"
-    }
+    },
+    "division": 14
   },
   "ProStylePancake": {
     "in_group": true,
     "contact": {
       "youtube": "ProStylePancake",
       "gd": "prostylepancake"
-    }
+    },
+    "division": 31
   },
   "游任穎": {
     "in_group": true,
@@ -76,28 +82,32 @@
     "contact": {
       "facebook": "100070410968775",
       "gd": "walterberg"
-    }
+    },
+    "division": 7
   },
   "李在昌": {
     "in_group": true,
     "contact": {
       "facebook": "100007378296796",
       "gd": "pianomen"
-    }
+    },
+    "division": 31
   },
   "Ruiq♿": {
     "in_group": true,
     "contact": {
       "facebook": "100004610143256",
       "gd": "ruiq29"
-    }
+    },
+    "division": 14
   },
   "Cyter867": {
     "in_group": true,
     "contact": {
       "facebook": "100009146111893",
       "gd": "cyter867"
-    }
+    },
+    "division": 31
   },
   "Eric Chang": {
     "in_group": true,
@@ -110,7 +120,8 @@
     "contact": {
       "facebook": "61558316818703",
       "gd": "daruck"
-    }
+    },
+    "division": 0
   },
   "netherportal2": {
     "in_group": false,
@@ -136,7 +147,8 @@
     "contact": {
       "facebook": "100023154889027",
       "gd": "gdbtcmr123"
-    }
+    },
+    "division": 14
   },
   "Supercoolyoshi": {
     "in_group": false,
@@ -183,14 +195,16 @@
     "contact": {
       "facebook": "100000783283082",
       "gd": "anan111"
-    }
+    },
+    "division": 3
   },
   "Wako": {
     "in_group": true,
     "contact": {
       "facebook": "100019001445590",
       "gd": "wakooooo"
-    }
+    },
+    "division": 1
   },
   "蓋爾大學之中國建設銀行董事長荳荳": {
     "in_group": true,
@@ -209,14 +223,16 @@
     "contact": {
       "facebook": "100069721290259",
       "gd": "thankw"
-    }
+    },
+    "division": 15
   },
   "一根蔥": {
     "in_group": true,
     "contact": {
       "facebook": "100004528151590",
       "gd": "justinowo"
-    }
+    },
+    "division": 3
   },
   "Blacken": {
     "in_group": true,
@@ -236,7 +252,8 @@
     "contact": {
       "facebook": "100052694442787",
       "gd": "relloo"
-    }
+    },
+    "division": 1
   },
   "噴火龍🐉": {
     "in_group": true,
@@ -270,7 +287,8 @@
     "contact": {
       "facebook": "100003373682848",
       "gd": "kairo10124"
-    }
+    },
+    "division": 3
   },
   "Asbl11": {
     "in_group": true,
@@ -291,7 +309,8 @@
     "contact": {
       "facebook": "100071220196621",
       "gd": "kippu"
-    }
+    },
+    "division": 31
   },
   "Shorejim": {
     "in_group": true,
@@ -356,7 +375,8 @@
       "facebook": "61575015368542",
       "youtube": "Eddie1Mc",
       "gd": "eddie1mc"
-    }
+    },
+    "division": 31
   },
   "無糖綠茶": {
     "in_group": true,
@@ -402,6 +422,7 @@
     "contact": {
       "facebook": "61572562430914",
       "gd": "seamongd"
-    }
+    },
+    "division": 19
   }
 }

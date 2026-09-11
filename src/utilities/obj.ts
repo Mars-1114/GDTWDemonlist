@@ -8,7 +8,7 @@ export interface RawLevel {
     level_id: string;
     position: number;
     two_player: boolean;
-    legacy: boolean;
+    status: "MainList" | "Legacy" | "Pending";
     nlw_tier: string | null;
 }
 
@@ -26,7 +26,7 @@ export interface Legacy {
 
 export interface RawPlayerInfo {
     in_group: boolean;
-    division?: string;
+    division?: number;
     contact: {
         facebook?: string;
         youtube?: string;
@@ -89,6 +89,7 @@ export interface FormattedLevel {
     two_player: boolean;
     is_legacy: boolean;
     is_extreme: boolean;
+    is_pending: boolean;
     is_ambiguous: boolean;  // multiple levels with the same name
 
     records: Map<Player, RawRecord>;
