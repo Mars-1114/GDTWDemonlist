@@ -2679,6 +2679,22 @@
     [
       "Vitrilyx",
       "94932876"
+    ],
+    [
+      "reset your mind",
+      "106737668"
+    ],
+    [
+      "The Hell Zone",
+      "22259203"
+    ],
+    [
+      "THE J",
+      "104131396"
+    ],
+    [
+      "DOUBLE DYNAMO (2P)",
+      "144845980_2p"
     ]
   ],
   "legacy": [
@@ -2825,6 +2841,16 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "144845980_2p": {
+        "video": "https://www.youtube.com/watch?v=JPI82IHEcrw",
+        "completion_date": "2026-09-09",
+        "is_mobile": false
+      },
+      "104131396": {
+        "video": "https://www.youtube.com/watch?v=YLnUlZwfxCQ",
+        "completion_date": "2026-09-08",
+        "is_mobile": false
+      },
       "63862905": {
         "video": "https://www.youtube.com/watch?v=kQZ1fRZzNPA",
         "completion_date": "2026-09-03",
@@ -7275,6 +7301,16 @@
       }
     },
     "Cyter867": {
+      "144845980_2p": {
+        "video": "https://www.youtube.com/watch?v=0ZB2X9hj4EM",
+        "completion_date": "2026-09-09",
+        "is_mobile": false
+      },
+      "106737668": {
+        "video": "https://www.youtube.com/watch?v=YLnUlZwfxCQ",
+        "completion_date": "2026-09-07",
+        "is_mobile": false
+      },
       "122872017": {
         "video": "https://www.youtube.com/watch?v=CViZ6BxR3qw",
         "completion_date": "2026-07-22",
@@ -7566,6 +7602,11 @@
       }
     },
     "HankK漢": {
+      "120312886": {
+        "video": "https://www.youtube.com/watch?v=RosN4PTHhtE",
+        "completion_date": "2026-09-06",
+        "is_mobile": false
+      },
       "109513812": {
         "video": "https://www.youtube.com/watch?v=gfWU7AsqS10",
         "completion_date": "2026-09-04",
@@ -7928,6 +7969,11 @@
       }
     },
     "Crytist": {
+      "3979721": {
+        "video": "https://www.youtube.com/watch?v=lWhbJyAFakQ",
+        "completion_date": "2026-09-09",
+        "is_mobile": false
+      },
       "87425029": {
         "video": "https://www.youtube.com/watch?v=vDkRJZ_eWus",
         "completion_date": "2026-08-01",
@@ -8256,6 +8302,11 @@
       }
     },
     "Shizu": {
+      "114231424": {
+        "video": "https://www.facebook.com/share/v/1EQjbJ5dh2/",
+        "completion_date": "2026-09-06",
+        "is_mobile": false
+      },
       "114933189": {
         "video": "https://www.facebook.com/share/v/1GmzMzTdtr/",
         "completion_date": "2026-09-01",
@@ -8571,6 +8622,16 @@
       }
     },
     "Eddie1Mc": {
+      "65860142": {
+        "video": "https://www.youtube.com/watch?v=zNz6WoPiB8w",
+        "completion_date": "2026-09-07",
+        "is_mobile": false
+      },
+      "31462941": {
+        "video": "https://www.youtube.com/watch?v=ukvbBvODFdg",
+        "completion_date": "2026-09-05",
+        "is_mobile": false
+      },
       "69491632": {
         "video": "https://www.youtube.com/watch?v=3zi-2XOEGkg",
         "completion_date": "2026-08-17",
@@ -8697,6 +8758,11 @@
       }
     },
     "ジユ": {
+      "114933189": {
+        "video": "https://www.youtube.com/watch?v=QIb3RZnPzP0",
+        "completion_date": "2026-09-08",
+        "is_mobile": true
+      },
       "87425029": {
         "video": "https://www.youtube.com/watch?v=0Razr8mrTP0",
         "completion_date": "2026-03-27",
@@ -8738,6 +8804,13 @@
       "61079355": {
         "video": "https://www.facebook.com/share/v/1DRC6ruJt5/",
         "completion_date": "2026-09-05",
+        "is_mobile": false
+      }
+    },
+    "Mazj": {
+      "22259203": {
+        "video": "https://www.youtube.com/watch?v=QigyUzoEEbw",
+        "completion_date": "2026-09-07",
         "is_mobile": false
       }
     }
