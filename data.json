@@ -2695,6 +2695,74 @@
     [
       "DOUBLE DYNAMO (2P)",
       "144845980_2p"
+    ],
+    [
+      "Heavenly Sakupen",
+      "123467310"
+    ],
+    [
+      "Next Stage",
+      "132898839"
+    ],
+    [
+      "teehee colon three",
+      "90661998"
+    ],
+    [
+      "Artifice",
+      "57520174"
+    ],
+    [
+      "S3NT1M3NT",
+      "113544846"
+    ],
+    [
+      "dnc",
+      "143153769"
+    ],
+    [
+      "Biohazard",
+      "61997741"
+    ],
+    [
+      "Putrefaction",
+      "144540926"
+    ],
+    [
+      "CodeName Finale",
+      "134325158"
+    ],
+    [
+      "Aksion",
+      "85937779"
+    ],
+    [
+      "3ABNCNMOCT6",
+      "118685630"
+    ],
+    [
+      "Xas tech",
+      "129826991"
+    ],
+    [
+      "Schizophrenia",
+      "130627231"
+    ],
+    [
+      "FAILURE",
+      "128531884"
+    ],
+    [
+      "Tech X",
+      "123247837"
+    ],
+    [
+      "ChloroPhyll",
+      "94767525"
+    ],
+    [
+      "tensor",
+      "129365037"
     ]
   ],
   "legacy": [
@@ -2717,11 +2785,6 @@
       "level": "in canon",
       "id": "80575901",
       "publisher": "cordeaux"
-    },
-    {
-      "level": "teehee colon three",
-      "id": "90661998",
-      "publisher": "Wolvyy"
     },
     {
       "level": "cja",
@@ -2841,6 +2904,56 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "130627231": {
+        "video": "https://www.youtube.com/watch?v=E-a8fspWQwU",
+        "completion_date": "2026-09-22",
+        "is_mobile": false
+      },
+      "85937779": {
+        "video": "https://www.youtube.com/watch?v=2LynIlFhqRI",
+        "completion_date": "2026-09-20",
+        "is_mobile": false
+      },
+      "61997741": {
+        "video": "https://www.youtube.com/watch?v=Ek0kqgTem1Q",
+        "completion_date": "2026-09-18",
+        "is_mobile": false
+      },
+      "113544846": {
+        "video": "https://www.youtube.com/watch?v=f1dq966KlHk",
+        "completion_date": "2026-09-17",
+        "is_mobile": false
+      },
+      "132898839": {
+        "video": "https://www.youtube.com/watch?v=2AYMLftE-v4",
+        "completion_date": "2026-09-13",
+        "is_mobile": false
+      },
+      "129826991": {
+        "video": "https://www.youtube.com/watch?v=Lg7q6UeJ0aI",
+        "completion_date": "2026-09-11",
+        "is_mobile": false
+      },
+      "134325158": {
+        "video": "https://www.youtube.com/watch?v=c69f6BrcOmE",
+        "completion_date": "2026-09-04",
+        "is_mobile": false
+      },
+      "144540926": {
+        "video": "https://www.youtube.com/watch?v=3Vel0YdtNes",
+        "completion_date": "2026-09-01",
+        "is_mobile": false
+      },
+      "94767525": {
+        "video": "https://www.youtube.com/watch?v=OAtZ0wWlMaA",
+        "completion_date": "2026-08-23",
+        "is_mobile": false
+      },
+      "123467310": {
+        "video": "https://www.youtube.com/watch?v=15IUKDnDG_w",
+        "completion_date": "2026-08-22",
+        "is_mobile": false
+      },
       "144845980_2p": {
         "video": "https://www.youtube.com/watch?v=JPI82IHEcrw",
         "completion_date": "2026-09-09",
@@ -7535,6 +7648,11 @@
       }
     },
     "Yuii": {
+      "32969607": {
+        "video": "https://www.youtube.com/watch?v=XD7XkrlGvUk",
+        "completion_date": "2026-09-16",
+        "is_mobile": false
+      },
       "78374157": {
         "video": "https://www.facebook.com/share/v/1HeJRU2BCm/",
         "completion_date": "2026-06-11",
@@ -7602,6 +7720,21 @@
       }
     },
     "HankK漢": {
+      "119653522": {
+        "video": "https://www.youtube.com/watch?v=2pfKWB9sJic",
+        "completion_date": "2026-09-26",
+        "is_mobile": false
+      },
+      "123247837": {
+        "video": "https://www.youtube.com/watch?v=P7-rP4w_A7Y",
+        "completion_date": "2026-09-13",
+        "is_mobile": false
+      },
+      "68848817": {
+        "video": "https://www.youtube.com/watch?v=j4JPr80W0Jk",
+        "completion_date": "2026-09-13",
+        "is_mobile": false
+      },
       "120312886": {
         "video": "https://www.youtube.com/watch?v=RosN4PTHhtE",
         "completion_date": "2026-09-06",
@@ -7734,6 +7867,26 @@
       }
     },
     "一根蔥": {
+      "139286842": {
+        "video": "https://www.youtube.com/watch?v=VLfny9fkbeg",
+        "completion_date": "2026-09-27",
+        "is_mobile": false
+      },
+      "125034264": {
+        "video": "https://www.youtube.com/watch?v=PrQY0rL_s1k",
+        "completion_date": "2026-09-24",
+        "is_mobile": false
+      },
+      "141662502": {
+        "video": "https://www.youtube.com/watch?v=WUYg5FTTm8I",
+        "completion_date": "2026-09-23",
+        "is_mobile": false
+      },
+      "146399247": {
+        "video": "https://www.youtube.com/watch?v=2xMP44M_kY0",
+        "completion_date": "2026-09-20",
+        "is_mobile": false
+      },
       "146066774": {
         "video": "https://www.youtube.com/watch?v=X3k3lMmLRLQ",
         "completion_date": "2026-08-05",
@@ -7996,6 +8149,11 @@
       }
     },
     "Lucas70707": {
+      "10565740": {
+        "video": "https://www.facebook.com/share/v/1C1Eg1R6PV/",
+        "completion_date": "2026-09-22",
+        "is_mobile": false
+      },
       "61079355": {
         "video": "https://www.facebook.com/share/v/1ByKPHbMyp/",
         "completion_date": "2025-12-06",
@@ -8020,6 +8178,26 @@
       }
     },
     "Asbl11": {
+      "127135884": {
+        "video": "https://www.youtube.com/watch?v=DwBUDb1Oxhc",
+        "completion_date": "2026-09-19",
+        "is_mobile": false
+      },
+      "114933189": {
+        "video": "https://www.youtube.com/watch?v=IYheCZH2k4M",
+        "completion_date": "2026-09-14",
+        "is_mobile": false
+      },
+      "129365037": {
+        "video": "https://www.youtube.com/watch?v=yRldH7P4Lu0",
+        "completion_date": "2026-09-14",
+        "is_mobile": false
+      },
+      "143153769": {
+        "video": "https://www.youtube.com/watch?v=e9P3xNXo0gQ",
+        "completion_date": "2026-07-25",
+        "is_mobile": false
+      },
       "94932876": {
         "video": "https://www.youtube.com/watch?v=RxA4rtsn2VU",
         "completion_date": "2026-08-25",
@@ -8302,6 +8480,21 @@
       }
     },
     "Shizu": {
+      "75857309": {
+        "video": "https://www.facebook.com/share/v/1CFqgzMCw3/",
+        "completion_date": "2026-09-26",
+        "is_mobile": false
+      },
+      "20761188": {
+        "video": "https://www.facebook.com/share/v/1EZukF7Evk/",
+        "completion_date": "2026-09-16",
+        "is_mobile": false
+      },
+      "87425029": {
+        "video": "https://www.facebook.com/share/v/1Jwxwerm2S/",
+        "completion_date": "2026-09-13",
+        "is_mobile": false
+      },
       "114231424": {
         "video": "https://www.facebook.com/share/v/1EQjbJ5dh2/",
         "completion_date": "2026-09-06",
@@ -8358,6 +8551,11 @@
       }
     },
     "Laserrrr": {
+      "30219145": {
+        "video": "https://www.youtube.com/watch?v=73ZzJgZKnBI",
+        "completion_date": "2026-09-20",
+        "is_mobile": false
+      },
       "95764848": {
         "video": "https://www.youtube.com/watch?v=joZht8U1Zzk",
         "completion_date": "2026-08-01",
@@ -8387,6 +8585,11 @@
       }
     },
     "阿茲": {
+      "146399247": {
+        "video": "https://www.youtube.com/watch?v=2aDaRUnPjk8",
+        "completion_date": "2026-09-13",
+        "is_mobile": false
+      },
       "68688849": {
         "video": "https://www.youtube.com/watch?v=4frO3Vphidw",
         "completion_date": "2026-08-26",
@@ -8583,6 +8786,11 @@
       }
     },
     "Pifflepipi": {
+      "118685630": {
+        "video": "https://www.youtube.com/watch?v=bzr_Lpqo1mo",
+        "completion_date": "2026-09-20",
+        "is_mobile": false
+      },
       "80335620": {
         "video": "https://www.youtube.com/watch?v=YnTP1BNUmKk",
         "completion_date": "2026-08-27",
@@ -8719,6 +8927,16 @@
       }
     },
     "無糖綠茶": {
+      "87425029": {
+        "video": "https://www.facebook.com/share/v/1CYdNexfSP/",
+        "completion_date": "2026-09-17",
+        "is_mobile": false
+      },
+      "128531884": {
+        "video": "https://www.facebook.com/share/v/1Df2x1YtkR/",
+        "completion_date": "2026-09-12",
+        "is_mobile": false
+      },
       "116019507": {
         "video": "https://www.facebook.com/share/v/1VSaKwQijY/",
         "completion_date": "2026-09-04",
@@ -8811,6 +9029,28 @@
       "22259203": {
         "video": "https://www.youtube.com/watch?v=QigyUzoEEbw",
         "completion_date": "2026-09-07",
+        "is_mobile": false
+      }
+    },
+    "Daniel Toenail": {
+      "3979721": {
+        "video": "https://www.youtube.com/watch?v=D1xjw1xwjEk",
+        "completion_date": "2026-08-18",
+        "is_mobile": false
+      },
+      "10565740": {
+        "video": "https://www.youtube.com/watch?v=5RYxSt6l3RY",
+        "completion_date": "2026-08-02",
+        "is_mobile": false
+      },
+      "58811846": {
+        "video": "https://www.youtube.com/watch?v=gd-E_UhpS-g",
+        "completion_date": "2026-07-28",
+        "is_mobile": false
+      },
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=kGoB3lOM-Ho",
+        "completion_date": "2026-07-11",
         "is_mobile": false
       }
     }
