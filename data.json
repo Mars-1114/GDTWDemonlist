@@ -2763,6 +2763,10 @@
     [
       "tensor",
       "129365037"
+    ],
+    [
+      "Mind Control",
+      "77487419"
     ]
   ],
   "legacy": [
@@ -2904,6 +2908,11 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "77487419": {
+        "video": "https://www.youtube.com/watch?v=iRj0c-hbxNA",
+        "completion_date": "2026-09-28",
+        "is_mobile": false
+      },
       "130627231": {
         "video": "https://www.youtube.com/watch?v=E-a8fspWQwU",
         "completion_date": "2026-09-22",
@@ -7868,23 +7877,23 @@
     },
     "一根蔥": {
       "139286842": {
-        "video": "https://www.youtube.com/watch?v=VLfny9fkbeg",
-        "completion_date": "2026-09-27",
+        "video": "https://www.youtube.com/watch?v=5XafCPvu-wU",
+        "completion_date": "2026-09-28",
         "is_mobile": false
       },
       "125034264": {
-        "video": "https://www.youtube.com/watch?v=PrQY0rL_s1k",
-        "completion_date": "2026-09-24",
+        "video": "https://www.youtube.com/watch?v=6UGdL6cK7x8",
+        "completion_date": "2026-09-28",
         "is_mobile": false
       },
       "141662502": {
-        "video": "https://www.youtube.com/watch?v=WUYg5FTTm8I",
-        "completion_date": "2026-09-23",
+        "video": "https://www.youtube.com/watch?v=6EHtOANeKYc",
+        "completion_date": "2026-09-27",
         "is_mobile": false
       },
       "146399247": {
-        "video": "https://www.youtube.com/watch?v=2xMP44M_kY0",
-        "completion_date": "2026-09-20",
+        "video": "https://www.youtube.com/watch?v=9I1MbyzEc5Y",
+        "completion_date": "2026-09-27",
         "is_mobile": false
       },
       "146066774": {
@@ -8976,6 +8985,11 @@
       }
     },
     "ジユ": {
+      "69491632": {
+        "video": "https://www.youtube.com/watch?v=u6hmO17moqw",
+        "completion_date": "2026-09-30",
+        "is_mobile": true
+      },
       "114933189": {
         "video": "https://www.youtube.com/watch?v=QIb3RZnPzP0",
         "completion_date": "2026-09-08",
