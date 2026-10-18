@@ -2767,6 +2767,54 @@
     [
       "Mind Control",
       "77487419"
+    ],
+    [
+      "Midnight",
+      "96083028"
+    ],
+    [
+      "Terminal Rampancy",
+      "90057148"
+    ],
+    [
+      "overlook",
+      "132527895"
+    ],
+    [
+      "STRAIN",
+      "122827255"
+    ],
+    [
+      "Ecstasy",
+      "65249411"
+    ],
+    [
+      "Torsion",
+      "65982725"
+    ],
+    [
+      "Soundwave",
+      "121257148"
+    ],
+    [
+      "0 mind",
+      "111596039"
+    ],
+    [
+      "Necron",
+      "135271643"
+    ],
+    [
+      "Never Afraid",
+      "132935329"
+    ],
+    [
+      "KISMET",
+      "144423287"
+    ],
+    [
+      "Apotheosis",
+      "123730441"
     ]
   ],
   "legacy": [
@@ -2908,6 +2956,66 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "65249411": {
+        "video": "https://www.youtube.com/watch?v=m_QBJGMTX9M",
+        "completion_date": "2026-10-16",
+        "is_mobile": false
+      },
+      "132527895": {
+        "video": "https://www.youtube.com/watch?v=nfEpcVBIJtc",
+        "completion_date": "2026-10-12",
+        "is_mobile": false
+      },
+      "121257148": {
+        "video": "https://www.youtube.com/watch?v=WHdesqbvRvk",
+        "completion_date": "2026-10-11",
+        "is_mobile": false
+      },
+      "111596039": {
+        "video": "https://www.youtube.com/watch?v=E8gKS6B2AYo",
+        "completion_date": "2026-10-08",
+        "is_mobile": false
+      },
+      "107226949": {
+        "video": "https://www.youtube.com/watch?v=5W_Ip4_zdgE",
+        "completion_date": "2026-10-07",
+        "is_mobile": false
+      },
+      "90057148": {
+        "video": "https://www.youtube.com/watch?v=jQSqm1DfDlc",
+        "completion_date": "2026-10-05",
+        "is_mobile": false
+      },
+      "132935329": {
+        "video": "https://www.youtube.com/watch?v=H6MYAhVhomk",
+        "completion_date": "2026-10-03",
+        "is_mobile": false
+      },
+      "65982725": {
+        "video": "https://www.youtube.com/watch?v=D4aRRttNvUo",
+        "completion_date": "2026-10-02",
+        "is_mobile": false
+      },
+      "144423287": {
+        "video": "https://www.youtube.com/watch?v=7Prc115J3Wk",
+        "completion_date": "2026-09-29",
+        "is_mobile": false
+      },
+      "135271643": {
+        "video": "https://www.youtube.com/watch?v=iOK3yAiPD1E",
+        "completion_date": "2026-09-28",
+        "is_mobile": false
+      },
+      "96083028": {
+        "video": "https://www.youtube.com/watch?v=evOijrEwyzY",
+        "completion_date": "2026-09-23",
+        "is_mobile": false
+      },
+      "122827255": {
+        "video": "https://www.youtube.com/watch?v=-zhR1InKdBw",
+        "completion_date": "2026-08-12",
+        "is_mobile": false
+      },
       "77487419": {
         "video": "https://www.youtube.com/watch?v=iRj0c-hbxNA",
         "completion_date": "2026-09-28",
@@ -7423,6 +7531,16 @@
       }
     },
     "Cyter867": {
+      "123730441": {
+        "video": "https://www.youtube.com/watch?v=ohhvgr63A-Q",
+        "completion_date": "2026-10-18",
+        "is_mobile": false
+      },
+      "146399247": {
+        "video": "https://www.youtube.com/watch?v=28F1E-5kydk",
+        "completion_date": "2026-10-15",
+        "is_mobile": false
+      },
       "144845980_2p": {
         "video": "https://www.youtube.com/watch?v=0ZB2X9hj4EM",
         "completion_date": "2026-09-09",
@@ -7657,6 +7775,16 @@
       }
     },
     "Yuii": {
+      "45094581": {
+        "video": "https://www.youtube.com/watch?v=roi1adETBZU",
+        "completion_date": "2026-10-17",
+        "is_mobile": false
+      },
+      "10565740": {
+        "video": "https://www.youtube.com/watch?v=H0D5Hy9IRl4",
+        "completion_date": "2026-10-11",
+        "is_mobile": false
+      },
       "32969607": {
         "video": "https://www.youtube.com/watch?v=XD7XkrlGvUk",
         "completion_date": "2026-09-16",
@@ -8068,6 +8196,46 @@
       }
     },
     "Blacken": {
+      "3979721": {
+        "video": "https://www.youtube.com/watch?v=8AN0vtv-OIU",
+        "completion_date": "2026-10-10",
+        "is_mobile": false
+      },
+      "25610878": {
+        "video": "https://www.youtube.com/watch?v=krcxJgH9fng",
+        "completion_date": "2026-10-09",
+        "is_mobile": false
+      },
+      "108558924": {
+        "video": "https://www.youtube.com/watch?v=hmxp3Hx7xZE",
+        "completion_date": "2026-10-09",
+        "is_mobile": false
+      },
+      "18697406": {
+        "video": "https://www.youtube.com/watch?v=-u1xzxWdk4s",
+        "completion_date": "2026-10-08",
+        "is_mobile": false
+      },
+      "138356396": {
+        "video": "https://www.youtube.com/watch?v=qWjmQWRJSWk",
+        "completion_date": "2026-10-07",
+        "is_mobile": false
+      },
+      "10565740": {
+        "video": "https://www.youtube.com/watch?v=IteY2q-VzwY",
+        "completion_date": "2026-10-06",
+        "is_mobile": false
+      },
+      "59899374": {
+        "video": "https://www.youtube.com/watch?v=p0Hurchmgt4",
+        "completion_date": "2026-10-06",
+        "is_mobile": false
+      },
+      "82172844": {
+        "video": "https://www.youtube.com/watch?v=_Ujb0kj2niE",
+        "completion_date": "2026-10-04",
+        "is_mobile": false
+      },
       "30219145": {
         "video": "https://www.facebook.com/share/v/19aD9xJaGS/",
         "completion_date": "2025-07-27",
@@ -8489,6 +8657,11 @@
       }
     },
     "Shizu": {
+      "129550139": {
+        "video": "https://www.facebook.com/share/v/1bzfbJ4Mpz/",
+        "completion_date": "2026-10-09",
+        "is_mobile": false
+      },
       "75857309": {
         "video": "https://www.facebook.com/share/v/1CFqgzMCw3/",
         "completion_date": "2026-09-26",
@@ -8936,6 +9109,11 @@
       }
     },
     "無糖綠茶": {
+      "113138918": {
+        "video": "https://www.youtube.com/watch?v=OngPJ7GVwCY",
+        "completion_date": "2026-09-29",
+        "is_mobile": false
+      },
       "87425029": {
         "video": "https://www.facebook.com/share/v/1CYdNexfSP/",
         "completion_date": "2026-09-17",
@@ -8978,6 +9156,11 @@
       }
     },
     "鮭魚": {
+      "10565740": {
+        "video": "https://www.youtube.com/watch?v=1U3BJ_cPZMg",
+        "completion_date": "2026-10-17",
+        "is_mobile": false
+      },
       "3979721": {
         "video": "https://www.youtube.com/watch?v=xkLoAXsGxbY",
         "completion_date": "2026-07-04",
@@ -8985,6 +9168,11 @@
       }
     },
     "ジユ": {
+      "111230291": {
+        "video": "https://www.youtube.com/watch?v=CiKZXrEdLVU",
+        "completion_date": "2026-10-09",
+        "is_mobile": true
+      },
       "69491632": {
         "video": "https://www.youtube.com/watch?v=u6hmO17moqw",
         "completion_date": "2026-09-30",
@@ -9046,7 +9234,27 @@
         "is_mobile": false
       }
     },
-    "Daniel Toenail": {
+    "Bobnops": {
+      "42584142": {
+        "video": "https://www.youtube.com/watch?v=22MKagbUWVc",
+        "completion_date": "2026-10-06",
+        "is_mobile": false
+      },
+      "81148582": {
+        "video": "https://www.youtube.com/watch?v=lgKkMmGy9-k",
+        "completion_date": "2026-10-05",
+        "is_mobile": false
+      },
+      "21280210": {
+        "video": "https://www.youtube.com/watch?v=2p0-3J_sF3s",
+        "completion_date": "2026-10-04",
+        "is_mobile": false
+      },
+      "144845980": {
+        "video": "https://www.youtube.com/watch?v=SWcfQNUxy7o",
+        "completion_date": "2026-10-03",
+        "is_mobile": false
+      },
       "3979721": {
         "video": "https://www.youtube.com/watch?v=D1xjw1xwjEk",
         "completion_date": "2026-08-18",
@@ -9065,6 +9273,20 @@
       "61079355": {
         "video": "https://www.youtube.com/watch?v=kGoB3lOM-Ho",
         "completion_date": "2026-07-11",
+        "is_mobile": false
+      }
+    },
+    "惡魔皇阿森": {
+      "36449129": {
+        "video": "https://www.facebook.com/share/v/19vCQNgjtK/",
+        "completion_date": "2026-10-01",
+        "is_mobile": true
+      }
+    },
+    "eta": {
+      "61079355": {
+        "video": "https://www.youtube.com/watch?v=T9L0t-RdkYU",
+        "completion_date": "2026-10-13",
         "is_mobile": false
       }
     }
