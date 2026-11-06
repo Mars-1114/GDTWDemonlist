@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/changelog.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/changelog.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/classic-records.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/classic-records.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/players.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/players.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,6 +252,7 @@
       <workItem from="1788529495928" duration="9172000" />
       <workItem from="1792233386347" duration="7671000" />
       <workItem from="1793640909885" duration="1572000" />
+      <workItem from="1793975018692" duration="3180000" />
     </task>
     <task id="LOCAL-00001" summary="data: record submission">
       <option name="closed" value="true" />
