@@ -1909,10 +1909,6 @@
       "87333912"
     ],
     [
-      "ANNIHILATED",
-      "115370944"
-    ],
-    [
       "devins thorn zone",
       "98911329"
     ],
@@ -2815,9 +2811,50 @@
     [
       "Apotheosis",
       "123730441"
+    ],
+    [
+      "Sakupen Circles",
+      "76962930"
+    ],
+    [
+      "poocubed",
+      "85133223"
+    ],
+    [
+      "PHONY",
+      "129027405"
+    ],
+    [
+      "distraught",
+      "55224007"
+    ],
+    [
+      "Spectrum Split",
+      "81586966"
+    ],
+    [
+      "FTW",
+      "108267677"
+    ],
+    [
+      "Lightness",
+      "105627215"
+    ],
+    [
+      "bunnies i guess",
+      "147758609"
+    ],
+    [
+      "i want ya",
+      "142286828"
     ]
   ],
   "legacy": [
+    {
+      "level": "ANNIHILATED",
+      "id": "115370944",
+      "publisher": "AlvaroPaws"
+    },
     {
       "level": "Nosedive",
       "id": "139622770",
@@ -2956,6 +2993,51 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "105627215": {
+        "video": "https://www.youtube.com/watch?v=PkYni-yKU1Q",
+        "completion_date": "2026-11-05",
+        "is_mobile": false
+      },
+      "76962930": {
+        "video": "https://www.youtube.com/watch?v=T5sj5Ykh9hs",
+        "completion_date": "2026-10-29",
+        "is_mobile": false
+      },
+      "108267677": {
+        "video": "https://www.youtube.com/watch?v=Z0zCkZckEUk",
+        "completion_date": "2026-10-25",
+        "is_mobile": false
+      },
+      "77698239": {
+        "video": "https://www.youtube.com/watch?v=yycyURIqYcY",
+        "completion_date": "2026-10-25",
+        "is_mobile": false
+      },
+      "38047229": {
+        "video": "https://www.youtube.com/watch?v=obAFC0FEG-g",
+        "completion_date": "2026-10-25",
+        "is_mobile": false
+      },
+      "85133223": {
+        "video": "https://www.youtube.com/watch?v=uXyV1iCIQ9k",
+        "completion_date": "2026-10-22",
+        "is_mobile": false
+      },
+      "147758609": {
+        "video": "https://www.youtube.com/watch?v=cLi4SpTTXqI",
+        "completion_date": "2026-10-15",
+        "is_mobile": false
+      },
+      "142286828": {
+        "video": "https://www.youtube.com/watch?v=kjsdKD2VKDY",
+        "completion_date": "2026-10-13",
+        "is_mobile": false
+      },
+      "129027405": {
+        "video": "https://www.youtube.com/watch?v=6W1FmNXajrk",
+        "completion_date": "2026-08-06",
+        "is_mobile": false
+      },
       "65249411": {
         "video": "https://www.youtube.com/watch?v=m_QBJGMTX9M",
         "completion_date": "2026-10-16",
@@ -7531,6 +7613,16 @@
       }
     },
     "Cyter867": {
+      "10565740": {
+        "video": "https://www.facebook.com/share/v/1Dqe4rQwej/",
+        "completion_date": "2026-11-04",
+        "is_mobile": false
+      },
+      "81586966": {
+        "video": "https://www.youtube.com/watch?v=ZePg-Cecwm4",
+        "completion_date": "2026-10-24",
+        "is_mobile": false
+      },
       "123730441": {
         "video": "https://www.youtube.com/watch?v=ohhvgr63A-Q",
         "completion_date": "2026-10-18",
@@ -7857,6 +7949,21 @@
       }
     },
     "HankK漢": {
+      "93916671": {
+        "video": "https://www.youtube.com/watch?v=unT5voAXJNI",
+        "completion_date": "2026-10-26",
+        "is_mobile": false
+      },
+      "81257586": {
+        "video": "https://www.youtube.com/watch?v=MzseBVldNb8",
+        "completion_date": "2026-10-26",
+        "is_mobile": false
+      },
+      "142286828": {
+        "video": "https://www.youtube.com/watch?v=oac1GKf8jHk",
+        "completion_date": "2026-10-16",
+        "is_mobile": false
+      },
       "119653522": {
         "video": "https://www.youtube.com/watch?v=2pfKWB9sJic",
         "completion_date": "2026-09-26",
@@ -8355,6 +8462,11 @@
       }
     },
     "Asbl11": {
+      "55224007": {
+        "video": "https://www.youtube.com/watch?v=rzgIiOPqm18",
+        "completion_date": "2026-10-27",
+        "is_mobile": false
+      },
       "127135884": {
         "video": "https://www.youtube.com/watch?v=DwBUDb1Oxhc",
         "completion_date": "2026-09-19",
@@ -8657,6 +8769,16 @@
       }
     },
     "Shizu": {
+      "3979721": {
+        "video": "https://www.facebook.com/share/v/1KCiD4xza2/",
+        "completion_date": "2026-10-29",
+        "is_mobile": false
+      },
+      "69108628": {
+        "video": "https://www.facebook.com/share/v/17jjf1jNFB/",
+        "completion_date": "2026-10-28",
+        "is_mobile": false
+      },
       "129550139": {
         "video": "https://www.facebook.com/share/v/1bzfbJ4Mpz/",
         "completion_date": "2026-10-09",
@@ -9235,6 +9357,16 @@
       }
     },
     "Bobnops": {
+      "34057654": {
+        "video": "https://www.youtube.com/watch?v=hSXpIUHVAw0",
+        "completion_date": "2026-10-24",
+        "is_mobile": false
+      },
+      "66851981": {
+        "video": "https://www.youtube.com/watch?v=4AhB8J4t9yU",
+        "completion_date": "2026-11-02",
+        "is_mobile": false
+      },
       "42584142": {
         "video": "https://www.youtube.com/watch?v=22MKagbUWVc",
         "completion_date": "2026-10-06",
@@ -9287,6 +9419,20 @@
       "61079355": {
         "video": "https://www.youtube.com/watch?v=T9L0t-RdkYU",
         "completion_date": "2026-10-13",
+        "is_mobile": false
+      }
+    },
+    "Benson": {
+      "10565740": {
+        "video": "https://www.youtube.com/watch?v=0MejPDdoQSE&t=638s",
+        "completion_date": "2026-10-24",
+        "is_mobile": false
+      }
+    },
+    "Kurumi": {
+      "102352215": {
+        "video": "https://www.youtube.com/watch?v=BJOeZxjw0n8",
+        "completion_date": "2026-10-14",
         "is_mobile": false
       }
     }
