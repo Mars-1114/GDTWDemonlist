@@ -3129,12 +3129,6 @@
       "date": "2026-08-18",
       "is_mobile": false,
       "id": 1081
-    },
-    "蓋爾大學之中國建設銀行董事長荳荳": {
-      "url": "https://www.youtube.com/watch?v=2RrauSKq0SA",
-      "date": "2026-11-02",
-      "is_mobile": false,
-      "id": 1213
     }
   },
   "72414148": {
@@ -6691,6 +6685,12 @@
       "date": "2026-01-09",
       "is_mobile": false,
       "id": 720
+    },
+    "Lucas70707": {
+      "url": "https://www.youtube.com/watch?v=lP7K983Q1FI",
+      "date": "2026-11-07",
+      "is_mobile": false,
+      "id": 1217
     }
   },
   "48175126": {
@@ -8735,6 +8735,38 @@
       "date": "2026-10-27",
       "is_mobile": false,
       "id": 1207
+    }
+  },
+  "150109335": {
+    "超大法國麵包🥖": {
+      "url": "https://www.youtube.com/watch?v=Kq5hzeSKNKY",
+      "date": "2026-10-25",
+      "is_mobile": false,
+      "id": 1213
+    }
+  },
+  "93188625": {
+    "超大法國麵包🥖": {
+      "url": "https://www.youtube.com/watch?v=BMyQ6k3VmVY",
+      "date": "2026-11-04",
+      "is_mobile": false,
+      "id": 1214
+    }
+  },
+  "141246340": {
+    "超大法國麵包🥖": {
+      "url": "https://www.youtube.com/watch?v=mWZyzutGPPg",
+      "date": "2026-11-06",
+      "is_mobile": false,
+      "id": 1215
+    }
+  },
+  "144448963": {
+    "超大法國麵包🥖": {
+      "url": "https://www.youtube.com/watch?v=27duv8_OdT8",
+      "date": "2026-11-07",
+      "is_mobile": false,
+      "id": 1216
     }
   }
 }
