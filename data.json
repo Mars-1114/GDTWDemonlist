@@ -2847,6 +2847,22 @@
     [
       "i want ya",
       "142286828"
+    ],
+    [
+      "Neon Thrills",
+      "150109335"
+    ],
+    [
+      "Friend Zone",
+      "93188625"
+    ],
+    [
+      "MUCKS",
+      "141246340"
+    ],
+    [
+      "Mariana",
+      "144448963"
     ]
   ],
   "legacy": [
@@ -2993,6 +3009,26 @@
   ],
   "player": {
     "超大法國麵包🥖": {
+      "144448963": {
+        "video": "https://www.youtube.com/watch?v=27duv8_OdT8",
+        "completion_date": "2026-11-07",
+        "is_mobile": false
+      },
+      "141246340": {
+        "video": "https://www.youtube.com/watch?v=mWZyzutGPPg",
+        "completion_date": "2026-11-06",
+        "is_mobile": false
+      },
+      "93188625": {
+        "video": "https://www.youtube.com/watch?v=BMyQ6k3VmVY",
+        "completion_date": "2026-11-04",
+        "is_mobile": false
+      },
+      "150109335": {
+        "video": "https://www.youtube.com/watch?v=Kq5hzeSKNKY",
+        "completion_date": "2026-10-25",
+        "is_mobile": false
+      },
       "105627215": {
         "video": "https://www.youtube.com/watch?v=PkYni-yKU1Q",
         "completion_date": "2026-11-05",
@@ -8433,6 +8469,11 @@
       }
     },
     "Lucas70707": {
+      "109730342": {
+        "video": "https://www.youtube.com/watch?v=lP7K983Q1FI",
+        "completion_date": "2026-11-07",
+        "is_mobile": false
+      },
       "10565740": {
         "video": "https://www.facebook.com/share/v/1C1Eg1R6PV/",
         "completion_date": "2026-09-22",
