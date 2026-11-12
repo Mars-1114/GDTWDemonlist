@@ -2863,6 +2863,10 @@
     [
       "Mariana",
       "144448963"
+    ],
+    [
+      "X84",
+      "110791899"
     ]
   ],
   "legacy": [
@@ -6651,6 +6655,11 @@
       }
     },
     "李在昌": {
+      "10565740": {
+        "video": "https://www.facebook.com/reel/4665483570389157",
+        "completion_date": "2026-11-12",
+        "is_mobile": true
+      },
       "814678": {
         "video": "https://www.youtube.com/watch?v=U1fGahk6Qjo",
         "completion_date": "2018-11-24",
@@ -7649,8 +7658,13 @@
       }
     },
     "Cyter867": {
+      "110791899": {
+        "video": "https://www.youtube.com/watch?v=5u3l2f0BIAE",
+        "completion_date": "2026-11-10",
+        "is_mobile": false
+      },
       "10565740": {
-        "video": "https://www.facebook.com/share/v/1Dqe4rQwej/",
+        "video": "https://www.youtube.com/watch?v=-2dyVjfj7y4",
         "completion_date": "2026-11-04",
         "is_mobile": false
       },
