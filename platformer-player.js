@@ -82,6 +82,8 @@ $(document).ajaxStop(function() {
 
   // sort players (according to rule 三.2.i)
   players.sort(function(a, b) {
+      if (a.points === 0 && b.points === 0)
+          return ("" + a.player).localeCompare(b.player);
     // a. POINTS
     if (a.points != b.points) {
       return b.points - a.points;

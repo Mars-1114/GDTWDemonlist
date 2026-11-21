@@ -37,16 +37,8 @@
       "102010719"
     ],
     [
-      "Throat of the World",
-      "109365157"
-    ],
-    [
       "ECSTASIS",
       "108103482"
-    ],
-    [
-      "The SMR Collection",
-      "114333632"
     ],
     [
       "The Sun",
@@ -166,6 +158,16 @@
     ]
   ],
   "legacy": [
+    {
+      "level": "The SMR Collection",
+      "id": "114333632",
+      "publisher": "gr8ness"
+    },
+    {
+      "level": "Throat of the World",
+      "id": "109365157",
+      "publisher": "thejshadow"
+    },
     {
       "level": "Nextphase",
       "id": "107420706",
